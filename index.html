@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>SDV OTA Competitive Intelligence</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css?v=20261012-drs199" />
+  </head>
+  <body data-brand="tesla">
+    <a class="skip-link" href="#results">Skip to results</a>
+    <div class="page">
+      <section class="hero-shell">
+        <img
+          class="hero-shell-photo"
+          src="./assets/tesla-hero-bg.png"
+          alt=""
+          width="1024"
+          height="557"
+          decoding="async"
+          fetchpriority="high"
+        />
+        <div class="hero-shell-scrim" aria-hidden="true"></div>
+        <div class="hero-shell-content">
+          <header class="hero">
+            <h1>SDV OTA Competitive Intelligence</h1>
+            <p class="lede">
+              AI-powered competitive monitoring, analysis, and insights across SDV OTA features and releases.
+            </p>
+          </header>
+
+          <div class="brand-stats-row">
+            <nav class="brand-bar" aria-label="Brand">
+              <button type="button" class="brand-btn is-active" data-brand="tesla" aria-pressed="true">
+                Tesla
+              </button>
+              <button type="button" class="brand-btn" data-brand="rivian" aria-pressed="false">
+                Rivian
+              </button>
+            </nav>
+            <div class="stats" id="stats" aria-live="polite"></div>
+            <div id="adminAuthHost" class="admin-auth-host"></div>
+          </div>
+        </div>
+      </section>
+
+      <div class="content-surface">
+        <section class="controls" aria-label="Filters">
+          <label class="field field-model">
+            <span>Vehicle Model</span>
+            <select id="model">
+              <option value="all" selected>All Vehicles</option>
+              <option value="3">Model 3</option>
+              <option value="Y">Model Y</option>
+              <option value="S">Model S</option>
+              <option value="X">Model X</option>
+              <option value="CT">Cybertruck</option>
+            </select>
+          </label>
+          <label class="field field-category">
+            <span>Feature</span>
+            <select id="category"></select>
+          </label>
+          <label class="field field-year">
+            <span>Year</span>
+            <select id="year">
+              <option value="all">All years</option>
+            </select>
+          </label>
+          <label class="field field-version">
+            <span>OTA version</span>
+            <select id="version">
+              <option value="all">All versions</option>
+            </select>
+          </label>
+          <label class="field field-search">
+            <span>Search</span>
+            <input
+              id="search"
+              type="search"
+              placeholder="Search Tesla features…"
+              autocomplete="off"
+            />
+          </label>
+        </section>
+
+        <section class="chart-panel" id="chartPanel" hidden>
+          <div id="workspaceModeHost" class="workspace-mode-host" hidden></div>
+          <div class="chart-mode-bar" id="chartModeBar" hidden>
+            <div class="chart-mode-toggle" role="tablist" aria-label="Chart view">
+              <button
+                type="button"
+                class="chart-mode-btn is-active"
+                data-chart-view="frequency"
+                aria-pressed="true"
+              >
+                OTA Frequency
+              </button>
+              <button
+                type="button"
+                class="chart-mode-btn"
+                data-chart-view="milestone"
+                aria-pressed="false"
+              >
+                OTA Milestone
+              </button>
+              <button
+                type="button"
+                class="chart-mode-btn"
+                data-chart-view="revenue-simulator"
+                aria-pressed="false"
+              >
+                Digital Revenue
+              </button>
+            </div>
+          </div>
+          <div class="chart-header">
+            <div class="chart-header-main">
+              <h2 id="chartTitle">OTA releases by year</h2>
+              <p class="chart-subtitle" id="chartSubtitle"></p>
+            </div>
+            <div class="chart-total" id="chartTotal"></div>
+            <div class="chart-header-actions" id="chartHeaderActions"></div>
+          </div>
+          <div class="chart-wrap" id="chartWrap" role="img" aria-labelledby="chartTitle"></div>
+        </section>
+
+        <div class="results-toolbar">
+          <p class="last-updated" id="lastUpdated" hidden></p>
+          <p class="result-meta" id="resultMeta"></p>
+        </div>
+        <main id="results" class="results"></main>
+        <footer class="footer">
+          <div id="footerSource"></div>
+          <p class="source-sync" id="sourceSync" aria-live="polite"></p>
+        </footer>
+      </div>
+    </div>
+    <div class="card-backdrop" id="cardBackdrop" hidden></div>
+    <div id="featureDetailHost" class="feature-detail-host" hidden></div>
+    <div id="adminDialogHost" class="admin-dialog-host" hidden></div>
+    <script type="module" src="./app.js?v=20261012-drs199"></script>
+  </body>
+</html>

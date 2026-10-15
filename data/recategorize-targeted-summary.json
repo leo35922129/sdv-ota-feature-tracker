@@ -1,0 +1,2488 @@
+{
+  "appliedAt": "2026-08-15T20:03:54.750Z",
+  "counts": {
+    "totalUniqueFeatures": 3968,
+    "unchanged": 3461,
+    "autoUpdate": 0,
+    "manualProtected": 109,
+    "ambiguous": 398,
+    "invalid": 0
+  },
+  "appliedUniqueIds": 526,
+  "appliedUniqueTitles": 115,
+  "protectedSkippedWouldChange": 63,
+  "ambiguousForManualReview": 398,
+  "changesByTitle": [
+    {
+      "title": "Additional Bottom Bar Customization",
+      "ids": [
+        "additional-bottom-bar-customization-2022-24-detail",
+        "additional-bottom-bar-customization-2022-24-6-detail",
+        "additional-bottom-bar-customization-2022-12-1-detail",
+        "additional-bottom-bar-customization-2022-12-3-detail",
+        "additional-bottom-bar-customization-2022-12-3-3-detail",
+        "additional-bottom-bar-customization-2022-12-3-4-detail",
+        "additional-bottom-bar-customization-2022-12-3-10-detail",
+        "additional-bottom-bar-customization-2022-12-3-15-detail",
+        "additional-bottom-bar-customization-2022-12-3-20-detail"
+      ],
+      "previousTags": [
+        "Comfort / Climate"
+      ],
+      "newTags": [
+        "Comfort / Climate",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Additional Features in App",
+      "ids": [
+        "additional-features-in-app-2021-36-detail"
+      ],
+      "previousTags": [
+        "Range / Charging / Energy"
+      ],
+      "newTags": [
+        "Range / Charging / Energy",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Additional Mobile App Controls",
+      "ids": [
+        "additional-mobile-app-controls-2022-12-1-detail",
+        "additional-mobile-app-controls-2022-12-3-detail",
+        "additional-mobile-app-controls-2022-12-3-3-detail",
+        "additional-mobile-app-controls-2022-12-3-4-detail",
+        "additional-mobile-app-controls-2022-12-3-10-detail",
+        "additional-mobile-app-controls-2022-12-3-15-detail",
+        "additional-mobile-app-controls-2022-12-3-20-detail"
+      ],
+      "previousTags": [
+        "Comfort / Climate"
+      ],
+      "newTags": [
+        "Comfort / Climate",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "All Apps Menu",
+      "ids": [
+        "all-apps-menu-2023-44-detail"
+      ],
+      "previousTags": [
+        "Display"
+      ],
+      "newTags": [
+        "Display",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Ambient Lighting Easter Eggs",
+      "ids": [
+        "ambient-lighting-easter-eggs-2024-44-25-2-detail"
+      ],
+      "previousTags": [
+        "Vehicle OS"
+      ],
+      "newTags": [
+        "Vehicle OS",
+        "Lighting"
+      ],
+      "reason": "lights/lighting functions → Lighting"
+    },
+    {
+      "title": "ASS (Actually Smart Summon)",
+      "ids": [
+        "ass-actually-smart-summon-2024-44-3-detail",
+        "ass-actually-smart-summon-2024-44-3-1-detail",
+        "ass-actually-smart-summon-2024-32-10-detail",
+        "ass-actually-smart-summon-2024-32-30-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Camera",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Auto brightness to display",
+      "ids": [
+        "electrek-2.36.31-auto-brightness-to-display-70"
+      ],
+      "previousTags": [
+        "Display"
+      ],
+      "newTags": [
+        "Display",
+        "Lighting"
+      ],
+      "reason": "lights/lighting functions → Lighting"
+    },
+    {
+      "title": "Auto high beam to AP1 cars",
+      "ids": [
+        "electrek-2.2.200-auto-high-beam-to-ap1-cars-51"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Lighting"
+      ],
+      "reason": "lights/lighting functions → Lighting"
+    },
+    {
+      "title": "Auto Rear Climate Controls",
+      "ids": [
+        "auto-rear-climate-controls-2022-36-15-detail",
+        "auto-rear-climate-controls-2022-36-20-detail",
+        "auto-rear-climate-controls-2022-24-detail",
+        "auto-rear-climate-controls-2022-24-6-detail"
+      ],
+      "previousTags": [
+        "Comfort / Climate"
+      ],
+      "newTags": [
+        "Comfort / Climate",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Auto Turn Signals",
+      "ids": [
+        "auto-turn-signals-2022-44-25-1-detail",
+        "auto-turn-signals-2022-44-25-5-detail",
+        "auto-turn-signals-2022-44-30-5-detail",
+        "auto-turn-signals-2022-44-30-8-detail"
+      ],
+      "previousTags": [
+        "Vehicle OS"
+      ],
+      "newTags": [
+        "Vehicle OS",
+        "Lighting"
+      ],
+      "reason": "lights/lighting functions → Lighting"
+    },
+    {
+      "title": "Automatic Blind Spot Camera",
+      "ids": [
+        "automatic-blind-spot-camera-2023-44-25-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Camera",
+        "Safety / Emergency",
+        "Lighting"
+      ],
+      "reason": "blind-spot monitoring/warning/visibility → Safety / Emergency; lights/lighting functions → Lighting"
+    },
+    {
+      "title": "Automatic Headlights",
+      "ids": [
+        "automatic-headlights-2023-26-detail",
+        "automatic-headlights-2023-26-10-detail"
+      ],
+      "previousTags": [
+        "Vehicle OS"
+      ],
+      "newTags": [
+        "Vehicle OS",
+        "Lighting"
+      ],
+      "reason": "lights/lighting functions → Lighting"
+    },
+    {
+      "title": "Autosteer (Beta)",
+      "ids": [
+        "autosteer-beta-2019-40-1-1-detail",
+        "autosteer-beta-2019-40-2-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Lighting"
+      ],
+      "reason": "lights/lighting functions → Lighting"
+    },
+    {
+      "title": "Bioweapon Defense Mode",
+      "ids": [
+        "bioweapon-defense-mode-2022-8-10-1-detail",
+        "bioweapon-defense-mode-2022-8-10-8-detail",
+        "bioweapon-defense-mode-2022-8-10-10-detail",
+        "bioweapon-defense-mode-2021-36-detail",
+        "bioweapon-defense-mode-2021-36-5-detail",
+        "bioweapon-defense-mode-2021-36-8-detail",
+        "bioweapon-defense-mode-2021-36-5-8-detail"
+      ],
+      "previousTags": [
+        "Comfort / Climate"
+      ],
+      "newTags": [
+        "Comfort / Climate",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Blind Spot Camera",
+      "ids": [
+        "blind-spot-camera-2025-20-detail",
+        "blind-spot-camera-2025-20-3-detail",
+        "blind-spot-camera-2025-20-100-detail",
+        "blind-spot-camera-2023-26-detail",
+        "blind-spot-camera-2023-26-10-detail",
+        "blind-spot-camera-2022-36-15-detail",
+        "blind-spot-camera-2022-36-20-detail",
+        "2022.24-blind-spot-camera",
+        "blind-spot-camera-2022-24-6-detail",
+        "blind-spot-camera-2021-44-25-detail",
+        "blind-spot-camera-2021-44-25-5-detail",
+        "blind-spot-camera-2021-44-30-detail",
+        "blind-spot-camera-2021-44-30-5-detail",
+        "blind-spot-camera-2021-44-30-6-detail",
+        "blind-spot-camera-2021-44-30-12-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Camera",
+        "Safety / Emergency"
+      ],
+      "reason": "blind-spot monitoring/warning/visibility → Safety / Emergency"
+    },
+    {
+      "title": "Blind Spot Camera on Driver Screen",
+      "ids": [
+        "blind-spot-camera-on-driver-screen-2025-14-detail",
+        "blind-spot-camera-on-driver-screen-2025-14-6-detail",
+        "blind-spot-camera-on-driver-screen-2025-14-12-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Camera",
+        "Safety / Emergency"
+      ],
+      "reason": "blind-spot monitoring/warning/visibility → Safety / Emergency"
+    },
+    {
+      "title": "Blind Spot Warning Accent Lights",
+      "ids": [
+        "blind-spot-warning-accent-lights-2026-14-detail",
+        "blind-spot-warning-accent-lights-2026-14-6-6-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency",
+        "Lighting"
+      ],
+      "reason": "blind-spot monitoring/warning/visibility → Safety / Emergency; lights/lighting functions → Lighting"
+    },
+    {
+      "title": "Blind Spot Warning While Parked",
+      "ids": [
+        "blind-spot-warning-while-parked-2026-14-6-6-detail",
+        "blind-spot-warning-while-parked-2026-8-detail",
+        "blind-spot-warning-while-parked-2026-8-3-detail",
+        "blind-spot-warning-while-parked-2026-2-9-6-detail",
+        "blind-spot-warning-while-parked-2026-2-9-7-detail",
+        "blind-spot-warning-while-parked-2026-2-9-8-detail",
+        "blind-spot-warning-while-parked-2024-44-3-detail",
+        "blind-spot-warning-while-parked-2024-44-3-1-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "blind-spot monitoring/warning/visibility → Safety / Emergency; chimes/warning/alert/notification sounds → Safety / Emergency + Audio"
+    },
+    {
+      "title": "Cabin Camera",
+      "ids": [
+        "cabin-camera-2025-26-11-detail",
+        "cabin-camera-2023-44-25-detail",
+        "2023.26.10-cabin-camera",
+        "cabin-camera-2022-20-detail",
+        "cabin-camera-2022-20-5-detail",
+        "cabin-camera-2022-20-6-detail",
+        "cabin-camera-2022-20-7-detail",
+        "cabin-camera-2022-20-9-detail",
+        "cabin-camera-2022-20-10-detail",
+        "cabin-camera-2022-20-11-detail",
+        "cabin-camera-2022-20-15-detail",
+        "cabin-camera-2022-20-16-detail",
+        "cabin-camera-2022-20-17-detail",
+        "cabin-camera-2022-20-18-detail",
+        "cabin-camera-2022-20-19-detail",
+        "cabin-camera-2022-16-3-10-detail",
+        "cabin-camera-2022-12-3-10-detail",
+        "cabin-camera-2022-12-3-15-detail",
+        "cabin-camera-2022-12-3-20-detail",
+        "cabin-camera-2022-4-5-15-detail",
+        "cabin-camera-2022-4-5-20-detail",
+        "cabin-camera-2022-4-5-21-detail",
+        "cabin-camera-2021-44-5-5-detail",
+        "cabin-camera-2021-44-25-5-detail",
+        "cabin-camera-2021-44-30-5-detail",
+        "cabin-camera-2021-44-30-10-detail",
+        "cabin-camera-2021-44-30-15-detail",
+        "cabin-camera-2021-44-30-20-detail",
+        "cabin-camera-2021-44-30-21-detail",
+        "cabin-camera-2021-32-5-detail",
+        "cabin-camera-2021-32-10-detail",
+        "cabin-camera-2021-32-22-detail"
+      ],
+      "previousTags": [
+        "Camera"
+      ],
+      "newTags": [
+        "Camera",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "chimes/warning/alert/notification sounds → Safety / Emergency + Audio"
+    },
+    {
+      "title": "Calendar App",
+      "ids": [
+        "calendar-app-2023-44-detail"
+      ],
+      "previousTags": [
+        "Mobile App"
+      ],
+      "newTags": [
+        "Mobile App",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Camera View on Tesla App",
+      "ids": [
+        "camera-view-on-tesla-app-2023-26-detail",
+        "camera-view-on-tesla-app-2023-26-10-detail"
+      ],
+      "previousTags": [
+        "Camera"
+      ],
+      "newTags": [
+        "Camera",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Camp Mode",
+      "ids": [
+        "camp-mode-2020-4-detail",
+        "camp-mode-2019-40-50-1-detail"
+      ],
+      "previousTags": [
+        "Audio"
+      ],
+      "newTags": [
+        "Audio",
+        "Lighting"
+      ],
+      "reason": "lights/lighting functions → Lighting"
+    },
+    {
+      "title": "Car Wash Mode",
+      "ids": [
+        "car-wash-mode-2021-44-25-detail",
+        "car-wash-mode-2021-44-25-5-detail",
+        "car-wash-mode-2021-44-30-detail",
+        "car-wash-mode-2021-44-30-5-detail",
+        "car-wash-mode-2021-44-30-6-detail",
+        "car-wash-mode-2021-44-30-12-detail",
+        "car-wash-mode-2021-24-detail",
+        "car-wash-mode-2021-24-12-detail"
+      ],
+      "previousTags": [
+        "Security"
+      ],
+      "newTags": [
+        "Security",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "chimes/warning/alert/notification sounds → Safety / Emergency + Audio"
+    },
+    {
+      "title": "Charger Visualization",
+      "ids": [
+        "charger-visualization-2025-38-detail",
+        "charger-visualization-2025-38-3-detail",
+        "charger-visualization-2025-38-8-5-detail",
+        "charger-visualization-2025-38-8-7-detail",
+        "charger-visualization-2025-38-9-5-detail",
+        "charger-visualization-2025-38-9-6-detail"
+      ],
+      "previousTags": [
+        "Range / Charging / Energy"
+      ],
+      "newTags": [
+        "Range / Charging / Energy",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Charging Icons",
+      "ids": [
+        "charging-icons-2024-44-25-2-detail"
+      ],
+      "previousTags": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "newTags": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Climate Icon",
+      "ids": [
+        "climate-icon-2024-14-6-detail"
+      ],
+      "previousTags": [
+        "Display"
+      ],
+      "newTags": [
+        "Display",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Cold Weather Improvements",
+      "ids": [
+        "cold-weather-improvements-2021-44-25-detail",
+        "cold-weather-improvements-2021-44-25-5-detail",
+        "cold-weather-improvements-2021-44-30-detail",
+        "cold-weather-improvements-2021-44-30-5-detail",
+        "cold-weather-improvements-2021-44-30-6-detail",
+        "cold-weather-improvements-2021-44-30-12-detail"
+      ],
+      "previousTags": [
+        "Range / Charging / Energy"
+      ],
+      "newTags": [
+        "Range / Charging / Energy",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Connectivity Icon",
+      "ids": [
+        "connectivity-icon-2024-8-3-detail",
+        "connectivity-icon-2024-8-4-detail",
+        "connectivity-icon-2024-8-7-detail"
+      ],
+      "previousTags": [
+        "Vehicle OS"
+      ],
+      "newTags": [
+        "Vehicle OS",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "CyberTent Mode",
+      "ids": [
+        "cybertent-mode-2024-14-3-detail",
+        "cybertent-mode-2024-14-5-detail",
+        "cybertent-mode-2024-14-6-detail"
+      ],
+      "previousTags": [
+        "Mobile App"
+      ],
+      "newTags": [
+        "Mobile App",
+        "Lighting"
+      ],
+      "reason": "Tesla/mobile app → Mobile App; lights/lighting functions → Lighting"
+    },
+    {
+      "title": "Cybertruck New Icon",
+      "ids": [
+        "cybertruck-new-icon-2024-14-6-detail"
+      ],
+      "previousTags": [
+        "Vehicle OS"
+      ],
+      "newTags": [
+        "Vehicle OS",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Dashcam Viewer Update",
+      "ids": [
+        "dashcam-viewer-update-2025-45-5-detail",
+        "dashcam-viewer-update-2025-45-6-detail",
+        "dashcam-viewer-update-2025-45-7-detail",
+        "dashcam-viewer-update-2025-45-8-detail",
+        "dashcam-viewer-update-2025-45-9-detail",
+        "dashcam-viewer-update-2025-45-10-detail",
+        "dashcam-viewer-update-2025-44-25-1-detail",
+        "dashcam-viewer-update-2025-44-25-5-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Camera",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Dashcam Viewer Updates",
+      "ids": [
+        "dashcam-viewer-updates-2026-14-detail",
+        "dashcam-viewer-updates-2026-14-6-6-detail",
+        "dashcam-viewer-updates-2025-38-detail",
+        "dashcam-viewer-updates-2025-38-3-detail",
+        "dashcam-viewer-updates-2025-38-8-7-detail",
+        "dashcam-viewer-updates-2025-38-9-5-detail",
+        "dashcam-viewer-updates-2025-38-9-6-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Camera",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Dog Mode",
+      "ids": [
+        "dog-mode-2023-6-1-detail",
+        "dog-mode-2023-6-9-detail",
+        "dog-mode-2022-44-25-1-detail",
+        "dog-mode-2022-44-25-5-detail",
+        "dog-mode-2022-44-30-5-detail",
+        "dog-mode-2022-44-30-8-detail"
+      ],
+      "previousTags": [
+        "Security",
+        "Camera"
+      ],
+      "newTags": [
+        "Security",
+        "Camera",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Dog Mode Live Activity on iOS",
+      "ids": [
+        "dog-mode-live-activity-on-ios-2025-45-5-detail",
+        "dog-mode-live-activity-on-ios-2025-45-6-detail",
+        "dog-mode-live-activity-on-ios-2025-45-7-detail",
+        "dog-mode-live-activity-on-ios-2025-45-8-detail",
+        "dog-mode-live-activity-on-ios-2025-45-9-detail",
+        "dog-mode-live-activity-on-ios-2025-45-32-1-detail",
+        "dog-mode-live-activity-on-ios-2025-45-10-detail",
+        "dog-mode-live-activity-on-ios-2025-44-25-1-detail",
+        "dog-mode-live-activity-on-ios-2025-44-25-5-detail"
+      ],
+      "previousTags": [
+        "Comfort / Climate"
+      ],
+      "newTags": [
+        "Comfort / Climate",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Driving Visualization Improvements",
+      "ids": [
+        "driving-visualization-improvements-2023-26-10-detail",
+        "driving-visualization-improvements-2023-12-10-detail",
+        "driving-visualization-improvements-2023-6-15-detail",
+        "driving-visualization-improvements-2022-16-3-10-detail",
+        "driving-visualization-improvements-2022-12-3-10-detail",
+        "driving-visualization-improvements-2022-12-3-15-detail",
+        "driving-visualization-improvements-2022-12-3-20-detail",
+        "driving-visualization-improvements-2022-4-5-15-detail",
+        "driving-visualization-improvements-2022-4-5-20-detail",
+        "driving-visualization-improvements-2022-4-5-21-detail",
+        "driving-visualization-improvements-2021-44-5-5-detail",
+        "driving-visualization-improvements-2021-44-25-5-detail",
+        "driving-visualization-improvements-2021-44-30-5-detail",
+        "driving-visualization-improvements-2021-44-30-10-detail",
+        "driving-visualization-improvements-2021-44-30-15-detail",
+        "driving-visualization-improvements-2021-44-30-20-detail",
+        "driving-visualization-improvements-2021-44-30-21-detail",
+        "driving-visualization-improvements-2021-36-5-2-detail",
+        "driving-visualization-improvements-2021-36-5-3-detail",
+        "driving-visualization-improvements-2021-36-8-5-detail",
+        "driving-visualization-improvements-2021-36-8-9-detail",
+        "driving-visualization-improvements-2021-36-8-10-detail",
+        "driving-visualization-improvements-2021-32-25-detail",
+        "driving-visualization-improvements-2021-24-15-detail",
+        "driving-visualization-improvements-2021-12-25-15-detail",
+        "driving-visualization-improvements-2021-4-18-12-detail",
+        "driving-visualization-improvements-2020-48-25-detail",
+        "driving-visualization-improvements-2020-48-26-detail",
+        "driving-visualization-improvements-2020-44-15-3-detail",
+        "driving-visualization-improvements-2020-40-8-12-detail",
+        "driving-visualization-improvements-2020-36-detail",
+        "driving-visualization-improvements-2020-36-10-detail",
+        "driving-visualization-improvements-2020-24-6-detail",
+        "driving-visualization-improvements-2020-24-6-4-detail",
+        "driving-visualization-improvements-2020-12-1-detail",
+        "driving-visualization-improvements-2020-12-5-detail",
+        "driving-visualization-improvements-2020-8-1-detail",
+        "driving-visualization-improvements-2020-4-detail",
+        "driving-visualization-improvements-2019-40-50-1-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Emergency Lane Departure Avoidance",
+      "ids": [
+        "emergency-lane-departure-avoidance-2021-4-18-10-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "chimes/warning/alert/notification sounds → Safety / Emergency + Audio"
+    },
+    {
+      "title": "Exterior Lighting",
+      "ids": [
+        "exterior-lighting-2022-40-1-detail",
+        "exterior-lighting-2022-40-4-detail",
+        "exterior-lighting-2022-40-4-1-detail"
+      ],
+      "previousTags": [
+        "Vehicle OS"
+      ],
+      "newTags": [
+        "Vehicle OS",
+        "Lighting"
+      ],
+      "reason": "lights/lighting functions → Lighting"
+    },
+    {
+      "title": "FSD Beta v11.3.6",
+      "ids": [
+        "fsd-beta-v11-3-6-2023-20-6-detail",
+        "fsd-beta-v11-3-6-2023-12-10-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Camera",
+        "Safety / Emergency",
+        "UI / Visualization"
+      ],
+      "reason": "blind-spot monitoring/warning/visibility → Safety / Emergency; UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "FSD Version",
+      "ids": [
+        "fsd-version-2024-14-6-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Gear Chimes",
+      "ids": [
+        "gear-chimes-2023-12-detail",
+        "gear-chimes-2023-12-8-detail",
+        "gear-chimes-2023-12-9-detail",
+        "gear-chimes-2023-12-10-detail"
+      ],
+      "previousTags": [
+        "Safety / Emergency"
+      ],
+      "newTags": [
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "chimes/warning/alert/notification sounds → Safety / Emergency + Audio"
+    },
+    {
+      "title": "Green Traffic Light Chime",
+      "ids": [
+        "green-traffic-light-chime-2022-20-detail",
+        "green-traffic-light-chime-2022-20-5-detail",
+        "green-traffic-light-chime-2022-20-6-detail",
+        "green-traffic-light-chime-2022-20-7-detail",
+        "green-traffic-light-chime-2022-20-9-detail",
+        "green-traffic-light-chime-2020-36-detail",
+        "green-traffic-light-chime-2020-36-10-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "chimes/warning/alert/notification sounds → Safety / Emergency + Audio"
+    },
+    {
+      "title": "Hands-Free Frunk",
+      "ids": [
+        "hands-free-frunk-2024-32-3-detail",
+        "hands-free-frunk-2024-32-5-detail",
+        "hands-free-frunk-2024-32-20-detail",
+        "hands-free-frunk-2024-32-10-detail",
+        "hands-free-frunk-2024-32-30-detail"
+      ],
+      "previousTags": [
+        "Mobile App"
+      ],
+      "newTags": [
+        "Mobile App",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "chimes/warning/alert/notification sounds → Safety / Emergency + Audio"
+    },
+    {
+      "title": "Hands-Free Frunk Opening for Android",
+      "ids": [
+        "hands-free-frunk-opening-for-android-2025-2-8-detail"
+      ],
+      "previousTags": [
+        "Mobile App"
+      ],
+      "newTags": [
+        "Mobile App",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "chimes/warning/alert/notification sounds → Safety / Emergency + Audio; Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Hands-Free Trunk",
+      "ids": [
+        "hands-free-trunk-2024-14-detail",
+        "hands-free-trunk-2024-14-3-detail",
+        "hands-free-trunk-2024-14-5-detail",
+        "hands-free-trunk-2024-14-6-detail"
+      ],
+      "previousTags": [
+        "Mobile App"
+      ],
+      "newTags": [
+        "Mobile App",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "chimes/warning/alert/notification sounds → Safety / Emergency + Audio"
+    },
+    {
+      "title": "Hands-Free Trunk Opening for Android",
+      "ids": [
+        "hands-free-trunk-opening-for-android-2025-2-detail",
+        "hands-free-trunk-opening-for-android-2025-2-6-detail",
+        "hands-free-trunk-opening-for-android-2025-2-8-detail"
+      ],
+      "previousTags": [
+        "Mobile App"
+      ],
+      "newTags": [
+        "Mobile App",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "chimes/warning/alert/notification sounds → Safety / Emergency + Audio; Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Hands-Free Trunk or Frunk Opening for Android",
+      "ids": [
+        "hands-free-trunk-or-frunk-opening-for-android-2025-2-detail",
+        "hands-free-trunk-or-frunk-opening-for-android-2025-2-6-detail",
+        "hands-free-trunk-or-frunk-opening-for-android-2025-2-8-detail"
+      ],
+      "previousTags": [
+        "Mobile App"
+      ],
+      "newTags": [
+        "Mobile App",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "chimes/warning/alert/notification sounds → Safety / Emergency + Audio; Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Headlights Adapt for Curves",
+      "ids": [
+        "headlights-adapt-for-curves-2024-20-detail",
+        "headlights-adapt-for-curves-2024-20-1-detail",
+        "headlights-adapt-for-curves-2024-20-3-detail",
+        "headlights-adapt-for-curves-2024-20-6-detail",
+        "headlights-adapt-for-curves-2024-20-7-detail",
+        "headlights-adapt-for-curves-2024-20-10-detail",
+        "headlights-adapt-for-curves-2024-20-15-detail"
+      ],
+      "previousTags": [
+        "Vehicle OS"
+      ],
+      "newTags": [
+        "Vehicle OS",
+        "Lighting"
+      ],
+      "reason": "lights/lighting functions → Lighting"
+    },
+    {
+      "title": "Icons in Status Bar",
+      "ids": [
+        "icons-in-status-bar-2022-4-5-detail",
+        "icons-in-status-bar-2022-4-5-4-detail",
+        "icons-in-status-bar-2022-4-5-5-detail",
+        "icons-in-status-bar-2022-4-5-12-detail"
+      ],
+      "previousTags": [
+        "Security"
+      ],
+      "newTags": [
+        "Security",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Improved Autopilot Visualizations",
+      "ids": [
+        "improved-autopilot-visualizations-2024-14-6-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Lighting"
+      ],
+      "reason": "lights/lighting functions → Lighting"
+    },
+    {
+      "title": "Messages App",
+      "ids": [
+        "messages-app-2023-44-detail"
+      ],
+      "previousTags": [
+        "Display"
+      ],
+      "newTags": [
+        "Display",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Minor Updates",
+      "ids": [
+        "minor-updates-2024-44-25-detail",
+        "minor-updates-2024-44-25-2-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Lighting"
+      ],
+      "reason": "lights/lighting functions → Lighting"
+    },
+    {
+      "title": "Mobile App Dashcam Viewer",
+      "ids": [
+        "mobile-app-dashcam-viewer-2024-44-25-detail",
+        "mobile-app-dashcam-viewer-2024-44-25-2-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Camera",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Mobile App Improvements",
+      "ids": [
+        "mobile-app-improvements-2022-8-10-1-detail",
+        "mobile-app-improvements-2022-8-10-8-detail",
+        "mobile-app-improvements-2022-8-10-10-detail",
+        "mobile-app-improvements-2021-36-5-detail",
+        "mobile-app-improvements-2021-36-8-detail",
+        "mobile-app-improvements-2021-36-5-8-detail"
+      ],
+      "previousTags": [
+        "Range / Charging / Energy"
+      ],
+      "newTags": [
+        "Range / Charging / Energy",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Mobile App Remote Access",
+      "ids": [
+        "electrek-1.13.16-mobile-app-remote-access-7"
+      ],
+      "previousTags": [
+        "Range / Charging / Energy"
+      ],
+      "newTags": [
+        "Range / Charging / Energy",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "More Cameras in Live Camera View",
+      "ids": [
+        "more-cameras-in-live-camera-view-2023-44-25-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Camera",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Nav App",
+      "ids": [
+        "nav-app-2024-14-6-detail"
+      ],
+      "previousTags": [
+        "Display"
+      ],
+      "newTags": [
+        "Display",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Navigate On Autopilot Fork Initiation",
+      "ids": [
+        "navigate-on-autopilot-fork-initiation-2022-16-1-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route",
+        "Lighting"
+      ],
+      "reason": "lights/lighting functions → Lighting"
+    },
+    {
+      "title": "Nearby Charging Sites",
+      "ids": [
+        "nearby-charging-sites-2020-16-2-detail"
+      ],
+      "previousTags": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "newTags": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy",
+        "Lighting"
+      ],
+      "reason": "lights/lighting functions → Lighting"
+    },
+    {
+      "title": "New Auto Shift User Interface",
+      "ids": [
+        "new-auto-shift-user-interface-2024-14-3-detail",
+        "new-auto-shift-user-interface-2024-14-5-detail",
+        "new-auto-shift-user-interface-2024-14-6-detail"
+      ],
+      "previousTags": [
+        "Audio"
+      ],
+      "newTags": [
+        "Audio",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "New Map Icons",
+      "ids": [
+        "new-map-icons-2025-8-detail"
+      ],
+      "previousTags": [
+        "Map / Navigation / Trip / Route"
+      ],
+      "newTags": [
+        "Map / Navigation / Trip / Route",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "New WiFi Menu",
+      "ids": [
+        "new-wifi-menu-2024-8-3-detail",
+        "new-wifi-menu-2024-8-4-detail",
+        "new-wifi-menu-2024-8-7-detail"
+      ],
+      "previousTags": [
+        "Vehicle OS"
+      ],
+      "newTags": [
+        "Vehicle OS",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Other Updates",
+      "ids": [
+        "other-updates-2024-26-1-detail",
+        "other-updates-2024-26-3-1-detail",
+        "other-updates-2024-26-5-detail",
+        "other-updates-2024-26-10-detail",
+        "other-updates-2024-26-7-detail",
+        "other-updates-2024-26-15-detail",
+        "other-updates-2024-26-8-detail",
+        "other-updates-2024-26-20-detail",
+        "other-updates-2024-26-11-detail",
+        "other-updates-2024-14-3-detail",
+        "other-updates-2024-14-5-detail",
+        "other-updates-2024-14-6-detail"
+      ],
+      "previousTags": [
+        "Phone Call"
+      ],
+      "newTags": [
+        "Phone Call",
+        "Lighting"
+      ],
+      "reason": "lights/lighting functions → Lighting"
+    },
+    {
+      "title": "Paint Shop",
+      "ids": [
+        "paint-shop-2026-14-detail",
+        "paint-shop-2026-14-6-6-detail",
+        "paint-shop-2025-45-5-detail",
+        "paint-shop-2025-45-6-detail",
+        "paint-shop-2025-45-7-detail",
+        "paint-shop-2025-45-8-detail",
+        "paint-shop-2025-45-9-detail",
+        "paint-shop-2025-45-32-1-detail",
+        "paint-shop-2025-45-10-detail",
+        "paint-shop-2025-44-25-1-detail",
+        "paint-shop-2025-44-25-5-detail"
+      ],
+      "previousTags": [
+        "Vehicle Control"
+      ],
+      "newTags": [
+        "Vehicle Control",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Paint Shop Upgrade",
+      "ids": [
+        "paint-shop-upgrade-2025-45-5-detail",
+        "paint-shop-upgrade-2025-45-6-detail",
+        "paint-shop-upgrade-2025-45-7-detail",
+        "paint-shop-upgrade-2025-45-8-detail",
+        "paint-shop-upgrade-2025-45-9-detail",
+        "paint-shop-upgrade-2025-45-10-detail",
+        "paint-shop-upgrade-2025-44-25-5-detail"
+      ],
+      "previousTags": [
+        "Vehicle Control"
+      ],
+      "newTags": [
+        "Vehicle Control",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Parental Controls",
+      "ids": [
+        "parental-controls-2024-26-detail",
+        "parental-controls-2024-26-1-detail",
+        "parental-controls-2024-26-3-1-detail",
+        "parental-controls-2024-26-5-detail",
+        "parental-controls-2024-26-10-detail",
+        "parental-controls-2024-26-7-detail",
+        "parental-controls-2024-26-15-detail",
+        "parental-controls-2024-26-8-detail",
+        "parental-controls-2024-26-20-detail",
+        "parental-controls-2024-26-11-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency",
+        "Mobile App"
+      ],
+      "reason": "parental controls → Safety / Emergency; Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Park Assist Upgrade",
+      "ids": [
+        "park-assist-upgrade-2023-44-25-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "chimes/warning/alert/notification sounds → Safety / Emergency + Audio"
+    },
+    {
+      "title": "Parked Visualization",
+      "ids": [
+        "parked-visualization-2023-12-detail",
+        "parked-visualization-2023-12-8-detail",
+        "parked-visualization-2023-12-9-detail",
+        "parked-visualization-2023-12-10-detail"
+      ],
+      "previousTags": [
+        "Vehicle Control"
+      ],
+      "newTags": [
+        "Vehicle Control",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Parkview assist",
+      "ids": [
+        "electrek-2.2.200-parkview-assist-56"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Camera",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "chimes/warning/alert/notification sounds → Safety / Emergency + Audio"
+    },
+    {
+      "title": "Pedestrian Warning",
+      "ids": [
+        "pedestrian-warning-2020-36-detail",
+        "pedestrian-warning-2020-36-10-detail"
+      ],
+      "previousTags": [
+        "Vehicle OS"
+      ],
+      "newTags": [
+        "Vehicle OS",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "chimes/warning/alert/notification sounds → Safety / Emergency + Audio"
+    },
+    {
+      "title": "Phone Icon",
+      "ids": [
+        "phone-icon-2022-36-15-detail",
+        "phone-icon-2022-36-20-detail",
+        "phone-icon-2022-28-1-detail",
+        "phone-icon-2022-28-2-detail"
+      ],
+      "previousTags": [
+        "Mobile App"
+      ],
+      "newTags": [
+        "Mobile App",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Phone Improvements",
+      "ids": [
+        "phone-improvements-2020-4-detail",
+        "phone-improvements-2019-40-50-1-detail"
+      ],
+      "previousTags": [
+        "Mobile App"
+      ],
+      "newTags": [
+        "Mobile App",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "chimes/warning/alert/notification sounds → Safety / Emergency + Audio"
+    },
+    {
+      "title": "Phone Left Behind",
+      "ids": [
+        "phone-left-behind-2025-45-5-detail",
+        "phone-left-behind-2025-45-6-detail",
+        "phone-left-behind-2025-45-7-detail",
+        "phone-left-behind-2025-45-8-detail",
+        "phone-left-behind-2025-45-9-detail",
+        "phone-left-behind-2025-45-32-1-detail",
+        "phone-left-behind-2025-45-10-detail",
+        "phone-left-behind-2025-44-25-1-detail",
+        "phone-left-behind-2025-44-25-5-detail"
+      ],
+      "previousTags": [
+        "Mobile App"
+      ],
+      "newTags": [
+        "Mobile App",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "chimes/warning/alert/notification sounds → Safety / Emergency + Audio"
+    },
+    {
+      "title": "Phone Left On Wireless Charger",
+      "ids": [
+        "phone-left-on-wireless-charger-2025-45-5-detail",
+        "phone-left-on-wireless-charger-2025-45-6-detail",
+        "phone-left-on-wireless-charger-2025-45-7-detail",
+        "phone-left-on-wireless-charger-2025-45-8-detail",
+        "phone-left-on-wireless-charger-2025-45-9-detail",
+        "phone-left-on-wireless-charger-2025-45-32-1-detail",
+        "phone-left-on-wireless-charger-2025-45-10-detail",
+        "phone-left-on-wireless-charger-2025-44-25-1-detail",
+        "phone-left-on-wireless-charger-2025-44-25-5-detail"
+      ],
+      "previousTags": [
+        "Vehicle Control"
+      ],
+      "newTags": [
+        "Vehicle Control",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "chimes/warning/alert/notification sounds → Safety / Emergency + Audio"
+    },
+    {
+      "title": "Radio Icon",
+      "ids": [
+        "radio-icon-2022-36-15-detail",
+        "radio-icon-2022-36-20-detail",
+        "radio-icon-2022-28-1-detail",
+        "radio-icon-2022-28-2-detail"
+      ],
+      "previousTags": [
+        "Audio"
+      ],
+      "newTags": [
+        "Audio",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Rear Cross-Traffic Chime",
+      "ids": [
+        "rear-cross-traffic-chime-2025-26-11-detail",
+        "rear-cross-traffic-chime-2025-2-detail",
+        "rear-cross-traffic-chime-2025-2-6-detail",
+        "rear-cross-traffic-chime-2025-2-8-detail"
+      ],
+      "previousTags": [
+        "Safety / Emergency"
+      ],
+      "newTags": [
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "chimes/warning/alert/notification sounds → Safety / Emergency + Audio"
+    },
+    {
+      "title": "Santa Mode Updates",
+      "ids": [
+        "santa-mode-updates-2025-45-5-detail",
+        "santa-mode-updates-2025-45-6-detail",
+        "santa-mode-updates-2025-45-7-detail",
+        "santa-mode-updates-2025-45-8-detail",
+        "santa-mode-updates-2025-45-9-detail",
+        "santa-mode-updates-2025-45-32-1-detail",
+        "santa-mode-updates-2025-45-10-detail",
+        "santa-mode-updates-2025-44-25-1-detail",
+        "santa-mode-updates-2025-44-25-5-detail"
+      ],
+      "previousTags": [
+        "UI / Visualization"
+      ],
+      "newTags": [
+        "UI / Visualization",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "chimes/warning/alert/notification sounds → Safety / Emergency + Audio"
+    },
+    {
+      "title": "Save Dashcam Clips",
+      "ids": [
+        "save-dashcam-clips-2022-4-5-detail",
+        "save-dashcam-clips-2022-4-5-4-detail",
+        "save-dashcam-clips-2022-4-5-5-detail",
+        "save-dashcam-clips-2022-4-5-12-detail",
+        "save-dashcam-clips-2022-2-1-detail"
+      ],
+      "previousTags": [
+        "Camera"
+      ],
+      "newTags": [
+        "Camera",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Save Frunk Height Based on Location",
+      "ids": [
+        "save-frunk-height-based-on-location-2025-14-detail",
+        "save-frunk-height-based-on-location-2025-14-6-detail",
+        "save-frunk-height-based-on-location-2025-14-12-detail"
+      ],
+      "previousTags": [
+        "Vehicle Control"
+      ],
+      "newTags": [
+        "Vehicle Control",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "chimes/warning/alert/notification sounds → Safety / Emergency + Audio"
+    },
+    {
+      "title": "Save Trunk Height Based on Location",
+      "ids": [
+        "save-trunk-height-based-on-location-2025-26-11-detail",
+        "save-trunk-height-based-on-location-2025-14-detail",
+        "save-trunk-height-based-on-location-2025-14-6-detail",
+        "save-trunk-height-based-on-location-2025-14-12-detail"
+      ],
+      "previousTags": [
+        "Vehicle Control"
+      ],
+      "newTags": [
+        "Vehicle Control",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "chimes/warning/alert/notification sounds → Safety / Emergency + Audio"
+    },
+    {
+      "title": "Schedule Charge and Preconditioning",
+      "ids": [
+        "schedule-charge-and-preconditioning-2024-26-detail",
+        "schedule-charge-and-preconditioning-2024-26-1-detail",
+        "schedule-charge-and-preconditioning-2024-26-3-1-detail",
+        "schedule-charge-and-preconditioning-2024-26-5-detail",
+        "schedule-charge-and-preconditioning-2024-26-10-detail",
+        "schedule-charge-and-preconditioning-2024-26-7-detail",
+        "schedule-charge-and-preconditioning-2024-26-15-detail",
+        "schedule-charge-and-preconditioning-2024-26-8-detail",
+        "schedule-charge-and-preconditioning-2024-26-20-detail",
+        "schedule-charge-and-preconditioning-2024-26-11-detail"
+      ],
+      "previousTags": [
+        "Audio"
+      ],
+      "newTags": [
+        "Audio",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Seat Heater Icons",
+      "ids": [
+        "seat-heater-icons-2023-6-15-detail",
+        "seat-heater-icons-2023-2-0-5-detail",
+        "seat-heater-icons-2023-2-10-detail"
+      ],
+      "previousTags": [
+        "Vehicle OS"
+      ],
+      "newTags": [
+        "Vehicle OS",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Sentry Mode Light Pulsing",
+      "ids": [
+        "sentry-mode-light-pulsing-2024-32-3-detail",
+        "sentry-mode-light-pulsing-2024-32-5-detail",
+        "sentry-mode-light-pulsing-2024-32-20-detail",
+        "sentry-mode-light-pulsing-2024-32-10-detail",
+        "sentry-mode-light-pulsing-2024-32-30-detail"
+      ],
+      "previousTags": [
+        "Security"
+      ],
+      "newTags": [
+        "Security",
+        "Lighting"
+      ],
+      "reason": "lights/lighting functions → Lighting"
+    },
+    {
+      "title": "Sentry Mode Lighting",
+      "ids": [
+        "sentry-mode-lighting-2023-6-15-detail",
+        "sentry-mode-lighting-2023-2-0-5-detail",
+        "sentry-mode-lighting-2023-2-10-detail"
+      ],
+      "previousTags": [
+        "Security"
+      ],
+      "newTags": [
+        "Security",
+        "Lighting"
+      ],
+      "reason": "lights/lighting functions → Lighting"
+    },
+    {
+      "title": "Sentry Mode Live Camera Access",
+      "ids": [
+        "sentry-mode-live-camera-access-2023-6-1-detail",
+        "sentry-mode-live-camera-access-2023-6-9-detail",
+        "sentry-mode-live-camera-access-2022-40-1-detail",
+        "sentry-mode-live-camera-access-2022-40-4-detail",
+        "sentry-mode-live-camera-access-2022-40-4-1-detail",
+        "sentry-mode-live-camera-access-2022-36-1-detail",
+        "sentry-mode-live-camera-access-2021-44-25-detail",
+        "sentry-mode-live-camera-access-2021-44-25-5-detail",
+        "sentry-mode-live-camera-access-2021-44-30-detail",
+        "sentry-mode-live-camera-access-2021-44-30-5-detail",
+        "sentry-mode-live-camera-access-2021-44-30-6-detail",
+        "sentry-mode-live-camera-access-2021-44-30-12-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Camera",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Sentry Mode Video",
+      "ids": [
+        "sentry-mode-video-2024-14-6-detail"
+      ],
+      "previousTags": [
+        "Security"
+      ],
+      "newTags": [
+        "Security",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Sentry Mode With Ambient Lighting",
+      "ids": [
+        "sentry-mode-with-ambient-lighting-2025-26-detail",
+        "sentry-mode-with-ambient-lighting-2025-26-100-detail",
+        "sentry-mode-with-ambient-lighting-2025-26-7-10-detail",
+        "sentry-mode-with-ambient-lighting-2025-26-11-detail"
+      ],
+      "previousTags": [
+        "Security"
+      ],
+      "newTags": [
+        "Security",
+        "Lighting"
+      ],
+      "reason": "lights/lighting functions → Lighting"
+    },
+    {
+      "title": "Service Mode Improvements",
+      "ids": [
+        "service-mode-improvements-2024-44-detail",
+        "service-mode-improvements-2024-44-3-detail",
+        "service-mode-improvements-2024-44-3-1-detail"
+      ],
+      "previousTags": [
+        "Vehicle Control"
+      ],
+      "newTags": [
+        "Vehicle Control",
+        "Lighting"
+      ],
+      "reason": "lights/lighting functions → Lighting"
+    },
+    {
+      "title": "Service Mode Release Notes",
+      "ids": [
+        "service-mode-release-notes-2025-14-detail",
+        "service-mode-release-notes-2025-14-6-detail",
+        "service-mode-release-notes-2025-14-100-1-detail",
+        "service-mode-release-notes-2025-14-12-detail"
+      ],
+      "previousTags": [
+        "Lighting"
+      ],
+      "newTags": [
+        "Lighting",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Set Arrival Energy",
+      "ids": [
+        "set-arrival-energy-2026-26-detail",
+        "set-arrival-energy-2026-26-1-detail",
+        "set-arrival-energy-2026-26-6-detail"
+      ],
+      "previousTags": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "newTags": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Set PIN to Drive",
+      "ids": [
+        "set-pin-to-drive-2023-20-4-1-detail",
+        "set-pin-to-drive-2023-20-6-detail"
+      ],
+      "previousTags": [
+        "Security"
+      ],
+      "newTags": [
+        "Security",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Site Info at Arrival",
+      "ids": [
+        "site-info-at-arrival-2025-26-detail",
+        "site-info-at-arrival-2025-26-11-detail"
+      ],
+      "previousTags": [
+        "Map / Navigation / Trip / Route"
+      ],
+      "newTags": [
+        "Map / Navigation / Trip / Route",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Smart Summon",
+      "ids": [
+        "smart-summon-2022-28-1-detail",
+        "smart-summon-2022-28-2-detail",
+        "smart-summon-2021-4-18-10-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Smart Summon (Beta)",
+      "ids": [
+        "smart-summon-beta-2020-4-detail",
+        "smart-summon-beta-2019-40-50-1-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Speed Bump Visualization",
+      "ids": [
+        "speed-bump-visualization-2021-44-30-12-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Speed Camera Chime",
+      "ids": [
+        "speed-camera-chime-2024-14-detail",
+        "speed-camera-chime-2024-14-3-detail",
+        "speed-camera-chime-2024-14-5-detail",
+        "speed-camera-chime-2024-14-6-detail"
+      ],
+      "previousTags": [
+        "Camera"
+      ],
+      "newTags": [
+        "Camera",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "chimes/warning/alert/notification sounds → Safety / Emergency + Audio"
+    },
+    {
+      "title": "Status Bar Icons",
+      "ids": [
+        "status-bar-icons-2024-14-3-detail",
+        "status-bar-icons-2024-14-5-detail",
+        "status-bar-icons-2024-14-6-detail"
+      ],
+      "previousTags": [
+        "Security"
+      ],
+      "newTags": [
+        "Security",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Supercharging in Cold Weather",
+      "ids": [
+        "supercharging-in-cold-weather-2024-2-6-detail",
+        "supercharging-in-cold-weather-2024-2-11-detail"
+      ],
+      "previousTags": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "newTags": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Supercharging Live Activity",
+      "ids": [
+        "supercharging-live-activity-2025-20-detail",
+        "supercharging-live-activity-2025-20-3-detail"
+      ],
+      "previousTags": [
+        "Range / Charging / Energy"
+      ],
+      "newTags": [
+        "Range / Charging / Energy",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Tesla App",
+      "ids": [
+        "tesla-app-2022-36-1-detail",
+        "tesla-app-2022-36-15-detail",
+        "tesla-app-2022-36-20-detail"
+      ],
+      "previousTags": [
+        "Audio"
+      ],
+      "newTags": [
+        "Audio",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Tesla Powerwall Coordination",
+      "ids": [
+        "tesla-powerwall-coordination-2021-12-25-detail",
+        "tesla-powerwall-coordination-2021-12-25-6-detail",
+        "tesla-powerwall-coordination-2020-32-1-detail"
+      ],
+      "previousTags": [
+        "Range / Charging / Energy"
+      ],
+      "newTags": [
+        "Range / Charging / Energy",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Tesla Profiles",
+      "ids": [
+        "tesla-profiles-2022-36-15-detail",
+        "tesla-profiles-2022-36-20-detail",
+        "tesla-profiles-2022-24-detail",
+        "tesla-profiles-2022-24-6-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Tesla Theater Icons",
+      "ids": [
+        "tesla-theater-icons-2023-12-detail",
+        "tesla-theater-icons-2023-12-8-detail",
+        "tesla-theater-icons-2023-12-9-detail",
+        "tesla-theater-icons-2023-12-10-detail"
+      ],
+      "previousTags": [
+        "Media / Entertainment"
+      ],
+      "newTags": [
+        "Media / Entertainment",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Tesla Theater UI",
+      "ids": [
+        "tesla-theater-ui-2024-14-3-detail",
+        "tesla-theater-ui-2024-14-5-detail",
+        "tesla-theater-ui-2024-14-6-detail"
+      ],
+      "previousTags": [
+        "Media / Entertainment"
+      ],
+      "newTags": [
+        "Media / Entertainment",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Tesla Vision Park Assist",
+      "ids": [
+        "tesla-vision-park-assist-2024-26-11-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "chimes/warning/alert/notification sounds → Safety / Emergency + Audio"
+    },
+    {
+      "title": "Traffic Aware Cruise Control Chime",
+      "ids": [
+        "traffic-aware-cruise-control-chime-2022-8-10-1-detail",
+        "traffic-aware-cruise-control-chime-2022-8-10-8-detail",
+        "traffic-aware-cruise-control-chime-2022-8-10-10-detail",
+        "traffic-aware-cruise-control-chime-2021-40-detail",
+        "traffic-aware-cruise-control-chime-2021-40-5-detail",
+        "traffic-aware-cruise-control-chime-2021-40-6-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "chimes/warning/alert/notification sounds → Safety / Emergency + Audio"
+    },
+    {
+      "title": "Traffic Visualization",
+      "ids": [
+        "traffic-visualization-2025-8-detail"
+      ],
+      "previousTags": [
+        "Map / Navigation / Trip / Route"
+      ],
+      "newTags": [
+        "Map / Navigation / Trip / Route",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Traffic-Aware Cruise Control Chime",
+      "ids": [
+        "traffic-aware-cruise-control-chime-2024-26-1-detail",
+        "traffic-aware-cruise-control-chime-2024-26-3-1-detail",
+        "traffic-aware-cruise-control-chime-2024-26-5-detail",
+        "traffic-aware-cruise-control-chime-2024-26-10-detail",
+        "traffic-aware-cruise-control-chime-2024-26-7-detail",
+        "traffic-aware-cruise-control-chime-2024-26-15-detail",
+        "traffic-aware-cruise-control-chime-2024-26-8-detail",
+        "traffic-aware-cruise-control-chime-2024-26-20-detail",
+        "traffic-aware-cruise-control-chime-2024-26-11-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "reason": "chimes/warning/alert/notification sounds → Safety / Emergency + Audio"
+    },
+    {
+      "title": "Trip Planner on Mobile App",
+      "ids": [
+        "trip-planner-on-mobile-app-2023-44-25-detail"
+      ],
+      "previousTags": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "newTags": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy",
+        "Mobile App"
+      ],
+      "reason": "Tesla/mobile app → Mobile App"
+    },
+    {
+      "title": "Turn Signals",
+      "ids": [
+        "turn-signals-2022-36-15-detail",
+        "turn-signals-2022-36-20-detail",
+        "turn-signals-2022-24-detail",
+        "turn-signals-2022-24-6-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Camera",
+        "Safety / Emergency",
+        "Lighting"
+      ],
+      "reason": "blind-spot monitoring/warning/visibility → Safety / Emergency; lights/lighting functions → Lighting"
+    },
+    {
+      "title": "UI Improvements",
+      "ids": [
+        "ui-improvements-2026-2-9-detail",
+        "ui-improvements-2025-45-5-detail",
+        "ui-improvements-2025-45-6-detail",
+        "ui-improvements-2025-45-7-detail",
+        "ui-improvements-2025-45-8-detail",
+        "ui-improvements-2025-45-9-detail",
+        "ui-improvements-2025-45-10-detail",
+        "ui-improvements-2025-44-25-5-detail",
+        "ui-improvements-2025-38-8-5-detail",
+        "ui-improvements-2025-38-8-7-detail",
+        "ui-improvements-2025-38-9-5-detail",
+        "ui-improvements-2025-38-9-6-detail",
+        "ui-improvements-2025-32-8-5-detail",
+        "ui-improvements-2025-32-8-6-detail",
+        "ui-improvements-2025-32-8-10-detail",
+        "ui-improvements-2025-32-8-15-detail",
+        "ui-improvements-2025-32-8-16-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Updated Service Mode",
+      "ids": [
+        "updated-service-mode-2022-12-1-detail",
+        "updated-service-mode-2022-12-3-detail",
+        "updated-service-mode-2022-12-3-3-detail",
+        "updated-service-mode-2022-12-3-4-detail",
+        "updated-service-mode-2022-12-3-10-detail",
+        "updated-service-mode-2022-12-3-15-detail",
+        "updated-service-mode-2022-12-3-20-detail"
+      ],
+      "previousTags": [
+        "Service / Support"
+      ],
+      "newTags": [
+        "Service / Support",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "V4 Supercharger Visualization",
+      "ids": [
+        "v4-supercharger-visualization-2025-45-5-detail",
+        "v4-supercharger-visualization-2025-45-6-detail",
+        "v4-supercharger-visualization-2025-45-7-detail",
+        "v4-supercharger-visualization-2025-45-8-detail",
+        "v4-supercharger-visualization-2025-45-9-detail",
+        "v4-supercharger-visualization-2025-45-32-1-detail",
+        "v4-supercharger-visualization-2025-45-10-detail",
+        "v4-supercharger-visualization-2025-44-25-1-detail",
+        "v4-supercharger-visualization-2025-44-25-5-detail"
+      ],
+      "previousTags": [
+        "Range / Charging / Energy"
+      ],
+      "newTags": [
+        "Range / Charging / Energy",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Vehicle Visualization",
+      "ids": [
+        "vehicle-visualization-2024-14-6-detail"
+      ],
+      "previousTags": [
+        "Range / Charging / Energy"
+      ],
+      "newTags": [
+        "Range / Charging / Energy",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Vision Attention Monitoring Icon",
+      "ids": [
+        "vision-attention-monitoring-icon-2024-32-20-detail",
+        "vision-attention-monitoring-icon-2024-32-30-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    },
+    {
+      "title": "Visual Updates",
+      "ids": [
+        "2024.14-visual-updates",
+        "visual-updates-2024-14-3-detail",
+        "visual-updates-2024-14-5-detail",
+        "visual-updates-2024-14-6-detail"
+      ],
+      "previousTags": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "newTags": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route",
+        "UI / Visualization"
+      ],
+      "reason": "UI/icons/visualization → UI / Visualization"
+    }
+  ],
+  "protectedSample": [
+    {
+      "id": "driving-visualization-2026-26-detail",
+      "title": "Driving Visualization",
+      "protectionCategories": [
+        "Autopilot / Full Self-Driving",
+        "UI / Visualization"
+      ],
+      "wouldHaveProposed": [
+        "Autopilot / Full Self-Driving",
+        "Camera",
+        "UI / Visualization"
+      ],
+      "source": "manual_override"
+    },
+    {
+      "id": "driving-visualization-2026-26-1-detail",
+      "title": "Driving Visualization",
+      "protectionCategories": [
+        "Autopilot / Full Self-Driving",
+        "UI / Visualization"
+      ],
+      "wouldHaveProposed": [
+        "Autopilot / Full Self-Driving",
+        "Camera",
+        "UI / Visualization"
+      ],
+      "source": "manual_override"
+    },
+    {
+      "id": "driving-visualization-2026-26-6-detail",
+      "title": "Driving Visualization",
+      "protectionCategories": [
+        "Autopilot / Full Self-Driving",
+        "UI / Visualization"
+      ],
+      "wouldHaveProposed": [
+        "Autopilot / Full Self-Driving",
+        "Camera",
+        "UI / Visualization"
+      ],
+      "source": "manual_override"
+    },
+    {
+      "id": "parental-controls-2026-20-detail",
+      "title": "Parental Controls",
+      "protectionCategories": [
+        "Safety / Emergency",
+        "Gaming",
+        "Media / Entertainment"
+      ],
+      "wouldHaveProposed": [
+        "Gaming",
+        "Safety / Emergency"
+      ],
+      "source": "manual_override"
+    },
+    {
+      "id": "send-destination-to-car-2026-20-detail",
+      "title": "Send Destination to Car",
+      "protectionCategories": [
+        "Mobile App",
+        "Map / Navigation / Trip / Route"
+      ],
+      "wouldHaveProposed": [
+        "Map / Navigation / Trip / Route",
+        "Mobile App"
+      ],
+      "source": "manual_override"
+    },
+    {
+      "id": "tesla-app-fsd-2026-20-detail",
+      "title": "Tesla App FSD",
+      "protectionCategories": [
+        "Mobile App",
+        "Autopilot / Full Self-Driving"
+      ],
+      "wouldHaveProposed": [
+        "Autopilot / Full Self-Driving",
+        "Mobile App"
+      ],
+      "source": "manual_override"
+    },
+    {
+      "id": "blind-spot-warning-while-parked-2026-20-3-detail",
+      "title": "Blind Spot Warning While Parked",
+      "protectionCategories": [
+        "Audio",
+        "Safety / Emergency"
+      ],
+      "wouldHaveProposed": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "source": "manual_override"
+    },
+    {
+      "id": "parental-controls-2026-20-3-detail",
+      "title": "Parental Controls",
+      "protectionCategories": [
+        "Safety / Emergency",
+        "Gaming",
+        "Media / Entertainment"
+      ],
+      "wouldHaveProposed": [
+        "Gaming",
+        "Safety / Emergency"
+      ],
+      "source": "manual_override"
+    },
+    {
+      "id": "send-destination-to-car-2026-20-3-detail",
+      "title": "Send Destination to Car",
+      "protectionCategories": [
+        "Mobile App",
+        "Map / Navigation / Trip / Route"
+      ],
+      "wouldHaveProposed": [
+        "Map / Navigation / Trip / Route",
+        "Mobile App"
+      ],
+      "source": "manual_override"
+    },
+    {
+      "id": "tesla-app-fsd-2026-20-3-detail",
+      "title": "Tesla App FSD",
+      "protectionCategories": [
+        "Mobile App",
+        "Autopilot / Full Self-Driving"
+      ],
+      "wouldHaveProposed": [
+        "Autopilot / Full Self-Driving",
+        "Mobile App"
+      ],
+      "source": "manual_override"
+    },
+    {
+      "id": "ui-improvements-2026-20-5-1-detail",
+      "title": "UI Improvements",
+      "protectionCategories": [
+        "UI / Visualization",
+        "Autopilot / Full Self-Driving"
+      ],
+      "wouldHaveProposed": [
+        "Autopilot / Full Self-Driving",
+        "UI / Visualization"
+      ],
+      "source": "manual_override"
+    },
+    {
+      "id": "send-destination-to-car-2026-20-5-1-detail",
+      "title": "Send Destination to Car",
+      "protectionCategories": [
+        "Mobile App",
+        "Map / Navigation / Trip / Route"
+      ],
+      "wouldHaveProposed": [
+        "Map / Navigation / Trip / Route",
+        "Mobile App"
+      ],
+      "source": "manual_override"
+    },
+    {
+      "id": "tesla-app-fsd-2026-20-5-1-detail",
+      "title": "Tesla App FSD",
+      "protectionCategories": [
+        "Mobile App",
+        "Autopilot / Full Self-Driving"
+      ],
+      "wouldHaveProposed": [
+        "Autopilot / Full Self-Driving",
+        "Mobile App"
+      ],
+      "source": "manual_override"
+    },
+    {
+      "id": "blind-spot-warning-while-parked-2026-20-6-1-detail",
+      "title": "Blind Spot Warning While Parked",
+      "protectionCategories": [
+        "Audio",
+        "Safety / Emergency"
+      ],
+      "wouldHaveProposed": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "source": "manual_override"
+    },
+    {
+      "id": "parental-controls-2026-20-6-1-detail",
+      "title": "Parental Controls",
+      "protectionCategories": [
+        "Safety / Emergency",
+        "Gaming",
+        "Media / Entertainment"
+      ],
+      "wouldHaveProposed": [
+        "Gaming",
+        "Safety / Emergency"
+      ],
+      "source": "manual_override"
+    },
+    {
+      "id": "send-destination-to-car-2026-20-6-1-detail",
+      "title": "Send Destination to Car",
+      "protectionCategories": [
+        "Mobile App",
+        "Map / Navigation / Trip / Route"
+      ],
+      "wouldHaveProposed": [
+        "Map / Navigation / Trip / Route",
+        "Mobile App"
+      ],
+      "source": "manual_override"
+    },
+    {
+      "id": "tesla-app-fsd-2026-20-6-1-detail",
+      "title": "Tesla App FSD",
+      "protectionCategories": [
+        "Mobile App",
+        "Autopilot / Full Self-Driving"
+      ],
+      "wouldHaveProposed": [
+        "Autopilot / Full Self-Driving",
+        "Mobile App"
+      ],
+      "source": "manual_override"
+    },
+    {
+      "id": "send-destination-to-car-2026-20-6-6-detail",
+      "title": "Send Destination to Car",
+      "protectionCategories": [
+        "Mobile App",
+        "Map / Navigation / Trip / Route"
+      ],
+      "wouldHaveProposed": [
+        "Map / Navigation / Trip / Route",
+        "Mobile App"
+      ],
+      "source": "manual_override"
+    },
+    {
+      "id": "blind-spot-warning-while-parked-2026-20-6-6-detail",
+      "title": "Blind Spot Warning While Parked",
+      "protectionCategories": [
+        "Audio",
+        "Safety / Emergency"
+      ],
+      "wouldHaveProposed": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency",
+        "Audio"
+      ],
+      "source": "manual_override"
+    },
+    {
+      "id": "parental-controls-2026-20-6-6-detail",
+      "title": "Parental Controls",
+      "protectionCategories": [
+        "Safety / Emergency",
+        "Gaming",
+        "Media / Entertainment"
+      ],
+      "wouldHaveProposed": [
+        "Gaming",
+        "Safety / Emergency"
+      ],
+      "source": "manual_override"
+    }
+  ],
+  "ambiguousUniqueTitles": [
+    "3D Buildings",
+    "Active Phone Calls",
+    "Add Stop",
+    "App Displays the Vehicle's Route",
+    "Apple Music",
+    "Audio Balance Per Profile",
+    "Audio Settings Shortcut",
+    "Audio Sources",
+    "Automatic Wiper Improvements",
+    "Autopark",
+    "Battery Temperature",
+    "Bluetooth Improvement",
+    "Bluetooth Menu",
+    "Camera App",
+    "Car Colorizer",
+    "Caraoke",
+    "Charge On Solar",
+    "Charge Port Inlet Heater",
+    "Child Left Alone Detection",
+    "Cold Weather Improvements",
+    "Contact Lookup",
+    "Custom car name",
+    "Cybertruck Colorizer",
+    "Dashcam",
+    "Dashcam Viewer",
+    "Destination Charging",
+    "Disable Sentry Sounds",
+    "Disney+",
+    "Driver Profile",
+    "Driver Profiles",
+    "Energy App",
+    "Entertainment Apps UI",
+    "FSD (Supervised) v14.3",
+    "FSD (Supervised) v14.3.1",
+    "FSD (Supervised) v14.3.2",
+    "FSD (Supervised) v14.3.3",
+    "FSD (Supervised) v14.3.4",
+    "FSD (Supervised) v14.3.5",
+    "FSD (Supervised) v14.3.5 Down Under",
+    "FSD (Supervised) v14.3.6",
+    "Favorites On Map",
+    "Favoriting Songs",
+    "Green Dot When Monitoring is Active",
+    "Handwriting Keyboard",
+    "Hide Music Services Per Profile",
+    "HomeLink Buttons",
+    "Keep Accessory Power On App Control",
+    "Keyboard Languages",
+    "Light Show Update",
+    "LiveOne Powered by Slacker Radio",
+    "Location Sharing",
+    "Mobile Access",
+    "Navigation Guidance View Improvements",
+    "Nearby Superchargers",
+    "New Bluetooth Menu",
+    "New Lock Alert",
+    "On-Route Battery Warmup",
+    "Over-the-Air (OTA) Recall",
+    "PIN to Drive",
+    "Parking Brake",
+    "Preview of Sentry Mode Recordings",
+    "Priority Bluetooth Device",
+    "QQ Lyrics",
+    "Radio Traffic Announcements",
+    "Range Display",
+    "Rear Display",
+    "Regen Blend Indicator Light",
+    "Remain Connected to Wi-Fi in Drive",
+    "Rename Vehicle in App",
+    "Satellite View",
+    "Sentry Mode",
+    "Sentry Mode Improvements",
+    "Sentry Mode Live Camera Access",
+    "Sentry Mode Menu",
+    "Sentry Mode and Dog Mode",
+    "Sharing Location Indicator",
+    "Spotify Improvements",
+    "Subwoofer",
+    "Summon Standby",
+    "Supercharger Display Improvements",
+    "TRAX v0.1",
+    "Tesla Theater",
+    "Tesla Toybox",
+    "Text Messaging Improvements",
+    "Third-Party Charging Stations",
+    "TikTok",
+    "Tire Pressure API",
+    "Toll Roads",
+    "TuneIn Improvements",
+    "Unlatching Charge Cable",
+    "Updated Manual App",
+    "Vehicle Preconditioning",
+    "Vehicle Sync (Beta)",
+    "View Supercharger Amenities on Map",
+    "Voice Keyboard",
+    "Weather Maps",
+    "Weather Maps Improvements",
+    "Windshield Wiper Defrost"
+  ]
+}

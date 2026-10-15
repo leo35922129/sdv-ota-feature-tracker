@@ -1,0 +1,22 @@
+{
+  "name": "sdv-ota-feature-tracker",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Personal SDV OTA feature tracker — browse OTA features by product category.",
+  "scripts": {
+    "scrape": "node scripts/scrape.mjs",
+    "scrape:rivian": "node scripts/scrape-rivian.mjs",
+    "recategorize": "node scripts/recategorize.mjs",
+    "recategorize:targeted": "node scripts/recategorize-targeted.mjs",
+    "recategorize:targeted:apply": "node scripts/recategorize-targeted.mjs --apply",
+    "overrides": "node scripts/category-overrides.mjs",
+    "overrides:validate": "node scripts/category-overrides.mjs validate",
+    "overrides:dry-run": "node scripts/category-overrides.mjs dry-run",
+    "import:model3": "node scripts/tesla-model-3-2017-2019.mjs",
+    "import:modelsx": "node scripts/tesla-model-s-x-2012-2019.mjs",
+    "start": "ADMIN_DEV_MOCK=1 node scripts/serve.mjs",
+    "test": "node --test --test-concurrency=1 scripts/feature-edits.test.mjs scripts/recategorize-targeted.test.mjs scripts/chart-detail.test.mjs scripts/category-aliases.test.mjs scripts/search-results.test.mjs scripts/manual-category-lock.test.mjs scripts/rivian-categories.test.mjs scripts/scrape-electrek-tesla.test.mjs scripts/edit-tags.test.mjs scripts/monitor.test.mjs scripts/edit-errors.test.mjs scripts/tesla-model-3-2017-2019.test.mjs scripts/tesla-model-s-x-2012-2019.test.mjs scripts/scrape-exclude.test.mjs scripts/vehicle-model-filter.test.mjs scripts/electrek-sx-dedupe.test.mjs scripts/admin-auth.test.mjs scripts/feature-review.test.mjs scripts/image-review.test.mjs scripts/dev-history.test.mjs scripts/admin-workspace.test.mjs scripts/admin-history-api.test.mjs scripts/dev-usage.test.mjs scripts/tesla-milestones.test.mjs scripts/digital-revenue-simulator.test.mjs",
+    "monitor": "node scripts/monitor.mjs"
+  },
+  "type": "module"
+}

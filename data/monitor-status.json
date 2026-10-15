@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "parserVersion": "ota-source-sync-v1",
+  "checkedAt": "2026-10-15T17:32:37.143Z",
+  "lastSuccessfulSync": "2026-10-15T17:02:37.008Z",
+  "results": {
+    "tesla": {
+      "brand": "tesla",
+      "label": "Tesla",
+      "sourceUrl": "https://www.notateslaapp.com/software-updates/history/",
+      "retrievedAt": "2026-10-15T17:32:37.288Z",
+      "contentHash": "22464d5278d8306d9a74e57bd611e6ff0a074825eaf5682573c85426e97189ab",
+      "parserVersion": "ota-source-sync-v1",
+      "remoteCount": 1015,
+      "localCount": 1078,
+      "added": [],
+      "secondary": [],
+      "needsScrape": false,
+      "scraped": true,
+      "error": null,
+      "featureCount": 12976,
+      "scrapedAt": "2026-10-15T17:02:39.354Z",
+      "contentUnchanged": true
+    },
+    "rivian": {
+      "brand": "rivian",
+      "label": "Rivian",
+      "sourceUrl": "https://riviantrackr.com/updates/",
+      "retrievedAt": "2026-10-15T17:32:41.478Z",
+      "contentHash": "275e24a83b873d5d7aabb649787c618ed6894c3284f2ddfdfd4482d8e96fdbaa",
+      "parserVersion": "ota-source-sync-v1",
+      "remoteCount": 78,
+      "localCount": 158,
+      "added": [],
+      "secondary": [
+        {
+          "sourceUrl": "https://www.rivianwave.com/software-updates/history/",
+          "retrievedAt": "2026-10-15T17:32:41.853Z",
+          "contentHash": "09151cc8de7e4348ac633ea4d02d23b6fcfc6e268c81957fac40510001af7a08",
+          "remoteCount": 14
+        }
+      ],
+      "needsScrape": false,
+      "scraped": true,
+      "error": null,
+      "featureCount": 2008,
+      "scrapedAt": "2026-10-15T17:02:45.279Z",
+      "contentUnchanged": true
+    }
+  },
+  "summary": [
+    {
+      "brand": "tesla",
+      "added": 0,
+      "scraped": true,
+      "contentUnchanged": true,
+      "sourceUrl": "https://www.notateslaapp.com/software-updates/history/",
+      "retrievedAt": "2026-10-15T17:32:37.288Z",
+      "contentHash": "22464d5278d8306d9a74e57bd611e6ff0a074825eaf5682573c85426e97189ab",
+      "parserVersion": "ota-source-sync-v1",
+      "error": null
+    },
+    {
+      "brand": "rivian",
+      "added": 0,
+      "scraped": true,
+      "contentUnchanged": true,
+      "sourceUrl": "https://riviantrackr.com/updates/",
+      "retrievedAt": "2026-10-15T17:32:41.478Z",
+      "contentHash": "275e24a83b873d5d7aabb649787c618ed6894c3284f2ddfdfd4482d8e96fdbaa",
+      "parserVersion": "ota-source-sync-v1",
+      "error": null
+    }
+  ]
+}

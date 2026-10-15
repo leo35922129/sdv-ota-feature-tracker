@@ -1,0 +1,4186 @@
+{
+  "source": "tesla-model-3-2017-2019",
+  "sourceFile": "data/tesla-model-3-2017-2019.csv",
+  "scrapedAt": "2026-08-21T01:01:58.593Z",
+  "featureCount": 77,
+  "releaseCount": 22,
+  "releases": [
+    {
+      "version": "SOP / July 28, 2017",
+      "url": "https://www.businessinsider.com/tesla-model-3-launch-details-2017-7",
+      "releaseDate": "July 28, 2017",
+      "features": [
+        {
+          "id": "tesla-model-3-sop-sop-july-28-2017-15-inch-horizontal-touchscreen",
+          "title": "15-inch horizontal touchscreen",
+          "type": "sop",
+          "description": "A single 15-inch horizontal touchscreen served as the primary vehicle interface and replaced a conventional instrument cluster.\n\nStandard launch equipment; based on contemporary launch coverage rather than an archived Tesla release note.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.businessinsider.com/tesla-model-3-launch-details-2017-7"
+            }
+          ],
+          "availability": "Launch equipment",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Display",
+            "UI / Visualization"
+          ],
+          "primaryCategory": "Display",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-sop-sop-july-28-2017-navigation-with-real-time-traffic",
+          "title": "Navigation with real-time traffic",
+          "type": "sop",
+          "description": "Onboard navigation included real-time traffic information.\n\nReported as standard equipment; market and connectivity conditions could affect availability.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.edmunds.com/tesla/model-3/2017/review/"
+            }
+          ],
+          "availability": "Region-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-sop-sop-july-28-2017-bluetooth-hands-free-calling-and-media-streaming",
+          "title": "Bluetooth hands-free calling and media streaming",
+          "type": "sop",
+          "description": "Bluetooth connectivity supported hands-free phone use and media streaming.\n\nPhone compatibility could vary.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.caranddriver.com/tesla/model-3/specs/2017/tesla_model-3_tesla-model-3_2017"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Phone Call",
+            "Connectivity"
+          ],
+          "primaryCategory": "Phone Call",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-sop-sop-july-28-2017-onboard-wi-fi-and-lte-connectivity",
+          "title": "Onboard Wi-Fi and LTE connectivity",
+          "type": "sop",
+          "description": "The vehicle supported connected services through onboard Wi-Fi and LTE connectivity.\n\nService availability depended on Tesla connectivity service, region, and network coverage.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.caranddriver.com/tesla/model-3/specs/2017/tesla_model-3_tesla-model-3_2017"
+            }
+          ],
+          "availability": "Region-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Connectivity"
+          ],
+          "primaryCategory": "Connectivity",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-sop-sop-july-28-2017-rearview-camera",
+          "title": "Rearview camera",
+          "type": "sop",
+          "description": "A rearview camera displayed through the central touchscreen was included at launch.\n\nDescribes camera hardware/function, not later software visualization changes.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.cars.com/research/tesla-model_3-2017/"
+            }
+          ],
+          "availability": "Hardware-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Camera"
+          ],
+          "primaryCategory": "Camera",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-sop-sop-july-28-2017-automatic-emergency-braking",
+          "title": "Automatic Emergency Braking",
+          "type": "sop",
+          "description": "Automatic Emergency Braking was listed as standard active-safety equipment.\n\nFunctionality depended on operating conditions and software state; it was not a substitute for attentive driving.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.cars.com/research/tesla-model_3-2017/"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Safety / Emergency"
+          ],
+          "primaryCategory": "Safety / Emergency",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-sop-sop-july-28-2017-traffic-aware-cruise-control-and-autosteer",
+          "title": "Traffic-Aware Cruise Control and Autosteer",
+          "type": "sop",
+          "description": "Enhanced Autopilot coverage described adaptive/traffic-aware cruise control and lane-centering steering assistance.\n\nOptional Enhanced Autopilot package; availability depended on software rollout and region.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.cars.com/research/tesla-model_3-2017/"
+            }
+          ],
+          "availability": "Optional / hardware-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-sop-sop-july-28-2017-automatic-lane-change-and-autopark",
+          "title": "Automatic lane change and Autopark",
+          "type": "sop",
+          "description": "Enhanced Autopilot launch coverage identified automatic lane changing and self-parking as included or planned capabilities.\n\nOptional Enhanced Autopilot; some functions depended on future software activation and were not necessarily active at first delivery.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.cars.com/research/tesla-model_3-2017/"
+            }
+          ],
+          "availability": "Optional / hardware-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving",
+          "source": "tesla-model-3-2017-2019"
+        }
+      ],
+      "source": "tesla-model-3-2017-2019"
+    },
+    {
+      "version": "2017.40.1",
+      "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16",
+      "releaseDate": "Before 2017-12-04",
+      "features": [
+        {
+          "id": "tesla-model-3-ota-2017-40-1-camper-mode",
+          "title": "Camper Mode",
+          "type": "ota",
+          "description": "HVAC and audio could remain usable when the key was absent.\n\nOwner-maintained historical record; exact deployment date and fleet coverage are uncertain.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16"
+            }
+          ],
+          "availability": "Owner-reported / uncertain",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Scenario / Mode",
+            "Comfort / Climate"
+          ],
+          "primaryCategory": "Scenario / Mode",
+          "source": "tesla-model-3-2017-2019"
+        }
+      ],
+      "source": "tesla-model-3-2017-2019"
+    },
+    {
+      "version": "2017.42",
+      "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16",
+      "releaseDate": "Before 2017-12-04",
+      "features": [
+        {
+          "id": "tesla-model-3-ota-2017-42-tpms-updates",
+          "title": "TPMS updates",
+          "type": "ota",
+          "description": "Updated tire-pressure monitoring behavior and related interface elements.\n\nOwner-maintained summary; exact subfeature behavior is uncertain.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16"
+            }
+          ],
+          "availability": "Owner-reported / uncertain",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Vehicle Control"
+          ],
+          "primaryCategory": "Vehicle Control",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2017-42-seat-belt-warning-menu",
+          "title": "Seat-belt warning menu",
+          "type": "ota",
+          "description": "Updated the seat-belt warning menu.\n\nOwner-maintained summary rather than Tesla archived release-note text.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16"
+            }
+          ],
+          "availability": "Owner-reported / uncertain",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Safety / Emergency",
+            "UI / Visualization"
+          ],
+          "primaryCategory": "Safety / Emergency",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2017-42-odometer-and-power-consumption-display",
+          "title": "Odometer and power-consumption display",
+          "type": "ota",
+          "description": "Updated odometer and power-consumption information displayed in the vehicle UI.\n\nOwner-maintained summary; exact interface changes are uncertain.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16"
+            }
+          ],
+          "availability": "Owner-reported / uncertain",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route",
+            "Range / Charging / Energy"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2017-42-air-vent-gui",
+          "title": "Air-vent GUI",
+          "type": "ota",
+          "description": "Updated the touchscreen air-vent interface.\n\nOwner-maintained summary; exact interface placement is uncertain.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16"
+            }
+          ],
+          "availability": "Owner-reported / uncertain",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Comfort / Climate",
+            "UI / Visualization"
+          ],
+          "primaryCategory": "Comfort / Climate",
+          "source": "tesla-model-3-2017-2019"
+        }
+      ],
+      "source": "tesla-model-3-2017-2019"
+    },
+    {
+      "version": "2017.44",
+      "url": "https://www.reddit.com/r/teslamotors/comments/7auvch/2017_release_notes/",
+      "releaseDate": "2017-11-05 to 2017-11-21",
+      "features": [
+        {
+          "id": "tesla-model-3-ota-2017-44-chill-acceleration-mode",
+          "title": "Chill acceleration mode",
+          "type": "ota",
+          "description": "Added a Chill setting intended to reduce or smooth acceleration for a less aggressive response.\n\nReported in contemporary release-note discussion; delivery varied by rollout.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.reddit.com/r/teslamotors/comments/7auvch/2017_release_notes/"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Performance",
+            "Vehicle Control"
+          ],
+          "primaryCategory": "Performance",
+          "source": "tesla-model-3-2017-2019"
+        }
+      ],
+      "source": "tesla-model-3-2017-2019"
+    },
+    {
+      "version": "2017.46.10",
+      "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16",
+      "releaseDate": "Before 2017-12-12",
+      "features": [
+        {
+          "id": "tesla-model-3-ota-2017-46-10-fm-radio-activation",
+          "title": "FM radio activation",
+          "type": "ota",
+          "description": "FM radio was reported as activated for Model 3 in this build family.\n\nOwner-maintained item; exact build-to-feature mapping and regional availability are not independently confirmed.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16"
+            }
+          ],
+          "availability": "Owner-reported / uncertain",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Audio"
+          ],
+          "primaryCategory": "Audio",
+          "source": "tesla-model-3-2017-2019"
+        }
+      ],
+      "source": "tesla-model-3-2017-2019"
+    },
+    {
+      "version": "2017.48.6",
+      "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16",
+      "releaseDate": "December 14, 2017",
+      "features": [
+        {
+          "id": "tesla-model-3-ota-2017-48-6-persistent-wiper-control",
+          "title": "Persistent wiper control",
+          "type": "ota",
+          "description": "A permanent windshield-wiper button was reported on the main touchscreen.\n\nOwner-maintained summary; exact interface placement and rollout population are uncertain.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16"
+            }
+          ],
+          "availability": "Owner-reported / uncertain",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Vehicle Control"
+          ],
+          "primaryCategory": "Vehicle Control",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2017-48-6-immersive-sound-audio-setting",
+          "title": "Immersive Sound audio setting",
+          "type": "ota",
+          "description": "Added audio settings identified as Immersive Sound.\n\nApplicability may depend on the installed audio system.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16"
+            }
+          ],
+          "availability": "Hardware-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Audio"
+          ],
+          "primaryCategory": "Audio",
+          "source": "tesla-model-3-2017-2019"
+        }
+      ],
+      "source": "tesla-model-3-2017-2019"
+    },
+    {
+      "version": "2017.48.9",
+      "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16",
+      "releaseDate": "December 21, 2017",
+      "features": [
+        {
+          "id": "tesla-model-3-ota-2017-48-9-usb-control-in-audio",
+          "title": "USB control in Audio",
+          "type": "ota",
+          "description": "Added a USB button/control in the audio section.\n\nExact supported media behavior is not documented in the cited source.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Audio"
+          ],
+          "primaryCategory": "Audio",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2017-48-9-voice-activated-bug-report",
+          "title": "Voice-activated bug report",
+          "type": "ota",
+          "description": "Made a voice-activated bug-report function available.\n\nExact voice command and regional availability are uncertain.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16"
+            }
+          ],
+          "availability": "Owner-reported / uncertain",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Voice & AI",
+            "Service / Support"
+          ],
+          "primaryCategory": "Voice & AI",
+          "source": "tesla-model-3-2017-2019"
+        }
+      ],
+      "source": "tesla-model-3-2017-2019"
+    },
+    {
+      "version": "2017.48.15",
+      "url": "https://electrek.co/2018/01/01/tesla-releases-automatic-wiper-update-beta/",
+      "releaseDate": "December 31, 2017",
+      "features": [
+        {
+          "id": "tesla-model-3-ota-2017-48-15-automatic-windshield-wipers",
+          "title": "Automatic windshield wipers",
+          "type": "ota",
+          "description": "Automatic rain-sensing wipers were reported in Model 3 firmware; contemporaneous coverage described the feature as beta.\n\nOwner-reported and not supported here by complete Tesla release-note text; rollout timing and behavior are uncertain.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://electrek.co/2018/01/01/tesla-releases-automatic-wiper-update-beta/"
+            }
+          ],
+          "availability": "Owner-reported / uncertain",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Vehicle Control"
+          ],
+          "primaryCategory": "Vehicle Control",
+          "source": "tesla-model-3-2017-2019"
+        }
+      ],
+      "source": "tesla-model-3-2017-2019"
+    },
+    {
+      "version": "2018.10.1",
+      "url": "https://www.teslarati.com/tesla-model-3-2018-10-1-ota-update-heated-rear-seats/",
+      "releaseDate": "March 2018",
+      "features": [
+        {
+          "id": "tesla-model-3-ota-2018-10-1-rear-heated-seats",
+          "title": "Rear heated seats",
+          "type": "ota",
+          "description": "Added touchscreen controls for Model 3 rear seat heaters.\n\nRequired corresponding rear-seat hardware; owner-reported release detail.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.teslarati.com/tesla-model-3-2018-10-1-ota-update-heated-rear-seats/"
+            }
+          ],
+          "availability": "Owner-reported / uncertain",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Comfort / Climate"
+          ],
+          "primaryCategory": "Comfort / Climate",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2018-10-1-automatic-emergency-braking-update",
+          "title": "Automatic Emergency Braking update",
+          "type": "ota",
+          "description": "Adjusted Automatic Emergency Braking behavior as part of the safety software update.\n\nExact calibration change and hardware applicability were not publicly detailed.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.teslarati.com/tesla-model-3-2018-10-1-ota-update-heated-rear-seats/"
+            }
+          ],
+          "availability": "Hardware-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Safety / Emergency"
+          ],
+          "primaryCategory": "Safety / Emergency",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2018-10-1-phone-based-vehicle-unlocking-changes",
+          "title": "Phone-based vehicle unlocking changes",
+          "type": "ota",
+          "description": "Improved the way Model 3 handled phone-based unlocking and vehicle access.\n\nExact UI/authentication changes were not publicly detailed.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.teslarati.com/tesla-model-3-2018-10-1-ota-update-heated-rear-seats/"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Mobile App",
+            "Security"
+          ],
+          "primaryCategory": "Mobile App",
+          "source": "tesla-model-3-2017-2019"
+        }
+      ],
+      "source": "tesla-model-3-2017-2019"
+    },
+    {
+      "version": "2018.18.1",
+      "url": "https://www.teslarati.com/tesla-model-3-update-auto-dimming-high-beams-ui-changes/",
+      "releaseDate": "May 2018",
+      "features": [
+        {
+          "id": "tesla-model-3-ota-2018-18-1-automatic-high-beams",
+          "title": "Automatic high beams",
+          "type": "ota",
+          "description": "Added automatic high-beam control that dims headlights when oncoming or nearby light sources are detected and restores high beams when conditions permit.\n\nOperation depended on camera detection and lighting conditions.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.teslarati.com/tesla-model-3-update-auto-dimming-high-beams-ui-changes/"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Lighting",
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Lighting",
+          "source": "tesla-model-3-2017-2019"
+        }
+      ],
+      "source": "tesla-model-3-2017-2019"
+    },
+    {
+      "version": "2018.18.x",
+      "url": "https://www.consumerreports.org/car-safety/tesla-model-3-gets-cr-recommendation-after-braking-update/",
+      "releaseDate": "Late May 2018",
+      "features": [
+        {
+          "id": "tesla-model-3-ota-2018-18-x-braking-distance-improvement",
+          "title": "Braking-distance improvement",
+          "type": "ota",
+          "description": "Recalibrated braking software and ABS behavior; Consumer Reports measured a reduction in 60-mph stopping distance from 152 feet to 133 feet.\n\nExact Tesla build is not consistently identified; result came from an independent retest rather than a complete Tesla release note.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.consumerreports.org/car-safety/tesla-model-3-gets-cr-recommendation-after-braking-update/"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Vehicle Control",
+            "Safety / Emergency"
+          ],
+          "primaryCategory": "Vehicle Control",
+          "source": "tesla-model-3-2017-2019"
+        }
+      ],
+      "source": "tesla-model-3-2017-2019"
+    },
+    {
+      "version": "2018.24 / 2018.24.1",
+      "url": "https://electrek.co/2018/06/22/tesla-model-3-update-summon-feature-cabin-overheat-protection-wifi/",
+      "releaseDate": "2018-06-19 to 2018-06-21",
+      "features": [
+        {
+          "id": "tesla-model-3-ota-2018-24-2018-24-1-model-3-wi-fi-connectivity",
+          "title": "Model 3 Wi-Fi connectivity",
+          "type": "ota",
+          "description": "Added or improved Wi-Fi connectivity for Model 3.\n\nSubversion attribution and exact rollout varied in contemporaneous reports.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://electrek.co/2018/06/22/tesla-model-3-update-summon-feature-cabin-overheat-protection-wifi/"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Connectivity"
+          ],
+          "primaryCategory": "Connectivity",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2018-24-2018-24-1-cabin-overheat-protection",
+          "title": "Cabin Overheat Protection",
+          "type": "ota",
+          "description": "Added a parked-vehicle climate behavior intended to limit excessive cabin heat.\n\nAvailability and operation depended on vehicle settings, battery state, region, and environmental conditions.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://electrek.co/2018/06/22/tesla-model-3-update-summon-feature-cabin-overheat-protection-wifi/"
+            }
+          ],
+          "availability": "Region-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Comfort / Climate",
+            "Safety / Emergency"
+          ],
+          "primaryCategory": "Comfort / Climate",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2018-24-2018-24-1-summon-for-eligible-enhanced-autopilot-vehicles",
+          "title": "Summon for eligible Enhanced Autopilot vehicles",
+          "type": "ota",
+          "description": "Enabled Summon capability for eligible Model 3 vehicles.\n\nRequired compatible hardware/package and remained subject to calibration, region, and staged rollout.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://electrek.co/2018/06/22/tesla-model-3-update-summon-feature-cabin-overheat-protection-wifi/"
+            }
+          ],
+          "availability": "Optional / hardware-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving",
+          "source": "tesla-model-3-2017-2019"
+        }
+      ],
+      "source": "tesla-model-3-2017-2019"
+    },
+    {
+      "version": "2018.32.4",
+      "url": "https://teslamotorsclub.com/tmc/threads/software-update-2018-32-4.127397/",
+      "releaseDate": "September 2018",
+      "features": [
+        {
+          "id": "tesla-model-3-ota-2018-32-4-pin-to-drive",
+          "title": "PIN to Drive",
+          "type": "ota",
+          "description": "Added a security setting requiring a personal identification number before the vehicle could be driven.\n\nExact regional rollout and prerequisite settings were not established.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://teslamotorsclub.com/tmc/threads/software-update-2018-32-4.127397/"
+            }
+          ],
+          "availability": "Region-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Security"
+          ],
+          "primaryCategory": "Security",
+          "source": "tesla-model-3-2017-2019"
+        }
+      ],
+      "source": "tesla-model-3-2017-2019"
+    },
+    {
+      "version": "2018.39.7",
+      "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes",
+      "releaseDate": "October 2018",
+      "features": [
+        {
+          "id": "tesla-model-3-ota-2018-39-7-version-9-0-touchscreen-refresh",
+          "title": "Version 9.0 touchscreen refresh",
+          "type": "ota",
+          "description": "Introduced a redesigned touchscreen/app experience with broader changes to Climate, Navigation, Media, Controls, and safety-related functions.\n\nIndividual feature availability varied by hardware, market, and staged rollout.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+            }
+          ],
+          "availability": "Region-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "UI / Visualization"
+          ],
+          "primaryCategory": "UI / Visualization",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2018-39-7-navigate-on-autopilot-beta",
+          "title": "Navigate on Autopilot Beta",
+          "type": "ota",
+          "description": "Guided the vehicle along a navigation route, suggested lane changes, and guided the vehicle toward highway interchanges and exits on controlled-access roads.\n\nRequired Enhanced Autopilot, current maps, camera calibration, and eligible market; driver confirmation was required for early lane changes.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+            }
+          ],
+          "availability": "Optional / hardware-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2018-39-7-combined-autosteer-and-auto-lane-change",
+          "title": "Combined Autosteer and Auto Lane Change",
+          "type": "ota",
+          "description": "Combined Autosteer and Auto Lane Change into one Autosteer setting; using the turn signal while Autosteer was active initiated a lane change.\n\nRequired compatible Autopilot functionality and driver supervision.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2018-39-7-blind-spot-warning",
+          "title": "Blind Spot Warning",
+          "type": "ota",
+          "description": "Turned the touchscreen lane line red when the turn signal was engaged and a moving vehicle/obstacle was detected in the target lane.\n\nWarning aid only; performance depended on sensor visibility and conditions.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Safety / Emergency",
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Safety / Emergency",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2018-39-7-dashcam",
+          "title": "Dashcam",
+          "type": "ota",
+          "description": "Enabled recording from the narrow forward-facing camera to a USB drive using a TeslaCam folder; the driver could save the preceding ten minutes.\n\nRequired compatible USB storage and correct folder setup; documented implementation used the forward camera.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Camera"
+          ],
+          "primaryCategory": "Camera",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2018-39-7-mobile-app-navigation-sharing",
+          "title": "Mobile app navigation sharing",
+          "type": "ota",
+          "description": "Allowed users to send a destination to the vehicle from supported phone-app share sheets.\n\nRequired phone permissions and Tesla share-sheet setup.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Mobile App",
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Mobile App",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2018-39-7-mobile-app-software-update-initiation",
+          "title": "Mobile app software-update initiation",
+          "type": "ota",
+          "description": "Allowed an available vehicle update to be started from the Tesla mobile app, with a short cancellation window.\n\nRequired compatible app, vehicle connectivity, and staged rollout.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Mobile App",
+            "Vehicle OS"
+          ],
+          "primaryCategory": "Mobile App",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2018-39-7-application-launcher",
+          "title": "Application launcher",
+          "type": "ota",
+          "description": "Added a bottom-of-screen launcher bringing Calendar, Energy, Web Browser, Rear View Camera, Phone, and Charging into one place.\n\nExact app set varied by configuration and market.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+            }
+          ],
+          "availability": "Region-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "UI / Visualization"
+          ],
+          "primaryCategory": "UI / Visualization",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2018-39-7-calendar-app",
+          "title": "Calendar app",
+          "type": "ota",
+          "description": "Displayed the current and next day from the phone calendar and integrated events with calling and navigation.\n\nRequired Bluetooth connection and Calendar Sync permission.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Productivity"
+          ],
+          "primaryCategory": "Productivity",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2018-39-7-energy-app",
+          "title": "Energy app",
+          "type": "ota",
+          "description": "Displayed real-time and projected trip energy consumption when navigation was active.\n\nProjected consumption depended on an active route and available energy data.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Range / Charging / Energy"
+          ],
+          "primaryCategory": "Range / Charging / Energy",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2018-39-7-web-browser",
+          "title": "Web browser",
+          "type": "ota",
+          "description": "Added an in-vehicle Web browser application.\n\nRequired vehicle connectivity and regional service availability.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+            }
+          ],
+          "availability": "Region-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Media / Entertainment"
+          ],
+          "primaryCategory": "Media / Entertainment",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2018-39-7-climate-control-gesture-interface",
+          "title": "Climate-control gesture interface",
+          "type": "ota",
+          "description": "Added airflow visualization, swipe temperature adjustment, swipe-down dismissal, and press-and-hold Climate-off behavior.\n\nSpecific controls varied with equipment and temperature-zone configuration.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+            }
+          ],
+          "availability": "Hardware-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Comfort / Climate",
+            "UI / Visualization"
+          ],
+          "primaryCategory": "Comfort / Climate",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2018-39-7-navigation-redesign",
+          "title": "Navigation redesign",
+          "type": "ota",
+          "description": "Moved directions to the left side, simplified upcoming turns, added highway-exit information, and made navigation settings accessible from the map.\n\nRequired updated navigation data; map content varied by region.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+            }
+          ],
+          "availability": "Region-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route",
+            "UI / Visualization"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2018-39-7-hov-lane-routing-preference",
+          "title": "HOV-lane routing preference",
+          "type": "ota",
+          "description": "Added a setting indicating HOV eligibility so navigation could include or avoid HOV lanes.\n\nRequired current maps and depended on local rules and map coverage.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2018-39-7-traffic-view-restyling",
+          "title": "Traffic view restyling",
+          "type": "ota",
+          "description": "Restyled traffic visualization to emphasize slower/delayed roads with red and yellow outlines.\n\nTraffic display depended on connectivity and available traffic data.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route",
+            "UI / Visualization"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route",
+          "source": "tesla-model-3-2017-2019"
+        }
+      ],
+      "source": "tesla-model-3-2017-2019"
+    },
+    {
+      "version": "2018.48.12.1",
+      "url": "https://www.notateslaapp.com/software-updates/version/2018.48.12.1/release-notes",
+      "releaseDate": "December 19, 2018",
+      "features": [
+        {
+          "id": "tesla-model-3-ota-2018-48-12-1-keep-climate-on",
+          "title": "Keep Climate On",
+          "type": "ota",
+          "description": "Maintained selected cabin temperature after the driver left; climate automatically shut off at 20% battery.\n\nBattery cutoff and behavior could vary with vehicle state and conditions.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2018.48.12.1/release-notes"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Scenario / Mode",
+            "Comfort / Climate"
+          ],
+          "primaryCategory": "Scenario / Mode",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2018-48-12-1-romance-mode",
+          "title": "Romance Mode",
+          "type": "ota",
+          "description": "Added a parked-car fireplace visual and associated audio as an in-car Easter egg.\n\nEntertainment Easter egg intended for stationary use; market availability may vary.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2018.48.12.1/release-notes"
+            }
+          ],
+          "availability": "Region-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Media / Entertainment",
+            "Scenario / Mode"
+          ],
+          "primaryCategory": "Media / Entertainment",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2018-48-12-1-emissions-testing-mode",
+          "title": "Emissions Testing Mode",
+          "type": "ota",
+          "description": "Added an Easter egg that played selected novelty sounds through the vehicle speakers.\n\nEntertainment feature intended for stationary use.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2018.48.12.1/release-notes"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Media / Entertainment",
+            "Scenario / Mode"
+          ],
+          "primaryCategory": "Media / Entertainment",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2018-48-12-1-pole-position",
+          "title": "Pole Position",
+          "type": "ota",
+          "description": "Added a TeslAtari version of Pole Position playable while parked with steering wheel, brake pedal, and scroll wheels.\n\nRequired the vehicle to be in Park.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2018.48.12.1/release-notes"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Gaming"
+          ],
+          "primaryCategory": "Gaming",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2018-48-12-1-teslatari-usb-game-controller-support",
+          "title": "TeslAtari USB game-controller support",
+          "type": "ota",
+          "description": "Allowed TeslAtari games to be played with a USB controller connected to a front USB port.\n\nController behavior could vary by make/model; games were available only while parked.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2018.48.12.1/release-notes"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Gaming"
+          ],
+          "primaryCategory": "Gaming",
+          "source": "tesla-model-3-2017-2019"
+        }
+      ],
+      "source": "tesla-model-3-2017-2019"
+    },
+    {
+      "version": "2019.8.3",
+      "url": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes",
+      "releaseDate": "March 28, 2019",
+      "features": [
+        {
+          "id": "tesla-model-3-ota-2019-8-3-sentry-mode",
+          "title": "Sentry Mode",
+          "type": "ota",
+          "description": "Continuously monitored surroundings while locked and parked; detected threats could trigger Alert/Alarm states with touchscreen and mobile notifications. Video saving required a formatted USB drive.\n\nRequires compatible Autopilot hardware; some owner reports place early availability in 2019.5.x.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes"
+            }
+          ],
+          "availability": "Hardware-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Security",
+            "Camera"
+          ],
+          "primaryCategory": "Security",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2019-8-3-dog-mode",
+          "title": "Dog Mode",
+          "type": "ota",
+          "description": "Kept climate control operating while parked and displayed the current cabin temperature on the touchscreen.\n\nClimate/battery dependent; early availability varied by vehicle and rollout.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Comfort / Climate",
+            "Scenario / Mode"
+          ],
+          "primaryCategory": "Comfort / Climate",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2019-8-3-peak-power-increase",
+          "title": "Peak Power Increase",
+          "type": "ota",
+          "description": "Increased vehicle peak power by approximately 5%, improving acceleration and performance.\n\nEffect varied by configuration, battery state, temperature, and calibration.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes"
+            }
+          ],
+          "availability": "Hardware-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Performance"
+          ],
+          "primaryCategory": "Performance",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2019-8-3-dynamic-brake-lights",
+          "title": "Dynamic Brake Lights",
+          "type": "ota",
+          "description": "Above 50 km/h, forceful braking could flash brake lights rapidly; after stopping, hazard lights could flash until canceled.\n\nDriving-assistance/safety behavior varied by conditions and calibration.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Lighting",
+            "Safety / Emergency"
+          ],
+          "primaryCategory": "Lighting",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2019-8-3-autosteer-stop-light-warning",
+          "title": "Autosteer Stop Light Warning",
+          "type": "ota",
+          "description": "Could warn the driver when the vehicle detected a possible red-light approach while Autosteer was active; it did not stop the vehicle.\n\nRequired compatible hardware and was region-dependent; not a substitute for driver attention.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes"
+            }
+          ],
+          "availability": "Region-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Safety / Emergency"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2019-8-3-navigate-on-autopilot-beta",
+          "title": "Navigate on Autopilot Beta",
+          "type": "ota",
+          "description": "Suggested lane changes to stay on route, avoid slower traffic, and guide the vehicle toward interchanges/exits on controlled-access roads.\n\nRequired compatible hardware, maps, calibration, and entitlement; regional road/regulatory availability varied.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes"
+            }
+          ],
+          "availability": "Region-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2019-8-3-enhanced-summon",
+          "title": "Enhanced Summon",
+          "type": "ota",
+          "description": "Allowed the driver to guide the vehicle from the Tesla app toward the driver or a selected destination while maneuvering around detected objects.\n\nBeta/parking-lot use; required compatible hardware, app, GPS, cellular service, calibration, and supervision.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes"
+            }
+          ],
+          "availability": "Beta / limited rollout",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2019-8-3-trip-planner-beta",
+          "title": "Trip Planner Beta",
+          "type": "ota",
+          "description": "Routed long trips through appropriate Supercharger locations and selected a route intended to minimize driving and charging time.\n\nRouting depended on map data, vehicle configuration, and region.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes"
+            }
+          ],
+          "availability": "Region-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route",
+          "source": "tesla-model-3-2017-2019"
+        }
+      ],
+      "source": "tesla-model-3-2017-2019"
+    },
+    {
+      "version": "2019.12",
+      "url": "https://www.notateslaapp.com/software-updates/version/2019.12/release-notes",
+      "releaseDate": "May-June 2019",
+      "features": [
+        {
+          "id": "tesla-model-3-ota-2019-12-software-update-controls",
+          "title": "Software Update Controls",
+          "type": "ota",
+          "description": "Added a Controls > Software view showing installed version, available packages, download progress over Wi-Fi, and immediate/scheduled installation options.\n\nApproximate date inferred from version sequence; archive date is unreliable.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2019.12/release-notes"
+            }
+          ],
+          "availability": "Owner-reported / uncertain",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Vehicle OS",
+            "Service / Support"
+          ],
+          "primaryCategory": "Vehicle OS",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2019-12-teslatari-improvements",
+          "title": "TeslAtari improvements",
+          "type": "ota",
+          "description": "Added full-screen gameplay, improved touchscreen controls, a new game menu, and games including 2048 and Super Breakout.\n\nAvailable only while parked; game availability varied by market/build.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2019.12/release-notes"
+            }
+          ],
+          "availability": "Region-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Gaming"
+          ],
+          "primaryCategory": "Gaming",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2019-12-on-route-battery-warmup",
+          "title": "On-Route Battery Warmup",
+          "type": "ota",
+          "description": "When navigating to a Supercharger, heated the battery toward an optimal charging temperature; Tesla stated an average charge-time reduction of 25%.\n\nThe 25% was Tesla’s estimate, not a guarantee; depended on conditions and route.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2019.12/release-notes"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Range / Charging / Energy"
+          ],
+          "primaryCategory": "Range / Charging / Energy",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2019-12-dashcam-side-camera-recording",
+          "title": "Dashcam side-camera recording",
+          "type": "ota",
+          "description": "Extended Dashcam recording to the vehicle’s side cameras in addition to the narrow forward camera.\n\nRequired supported camera/software configuration and storage; archived model labels were inconsistent.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2019.12/release-notes"
+            }
+          ],
+          "availability": "Hardware-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Camera"
+          ],
+          "primaryCategory": "Camera",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2019-12-auto-high-beam",
+          "title": "Auto High Beam",
+          "type": "ota",
+          "description": "Automatically switched from high beams to low beams when another vehicle was detected ahead.\n\nOperation depended on lighting and camera detection.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2019.12/release-notes"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Lighting"
+          ],
+          "primaryCategory": "Lighting",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2019-12-tire-pressure-monitoring-reset",
+          "title": "Tire Pressure Monitoring reset",
+          "type": "ota",
+          "description": "Allowed TPMS sensors to be reset to a user-selected pressure baseline, supporting aftermarket tires and track use.\n\nResetting TPMS did not validate safe tire pressure.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2019.12/release-notes"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Vehicle Control"
+          ],
+          "primaryCategory": "Vehicle Control",
+          "source": "tesla-model-3-2017-2019"
+        }
+      ],
+      "source": "tesla-model-3-2017-2019"
+    },
+    {
+      "version": "2019.12.1",
+      "url": "https://www.notateslaapp.com/software-updates/version/2019.12.1/release-notes",
+      "releaseDate": "May-June 2019",
+      "features": [
+        {
+          "id": "tesla-model-3-ota-2019-12-1-supercharging-improvements",
+          "title": "Supercharging improvements",
+          "type": "ota",
+          "description": "Enabled Model 3 charging at peak rates up to approximately 150 kW at compatible Supercharger stations.\n\nPeak rate depended on battery, state of charge, temperature, charger capability, and vehicle configuration.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2019.12.1/release-notes"
+            }
+          ],
+          "availability": "Hardware-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Range / Charging / Energy"
+          ],
+          "primaryCategory": "Range / Charging / Energy",
+          "source": "tesla-model-3-2017-2019"
+        }
+      ],
+      "source": "tesla-model-3-2017-2019"
+    },
+    {
+      "version": "2019.24.3",
+      "url": "https://www.notateslaapp.com/software-updates/version/2019.24.3/release-notes",
+      "releaseDate": "July 18, 2019",
+      "features": [
+        {
+          "id": "tesla-model-3-ota-2019-24-3-chademo-adapter-support",
+          "title": "CHAdeMO Adapter Support",
+          "type": "ota",
+          "description": "Enabled Model 3 charging at CHAdeMO stations using Tesla’s CHAdeMO Adapter.\n\nRequired separately purchased adapter and compatible station; performance depended on station and market.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2019.24.3/release-notes"
+            }
+          ],
+          "availability": "Region-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Range / Charging / Energy"
+          ],
+          "primaryCategory": "Range / Charging / Energy",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2019-24-3-sketchpad-improvements",
+          "title": "Sketchpad improvements",
+          "type": "ota",
+          "description": "Added color-saturation control and multi-step undo.\n\nEntertainment feature intended for use while parked.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2019.24.3/release-notes"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Productivity",
+            "Media / Entertainment"
+          ],
+          "primaryCategory": "Productivity",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2019-24-3-autosteer-on-limited-access-roads",
+          "title": "Autosteer on limited-access roads",
+          "type": "ota",
+          "description": "Extended Autosteer availability beyond highways to certain limited-access roads, with a gray icon indicating availability before activation.\n\nRequired compatible hardware; subject to road, map, regulatory, and regional limitations.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2019.24.3/release-notes"
+            }
+          ],
+          "availability": "Region-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2019-24-3-application-launcher-reorganization",
+          "title": "Application Launcher reorganization",
+          "type": "ota",
+          "description": "Separated Toybox and Arcade areas for Easter eggs and games.\n\nContent varied by software version and region; intended for parked use.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2019.24.3/release-notes"
+            }
+          ],
+          "availability": "Region-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "UI / Visualization",
+            "Gaming"
+          ],
+          "primaryCategory": "UI / Visualization",
+          "source": "tesla-model-3-2017-2019"
+        }
+      ],
+      "source": "tesla-model-3-2017-2019"
+    },
+    {
+      "version": "2019.36.2.1",
+      "url": "https://www.notateslaapp.com/software-updates/version/2019.36.2.1/release-notes",
+      "releaseDate": "November 11, 2019",
+      "features": [
+        {
+          "id": "tesla-model-3-ota-2019-36-2-1-smart-summon-beta",
+          "title": "Smart Summon Beta",
+          "type": "ota",
+          "description": "Allowed the vehicle to move toward the owner or a selected location through the mobile app while navigating around detected obstacles.\n\nRequired compatible hardware, entitlement, app, calibration, and regional availability; driver remained responsible.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2019.36.2.1/release-notes"
+            }
+          ],
+          "availability": "Region-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Mobile App"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2019-36-2-1-stopping-mode-hold",
+          "title": "Stopping Mode: Hold",
+          "type": "ota",
+          "description": "Added HOLD; regenerative braking continued to low speeds and Vehicle Hold engaged after stopping to maximize range and reduce brake wear.\n\nBehavior depended on selected stopping mode and driving conditions.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2019.36.2.1/release-notes"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Vehicle Control"
+          ],
+          "primaryCategory": "Vehicle Control",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2019-36-2-1-scheduled-departure",
+          "title": "Scheduled Departure",
+          "type": "ota",
+          "description": "Allowed a departure time and location so charging could finish before peak rates and climate could precondition the cabin.\n\nActual schedule depended on utility rates, location, connection, and vehicle state.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2019.36.2.1/release-notes"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Range / Charging / Energy",
+            "Comfort / Climate"
+          ],
+          "primaryCategory": "Range / Charging / Energy",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2019-36-2-1-model-3-power-increase",
+          "title": "Model 3 power increase",
+          "type": "ota",
+          "description": "Increased vehicle power by approximately 5%, improving acceleration and performance.\n\nEffect varied by configuration, battery state, temperature, and calibration.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.notateslaapp.com/software-updates/version/2019.36.2.1/release-notes"
+            }
+          ],
+          "availability": "Hardware-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Performance"
+          ],
+          "primaryCategory": "Performance",
+          "source": "tesla-model-3-2017-2019"
+        }
+      ],
+      "source": "tesla-model-3-2017-2019"
+    },
+    {
+      "version": "2019.40.50.5",
+      "url": "https://tesla-info.com/release/2019.40.50.05",
+      "releaseDate": "December 23, 2019",
+      "features": [
+        {
+          "id": "tesla-model-3-ota-2019-40-50-5-driving-visualization-improvements",
+          "title": "Driving Visualization improvements",
+          "type": "ota",
+          "description": "Added visualization of additional objects including stoplights, stop signs, and selected road markings through the Autopilot settings preview.\n\nTesla’s note limited this to HW3.0/FSD hardware; visualization did not stop the car.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://tesla-info.com/release/2019.40.50.05"
+            }
+          ],
+          "availability": "Hardware-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "UI / Visualization",
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "UI / Visualization",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2019-40-50-5-voice-commands",
+          "title": "Voice Commands",
+          "type": "ota",
+          "description": "Rebuilt voice commands to understand more natural-language requests for climate, vehicle controls, navigation, media, and communication.\n\nInitial release had a limited command set; support varied by language and region.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://www.tesmanian.com/blogs/tesmanian-blog/tesla-2019-40-50-update-features-camp-mode-fsd-preview-holiday-update"
+            }
+          ],
+          "availability": "Region-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Voice & AI"
+          ],
+          "primaryCategory": "Voice & AI",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2019-40-50-5-phone-text-messaging",
+          "title": "Phone text messaging",
+          "type": "ota",
+          "description": "Allowed connected-phone messages to be read aloud and replied to with the right scroll-wheel button; messages could appear in the Cards area.\n\nRequired Bluetooth message synchronization and phone notification permissions.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://teslascope.com/software/2019.40.50"
+            }
+          ],
+          "availability": "Historical / applicability varies",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Phone Call",
+            "Connectivity"
+          ],
+          "primaryCategory": "Phone Call",
+          "source": "tesla-model-3-2017-2019"
+        },
+        {
+          "id": "tesla-model-3-ota-2019-40-50-5-camp-mode",
+          "title": "Camp Mode",
+          "type": "ota",
+          "description": "When parked with Keep Climate On set to CAMP, maintained airflow and temperature, kept interior lighting/music available, and powered devices.\n\nRequired Park and sufficient battery; availability did not appear on every configuration simultaneously.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://tesla-info.com/release/2019.40.50.05"
+            }
+          ],
+          "availability": "Hardware-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Scenario / Mode",
+            "Comfort / Climate"
+          ],
+          "primaryCategory": "Scenario / Mode",
+          "source": "tesla-model-3-2017-2019"
+        }
+      ],
+      "source": "tesla-model-3-2017-2019"
+    },
+    {
+      "version": "2019.40.50",
+      "url": "https://xautoworld.com/news/update-2019_40_50/",
+      "releaseDate": "December 23, 2019",
+      "features": [
+        {
+          "id": "tesla-model-3-ota-2019-40-50-trax-v0-1",
+          "title": "TRAX v0.1",
+          "type": "ota",
+          "description": "Added an in-car music-creation tool for instruments, tempo, multiple tracks, and saving/loading creations.\n\nEntertainment feature intended for use while parked; content varied by region/build.",
+          "image": null,
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Source",
+              "url": "https://xautoworld.com/news/update-2019_40_50/"
+            }
+          ],
+          "availability": "Region-dependent",
+          "models": [
+            "3"
+          ],
+          "categories": [
+            "Media / Entertainment",
+            "Gaming"
+          ],
+          "primaryCategory": "Media / Entertainment",
+          "source": "tesla-model-3-2017-2019"
+        }
+      ],
+      "source": "tesla-model-3-2017-2019"
+    }
+  ],
+  "features": [
+    {
+      "id": "tesla-model-3-sop-sop-july-28-2017-15-inch-horizontal-touchscreen",
+      "title": "15-inch horizontal touchscreen",
+      "type": "sop",
+      "description": "A single 15-inch horizontal touchscreen served as the primary vehicle interface and replaced a conventional instrument cluster.\n\nStandard launch equipment; based on contemporary launch coverage rather than an archived Tesla release note.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.businessinsider.com/tesla-model-3-launch-details-2017-7"
+        }
+      ],
+      "availability": "Launch equipment",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Display",
+        "UI / Visualization"
+      ],
+      "primaryCategory": "Display",
+      "source": "tesla-model-3-2017-2019",
+      "version": "SOP / July 28, 2017",
+      "releaseDate": "July 28, 2017",
+      "releaseUrl": "https://www.businessinsider.com/tesla-model-3-launch-details-2017-7",
+      "year": 2017,
+      "importKind": "SOP"
+    },
+    {
+      "id": "tesla-model-3-sop-sop-july-28-2017-navigation-with-real-time-traffic",
+      "title": "Navigation with real-time traffic",
+      "type": "sop",
+      "description": "Onboard navigation included real-time traffic information.\n\nReported as standard equipment; market and connectivity conditions could affect availability.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.edmunds.com/tesla/model-3/2017/review/"
+        }
+      ],
+      "availability": "Region-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "source": "tesla-model-3-2017-2019",
+      "version": "SOP / July 28, 2017",
+      "releaseDate": "July 28, 2017",
+      "releaseUrl": "https://www.edmunds.com/tesla/model-3/2017/review/",
+      "year": 2017,
+      "importKind": "SOP"
+    },
+    {
+      "id": "tesla-model-3-sop-sop-july-28-2017-bluetooth-hands-free-calling-and-media-streaming",
+      "title": "Bluetooth hands-free calling and media streaming",
+      "type": "sop",
+      "description": "Bluetooth connectivity supported hands-free phone use and media streaming.\n\nPhone compatibility could vary.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.caranddriver.com/tesla/model-3/specs/2017/tesla_model-3_tesla-model-3_2017"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Phone Call",
+        "Connectivity"
+      ],
+      "primaryCategory": "Phone Call",
+      "source": "tesla-model-3-2017-2019",
+      "version": "SOP / July 28, 2017",
+      "releaseDate": "July 28, 2017",
+      "releaseUrl": "https://www.caranddriver.com/tesla/model-3/specs/2017/tesla_model-3_tesla-model-3_2017",
+      "year": 2017,
+      "importKind": "SOP"
+    },
+    {
+      "id": "tesla-model-3-sop-sop-july-28-2017-onboard-wi-fi-and-lte-connectivity",
+      "title": "Onboard Wi-Fi and LTE connectivity",
+      "type": "sop",
+      "description": "The vehicle supported connected services through onboard Wi-Fi and LTE connectivity.\n\nService availability depended on Tesla connectivity service, region, and network coverage.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.caranddriver.com/tesla/model-3/specs/2017/tesla_model-3_tesla-model-3_2017"
+        }
+      ],
+      "availability": "Region-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Connectivity"
+      ],
+      "primaryCategory": "Connectivity",
+      "source": "tesla-model-3-2017-2019",
+      "version": "SOP / July 28, 2017",
+      "releaseDate": "July 28, 2017",
+      "releaseUrl": "https://www.caranddriver.com/tesla/model-3/specs/2017/tesla_model-3_tesla-model-3_2017",
+      "year": 2017,
+      "importKind": "SOP"
+    },
+    {
+      "id": "tesla-model-3-sop-sop-july-28-2017-rearview-camera",
+      "title": "Rearview camera",
+      "type": "sop",
+      "description": "A rearview camera displayed through the central touchscreen was included at launch.\n\nDescribes camera hardware/function, not later software visualization changes.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.cars.com/research/tesla-model_3-2017/"
+        }
+      ],
+      "availability": "Hardware-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Camera"
+      ],
+      "primaryCategory": "Camera",
+      "source": "tesla-model-3-2017-2019",
+      "version": "SOP / July 28, 2017",
+      "releaseDate": "July 28, 2017",
+      "releaseUrl": "https://www.cars.com/research/tesla-model_3-2017/",
+      "year": 2017,
+      "importKind": "SOP"
+    },
+    {
+      "id": "tesla-model-3-sop-sop-july-28-2017-automatic-emergency-braking",
+      "title": "Automatic Emergency Braking",
+      "type": "sop",
+      "description": "Automatic Emergency Braking was listed as standard active-safety equipment.\n\nFunctionality depended on operating conditions and software state; it was not a substitute for attentive driving.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.cars.com/research/tesla-model_3-2017/"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Safety / Emergency"
+      ],
+      "primaryCategory": "Safety / Emergency",
+      "source": "tesla-model-3-2017-2019",
+      "version": "SOP / July 28, 2017",
+      "releaseDate": "July 28, 2017",
+      "releaseUrl": "https://www.cars.com/research/tesla-model_3-2017/",
+      "year": 2017,
+      "importKind": "SOP"
+    },
+    {
+      "id": "tesla-model-3-sop-sop-july-28-2017-traffic-aware-cruise-control-and-autosteer",
+      "title": "Traffic-Aware Cruise Control and Autosteer",
+      "type": "sop",
+      "description": "Enhanced Autopilot coverage described adaptive/traffic-aware cruise control and lane-centering steering assistance.\n\nOptional Enhanced Autopilot package; availability depended on software rollout and region.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.cars.com/research/tesla-model_3-2017/"
+        }
+      ],
+      "availability": "Optional / hardware-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "source": "tesla-model-3-2017-2019",
+      "version": "SOP / July 28, 2017",
+      "releaseDate": "July 28, 2017",
+      "releaseUrl": "https://www.cars.com/research/tesla-model_3-2017/",
+      "year": 2017,
+      "importKind": "SOP"
+    },
+    {
+      "id": "tesla-model-3-sop-sop-july-28-2017-automatic-lane-change-and-autopark",
+      "title": "Automatic lane change and Autopark",
+      "type": "sop",
+      "description": "Enhanced Autopilot launch coverage identified automatic lane changing and self-parking as included or planned capabilities.\n\nOptional Enhanced Autopilot; some functions depended on future software activation and were not necessarily active at first delivery.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.cars.com/research/tesla-model_3-2017/"
+        }
+      ],
+      "availability": "Optional / hardware-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "source": "tesla-model-3-2017-2019",
+      "version": "SOP / July 28, 2017",
+      "releaseDate": "July 28, 2017",
+      "releaseUrl": "https://www.cars.com/research/tesla-model_3-2017/",
+      "year": 2017,
+      "importKind": "SOP"
+    },
+    {
+      "id": "tesla-model-3-ota-2017-40-1-camper-mode",
+      "title": "Camper Mode",
+      "type": "ota",
+      "description": "HVAC and audio could remain usable when the key was absent.\n\nOwner-maintained historical record; exact deployment date and fleet coverage are uncertain.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16"
+        }
+      ],
+      "availability": "Owner-reported / uncertain",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Scenario / Mode",
+        "Comfort / Climate"
+      ],
+      "primaryCategory": "Scenario / Mode",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2017.40.1",
+      "releaseDate": "Before 2017-12-04",
+      "releaseUrl": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16",
+      "year": 2017,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2017-42-tpms-updates",
+      "title": "TPMS updates",
+      "type": "ota",
+      "description": "Updated tire-pressure monitoring behavior and related interface elements.\n\nOwner-maintained summary; exact subfeature behavior is uncertain.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16"
+        }
+      ],
+      "availability": "Owner-reported / uncertain",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Vehicle Control"
+      ],
+      "primaryCategory": "Vehicle Control",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2017.42",
+      "releaseDate": "Before 2017-12-04",
+      "releaseUrl": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16",
+      "year": 2017,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2017-42-seat-belt-warning-menu",
+      "title": "Seat-belt warning menu",
+      "type": "ota",
+      "description": "Updated the seat-belt warning menu.\n\nOwner-maintained summary rather than Tesla archived release-note text.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16"
+        }
+      ],
+      "availability": "Owner-reported / uncertain",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Safety / Emergency",
+        "UI / Visualization"
+      ],
+      "primaryCategory": "Safety / Emergency",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2017.42",
+      "releaseDate": "Before 2017-12-04",
+      "releaseUrl": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16",
+      "year": 2017,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2017-42-odometer-and-power-consumption-display",
+      "title": "Odometer and power-consumption display",
+      "type": "ota",
+      "description": "Updated odometer and power-consumption information displayed in the vehicle UI.\n\nOwner-maintained summary; exact interface changes are uncertain.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16"
+        }
+      ],
+      "availability": "Owner-reported / uncertain",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2017.42",
+      "releaseDate": "Before 2017-12-04",
+      "releaseUrl": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16",
+      "year": 2017,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2017-42-air-vent-gui",
+      "title": "Air-vent GUI",
+      "type": "ota",
+      "description": "Updated the touchscreen air-vent interface.\n\nOwner-maintained summary; exact interface placement is uncertain.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16"
+        }
+      ],
+      "availability": "Owner-reported / uncertain",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Comfort / Climate",
+        "UI / Visualization"
+      ],
+      "primaryCategory": "Comfort / Climate",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2017.42",
+      "releaseDate": "Before 2017-12-04",
+      "releaseUrl": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16",
+      "year": 2017,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2017-44-chill-acceleration-mode",
+      "title": "Chill acceleration mode",
+      "type": "ota",
+      "description": "Added a Chill setting intended to reduce or smooth acceleration for a less aggressive response.\n\nReported in contemporary release-note discussion; delivery varied by rollout.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.reddit.com/r/teslamotors/comments/7auvch/2017_release_notes/"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Performance",
+        "Vehicle Control"
+      ],
+      "primaryCategory": "Performance",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2017.44",
+      "releaseDate": "2017-11-05 to 2017-11-21",
+      "releaseUrl": "https://www.reddit.com/r/teslamotors/comments/7auvch/2017_release_notes/",
+      "year": 2017,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2017-46-10-fm-radio-activation",
+      "title": "FM radio activation",
+      "type": "ota",
+      "description": "FM radio was reported as activated for Model 3 in this build family.\n\nOwner-maintained item; exact build-to-feature mapping and regional availability are not independently confirmed.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16"
+        }
+      ],
+      "availability": "Owner-reported / uncertain",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Audio"
+      ],
+      "primaryCategory": "Audio",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2017.46.10",
+      "releaseDate": "Before 2017-12-12",
+      "releaseUrl": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16",
+      "year": 2017,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2017-48-6-persistent-wiper-control",
+      "title": "Persistent wiper control",
+      "type": "ota",
+      "description": "A permanent windshield-wiper button was reported on the main touchscreen.\n\nOwner-maintained summary; exact interface placement and rollout population are uncertain.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16"
+        }
+      ],
+      "availability": "Owner-reported / uncertain",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Vehicle Control"
+      ],
+      "primaryCategory": "Vehicle Control",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2017.48.6",
+      "releaseDate": "December 14, 2017",
+      "releaseUrl": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16",
+      "year": 2017,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2017-48-6-immersive-sound-audio-setting",
+      "title": "Immersive Sound audio setting",
+      "type": "ota",
+      "description": "Added audio settings identified as Immersive Sound.\n\nApplicability may depend on the installed audio system.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16"
+        }
+      ],
+      "availability": "Hardware-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Audio"
+      ],
+      "primaryCategory": "Audio",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2017.48.6",
+      "releaseDate": "December 14, 2017",
+      "releaseUrl": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16",
+      "year": 2017,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2017-48-9-usb-control-in-audio",
+      "title": "USB control in Audio",
+      "type": "ota",
+      "description": "Added a USB button/control in the audio section.\n\nExact supported media behavior is not documented in the cited source.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Audio"
+      ],
+      "primaryCategory": "Audio",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2017.48.9",
+      "releaseDate": "December 21, 2017",
+      "releaseUrl": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16",
+      "year": 2017,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2017-48-9-voice-activated-bug-report",
+      "title": "Voice-activated bug report",
+      "type": "ota",
+      "description": "Made a voice-activated bug-report function available.\n\nExact voice command and regional availability are uncertain.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16"
+        }
+      ],
+      "availability": "Owner-reported / uncertain",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Voice & AI",
+        "Service / Support"
+      ],
+      "primaryCategory": "Voice & AI",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2017.48.9",
+      "releaseDate": "December 21, 2017",
+      "releaseUrl": "https://www.teslaownersonline.com/threads/model-3-master-firmware-updates-list-and-pre-2018-12-discussion.5471/page-16",
+      "year": 2017,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2017-48-15-automatic-windshield-wipers",
+      "title": "Automatic windshield wipers",
+      "type": "ota",
+      "description": "Automatic rain-sensing wipers were reported in Model 3 firmware; contemporaneous coverage described the feature as beta.\n\nOwner-reported and not supported here by complete Tesla release-note text; rollout timing and behavior are uncertain.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://electrek.co/2018/01/01/tesla-releases-automatic-wiper-update-beta/"
+        }
+      ],
+      "availability": "Owner-reported / uncertain",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Vehicle Control"
+      ],
+      "primaryCategory": "Vehicle Control",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2017.48.15",
+      "releaseDate": "December 31, 2017",
+      "releaseUrl": "https://electrek.co/2018/01/01/tesla-releases-automatic-wiper-update-beta/",
+      "year": 2017,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-10-1-rear-heated-seats",
+      "title": "Rear heated seats",
+      "type": "ota",
+      "description": "Added touchscreen controls for Model 3 rear seat heaters.\n\nRequired corresponding rear-seat hardware; owner-reported release detail.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.teslarati.com/tesla-model-3-2018-10-1-ota-update-heated-rear-seats/"
+        }
+      ],
+      "availability": "Owner-reported / uncertain",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Comfort / Climate"
+      ],
+      "primaryCategory": "Comfort / Climate",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.10.1",
+      "releaseDate": "March 2018",
+      "releaseUrl": "https://www.teslarati.com/tesla-model-3-2018-10-1-ota-update-heated-rear-seats/",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-10-1-automatic-emergency-braking-update",
+      "title": "Automatic Emergency Braking update",
+      "type": "ota",
+      "description": "Adjusted Automatic Emergency Braking behavior as part of the safety software update.\n\nExact calibration change and hardware applicability were not publicly detailed.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.teslarati.com/tesla-model-3-2018-10-1-ota-update-heated-rear-seats/"
+        }
+      ],
+      "availability": "Hardware-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Safety / Emergency"
+      ],
+      "primaryCategory": "Safety / Emergency",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.10.1",
+      "releaseDate": "March 2018",
+      "releaseUrl": "https://www.teslarati.com/tesla-model-3-2018-10-1-ota-update-heated-rear-seats/",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-10-1-phone-based-vehicle-unlocking-changes",
+      "title": "Phone-based vehicle unlocking changes",
+      "type": "ota",
+      "description": "Improved the way Model 3 handled phone-based unlocking and vehicle access.\n\nExact UI/authentication changes were not publicly detailed.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.teslarati.com/tesla-model-3-2018-10-1-ota-update-heated-rear-seats/"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Mobile App",
+        "Security"
+      ],
+      "primaryCategory": "Mobile App",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.10.1",
+      "releaseDate": "March 2018",
+      "releaseUrl": "https://www.teslarati.com/tesla-model-3-2018-10-1-ota-update-heated-rear-seats/",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-18-1-automatic-high-beams",
+      "title": "Automatic high beams",
+      "type": "ota",
+      "description": "Added automatic high-beam control that dims headlights when oncoming or nearby light sources are detected and restores high beams when conditions permit.\n\nOperation depended on camera detection and lighting conditions.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.teslarati.com/tesla-model-3-update-auto-dimming-high-beams-ui-changes/"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Lighting",
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Lighting",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.18.1",
+      "releaseDate": "May 2018",
+      "releaseUrl": "https://www.teslarati.com/tesla-model-3-update-auto-dimming-high-beams-ui-changes/",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-18-x-braking-distance-improvement",
+      "title": "Braking-distance improvement",
+      "type": "ota",
+      "description": "Recalibrated braking software and ABS behavior; Consumer Reports measured a reduction in 60-mph stopping distance from 152 feet to 133 feet.\n\nExact Tesla build is not consistently identified; result came from an independent retest rather than a complete Tesla release note.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.consumerreports.org/car-safety/tesla-model-3-gets-cr-recommendation-after-braking-update/"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Vehicle Control",
+        "Safety / Emergency"
+      ],
+      "primaryCategory": "Vehicle Control",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.18.x",
+      "releaseDate": "Late May 2018",
+      "releaseUrl": "https://www.consumerreports.org/car-safety/tesla-model-3-gets-cr-recommendation-after-braking-update/",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-24-2018-24-1-model-3-wi-fi-connectivity",
+      "title": "Model 3 Wi-Fi connectivity",
+      "type": "ota",
+      "description": "Added or improved Wi-Fi connectivity for Model 3.\n\nSubversion attribution and exact rollout varied in contemporaneous reports.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://electrek.co/2018/06/22/tesla-model-3-update-summon-feature-cabin-overheat-protection-wifi/"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Connectivity"
+      ],
+      "primaryCategory": "Connectivity",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.24 / 2018.24.1",
+      "releaseDate": "2018-06-19 to 2018-06-21",
+      "releaseUrl": "https://electrek.co/2018/06/22/tesla-model-3-update-summon-feature-cabin-overheat-protection-wifi/",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-24-2018-24-1-cabin-overheat-protection",
+      "title": "Cabin Overheat Protection",
+      "type": "ota",
+      "description": "Added a parked-vehicle climate behavior intended to limit excessive cabin heat.\n\nAvailability and operation depended on vehicle settings, battery state, region, and environmental conditions.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://electrek.co/2018/06/22/tesla-model-3-update-summon-feature-cabin-overheat-protection-wifi/"
+        }
+      ],
+      "availability": "Region-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Comfort / Climate",
+        "Safety / Emergency"
+      ],
+      "primaryCategory": "Comfort / Climate",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.24 / 2018.24.1",
+      "releaseDate": "2018-06-19 to 2018-06-21",
+      "releaseUrl": "https://electrek.co/2018/06/22/tesla-model-3-update-summon-feature-cabin-overheat-protection-wifi/",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-24-2018-24-1-summon-for-eligible-enhanced-autopilot-vehicles",
+      "title": "Summon for eligible Enhanced Autopilot vehicles",
+      "type": "ota",
+      "description": "Enabled Summon capability for eligible Model 3 vehicles.\n\nRequired compatible hardware/package and remained subject to calibration, region, and staged rollout.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://electrek.co/2018/06/22/tesla-model-3-update-summon-feature-cabin-overheat-protection-wifi/"
+        }
+      ],
+      "availability": "Optional / hardware-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.24 / 2018.24.1",
+      "releaseDate": "2018-06-19 to 2018-06-21",
+      "releaseUrl": "https://electrek.co/2018/06/22/tesla-model-3-update-summon-feature-cabin-overheat-protection-wifi/",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-32-4-pin-to-drive",
+      "title": "PIN to Drive",
+      "type": "ota",
+      "description": "Added a security setting requiring a personal identification number before the vehicle could be driven.\n\nExact regional rollout and prerequisite settings were not established.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://teslamotorsclub.com/tmc/threads/software-update-2018-32-4.127397/"
+        }
+      ],
+      "availability": "Region-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Security"
+      ],
+      "primaryCategory": "Security",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.32.4",
+      "releaseDate": "September 2018",
+      "releaseUrl": "https://teslamotorsclub.com/tmc/threads/software-update-2018-32-4.127397/",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-39-7-version-9-0-touchscreen-refresh",
+      "title": "Version 9.0 touchscreen refresh",
+      "type": "ota",
+      "description": "Introduced a redesigned touchscreen/app experience with broader changes to Climate, Navigation, Media, Controls, and safety-related functions.\n\nIndividual feature availability varied by hardware, market, and staged rollout.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+        }
+      ],
+      "availability": "Region-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "UI / Visualization"
+      ],
+      "primaryCategory": "UI / Visualization",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.39.7",
+      "releaseDate": "October 2018",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-39-7-navigate-on-autopilot-beta",
+      "title": "Navigate on Autopilot Beta",
+      "type": "ota",
+      "description": "Guided the vehicle along a navigation route, suggested lane changes, and guided the vehicle toward highway interchanges and exits on controlled-access roads.\n\nRequired Enhanced Autopilot, current maps, camera calibration, and eligible market; driver confirmation was required for early lane changes.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+        }
+      ],
+      "availability": "Optional / hardware-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.39.7",
+      "releaseDate": "October 2018",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-39-7-combined-autosteer-and-auto-lane-change",
+      "title": "Combined Autosteer and Auto Lane Change",
+      "type": "ota",
+      "description": "Combined Autosteer and Auto Lane Change into one Autosteer setting; using the turn signal while Autosteer was active initiated a lane change.\n\nRequired compatible Autopilot functionality and driver supervision.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.39.7",
+      "releaseDate": "October 2018",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-39-7-blind-spot-warning",
+      "title": "Blind Spot Warning",
+      "type": "ota",
+      "description": "Turned the touchscreen lane line red when the turn signal was engaged and a moving vehicle/obstacle was detected in the target lane.\n\nWarning aid only; performance depended on sensor visibility and conditions.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Safety / Emergency",
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Safety / Emergency",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.39.7",
+      "releaseDate": "October 2018",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-39-7-dashcam",
+      "title": "Dashcam",
+      "type": "ota",
+      "description": "Enabled recording from the narrow forward-facing camera to a USB drive using a TeslaCam folder; the driver could save the preceding ten minutes.\n\nRequired compatible USB storage and correct folder setup; documented implementation used the forward camera.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Camera"
+      ],
+      "primaryCategory": "Camera",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.39.7",
+      "releaseDate": "October 2018",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-39-7-mobile-app-navigation-sharing",
+      "title": "Mobile app navigation sharing",
+      "type": "ota",
+      "description": "Allowed users to send a destination to the vehicle from supported phone-app share sheets.\n\nRequired phone permissions and Tesla share-sheet setup.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Mobile App",
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Mobile App",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.39.7",
+      "releaseDate": "October 2018",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-39-7-mobile-app-software-update-initiation",
+      "title": "Mobile app software-update initiation",
+      "type": "ota",
+      "description": "Allowed an available vehicle update to be started from the Tesla mobile app, with a short cancellation window.\n\nRequired compatible app, vehicle connectivity, and staged rollout.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Mobile App",
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Mobile App",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.39.7",
+      "releaseDate": "October 2018",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-39-7-application-launcher",
+      "title": "Application launcher",
+      "type": "ota",
+      "description": "Added a bottom-of-screen launcher bringing Calendar, Energy, Web Browser, Rear View Camera, Phone, and Charging into one place.\n\nExact app set varied by configuration and market.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+        }
+      ],
+      "availability": "Region-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "UI / Visualization"
+      ],
+      "primaryCategory": "UI / Visualization",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.39.7",
+      "releaseDate": "October 2018",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-39-7-calendar-app",
+      "title": "Calendar app",
+      "type": "ota",
+      "description": "Displayed the current and next day from the phone calendar and integrated events with calling and navigation.\n\nRequired Bluetooth connection and Calendar Sync permission.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Productivity"
+      ],
+      "primaryCategory": "Productivity",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.39.7",
+      "releaseDate": "October 2018",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-39-7-energy-app",
+      "title": "Energy app",
+      "type": "ota",
+      "description": "Displayed real-time and projected trip energy consumption when navigation was active.\n\nProjected consumption depended on an active route and available energy data.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Range / Charging / Energy"
+      ],
+      "primaryCategory": "Range / Charging / Energy",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.39.7",
+      "releaseDate": "October 2018",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-39-7-web-browser",
+      "title": "Web browser",
+      "type": "ota",
+      "description": "Added an in-vehicle Web browser application.\n\nRequired vehicle connectivity and regional service availability.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+        }
+      ],
+      "availability": "Region-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Media / Entertainment"
+      ],
+      "primaryCategory": "Media / Entertainment",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.39.7",
+      "releaseDate": "October 2018",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-39-7-climate-control-gesture-interface",
+      "title": "Climate-control gesture interface",
+      "type": "ota",
+      "description": "Added airflow visualization, swipe temperature adjustment, swipe-down dismissal, and press-and-hold Climate-off behavior.\n\nSpecific controls varied with equipment and temperature-zone configuration.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+        }
+      ],
+      "availability": "Hardware-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Comfort / Climate",
+        "UI / Visualization"
+      ],
+      "primaryCategory": "Comfort / Climate",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.39.7",
+      "releaseDate": "October 2018",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-39-7-navigation-redesign",
+      "title": "Navigation redesign",
+      "type": "ota",
+      "description": "Moved directions to the left side, simplified upcoming turns, added highway-exit information, and made navigation settings accessible from the map.\n\nRequired updated navigation data; map content varied by region.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+        }
+      ],
+      "availability": "Region-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "UI / Visualization"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.39.7",
+      "releaseDate": "October 2018",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-39-7-hov-lane-routing-preference",
+      "title": "HOV-lane routing preference",
+      "type": "ota",
+      "description": "Added a setting indicating HOV eligibility so navigation could include or avoid HOV lanes.\n\nRequired current maps and depended on local rules and map coverage.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.39.7",
+      "releaseDate": "October 2018",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-39-7-traffic-view-restyling",
+      "title": "Traffic view restyling",
+      "type": "ota",
+      "description": "Restyled traffic visualization to emphasize slower/delayed roads with red and yellow outlines.\n\nTraffic display depended on connectivity and available traffic data.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "UI / Visualization"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.39.7",
+      "releaseDate": "October 2018",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2018.39.7/release-notes",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-48-12-1-keep-climate-on",
+      "title": "Keep Climate On",
+      "type": "ota",
+      "description": "Maintained selected cabin temperature after the driver left; climate automatically shut off at 20% battery.\n\nBattery cutoff and behavior could vary with vehicle state and conditions.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2018.48.12.1/release-notes"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Scenario / Mode",
+        "Comfort / Climate"
+      ],
+      "primaryCategory": "Scenario / Mode",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.48.12.1",
+      "releaseDate": "December 19, 2018",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2018.48.12.1/release-notes",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-48-12-1-romance-mode",
+      "title": "Romance Mode",
+      "type": "ota",
+      "description": "Added a parked-car fireplace visual and associated audio as an in-car Easter egg.\n\nEntertainment Easter egg intended for stationary use; market availability may vary.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2018.48.12.1/release-notes"
+        }
+      ],
+      "availability": "Region-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Media / Entertainment",
+        "Scenario / Mode"
+      ],
+      "primaryCategory": "Media / Entertainment",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.48.12.1",
+      "releaseDate": "December 19, 2018",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2018.48.12.1/release-notes",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-48-12-1-emissions-testing-mode",
+      "title": "Emissions Testing Mode",
+      "type": "ota",
+      "description": "Added an Easter egg that played selected novelty sounds through the vehicle speakers.\n\nEntertainment feature intended for stationary use.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2018.48.12.1/release-notes"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Media / Entertainment",
+        "Scenario / Mode"
+      ],
+      "primaryCategory": "Media / Entertainment",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.48.12.1",
+      "releaseDate": "December 19, 2018",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2018.48.12.1/release-notes",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-48-12-1-pole-position",
+      "title": "Pole Position",
+      "type": "ota",
+      "description": "Added a TeslAtari version of Pole Position playable while parked with steering wheel, brake pedal, and scroll wheels.\n\nRequired the vehicle to be in Park.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2018.48.12.1/release-notes"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Gaming"
+      ],
+      "primaryCategory": "Gaming",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.48.12.1",
+      "releaseDate": "December 19, 2018",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2018.48.12.1/release-notes",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2018-48-12-1-teslatari-usb-game-controller-support",
+      "title": "TeslAtari USB game-controller support",
+      "type": "ota",
+      "description": "Allowed TeslAtari games to be played with a USB controller connected to a front USB port.\n\nController behavior could vary by make/model; games were available only while parked.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2018.48.12.1/release-notes"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Gaming"
+      ],
+      "primaryCategory": "Gaming",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2018.48.12.1",
+      "releaseDate": "December 19, 2018",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2018.48.12.1/release-notes",
+      "year": 2018,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-8-3-sentry-mode",
+      "title": "Sentry Mode",
+      "type": "ota",
+      "description": "Continuously monitored surroundings while locked and parked; detected threats could trigger Alert/Alarm states with touchscreen and mobile notifications. Video saving required a formatted USB drive.\n\nRequires compatible Autopilot hardware; some owner reports place early availability in 2019.5.x.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes"
+        }
+      ],
+      "availability": "Hardware-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Security",
+        "Camera"
+      ],
+      "primaryCategory": "Security",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.8.3",
+      "releaseDate": "March 28, 2019",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-8-3-dog-mode",
+      "title": "Dog Mode",
+      "type": "ota",
+      "description": "Kept climate control operating while parked and displayed the current cabin temperature on the touchscreen.\n\nClimate/battery dependent; early availability varied by vehicle and rollout.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Comfort / Climate",
+        "Scenario / Mode"
+      ],
+      "primaryCategory": "Comfort / Climate",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.8.3",
+      "releaseDate": "March 28, 2019",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-8-3-peak-power-increase",
+      "title": "Peak Power Increase",
+      "type": "ota",
+      "description": "Increased vehicle peak power by approximately 5%, improving acceleration and performance.\n\nEffect varied by configuration, battery state, temperature, and calibration.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes"
+        }
+      ],
+      "availability": "Hardware-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Performance"
+      ],
+      "primaryCategory": "Performance",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.8.3",
+      "releaseDate": "March 28, 2019",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-8-3-dynamic-brake-lights",
+      "title": "Dynamic Brake Lights",
+      "type": "ota",
+      "description": "Above 50 km/h, forceful braking could flash brake lights rapidly; after stopping, hazard lights could flash until canceled.\n\nDriving-assistance/safety behavior varied by conditions and calibration.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Lighting",
+        "Safety / Emergency"
+      ],
+      "primaryCategory": "Lighting",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.8.3",
+      "releaseDate": "March 28, 2019",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-8-3-autosteer-stop-light-warning",
+      "title": "Autosteer Stop Light Warning",
+      "type": "ota",
+      "description": "Could warn the driver when the vehicle detected a possible red-light approach while Autosteer was active; it did not stop the vehicle.\n\nRequired compatible hardware and was region-dependent; not a substitute for driver attention.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes"
+        }
+      ],
+      "availability": "Region-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.8.3",
+      "releaseDate": "March 28, 2019",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-8-3-navigate-on-autopilot-beta",
+      "title": "Navigate on Autopilot Beta",
+      "type": "ota",
+      "description": "Suggested lane changes to stay on route, avoid slower traffic, and guide the vehicle toward interchanges/exits on controlled-access roads.\n\nRequired compatible hardware, maps, calibration, and entitlement; regional road/regulatory availability varied.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes"
+        }
+      ],
+      "availability": "Region-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.8.3",
+      "releaseDate": "March 28, 2019",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-8-3-enhanced-summon",
+      "title": "Enhanced Summon",
+      "type": "ota",
+      "description": "Allowed the driver to guide the vehicle from the Tesla app toward the driver or a selected destination while maneuvering around detected objects.\n\nBeta/parking-lot use; required compatible hardware, app, GPS, cellular service, calibration, and supervision.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes"
+        }
+      ],
+      "availability": "Beta / limited rollout",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.8.3",
+      "releaseDate": "March 28, 2019",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-8-3-trip-planner-beta",
+      "title": "Trip Planner Beta",
+      "type": "ota",
+      "description": "Routed long trips through appropriate Supercharger locations and selected a route intended to minimize driving and charging time.\n\nRouting depended on map data, vehicle configuration, and region.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes"
+        }
+      ],
+      "availability": "Region-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.8.3",
+      "releaseDate": "March 28, 2019",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.8.3/release-notes",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-12-software-update-controls",
+      "title": "Software Update Controls",
+      "type": "ota",
+      "description": "Added a Controls > Software view showing installed version, available packages, download progress over Wi-Fi, and immediate/scheduled installation options.\n\nApproximate date inferred from version sequence; archive date is unreliable.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2019.12/release-notes"
+        }
+      ],
+      "availability": "Owner-reported / uncertain",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Vehicle OS",
+        "Service / Support"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.12",
+      "releaseDate": "May-June 2019",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.12/release-notes",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-12-teslatari-improvements",
+      "title": "TeslAtari improvements",
+      "type": "ota",
+      "description": "Added full-screen gameplay, improved touchscreen controls, a new game menu, and games including 2048 and Super Breakout.\n\nAvailable only while parked; game availability varied by market/build.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2019.12/release-notes"
+        }
+      ],
+      "availability": "Region-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Gaming"
+      ],
+      "primaryCategory": "Gaming",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.12",
+      "releaseDate": "May-June 2019",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.12/release-notes",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-12-1-supercharging-improvements",
+      "title": "Supercharging improvements",
+      "type": "ota",
+      "description": "Enabled Model 3 charging at peak rates up to approximately 150 kW at compatible Supercharger stations.\n\nPeak rate depended on battery, state of charge, temperature, charger capability, and vehicle configuration.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2019.12.1/release-notes"
+        }
+      ],
+      "availability": "Hardware-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Range / Charging / Energy"
+      ],
+      "primaryCategory": "Range / Charging / Energy",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.12.1",
+      "releaseDate": "May-June 2019",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.12.1/release-notes",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-12-on-route-battery-warmup",
+      "title": "On-Route Battery Warmup",
+      "type": "ota",
+      "description": "When navigating to a Supercharger, heated the battery toward an optimal charging temperature; Tesla stated an average charge-time reduction of 25%.\n\nThe 25% was Tesla’s estimate, not a guarantee; depended on conditions and route.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2019.12/release-notes"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Range / Charging / Energy"
+      ],
+      "primaryCategory": "Range / Charging / Energy",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.12",
+      "releaseDate": "May-June 2019",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.12/release-notes",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-12-dashcam-side-camera-recording",
+      "title": "Dashcam side-camera recording",
+      "type": "ota",
+      "description": "Extended Dashcam recording to the vehicle’s side cameras in addition to the narrow forward camera.\n\nRequired supported camera/software configuration and storage; archived model labels were inconsistent.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2019.12/release-notes"
+        }
+      ],
+      "availability": "Hardware-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Camera"
+      ],
+      "primaryCategory": "Camera",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.12",
+      "releaseDate": "May-June 2019",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.12/release-notes",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-12-auto-high-beam",
+      "title": "Auto High Beam",
+      "type": "ota",
+      "description": "Automatically switched from high beams to low beams when another vehicle was detected ahead.\n\nOperation depended on lighting and camera detection.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2019.12/release-notes"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Lighting"
+      ],
+      "primaryCategory": "Lighting",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.12",
+      "releaseDate": "May-June 2019",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.12/release-notes",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-12-tire-pressure-monitoring-reset",
+      "title": "Tire Pressure Monitoring reset",
+      "type": "ota",
+      "description": "Allowed TPMS sensors to be reset to a user-selected pressure baseline, supporting aftermarket tires and track use.\n\nResetting TPMS did not validate safe tire pressure.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2019.12/release-notes"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Vehicle Control"
+      ],
+      "primaryCategory": "Vehicle Control",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.12",
+      "releaseDate": "May-June 2019",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.12/release-notes",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-24-3-chademo-adapter-support",
+      "title": "CHAdeMO Adapter Support",
+      "type": "ota",
+      "description": "Enabled Model 3 charging at CHAdeMO stations using Tesla’s CHAdeMO Adapter.\n\nRequired separately purchased adapter and compatible station; performance depended on station and market.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2019.24.3/release-notes"
+        }
+      ],
+      "availability": "Region-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Range / Charging / Energy"
+      ],
+      "primaryCategory": "Range / Charging / Energy",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.24.3",
+      "releaseDate": "July 18, 2019",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.24.3/release-notes",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-24-3-sketchpad-improvements",
+      "title": "Sketchpad improvements",
+      "type": "ota",
+      "description": "Added color-saturation control and multi-step undo.\n\nEntertainment feature intended for use while parked.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2019.24.3/release-notes"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Productivity",
+        "Media / Entertainment"
+      ],
+      "primaryCategory": "Productivity",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.24.3",
+      "releaseDate": "July 18, 2019",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.24.3/release-notes",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-24-3-autosteer-on-limited-access-roads",
+      "title": "Autosteer on limited-access roads",
+      "type": "ota",
+      "description": "Extended Autosteer availability beyond highways to certain limited-access roads, with a gray icon indicating availability before activation.\n\nRequired compatible hardware; subject to road, map, regulatory, and regional limitations.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2019.24.3/release-notes"
+        }
+      ],
+      "availability": "Region-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.24.3",
+      "releaseDate": "July 18, 2019",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.24.3/release-notes",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-24-3-application-launcher-reorganization",
+      "title": "Application Launcher reorganization",
+      "type": "ota",
+      "description": "Separated Toybox and Arcade areas for Easter eggs and games.\n\nContent varied by software version and region; intended for parked use.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2019.24.3/release-notes"
+        }
+      ],
+      "availability": "Region-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "UI / Visualization",
+        "Gaming"
+      ],
+      "primaryCategory": "UI / Visualization",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.24.3",
+      "releaseDate": "July 18, 2019",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.24.3/release-notes",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-36-2-1-smart-summon-beta",
+      "title": "Smart Summon Beta",
+      "type": "ota",
+      "description": "Allowed the vehicle to move toward the owner or a selected location through the mobile app while navigating around detected obstacles.\n\nRequired compatible hardware, entitlement, app, calibration, and regional availability; driver remained responsible.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2019.36.2.1/release-notes"
+        }
+      ],
+      "availability": "Region-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Mobile App"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.36.2.1",
+      "releaseDate": "November 11, 2019",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.36.2.1/release-notes",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-36-2-1-stopping-mode-hold",
+      "title": "Stopping Mode: Hold",
+      "type": "ota",
+      "description": "Added HOLD; regenerative braking continued to low speeds and Vehicle Hold engaged after stopping to maximize range and reduce brake wear.\n\nBehavior depended on selected stopping mode and driving conditions.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2019.36.2.1/release-notes"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Vehicle Control"
+      ],
+      "primaryCategory": "Vehicle Control",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.36.2.1",
+      "releaseDate": "November 11, 2019",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.36.2.1/release-notes",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-36-2-1-scheduled-departure",
+      "title": "Scheduled Departure",
+      "type": "ota",
+      "description": "Allowed a departure time and location so charging could finish before peak rates and climate could precondition the cabin.\n\nActual schedule depended on utility rates, location, connection, and vehicle state.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2019.36.2.1/release-notes"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Range / Charging / Energy",
+        "Comfort / Climate"
+      ],
+      "primaryCategory": "Range / Charging / Energy",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.36.2.1",
+      "releaseDate": "November 11, 2019",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.36.2.1/release-notes",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-36-2-1-model-3-power-increase",
+      "title": "Model 3 power increase",
+      "type": "ota",
+      "description": "Increased vehicle power by approximately 5%, improving acceleration and performance.\n\nEffect varied by configuration, battery state, temperature, and calibration.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.notateslaapp.com/software-updates/version/2019.36.2.1/release-notes"
+        }
+      ],
+      "availability": "Hardware-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Performance"
+      ],
+      "primaryCategory": "Performance",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.36.2.1",
+      "releaseDate": "November 11, 2019",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.36.2.1/release-notes",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-40-50-5-driving-visualization-improvements",
+      "title": "Driving Visualization improvements",
+      "type": "ota",
+      "description": "Added visualization of additional objects including stoplights, stop signs, and selected road markings through the Autopilot settings preview.\n\nTesla’s note limited this to HW3.0/FSD hardware; visualization did not stop the car.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://tesla-info.com/release/2019.40.50.05"
+        }
+      ],
+      "availability": "Hardware-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "UI / Visualization",
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "UI / Visualization",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.40.50.5",
+      "releaseDate": "December 23, 2019",
+      "releaseUrl": "https://tesla-info.com/release/2019.40.50.05",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-40-50-5-voice-commands",
+      "title": "Voice Commands",
+      "type": "ota",
+      "description": "Rebuilt voice commands to understand more natural-language requests for climate, vehicle controls, navigation, media, and communication.\n\nInitial release had a limited command set; support varied by language and region.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://www.tesmanian.com/blogs/tesmanian-blog/tesla-2019-40-50-update-features-camp-mode-fsd-preview-holiday-update"
+        }
+      ],
+      "availability": "Region-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Voice & AI"
+      ],
+      "primaryCategory": "Voice & AI",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.40.50.5",
+      "releaseDate": "December 23, 2019",
+      "releaseUrl": "https://www.tesmanian.com/blogs/tesmanian-blog/tesla-2019-40-50-update-features-camp-mode-fsd-preview-holiday-update",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-40-50-5-phone-text-messaging",
+      "title": "Phone text messaging",
+      "type": "ota",
+      "description": "Allowed connected-phone messages to be read aloud and replied to with the right scroll-wheel button; messages could appear in the Cards area.\n\nRequired Bluetooth message synchronization and phone notification permissions.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://teslascope.com/software/2019.40.50"
+        }
+      ],
+      "availability": "Historical / applicability varies",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Phone Call",
+        "Connectivity"
+      ],
+      "primaryCategory": "Phone Call",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.40.50.5",
+      "releaseDate": "December 23, 2019",
+      "releaseUrl": "https://teslascope.com/software/2019.40.50",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-40-50-5-camp-mode",
+      "title": "Camp Mode",
+      "type": "ota",
+      "description": "When parked with Keep Climate On set to CAMP, maintained airflow and temperature, kept interior lighting/music available, and powered devices.\n\nRequired Park and sufficient battery; availability did not appear on every configuration simultaneously.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://tesla-info.com/release/2019.40.50.05"
+        }
+      ],
+      "availability": "Hardware-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Scenario / Mode",
+        "Comfort / Climate"
+      ],
+      "primaryCategory": "Scenario / Mode",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.40.50.5",
+      "releaseDate": "December 23, 2019",
+      "releaseUrl": "https://tesla-info.com/release/2019.40.50.05",
+      "year": 2019,
+      "importKind": "OTA"
+    },
+    {
+      "id": "tesla-model-3-ota-2019-40-50-trax-v0-1",
+      "title": "TRAX v0.1",
+      "type": "ota",
+      "description": "Added an in-car music-creation tool for instruments, tempo, multiple tracks, and saving/loading creations.\n\nEntertainment feature intended for use while parked; content varied by region/build.",
+      "image": null,
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Source",
+          "url": "https://xautoworld.com/news/update-2019_40_50/"
+        }
+      ],
+      "availability": "Region-dependent",
+      "models": [
+        "3"
+      ],
+      "categories": [
+        "Media / Entertainment",
+        "Gaming"
+      ],
+      "primaryCategory": "Media / Entertainment",
+      "source": "tesla-model-3-2017-2019",
+      "version": "2019.40.50",
+      "releaseDate": "December 23, 2019",
+      "releaseUrl": "https://xautoworld.com/news/update-2019_40_50/",
+      "year": 2019,
+      "importKind": "OTA"
+    }
+  ]
+}

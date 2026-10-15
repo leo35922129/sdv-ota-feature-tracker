@@ -1,0 +1,62 @@
+name: Sync OTA sources
+
+on:
+  schedule:
+    # GitHub may delay cron jobs under load; 30 min is the practical poll interval.
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-ota-sources
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Check Tesla and Rivian OTA sources
+        run: node scripts/monitor.mjs
+
+      - name: Decide whether to publish
+        id: decide
+        run: node scripts/monitor.mjs --publish-check
+
+      - name: Commit and push new release notes
+        id: publish
+        run: |
+          set -euo pipefail
+          if [ "${{ steps.decide.outputs.publish }}" != "true" ]; then
+            echo "No publishable OTA updates."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -u -- \
+            data/releases.json \
+            data/rivian-releases.json \
+            data/checkpoint.json \
+            data/rivian-checkpoint.json \
+            data/rivian-wave-checkpoint.json \
+            data/electrek-tesla-features.json \
+            data/monitor-status.json
+          if git diff --cached --quiet; then
+            echo "Monitor reported updates, but data files are unchanged."
+            exit 0
+          fi
+          git commit -m "Sync Tesla and Rivian OTA release notes."
+          git push origin HEAD:main

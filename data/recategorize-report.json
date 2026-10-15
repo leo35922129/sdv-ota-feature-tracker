@@ -1,0 +1,1869 @@
+{
+  "recategorizedAt": "2026-08-14T16:11:56.081Z",
+  "featureCount": 4053,
+  "renames": {
+    "FSD": "Autopilot / Full Self-Driving",
+    "Driver Profile": "Profile",
+    "Charging": "Range / Charging / Energy",
+    "Map / Navigation / Trip": "Map / Navigation / Trip / Route"
+  },
+  "addedCategories": [
+    "Display",
+    "Performance",
+    "Phone Call",
+    "Security",
+    "Audio"
+  ],
+  "beforeCounts": {
+    "Vehicle OS": 745,
+    "Map / Navigation / Trip / Route": 762,
+    "Productivity": 45,
+    "Voice & AI": 72,
+    "Media / Entertainment": 486,
+    "Comfort / Climate": 253,
+    "Gaming": 127,
+    "UI / Visualization": 369,
+    "Autopilot / Full Self-Driving": 847,
+    "Camera": 585,
+    "Mobile App": 430,
+    "Safety / Emergency": 372,
+    "Vehicle Control": 638,
+    "Service / Support": 115,
+    "Profile": 81,
+    "Onboarding / Tutorial": 92,
+    "Scenario / Mode": 154,
+    "Lighting": 83,
+    "Range / Charging / Energy": 332,
+    "Trailering": 22
+  },
+  "afterCounts": {
+    "Vehicle OS": 445,
+    "Autopilot / Full Self-Driving": 918,
+    "Mobile App": 138,
+    "Profile": 25,
+    "Range / Charging / Energy": 342,
+    "Vehicle Control": 246,
+    "Comfort / Climate": 180,
+    "Media / Entertainment": 150,
+    "Audio": 311,
+    "Map / Navigation / Trip / Route": 643,
+    "Camera": 485,
+    "Lighting": 35,
+    "Display": 79,
+    "Performance": 28,
+    "Phone Call": 44,
+    "Security": 191,
+    "Voice & AI": 85,
+    "Trailering": 22,
+    "Gaming": 131,
+    "Productivity": 14,
+    "Safety / Emergency": 79,
+    "Service / Support": 38,
+    "UI / Visualization": 77,
+    "Onboarding / Tutorial": 11,
+    "Scenario / Mode": 10
+  },
+  "countDelta": {
+    "Audio": 311,
+    "Autopilot / Full Self-Driving": 71,
+    "Camera": -100,
+    "Comfort / Climate": -73,
+    "Display": 79,
+    "Gaming": 4,
+    "Lighting": -48,
+    "Map / Navigation / Trip / Route": -119,
+    "Media / Entertainment": -336,
+    "Mobile App": -292,
+    "Onboarding / Tutorial": -81,
+    "Performance": 28,
+    "Phone Call": 44,
+    "Productivity": -31,
+    "Profile": -56,
+    "Range / Charging / Energy": 10,
+    "Safety / Emergency": -293,
+    "Scenario / Mode": -144,
+    "Security": 191,
+    "Service / Support": -77,
+    "Trailering": 0,
+    "UI / Visualization": -292,
+    "Vehicle Control": -392,
+    "Vehicle OS": -300,
+    "Voice & AI": 13
+  },
+  "primaryChangedCount": 51,
+  "movesCount": 51,
+  "primaryChanges": [
+    {
+      "title": "Boomerang Fu Game Removed",
+      "version": "2025.45.5",
+      "from": "Vehicle OS",
+      "to": "Gaming"
+    },
+    {
+      "title": "Boomerang Fu Game Removed",
+      "version": "2025.45.6",
+      "from": "Vehicle OS",
+      "to": "Gaming"
+    },
+    {
+      "title": "Boomerang Fu Game Removed",
+      "version": "2025.45.7",
+      "from": "Vehicle OS",
+      "to": "Gaming"
+    },
+    {
+      "title": "Boomerang Fu Game Removed",
+      "version": "2025.45.8",
+      "from": "Vehicle OS",
+      "to": "Gaming"
+    },
+    {
+      "title": "Boomerang Fu Game Removed",
+      "version": "2025.45.9",
+      "from": "Vehicle OS",
+      "to": "Gaming"
+    },
+    {
+      "title": "Boomerang Fu Game Removed",
+      "version": "2025.45.32.1",
+      "from": "Vehicle OS",
+      "to": "Gaming"
+    },
+    {
+      "title": "Boomerang Fu Game Removed",
+      "version": "2025.45.10",
+      "from": "Vehicle OS",
+      "to": "Gaming"
+    },
+    {
+      "title": "Boomerang Fu Game Removed",
+      "version": "2025.44.25.1",
+      "from": "Vehicle OS",
+      "to": "Gaming"
+    },
+    {
+      "title": "Boomerang Fu Game Removed",
+      "version": "2025.44.25.5",
+      "from": "Vehicle OS",
+      "to": "Gaming"
+    },
+    {
+      "title": "Site Info at Arrival",
+      "version": "2025.26",
+      "from": "Vehicle OS",
+      "to": "Map / Navigation / Trip / Route"
+    },
+    {
+      "title": "Site Info at Arrival",
+      "version": "2025.26.11",
+      "from": "Vehicle OS",
+      "to": "Map / Navigation / Trip / Route"
+    },
+    {
+      "title": "Steer-by-wire improvements",
+      "version": "2025.8",
+      "from": "Vehicle OS",
+      "to": "Vehicle Control"
+    },
+    {
+      "title": "Recommended Tire Pressure",
+      "version": "2025.2",
+      "from": "Vehicle OS",
+      "to": "Vehicle Control"
+    },
+    {
+      "title": "Recommended Tire Pressure",
+      "version": "2025.2.6",
+      "from": "Vehicle OS",
+      "to": "Vehicle Control"
+    },
+    {
+      "title": "Recommended Tire Pressure",
+      "version": "2025.2.8",
+      "from": "Vehicle OS",
+      "to": "Vehicle Control"
+    },
+    {
+      "title": "Smoother Visualizations",
+      "version": "2024.44",
+      "from": "Vehicle OS",
+      "to": "UI / Visualization"
+    },
+    {
+      "title": "Smoother Visualizations",
+      "version": "2024.44.3",
+      "from": "Vehicle OS",
+      "to": "UI / Visualization"
+    },
+    {
+      "title": "Smoother Visualizations",
+      "version": "2024.44.3.1",
+      "from": "Vehicle OS",
+      "to": "UI / Visualization"
+    },
+    {
+      "title": "Auto Shift (Beta)",
+      "version": "2024.44.25",
+      "from": "Vehicle OS",
+      "to": "Vehicle Control"
+    },
+    {
+      "title": "Search Along Route",
+      "version": "2024.44.25",
+      "from": "Vehicle OS",
+      "to": "Map / Navigation / Trip / Route"
+    },
+    {
+      "title": "Seats Control",
+      "version": "2024.44.25",
+      "from": "Vehicle OS",
+      "to": "Comfort / Climate"
+    },
+    {
+      "title": "Auto Shift (Beta)",
+      "version": "2024.44.25.2",
+      "from": "Vehicle OS",
+      "to": "Vehicle Control"
+    },
+    {
+      "title": "Search Along Route",
+      "version": "2024.44.25.2",
+      "from": "Vehicle OS",
+      "to": "Map / Navigation / Trip / Route"
+    },
+    {
+      "title": "Seats Control",
+      "version": "2024.44.25.2",
+      "from": "Vehicle OS",
+      "to": "Comfort / Climate"
+    },
+    {
+      "title": "Fart on Sit",
+      "version": "2024.44.25.2",
+      "from": "Vehicle OS",
+      "to": "Gaming"
+    },
+    {
+      "title": "Toll Roads",
+      "version": "2024.44.25.2",
+      "from": "Vehicle OS",
+      "to": "Map / Navigation / Trip / Route"
+    },
+    {
+      "title": "Tire Pressure Indicator",
+      "version": "2024.44.25.2",
+      "from": "Vehicle OS",
+      "to": "Vehicle Control"
+    },
+    {
+      "title": "Smoother Visualizations",
+      "version": "2024.32.30",
+      "from": "Vehicle OS",
+      "to": "UI / Visualization"
+    },
+    {
+      "title": "Weather Forecast and Air Quality",
+      "version": "2024.26",
+      "from": "Vehicle OS",
+      "to": "Map / Navigation / Trip / Route"
+    },
+    {
+      "title": "Weather Forecast and Air Quality",
+      "version": "2024.26.1",
+      "from": "Vehicle OS",
+      "to": "Map / Navigation / Trip / Route"
+    },
+    {
+      "title": "Weather Forecast and Air Quality",
+      "version": "2024.26.3.1",
+      "from": "Vehicle OS",
+      "to": "Map / Navigation / Trip / Route"
+    },
+    {
+      "title": "Weather Forecast and Air Quality",
+      "version": "2024.26.5",
+      "from": "Vehicle OS",
+      "to": "Map / Navigation / Trip / Route"
+    },
+    {
+      "title": "Weather Forecast and Air Quality",
+      "version": "2024.26.10",
+      "from": "Vehicle OS",
+      "to": "Map / Navigation / Trip / Route"
+    },
+    {
+      "title": "Weather Forecast and Air Quality",
+      "version": "2024.26.7",
+      "from": "Vehicle OS",
+      "to": "Map / Navigation / Trip / Route"
+    },
+    {
+      "title": "Weather Forecast and Air Quality",
+      "version": "2024.26.15",
+      "from": "Vehicle OS",
+      "to": "Map / Navigation / Trip / Route"
+    },
+    {
+      "title": "Weather Forecast and Air Quality",
+      "version": "2024.26.8",
+      "from": "Vehicle OS",
+      "to": "Map / Navigation / Trip / Route"
+    },
+    {
+      "title": "Weather Forecast and Air Quality",
+      "version": "2024.26.20",
+      "from": "Vehicle OS",
+      "to": "Map / Navigation / Trip / Route"
+    },
+    {
+      "title": "Weather Forecast and Air Quality",
+      "version": "2024.26.11",
+      "from": "Vehicle OS",
+      "to": "Map / Navigation / Trip / Route"
+    },
+    {
+      "title": "Auto Shift (Beta)",
+      "version": "2024.14.3",
+      "from": "Vehicle OS",
+      "to": "Vehicle Control"
+    },
+    {
+      "title": "Auto Shift (Beta)",
+      "version": "2024.14.5",
+      "from": "Vehicle OS",
+      "to": "Vehicle Control"
+    },
+    {
+      "title": "Auto Shift (Beta)",
+      "version": "2024.14.6",
+      "from": "Vehicle OS",
+      "to": "Vehicle Control"
+    },
+    {
+      "title": "Tire Pressure Card",
+      "version": "2023.6.1",
+      "from": "UI / Visualization",
+      "to": "Vehicle Control"
+    },
+    {
+      "title": "Tire Pressure Card",
+      "version": "2023.6.9",
+      "from": "UI / Visualization",
+      "to": "Vehicle Control"
+    },
+    {
+      "title": "Tire Pressure Card",
+      "version": "2023.6.15",
+      "from": "UI / Visualization",
+      "to": "Vehicle Control"
+    },
+    {
+      "title": "Battery Test in Service Mode",
+      "version": "2022.36.1",
+      "from": "Service / Support",
+      "to": "Range / Charging / Energy"
+    },
+    {
+      "title": "Tire Pressure",
+      "version": "2022.36.15",
+      "from": "Vehicle OS",
+      "to": "Vehicle Control"
+    },
+    {
+      "title": "Battery Test in Service Mode",
+      "version": "2022.36.15",
+      "from": "Service / Support",
+      "to": "Range / Charging / Energy"
+    },
+    {
+      "title": "Tire Pressure",
+      "version": "2022.36.20",
+      "from": "Vehicle OS",
+      "to": "Vehicle Control"
+    },
+    {
+      "title": "Battery Test in Service Mode",
+      "version": "2022.36.20",
+      "from": "Service / Support",
+      "to": "Range / Charging / Energy"
+    },
+    {
+      "title": "Tire Pressure",
+      "version": "2022.24",
+      "from": "Vehicle OS",
+      "to": "Vehicle Control"
+    },
+    {
+      "title": "Tire Pressure",
+      "version": "2022.24.6",
+      "from": "Vehicle OS",
+      "to": "Vehicle Control"
+    }
+  ],
+  "ambiguous": [
+    {
+      "id": "driving-visualization-2026-26-detail",
+      "title": "Driving Visualization",
+      "version": "2026.26",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "set-arrival-energy-2026-26-detail",
+      "title": "Set Arrival Energy",
+      "version": "2026.26",
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "2026.20-dashcam-clip-encryption",
+      "title": "Dashcam Clip Encryption",
+      "version": "2026.20",
+      "categories": [
+        "Security",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "bus-lanes-2026-20-detail",
+      "title": "Bus Lanes",
+      "version": "2026.20",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "2026.20.5.1-fsd-supervised-v14-lite",
+      "title": "FSD (Supervised) v14 Lite",
+      "version": "2026.20.5.1",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "start-self-driving-from-park-2026-20-5-1-detail",
+      "title": "Start Self-Driving from Park",
+      "version": "2026.20.5.1",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "full-self-driving-supervised-2026-20-5-1-detail",
+      "title": "Full Self-Driving (Supervised)",
+      "version": "2026.20.5.1",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "2026.20.6.6-fsd-supervised-v14-3-5",
+      "title": "FSD (Supervised) v14.3.5",
+      "version": "2026.20.6.6",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "2026.20.6.11-fsd-supervised-v14-3-6",
+      "title": "FSD (Supervised) v14.3.6",
+      "version": "2026.20.6.11",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "2026.20.10-fsd-supervised-v14-3-5-down-under",
+      "title": "FSD (Supervised) v14.3.5 Down Under",
+      "version": "2026.20.10",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "arrival-options-2026-20-10-detail",
+      "title": "Arrival Options",
+      "version": "2026.20.10",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "trips-2026-14-detail",
+      "title": "Trips",
+      "version": "2026.14",
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "live-camera-view-2026-14-detail",
+      "title": "Live Camera View",
+      "version": "2026.14",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "dashcam-viewer-updates-2026-14-detail",
+      "title": "Dashcam Viewer Updates",
+      "version": "2026.14",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "supercharger-pricing-filter-2026-14-detail",
+      "title": "Supercharger Pricing Filter",
+      "version": "2026.14",
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "parental-controls-improvement-2026-14-detail",
+      "title": "Parental Controls Improvement",
+      "version": "2026.14",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "volume-icons-2026-14-detail",
+      "title": "Volume Icons",
+      "version": "2026.14",
+      "categories": [
+        "Audio",
+        "Media / Entertainment"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "2026.14.6.6-fsd-supervised-v14-3-3",
+      "title": "FSD (Supervised) v14.3.3",
+      "version": "2026.14.6.6",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "fsd-supervised-v14-3-4-2026-14-6-10-detail",
+      "title": "FSD (Supervised) v14.3.4",
+      "version": "2026.14.6.10",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "autopilot-naming-update-2026-8-detail",
+      "title": "Autopilot Naming Update",
+      "version": "2026.8",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "minor-updates-2026-8-detail",
+      "title": "Minor Updates",
+      "version": "2026.8",
+      "categories": [
+        "Voice & AI"
+      ],
+      "reason": "grab-bag title"
+    },
+    {
+      "id": "minor-fixes-2026-8-detail",
+      "title": "Minor Fixes",
+      "version": "2026.8",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "grab-bag title"
+    },
+    {
+      "id": "2026.8.3.10-fsd-supervised-v13-2-9-down-under",
+      "title": "FSD (Supervised) v13.2.9 Down Under",
+      "version": "2026.8.3.10",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "full-self-driving-supervised-down-under-2026-8-3-10-detail",
+      "title": "Full Self-Driving (Supervised) Down Under",
+      "version": "2026.8.3.10",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "vision-based-attention-monitoring-2026-8-3-10-detail",
+      "title": "Vision-Based Attention Monitoring",
+      "version": "2026.8.3.10",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "active-road-noise-reduction-2026-2-6-1-detail",
+      "title": "Active Road Noise Reduction",
+      "version": "2026.2.6.1",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "fsd-supervised-v14-2-2-5-2026-2-9-detail",
+      "title": "FSD (Supervised) v14.2.2.5",
+      "version": "2026.2.9",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "fsd-supervised-v14-3-2026-2-9-6-detail",
+      "title": "FSD (Supervised) v14.3",
+      "version": "2026.2.9.6",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "fsd-supervised-v14-3-1-2026-2-9-7-detail",
+      "title": "FSD (Supervised) v14.3.1",
+      "version": "2026.2.9.7",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "2026.2.9.8-fsd-supervised-v14-3-2",
+      "title": "FSD (Supervised) v14.3.2",
+      "version": "2026.2.9.8",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "2025.45.5-fsd-supervised-v14-2-2",
+      "title": "FSD (Supervised) v14.2.2",
+      "version": "2025.45.5",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "dashcam-viewer-update-2025-45-5-detail",
+      "title": "Dashcam Viewer Update",
+      "version": "2025.45.5",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "express-lanes-2025-45-5-detail",
+      "title": "Express Lanes",
+      "version": "2025.45.5",
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "supercharger-live-maps-shows-exact-models-2025-45-5-detail",
+      "title": "Supercharger Live Maps Shows Exact Models",
+      "version": "2025.45.5",
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "dashcam-filters-2025-45-5-detail",
+      "title": "Dashcam Filters",
+      "version": "2025.45.5",
+      "categories": [
+        "Security",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "hebrew-language-added-2025-45-5-detail",
+      "title": "Hebrew Language Added",
+      "version": "2025.45.5",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "2025.45.6-fsd-supervised-v14-2-2-1",
+      "title": "FSD (Supervised) v14.2.2.1",
+      "version": "2025.45.6",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "2025.45.7-fsd-supervised-v14-2-2-2",
+      "title": "FSD (Supervised) v14.2.2.2",
+      "version": "2025.45.7",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "2025.45.8-fsd-supervised-v14-2-2-3",
+      "title": "FSD (Supervised) v14.2.2.3",
+      "version": "2025.45.8",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "2025.45.9-fsd-supervised-v14-2-2-4",
+      "title": "FSD (Supervised) v14.2.2.4",
+      "version": "2025.45.9",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "2025.44.25.5-fsd-supervised-v14-2-1-25",
+      "title": "FSD (Supervised) v14.2.1.25",
+      "version": "2025.44.25.5",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "2025.38.8.5-fsd-supervised-v14-1-5",
+      "title": "FSD (Supervised) v14.1.5",
+      "version": "2025.38.8.5",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "2025.38.8.7-fsd-supervised-v14-1-7",
+      "title": "FSD (Supervised) v14.1.7",
+      "version": "2025.38.8.7",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "2025.38.9.5-fsd-supervised-v14-2",
+      "title": "FSD (Supervised) v14.2",
+      "version": "2025.38.9.5",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "fsd-supervised-v14-2-1-2025-38-9-6-detail",
+      "title": "FSD (Supervised) v14.2.1",
+      "version": "2025.38.9.6",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "fsd-strikes-2025-32-detail",
+      "title": "FSD Strikes",
+      "version": "2025.32",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "2025.32.8.5-fsd-supervised-v14-1",
+      "title": "FSD (Supervised) v14.1",
+      "version": "2025.32.8.5",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "2025.32.8.6-fsd-supervised-v14-1-1",
+      "title": "FSD (Supervised) v14.1.1",
+      "version": "2025.32.8.6",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "2025.32.8.10-fsd-supervised-v14-1-2",
+      "title": "FSD (Supervised) v14.1.2",
+      "version": "2025.32.8.10",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "fsd-supervised-v14-1-3-2025-32-8-15-detail",
+      "title": "FSD (Supervised) v14.1.3",
+      "version": "2025.32.8.15",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "2025.32.8.16-fsd-supervised-v14-1-4",
+      "title": "FSD (Supervised) v14.1.4",
+      "version": "2025.32.8.16",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "light-sync-2025-26-detail",
+      "title": "Light Sync",
+      "version": "2025.26",
+      "categories": [
+        "Audio",
+        "Media / Entertainment"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "blind-spot-camera-2025-20-detail",
+      "title": "Blind Spot Camera",
+      "version": "2025.20",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "dashcam-viewer-multi-delete-2025-20-detail",
+      "title": "Dashcam Viewer Multi-Delete",
+      "version": "2025.20",
+      "categories": [
+        "Security",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "forward-collision-warning-improvements-2025-20-3-detail",
+      "title": "Forward Collision Warning Improvements",
+      "version": "2025.20.3",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "dashcam-viewer-wider-view-2025-20-3-detail",
+      "title": "Dashcam Viewer Wider View",
+      "version": "2025.20.3",
+      "categories": [
+        "Security",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "blind-spot-camera-on-driver-screen-2025-14-detail",
+      "title": "Blind Spot Camera on Driver Screen",
+      "version": "2025.14",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "alternative-trip-plans-2025-14-detail",
+      "title": "Alternative Trip Plans",
+      "version": "2025.14",
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "lane-departure-avoidance-2025-14-detail",
+      "title": "Lane Departure Avoidance",
+      "version": "2025.14",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "lane-departure-avoidance-updated-to-fsd-2025-14-detail",
+      "title": "Lane Departure Avoidance Updated to FSD",
+      "version": "2025.14",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "improved-dashcam-viewer-2025-14-detail",
+      "title": "Improved Dashcam Viewer",
+      "version": "2025.14",
+      "categories": [
+        "Security",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "fsd-supervised-v13-2-9-2025-14-6-detail",
+      "title": "FSD (Supervised) v13.2.9",
+      "version": "2025.14.6",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "destination-charging-2025-8-detail",
+      "title": "Destination Charging",
+      "version": "2025.8",
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "trips-odometer-2025-8-detail",
+      "title": "Trips & Odometer",
+      "version": "2025.8",
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "first-row-cabin-sensing-update-2025-2-6-detail",
+      "title": "First-Row Cabin Sensing Update",
+      "version": "2025.2.6",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "fsd-supervised-v13-2-8-2025-2-8-detail",
+      "title": "FSD (Supervised) v13.2.8",
+      "version": "2025.2.8",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "start-fsd-supervised-from-park-2025-2-8-detail",
+      "title": "Start FSD (Supervised) from Park",
+      "version": "2025.2.8",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "other-updates-2024-44-detail",
+      "title": "Other Updates",
+      "version": "2024.44",
+      "categories": [
+        "Gaming"
+      ],
+      "reason": "grab-bag title"
+    },
+    {
+      "id": "ass-actually-smart-summon-2024-44-3-detail",
+      "title": "ASS (Actually Smart Summon)",
+      "version": "2024.44.3",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "mobile-app-dashcam-viewer-2024-44-25-detail",
+      "title": "Mobile App Dashcam Viewer",
+      "version": "2024.44.25",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "theater-and-video-updates-2024-44-25-detail",
+      "title": "Theater and Video Updates",
+      "version": "2024.44.25",
+      "categories": [
+        "Audio",
+        "Media / Entertainment"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "ambient-lighting-easter-eggs-2024-44-25-2-detail",
+      "title": "Ambient Lighting Easter Eggs",
+      "version": "2024.44.25.2",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "limiting-explicit-content-on-youtube-music-2024-44-25-2-detail",
+      "title": "Limiting Explicit Content on YouTube Music",
+      "version": "2024.44.25.2",
+      "categories": [
+        "Audio",
+        "Media / Entertainment"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "charging-icons-2024-44-25-2-detail",
+      "title": "Charging Icons",
+      "version": "2024.44.25.2",
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "custom-mirror-tilted-positions-2024-38-detail",
+      "title": "Custom Mirror Tilted Positions",
+      "version": "2024.38",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "new-summon-options-2024-32-10-detail",
+      "title": "New Summon Options",
+      "version": "2024.32.10",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "youtube-music-2024-26-detail",
+      "title": "YouTube Music",
+      "version": "2024.26",
+      "categories": [
+        "Audio",
+        "Media / Entertainment"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "parental-controls-2024-26-detail",
+      "title": "Parental Controls",
+      "version": "2024.26",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "new-ambient-lighting-options-2024-26-1-detail",
+      "title": "New Ambient Lighting Options",
+      "version": "2024.26.1",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "automatic-emergency-braking-in-reverse-2024-26-3-1-detail",
+      "title": "Automatic Emergency Braking in Reverse",
+      "version": "2024.26.3.1",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "autopilot-suspension-2024-26-3-1-detail",
+      "title": "Autopilot Suspension",
+      "version": "2024.26.3.1",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "new-key-required-screen-2024-26-5-detail",
+      "title": "New Key Required Screen",
+      "version": "2024.26.5",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "over-the-air-ota-recall-2024-26-7-detail",
+      "title": "Over-the-Air (OTA) Recall",
+      "version": "2024.26.7",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "automatic-emergency-braking-improvements-2024-26-8-detail",
+      "title": "Automatic Emergency Braking Improvements",
+      "version": "2024.26.8",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "tesla-vision-park-assist-2024-26-11-detail",
+      "title": "Tesla Vision Park Assist",
+      "version": "2024.26.11",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "headlights-adapt-for-curves-2024-20-detail",
+      "title": "Headlights Adapt for Curves",
+      "version": "2024.20",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "autopilot-attention-warning-2024-20-detail",
+      "title": "Autopilot Attention Warning",
+      "version": "2024.20",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Display"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "ota-recall-2024-20-3-detail",
+      "title": "OTA Recall",
+      "version": "2024.20.3",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "green-dot-when-monitoring-is-active-2024-20-10-detail",
+      "title": "Green Dot When Monitoring is Active",
+      "version": "2024.20.10",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Display"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "2024.14-visual-updates",
+      "title": "Visual Updates",
+      "version": "2024.14",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "preview-of-sentry-mode-recordings-2024-14-detail",
+      "title": "Preview of Sentry Mode Recordings",
+      "version": "2024.14",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "audible-2024-14-detail",
+      "title": "Audible",
+      "version": "2024.14",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "improved-turning-circle-2024-14-detail",
+      "title": "Improved Turning Circle",
+      "version": "2024.14",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "cybertruck-new-icon-2024-14-6-detail",
+      "title": "Cybertruck New Icon",
+      "version": "2024.14.6",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "one-time-charge-limit-2024-8-3-detail",
+      "title": "One-Time Charge Limit",
+      "version": "2024.8.3",
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "connectivity-icon-2024-8-3-detail",
+      "title": "Connectivity Icon",
+      "version": "2024.8.3",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "view-or-reset-tire-mileage-2024-8-4-detail",
+      "title": "View or Reset Tire Mileage",
+      "version": "2024.8.4",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "rear-passenger-headphones-2024-8-4-detail",
+      "title": "Rear Passenger Headphones",
+      "version": "2024.8.4",
+      "categories": [
+        "Audio",
+        "Media / Entertainment"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "unlock-buttons-2024-2-2-1-detail",
+      "title": "Unlock Buttons",
+      "version": "2024.2.2.1",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "supercharging-in-cold-weather-2024-2-6-detail",
+      "title": "Supercharging in Cold Weather",
+      "version": "2024.2.6",
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "service-mode-improvements-2023-44-detail",
+      "title": "Service Mode Improvements",
+      "version": "2023.44",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "fsd-beta-11-4-9-2023-44-25-detail",
+      "title": "FSD Beta 11.4.9",
+      "version": "2023.44.25",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "cabin-camera-2023-44-25-detail",
+      "title": "Cabin Camera",
+      "version": "2023.44.25",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "park-assist-upgrade-2023-44-25-detail",
+      "title": "Park Assist Upgrade",
+      "version": "2023.44.25",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "apple-podcasts-2023-44-25-detail",
+      "title": "Apple Podcasts",
+      "version": "2023.44.25",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "automatic-911-calls-2023-44-25-detail",
+      "title": "Automatic 911 Calls",
+      "version": "2023.44.25",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "trip-planner-on-mobile-app-2023-44-25-detail",
+      "title": "Trip Planner on Mobile App",
+      "version": "2023.44.25",
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "more-cameras-in-live-camera-view-2023-44-25-detail",
+      "title": "More Cameras in Live Camera View",
+      "version": "2023.44.25",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "automatic-blind-spot-camera-2023-44-25-detail",
+      "title": "Automatic Blind Spot Camera",
+      "version": "2023.44.25",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "autopilot-fsd-beta-strike-reset-2023-44-25-detail",
+      "title": "Autopilot / FSD Beta Strike Reset",
+      "version": "2023.44.25",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "cabin-camera-privacy-2023-44-25-detail",
+      "title": "Cabin Camera Privacy",
+      "version": "2023.44.25",
+      "categories": [
+        "Security",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "automatic-emergency-braking-2023-44-25-detail",
+      "title": "Automatic Emergency Braking",
+      "version": "2023.44.25",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "faster-hazard-lights-after-a-crash-2023-38-detail",
+      "title": "Faster Hazard Lights After a Crash",
+      "version": "2023.38",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "predictive-charger-availability-2023-38-detail",
+      "title": "Predictive Charger Availability",
+      "version": "2023.38",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "improved-camera-clarity-2023-32-detail",
+      "title": "Improved Camera Clarity",
+      "version": "2023.32",
+      "categories": [
+        "Security",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "fsd-beta-v11-4-4-2023-32-4-detail",
+      "title": "FSD Beta v11.4.4",
+      "version": "2023.32.4",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "drowsiness-warning-2023-31-600-detail",
+      "title": "Drowsiness Warning",
+      "version": "2023.31.600",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "automatic-headlights-2023-26-detail",
+      "title": "Automatic Headlights",
+      "version": "2023.26",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "supercharging-details-2023-26-detail",
+      "title": "Supercharging Details",
+      "version": "2023.26",
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "updated-apps-badge-2023-26-detail",
+      "title": "Updated Apps Badge",
+      "version": "2023.26",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "full-self-driving-beta-2023-26-10-detail",
+      "title": "Full Self-Driving (Beta)",
+      "version": "2023.26.10",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "full-self-driving-beta-suspension-2023-26-10-detail",
+      "title": "Full Self-Driving (Beta) Suspension",
+      "version": "2023.26.10",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "2023.20-text-size",
+      "title": "Text Size",
+      "version": "2023.20",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "tire-service-mileage-2023-20-detail",
+      "title": "Tire Service Mileage",
+      "version": "2023.20",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "new-data-sharing-policy-2023-20-detail",
+      "title": "New Data Sharing Policy",
+      "version": "2023.20",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "tire-service-2023-20-4-1-detail",
+      "title": "Tire Service",
+      "version": "2023.20.4.1",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "current-trip-odometer-2023-20-4-1-detail",
+      "title": "Current Trip Odometer",
+      "version": "2023.20.4.1",
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "fsd-beta-v11-3-6-2023-20-6-detail",
+      "title": "FSD Beta v11.3.6",
+      "version": "2023.20.6",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "controls-search-2023-12-detail",
+      "title": "Controls Search",
+      "version": "2023.12",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "voice-recognition-language-2023-12-detail",
+      "title": "Voice Recognition Language",
+      "version": "2023.12",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "improvements-to-automatic-emergency-braking-2023-12-detail",
+      "title": "Improvements to Automatic Emergency Braking",
+      "version": "2023.12",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "new-labels-2023-12-detail",
+      "title": "New Labels",
+      "version": "2023.12",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "power-meter-2023-12-8-detail",
+      "title": "Power Meter",
+      "version": "2023.12.8",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "autopilot-features-2023-12-9-detail",
+      "title": "Autopilot Features",
+      "version": "2023.12.9",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "new-language-support-2023-6-1-detail",
+      "title": "New Language Support",
+      "version": "2023.6.1",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "dog-mode-2023-6-1-detail",
+      "title": "Dog Mode",
+      "version": "2023.6.1",
+      "categories": [
+        "Security",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "sentry-mode-live-camera-access-2023-6-1-detail",
+      "title": "Sentry Mode Live Camera Access",
+      "version": "2023.6.1",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "trip-planner-2023-6-1-detail",
+      "title": "Trip Planner",
+      "version": "2023.6.1",
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "fsd-beta-v11-4-2023-6-15-detail",
+      "title": "FSD Beta v11.4",
+      "version": "2023.6.15",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "seat-heater-icons-2023-6-15-detail",
+      "title": "Seat Heater Icons",
+      "version": "2023.6.15",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "updated-autopilot-menu-2023-6-15-detail",
+      "title": "Updated Autopilot Menu",
+      "version": "2023.6.15",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "wechat-mini-programs-2023-2-0-5-detail",
+      "title": "WeChat Mini Programs",
+      "version": "2023.2.0.5",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "sentry-mode-2022-44-2-detail",
+      "title": "Sentry Mode",
+      "version": "2022.44.2",
+      "categories": [
+        "Security",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "camera-based-detection-2022-44-2-detail",
+      "title": "Camera-Based Detection",
+      "version": "2022.44.2",
+      "categories": [
+        "Security",
+        "Camera"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "seat-belt-system-enhancement-2022-44-2-detail",
+      "title": "Seat Belt System Enhancement",
+      "version": "2022.44.2",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "energy-app-2022-44-2-detail",
+      "title": "Energy App",
+      "version": "2022.44.2",
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "auto-turn-signals-2022-44-25-1-detail",
+      "title": "Auto Turn Signals",
+      "version": "2022.44.25.1",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "rear-screen-control-2022-44-25-1-detail",
+      "title": "Rear Screen Control",
+      "version": "2022.44.25.1",
+      "categories": [
+        "Audio",
+        "Media / Entertainment"
+      ],
+      "reason": "multi-category"
+    },
+    {
+      "id": "verified-fart-2022-44-25-1-detail",
+      "title": "Verified Fart",
+      "version": "2022.44.25.1",
+      "categories": [
+        "Vehicle OS"
+      ],
+      "reason": "fallback Vehicle OS"
+    },
+    {
+      "id": "navigation-ui-2022-44-25-1-detail",
+      "title": "Navigation UI",
+      "version": "2022.44.25.1",
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "reason": "multi-category"
+    }
+  ],
+  "ambiguousCount": 1077,
+  "ambiguousUniqueCount": 259
+}

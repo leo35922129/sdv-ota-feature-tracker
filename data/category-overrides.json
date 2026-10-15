@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "description": "Manual Tesla feature category overrides keyed by stable feature id. Automatic categories in data/releases.json are left unchanged. Display priority: override categories > automatic categories.",
+  "overrides": [
+    {
+      "id": "new-ambient-lighting-options-2024-26-1-detail",
+      "categories": ["Lighting"],
+      "note": "Ambient lighting options are Lighting, not Vehicle OS",
+      "updatedAt": "2026-08-15"
+    },
+    {
+      "id": "new-ambient-lighting-options-2024-26-3-1-detail",
+      "categories": ["Lighting"],
+      "note": "Ambient lighting options are Lighting, not Vehicle OS",
+      "updatedAt": "2026-08-15"
+    },
+    {
+      "id": "new-ambient-lighting-options-2024-26-5-detail",
+      "categories": ["Lighting"],
+      "note": "Ambient lighting options are Lighting, not Vehicle OS",
+      "updatedAt": "2026-08-15"
+    },
+    {
+      "id": "new-ambient-lighting-options-2024-26-7-detail",
+      "categories": ["Lighting"],
+      "note": "Ambient lighting options are Lighting, not Vehicle OS",
+      "updatedAt": "2026-08-15"
+    },
+    {
+      "id": "new-ambient-lighting-options-2024-26-8-detail",
+      "categories": ["Lighting"],
+      "note": "Ambient lighting options are Lighting, not Vehicle OS",
+      "updatedAt": "2026-08-15"
+    },
+    {
+      "id": "new-ambient-lighting-options-2024-26-10-detail",
+      "categories": ["Lighting"],
+      "note": "Ambient lighting options are Lighting, not Vehicle OS",
+      "updatedAt": "2026-08-15"
+    },
+    {
+      "id": "new-ambient-lighting-options-2024-26-11-detail",
+      "categories": ["Lighting"],
+      "note": "Ambient lighting options are Lighting, not Vehicle OS",
+      "updatedAt": "2026-08-15"
+    },
+    {
+      "id": "new-ambient-lighting-options-2024-26-15-detail",
+      "categories": ["Lighting"],
+      "note": "Ambient lighting options are Lighting, not Vehicle OS",
+      "updatedAt": "2026-08-15"
+    },
+    {
+      "id": "new-ambient-lighting-options-2024-26-20-detail",
+      "categories": ["Lighting"],
+      "note": "Ambient lighting options are Lighting, not Vehicle OS",
+      "updatedAt": "2026-08-15"
+    }
+  ]
+}

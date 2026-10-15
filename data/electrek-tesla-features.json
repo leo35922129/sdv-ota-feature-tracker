@@ -1,0 +1,3490 @@
+{
+  "source": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+  "scrapedAt": "2026-08-14T14:31:42.343Z",
+  "featureCount": 81,
+  "releaseCount": 17,
+  "releases": [
+    {
+      "version": "1.9.11",
+      "url": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "releaseDate": "September 23, 2012",
+      "features": [
+        {
+          "id": "electrek-1.9.11-projected-and-rated-range-0",
+          "title": "Projected and rated range",
+          "type": "historical",
+          "description": "Shows both projected range (based on recent driving efficiency) and rated range (EPA/WLTP estimate) so drivers can compare real-world consumption against the official rating on the instrument cluster and energy displays.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2021.40/2021.40-Range-Display.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "UI / Visualization",
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "UI / Visualization"
+        },
+        {
+          "id": "electrek-1.9.11-entry-exit-feature-displays-on-and-media-auto-play-for-entry-and-decrease-volume-1",
+          "title": "Entry / Exit feature – Displays on and Media auto play for entry and decrease volume upon exit",
+          "type": "historical",
+          "description": "Automatically wakes the displays and can resume media when you enter the car, then lowers media volume when you exit—an early welcome/leave behavior for the Model S cabin experience.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/welcome-animation.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Media / Entertainment",
+            "UI / Visualization"
+          ],
+          "primaryCategory": "Media / Entertainment"
+        }
+      ],
+      "source": "electrek"
+    },
+    {
+      "version": "1.13.16",
+      "url": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "releaseDate": "October 9, 2012",
+      "features": [
+        {
+          "id": "electrek-1.13.16-driver-profiles-up-to-10-can-be-saved-2",
+          "title": "Driver profiles (up to 10 can be saved)",
+          "type": "historical",
+          "description": "Saves personalized seat, mirror, steering, and preference settings under named driver profiles. Early Model S software allowed up to 10 profiles so multiple drivers could restore their setup quickly.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2022.24/2022.24-Driver_Profiles.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Profile"
+          ],
+          "primaryCategory": "Profile"
+        },
+        {
+          "id": "electrek-1.13.16-creep-mode-emulate-automatic-transmission-idle-forward-3",
+          "title": "Creep mode (emulate automatic transmission idle forward)",
+          "type": "historical",
+          "description": "Optional creep that gently rolls the car forward when Drive is selected and the brake is released, mimicking a conventional automatic transmission at idle for low-speed parking-lot feel.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2023.12/2023.12.9-Stopping-Mode.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Vehicle Control"
+          ],
+          "primaryCategory": "Vehicle Control"
+        },
+        {
+          "id": "electrek-1.13.16-traffic-lines-in-map-4",
+          "title": "Traffic lines in map",
+          "type": "historical",
+          "description": "Adds live traffic flow coloring on the navigation map so congested roads stand out while routing—an early traffic visualization layer on the Model S touchscreen map.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.8/traffic.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        },
+        {
+          "id": "electrek-1.13.16-higher-volume-granularity-5",
+          "title": "Higher volume granularity",
+          "type": "historical",
+          "description": "Increases the number of discrete volume steps on the media system (beyond the earlier coarse 1–11 scale) so drivers can fine-tune cabin audio more precisely.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2026/volume-icon.webp/c34d1fa61db7885c689603a0ba70b55d/volume-icon.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Media / Entertainment"
+          ],
+          "primaryCategory": "Media / Entertainment"
+        },
+        {
+          "id": "electrek-1.13.16-lock-and-unlock-touch-screen-buttons-separated-for-ease-of-use-6",
+          "title": "Lock and Unlock touch screen buttons separated for ease of use",
+          "type": "historical",
+          "description": "Splits lock and unlock into separate on-screen controls instead of a single combined control, making it harder to tap the wrong action on the center display.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.14/2024.14-new-lock-sounds.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "UI / Visualization",
+            "Vehicle Control"
+          ],
+          "primaryCategory": "UI / Visualization"
+        },
+        {
+          "id": "electrek-1.13.16-mobile-app-remote-access-7",
+          "title": "Mobile App Remote Access",
+          "type": "historical",
+          "description": "Enables remote vehicle status and basic controls from the Tesla smartphone app (lock/unlock, climate, charging, and location), extending the cabin UI with phone-side access over the cellular connection.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2023.44.25/trip-planner-2.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Mobile App"
+          ],
+          "primaryCategory": "Mobile App"
+        }
+      ],
+      "source": "electrek"
+    },
+    {
+      "version": "1.15.14",
+      "url": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "releaseDate": "November 30, 2012",
+      "features": [
+        {
+          "id": "electrek-1.15.14-cancel-button-to-nav-8",
+          "title": "Cancel button to nav",
+          "type": "historical",
+          "description": "Adds an explicit cancel control to end an active navigation route from the map UI without digging through menus.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/preferred-routes.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        }
+      ],
+      "source": "electrek"
+    },
+    {
+      "version": "1.17.5",
+      "url": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "releaseDate": "November 30, 2012",
+      "features": [
+        {
+          "id": "electrek-1.17.5-vehicle-sleep-mode-reduced-vampire-drain-9",
+          "title": "Vehicle sleep mode (reduced vampire drain)",
+          "type": "historical",
+          "description": "Powers down the displays and non-essential electronics when parked to cut vampire drain. Tesla noted that leaving systems awake could cost on the order of ~8 miles of range per day when unplugged.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2024/eu_actually_smart_summon.jpg/9734acf94909828d4a6914d54813a5da/eu_actually_smart_summon.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Vehicle OS",
+            "Scenario / Mode"
+          ],
+          "primaryCategory": "Vehicle OS"
+        },
+        {
+          "id": "electrek-1.17.5-app-launcher-10",
+          "title": "App launcher",
+          "type": "historical",
+          "description": "Introduces an app launcher so owners can open cabin apps and choose whether they appear in the upper or lower half of the 17\" touchscreen via drag-and-drop placement.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2021.44/2021.44.25-Customizable_App_Launcher.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "UI / Visualization"
+          ],
+          "primaryCategory": "UI / Visualization"
+        },
+        {
+          "id": "electrek-1.17.5-voice-commands-11",
+          "title": "Voice commands",
+          "type": "historical",
+          "description": "Hands-free voice control via the steering-wheel button for navigation (“drive to”), phone calls (“call”), and streaming audio (“listen” / play artist radio), using cloud speech recognition over the car’s modem.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.26/2025.26-voice-commands.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Voice & AI"
+          ],
+          "primaryCategory": "Voice & AI"
+        },
+        {
+          "id": "electrek-1.17.5-auto-present-door-handles-12",
+          "title": "Auto present door handles",
+          "type": "historical",
+          "description": "Automatically presents the flush door handles when you approach with a paired key fob, so you no longer need to press the handle to deploy it before opening the door.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2022.44.25/2022.44.25-Auto_Present_Door_Handles.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Vehicle Control"
+          ],
+          "primaryCategory": "Vehicle Control"
+        },
+        {
+          "id": "electrek-1.17.5-vehicle-alarm-13",
+          "title": "Vehicle alarm",
+          "type": "historical",
+          "description": "Adds a vehicle alarm that can sound and alert when unauthorized entry or tampering is detected, extending Model S security beyond simple lock status.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.14/2024.14-preview-of-sentry-mode-recordings.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Safety / Emergency"
+          ],
+          "primaryCategory": "Safety / Emergency"
+        },
+        {
+          "id": "electrek-1.17.5-ability-to-switch-between-metric-and-imperial-units-14",
+          "title": "Ability to switch between metric and imperial units",
+          "type": "historical",
+          "description": "Lets owners choose metric or imperial units for speed, distance, temperature, and related displays so the UI matches regional preferences.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2021.40/2021.40-Range-Display.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "UI / Visualization"
+          ],
+          "primaryCategory": "UI / Visualization"
+        },
+        {
+          "id": "electrek-1.17.5-range-mode-15",
+          "title": "Range mode",
+          "type": "historical",
+          "description": "An efficiency-focused driving mode that limits energy-hungry systems (climate aggressiveness and related draws) to stretch remaining range when you need every mile.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/estimated-range.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Scenario / Mode",
+            "Vehicle OS"
+          ],
+          "primaryCategory": "Scenario / Mode"
+        },
+        {
+          "id": "electrek-1.17.5-usb-sorting-for-media-16",
+          "title": "USB sorting for media",
+          "type": "historical",
+          "description": "Improves browsing of USB music libraries with clearer sorting/indexing so large collections of tracks and folders are easier to navigate on the media player.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.14/2026.14-music-app-queuing.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Media / Entertainment"
+          ],
+          "primaryCategory": "Media / Entertainment"
+        },
+        {
+          "id": "electrek-1.17.5-ability-to-call-phone-numbers-from-map-screen-17",
+          "title": "Ability to call phone numbers from map screen",
+          "type": "historical",
+          "description": "Lets you place a phone call directly from a map place card or listed number while navigating, bridging maps and Bluetooth phone calling.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2022.44.25/2022.44.25-Contact_Lookup.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route",
+            "Mobile App"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        },
+        {
+          "id": "electrek-1.17.5-fan-speed-and-sunroof-controls-to-steering-wheel-controls-18",
+          "title": "Fan speed and sunroof controls to steering wheel controls",
+          "type": "historical",
+          "description": "Allows the steering-wheel scroll wheels to adjust fan speed or sunroof position (in addition to volume/temperature), so climate and roof controls are reachable without leaving the wheel.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_interior_of_Tesla_Model_S.jpg/960px-The_interior_of_Tesla_Model_S.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Comfort / Climate",
+            "Vehicle Control"
+          ],
+          "primaryCategory": "Comfort / Climate"
+        },
+        {
+          "id": "electrek-1.17.5-location-aware-homelink-19",
+          "title": "Location aware homelink",
+          "type": "historical",
+          "description": "HomeLink garage/gate buttons become context-aware: the car preferentially offers the opener associated with your current location (for example home vs. another programmed site).",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.20.5/2026.20.5-arrival-options.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route",
+            "Vehicle Control"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        }
+      ],
+      "source": "electrek"
+    },
+    {
+      "version": "1.19.35",
+      "url": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "releaseDate": "March 13, 2013",
+      "features": [
+        {
+          "id": "electrek-1.19.35-scheduled-charging-mode-20",
+          "title": "Scheduled charging mode",
+          "type": "historical",
+          "description": "Schedule when the car should charge (for off-peak utility rates or departure readiness) instead of charging immediately when plugged in.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.26/undoc/next-scheduled.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Range / Charging / Energy"
+          ],
+          "primaryCategory": "Range / Charging / Energy"
+        }
+      ],
+      "source": "electrek"
+    },
+    {
+      "version": "1.31.48",
+      "url": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "releaseDate": "June 7, 2013",
+      "features": [
+        {
+          "id": "electrek-1.31.48-supercharger-locations-to-maps-21",
+          "title": "Supercharger locations to maps",
+          "type": "historical",
+          "description": "Plots Tesla Supercharger sites on the in-car map so drivers can find DC fast charging along a route or nearby without a separate lookup.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2026/belgium-supercharger-site-maps.webp/04dcf92a8cba0057bdb22e021c5059ae/belgium-supercharger-site-maps.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route",
+            "Range / Charging / Energy"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        },
+        {
+          "id": "electrek-1.31.48-visited-chargers-to-maps-22",
+          "title": "Visited chargers to maps",
+          "type": "historical",
+          "description": "Remembers chargers you have used and surfaces them on the map for quicker return visits and trip planning.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.44.25/2025.44.25-supercharger-site-maps.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route",
+            "Range / Charging / Energy"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        },
+        {
+          "id": "electrek-1.31.48-battery-charge-limit-slider-standard-and-max-range-23",
+          "title": "Battery charge limit slider (Standard and Max Range)",
+          "type": "historical",
+          "description": "Adds a charge-limit control with Standard and Max Range (and finer limits over time) so owners can daily-charge below 100% to reduce battery stress while still topping up for long trips.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.44.25/2025.44.25-save-charge-limit-by-location.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Range / Charging / Energy"
+          ],
+          "primaryCategory": "Range / Charging / Energy"
+        }
+      ],
+      "source": "electrek"
+    },
+    {
+      "version": "1.33.61",
+      "url": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "releaseDate": "June 20, 2013",
+      "features": [
+        {
+          "id": "electrek-1.33.61-contact-sorting-options-24",
+          "title": "Contact sorting options",
+          "type": "historical",
+          "description": "Adds sorting/indexing options for the phone contacts list on the touchscreen, making large Bluetooth address books easier to scan.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2022.44.25/2022.44.25-Contact_Lookup.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Productivity",
+            "Mobile App"
+          ],
+          "primaryCategory": "Productivity"
+        },
+        {
+          "id": "electrek-1.33.61-new-defrost-mode-25",
+          "title": "New defrost mode",
+          "type": "historical",
+          "description": "Dedicated windshield/defrost climate mode that prioritizes clearing glass quickly in cold or humid conditions from the climate UI.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.2/2024.2-supercharging-in-cold-weather.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Comfort / Climate"
+          ],
+          "primaryCategory": "Comfort / Climate"
+        },
+        {
+          "id": "electrek-1.33.61-battery-support-will-draw-power-from-wall-instead-of-battery-for-hvac-26",
+          "title": "Battery support (will draw power from wall instead of battery for HVAC)",
+          "type": "historical",
+          "description": "When plugged in, cabin HVAC can run from wall power instead of depleting the traction battery—useful for preconditioning or keeping climate on while charging.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.14/charging.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Comfort / Climate",
+            "Range / Charging / Energy"
+          ],
+          "primaryCategory": "Comfort / Climate"
+        },
+        {
+          "id": "electrek-1.33.61-battery-ability-to-heat-from-utility-instead-of-itself-27",
+          "title": "Battery ability to heat from utility instead of itself",
+          "type": "historical",
+          "description": "Allows battery heating/preconditioning to draw from grid/wall power when plugged in, preserving pack energy and preparing the battery for efficient charging or departure.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.2/2025.2-third-party-fast-charger-preconditioning.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Range / Charging / Energy",
+            "Vehicle OS"
+          ],
+          "primaryCategory": "Range / Charging / Energy"
+        }
+      ],
+      "source": "electrek"
+    },
+    {
+      "version": "1.35.107",
+      "url": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "releaseDate": "August 28, 2013",
+      "features": [
+        {
+          "id": "electrek-1.35.107-wifi-28",
+          "title": "Wifi",
+          "type": "historical",
+          "description": "Adds Wi‑Fi connectivity so the car can download software updates and stream media over a home or hotspot network instead of relying only on cellular data.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.38/wifi-2.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Vehicle OS"
+          ],
+          "primaryCategory": "Vehicle OS"
+        },
+        {
+          "id": "electrek-1.35.107-tow-mode-29",
+          "title": "Tow mode",
+          "type": "historical",
+          "description": "Transport/tow mode for flatbed towing: holds the parking brake appropriately and reduces risk of drivetrain damage when the vehicle must be moved with wheels free.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2025/cybertruck-over-weight-limit.webp/e1bb64f55fa46075debe644ee4ae3da5/cybertruck-over-weight-limit.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Trailering",
+            "Scenario / Mode"
+          ],
+          "primaryCategory": "Trailering"
+        },
+        {
+          "id": "electrek-1.35.107-screen-cleaning-mode-30",
+          "title": "Screen cleaning mode",
+          "type": "historical",
+          "description": "Locks out touch input and often raises brightness so you can wipe the center display without accidentally tapping controls.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2021.44/2021.44.25-Car_Wash_Mode.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Scenario / Mode",
+            "UI / Visualization"
+          ],
+          "primaryCategory": "Scenario / Mode"
+        },
+        {
+          "id": "electrek-1.35.107-radio-presets-to-steering-wheel-controls-31",
+          "title": "Radio presets to steering wheel controls",
+          "type": "historical",
+          "description": "Lets steering-wheel controls cycle radio presets so you can change stations without reaching for the touchscreen.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2026/volume-icon.webp/c34d1fa61db7885c689603a0ba70b55d/volume-icon.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Media / Entertainment",
+            "Vehicle Control"
+          ],
+          "primaryCategory": "Media / Entertainment"
+        },
+        {
+          "id": "electrek-1.35.107-tracking-modes-in-map-north-up-or-vehicle-up-32",
+          "title": "Tracking modes in map (north up or vehicle up)",
+          "type": "historical",
+          "description": "Choose whether the map stays north-up or rotates with vehicle heading (heading-up), matching classic navigation preferences.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/preferred-routes.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        }
+      ],
+      "source": "electrek"
+    },
+    {
+      "version": "1.49.57",
+      "url": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "releaseDate": "December 21, 2013",
+      "features": [
+        {
+          "id": "electrek-1.49.57-current-anomaly-detection-auto-reduce-charging-amp-by-25-if-problem-is-detected-33",
+          "title": "Current anomaly detection (auto reduce charging amp by 25% if problem is detected)",
+          "type": "historical",
+          "description": "Monitors charging current for electrical anomalies and automatically reduces charge amperage (by ~25%) when a problem is detected to protect the wall circuit and vehicle charge equipment.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.14/charging.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Range / Charging / Energy",
+            "Safety / Emergency"
+          ],
+          "primaryCategory": "Range / Charging / Energy"
+        },
+        {
+          "id": "electrek-1.49.57-wiper-service-mode-34",
+          "title": "Wiper service mode",
+          "type": "historical",
+          "description": "Moves the wipers to a service position so blades can be replaced safely without forcing the arms against the glass or hood.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/service-mode/front-camera-service-mode.webp/76b5f28b727394480599ab47122948e2/front-camera-service-mode.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Service / Support"
+          ],
+          "primaryCategory": "Service / Support"
+        },
+        {
+          "id": "electrek-1.49.57-tpms-reset-option-35",
+          "title": "TPMS reset option",
+          "type": "historical",
+          "description": "Adds a tire-pressure monitoring system (TPMS) reset/relearn option after tire service or pressure changes so warnings clear correctly.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.2/undoc/tire-pressure.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Service / Support",
+            "Vehicle Control"
+          ],
+          "primaryCategory": "Service / Support"
+        }
+      ],
+      "source": "electrek"
+    },
+    {
+      "version": "1.51.109",
+      "url": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "releaseDate": "May 25, 2014",
+      "features": [
+        {
+          "id": "electrek-1.51.109-rdio-36",
+          "title": "RDIO",
+          "type": "historical",
+          "description": "Integrates Rdio streaming music in the cabin media player (later replaced by Spotify after Rdio shut down), bringing cloud playlists to the Model S over the car’s data connection.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.32/liveone-powered-by-slacker-radio.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Media / Entertainment"
+          ],
+          "primaryCategory": "Media / Entertainment"
+        },
+        {
+          "id": "electrek-1.51.109-hill-assist-37",
+          "title": "Hill assist",
+          "type": "historical",
+          "description": "Holds the vehicle briefly when starting on an incline so it does not roll backward before you apply throttle—helpful with strong regen and one-pedal driving habits.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.14/dynamics-menu.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Vehicle Control",
+            "Safety / Emergency"
+          ],
+          "primaryCategory": "Vehicle Control"
+        },
+        {
+          "id": "electrek-1.51.109-smart-air-suspension-options-auto-lower-for-highway-speeds-38",
+          "title": "Smart air suspension options (auto lower for highway speeds)",
+          "type": "historical",
+          "description": "Automatically lowers air suspension at highway speeds for improved aero/efficiency and raises it again at lower speeds for comfort and clearance (on air-suspension cars).",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2023.12/suspension-options.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Vehicle Control",
+            "Comfort / Climate"
+          ],
+          "primaryCategory": "Vehicle Control"
+        },
+        {
+          "id": "electrek-1.51.109-home-and-work-locations-39",
+          "title": "Home and work locations",
+          "type": "historical",
+          "description": "Save Home and Work as special destinations for one-tap navigation and later automatic navigation / calendar-aware routing.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/automatic-navigation.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        }
+      ],
+      "source": "electrek"
+    },
+    {
+      "version": "1.64.39",
+      "url": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "releaseDate": "September 4, 2014",
+      "features": [
+        {
+          "id": "electrek-1.64.39-asian-font-support-for-media-player-40",
+          "title": "Asian font support for media player",
+          "type": "historical",
+          "description": "Adds Asian-language font support in the media player so track and artist metadata in Chinese, Japanese, Korean, and related scripts render correctly.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.14/2025.14-keyboard-languages.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Media / Entertainment",
+            "UI / Visualization"
+          ],
+          "primaryCategory": "Media / Entertainment"
+        },
+        {
+          "id": "electrek-1.64.39-fob-reprogram-swap-ability-41",
+          "title": "FOB reprogram/swap ability",
+          "type": "historical",
+          "description": "Allows reprogramming or swapping key fobs from the vehicle UI so replacement or additional fobs can be paired without a service visit for simple swaps.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.8/no-key-screen.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Profile",
+            "Service / Support"
+          ],
+          "primaryCategory": "Profile"
+        },
+        {
+          "id": "electrek-1.64.39-slacker-radio-reset-ability-42",
+          "title": "Slacker radio reset ability",
+          "type": "historical",
+          "description": "Adds a reset control for Slacker Radio streaming when the service gets stuck, restoring playback without a full car reboot.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.32/liveone-powered-by-slacker-radio.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Media / Entertainment"
+          ],
+          "primaryCategory": "Media / Entertainment"
+        }
+      ],
+      "source": "electrek"
+    },
+    {
+      "version": "1.67.125",
+      "url": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "releaseDate": "November 19, 2014",
+      "features": [
+        {
+          "id": "electrek-1.67.125-traffic-aware-navigation-43",
+          "title": "Traffic aware navigation",
+          "type": "historical",
+          "description": "Navigation routing that accounts for live traffic when calculating ETA and suggesting alternate routes around congestion.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.8/traffic.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        },
+        {
+          "id": "electrek-1.67.125-calendar-44",
+          "title": "Calendar",
+          "type": "historical",
+          "description": "In-car Calendar app that syncs upcoming events (with phone/account connectivity) so you can navigate to event locations and see schedule context on the touchscreen.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2023.44/calendar.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Productivity"
+          ],
+          "primaryCategory": "Productivity"
+        },
+        {
+          "id": "electrek-1.67.125-more-power-management-options-45",
+          "title": "More power management options",
+          "type": "historical",
+          "description": "Expands power-management settings that control how aggressively the car sleeps displays and background systems to balance vampire drain versus wake readiness.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2024/eu_actually_smart_summon.jpg/9734acf94909828d4a6914d54813a5da/eu_actually_smart_summon.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Vehicle OS"
+          ],
+          "primaryCategory": "Vehicle OS"
+        },
+        {
+          "id": "electrek-1.67.125-location-based-air-suspension-settings-46",
+          "title": "Location based air suspension settings",
+          "type": "historical",
+          "description": "Remembers preferred air-suspension ride heights for specific locations (driveways, steep approaches) and applies them automatically when you arrive.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2023.12/suspension-options.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Vehicle Control",
+            "Comfort / Climate"
+          ],
+          "primaryCategory": "Vehicle Control"
+        },
+        {
+          "id": "electrek-1.67.125-custom-car-name-47",
+          "title": "Custom car name",
+          "type": "historical",
+          "description": "Lets owners set a custom vehicle name shown in the car UI and mobile app instead of a generic Model S/X label.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2022.24/2022.24-Driver_Profiles.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "UI / Visualization",
+            "Mobile App"
+          ],
+          "primaryCategory": "UI / Visualization"
+        }
+      ],
+      "source": "electrek"
+    },
+    {
+      "version": "2.2.200",
+      "url": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "releaseDate": "March 17, 2015",
+      "features": [
+        {
+          "id": "electrek-2.2.200-international-osk-onscreen-keyboard-48",
+          "title": "International OSK (onscreen keyboard)",
+          "type": "historical",
+          "description": "Expands the on-screen keyboard with additional international layouts and character sets for entering destinations and search text worldwide.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.14/2026.14-keyboard.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "UI / Visualization"
+          ],
+          "primaryCategory": "UI / Visualization"
+        },
+        {
+          "id": "electrek-2.2.200-trip-energy-prediction-49",
+          "title": "Trip energy prediction",
+          "type": "historical",
+          "description": "Predicts energy use for the planned route and shows expected battery level at arrival, helping decide whether a Supercharger stop is needed.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.44.25/2024.44.25-set-arrival-energy.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        },
+        {
+          "id": "electrek-2.2.200-tacc-to-ap1-cars-50",
+          "title": "TACC to AP1 cars",
+          "type": "historical",
+          "description": "Brings Traffic-Aware Cruise Control to Autopilot Hardware 1 cars: adaptive cruise that matches traffic speed and can follow the car ahead using the forward radar/camera suite.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2023.44.25/aeb.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "electrek-2.2.200-auto-high-beam-to-ap1-cars-51",
+          "title": "Auto high beam to AP1 cars",
+          "type": "historical",
+          "description": "Automatically switches between high and low beams based on detected traffic and lighting conditions on Autopilot-equipped cars.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.14/2025.14-adaptive-headlights.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Lighting",
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Lighting"
+        },
+        {
+          "id": "electrek-2.2.200-forward-collision-warning-to-ap1-cars-52",
+          "title": "Forward collision warning to AP1 cars",
+          "type": "historical",
+          "description": "Alerts the driver when a potential frontal collision is detected, giving time to brake or steer before Automatic Emergency Braking may intervene.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.20/2025.20.3-forward-collision-warning-improvements.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Safety / Emergency"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "electrek-2.2.200-energy-option-for-battery-display-53",
+          "title": "Energy option for battery display",
+          "type": "historical",
+          "description": "Adds an energy (kWh/percentage) view alongside distance-based range so owners can monitor pack energy directly in the battery/energy display.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.8/energy-app.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "UI / Visualization"
+          ],
+          "primaryCategory": "UI / Visualization"
+        },
+        {
+          "id": "electrek-2.2.200-smart-preconditioning-auto-warm-your-car-based-on-habits-54",
+          "title": "Smart preconditioning (auto warm your car based on habits)",
+          "type": "historical",
+          "description": "Learns typical departure patterns and can automatically precondition the cabin (and battery when relevant) before you usually leave, so the car is ready without a manual app request.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.26/undoc/next-scheduled.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Comfort / Climate"
+          ],
+          "primaryCategory": "Comfort / Climate"
+        },
+        {
+          "id": "electrek-2.2.200-reverse-lines-in-backup-cam-55",
+          "title": "Reverse lines in backup cam",
+          "type": "historical",
+          "description": "Overlays parking guidance lines on the backup camera view to help judge trajectory and distance while reversing.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2025/intel-reverse-vis.webp/a2faab9fbff2d90d09f1baffd42fa9e3/intel-reverse-vis.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Camera"
+          ],
+          "primaryCategory": "Camera"
+        },
+        {
+          "id": "electrek-2.2.200-parkview-assist-56",
+          "title": "Parkview assist",
+          "type": "historical",
+          "description": "Park Assist / Parkview uses ultrasonic sensors to chime and visualize nearby obstacles while parking at low speed.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.20/2025.20.3-camera-updates.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Camera",
+            "Safety / Emergency"
+          ],
+          "primaryCategory": "Camera"
+        },
+        {
+          "id": "electrek-2.2.200-shuffle-and-repeat-to-media-player-57",
+          "title": "Shuffle and repeat to media player",
+          "type": "historical",
+          "description": "Adds long-requested shuffle and repeat controls to the cabin media player for USB and streaming libraries.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.14/2026.14-music-app-queuing.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Media / Entertainment"
+          ],
+          "primaryCategory": "Media / Entertainment"
+        },
+        {
+          "id": "electrek-2.2.200-factory-reset-option-58",
+          "title": "Factory reset option",
+          "type": "historical",
+          "description": "Provides a factory reset that erases profiles, Wi‑Fi credentials, HomeLink, and other personal data—important before selling or transferring the vehicle.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.44.25/2024.44.25-maintenance-summary.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Service / Support"
+          ],
+          "primaryCategory": "Service / Support"
+        }
+      ],
+      "source": "electrek"
+    },
+    {
+      "version": "2.5.85",
+      "url": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "releaseDate": "September 21, 2015",
+      "features": [
+        {
+          "id": "electrek-2.5.85-trip-planner-with-routing-via-superchargers-59",
+          "title": "Trip planner with routing via Superchargers",
+          "type": "historical",
+          "description": "Plans long-distance routes with automatic Supercharger stops, charging time estimates, and arrival energy targets so cross-country trips are navigable in one plan.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2023.44.25/trip-planner-2.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route",
+            "Range / Charging / Energy"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        },
+        {
+          "id": "electrek-2.5.85-range-assurance-60",
+          "title": "Range assurance",
+          "type": "historical",
+          "description": "Warns when your remaining range may not reach the entered destination (or next charger) and can suggest charging or a more conservative speed.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/estimated-range.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        },
+        {
+          "id": "electrek-2.5.85-valet-mode-61",
+          "title": "Valet mode",
+          "type": "historical",
+          "description": "Locks the glovebox/frunk, limits top speed and acceleration, hides destination/home data, and requires a PIN to exit—so you can hand the car to a valet with reduced access.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.2/capture-pin-to-drive.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Profile",
+            "Scenario / Mode"
+          ],
+          "primaryCategory": "Profile"
+        },
+        {
+          "id": "electrek-2.5.85-blind-spot-warning-62",
+          "title": "Blind spot warning",
+          "type": "historical",
+          "description": "Warns when a vehicle is detected in the blind spot during lane changes, using Autopilot sensors to reduce side-collision risk.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.44/2024.44-blind-spot-warning-while-parked.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Safety / Emergency"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "electrek-2.5.85-aeb-auto-emergency-braking-63",
+          "title": "AEB (auto emergency braking)",
+          "type": "historical",
+          "description": "Automatic Emergency Braking applies the brakes if a frontal collision is imminent and the driver has not responded adequately to warnings.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2023.44.25/aeb.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Safety / Emergency"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "electrek-2.5.85-pin-dropping-to-navigation-map-64",
+          "title": "Pin dropping to navigation map",
+          "type": "historical",
+          "description": "Drop a pin anywhere on the map to navigate to an arbitrary coordinate—not only searched addresses or POIs.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/preferred-routes.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        }
+      ],
+      "source": "electrek"
+    },
+    {
+      "version": "2.9.77",
+      "url": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "releaseDate": "December 31, 2015",
+      "features": [
+        {
+          "id": "electrek-2.9.77-launch-mode-65",
+          "title": "Launch mode",
+          "type": "historical",
+          "description": "Performance Launch Mode optimizes powertrain prep for maximum acceleration launches (preconditions motors/battery as applicable) on supported dual-motor Performance cars.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2020.12.5/tesla/en/day/launch_mode.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Vehicle Control"
+          ],
+          "primaryCategory": "Vehicle Control"
+        },
+        {
+          "id": "electrek-2.9.77-clock-widget-66",
+          "title": "Clock widget",
+          "type": "historical",
+          "description": "Adds an always-visible clock widget on the display so time is easy to see without opening another app.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tesla_Model_S_Interior.jpg/1280px-Tesla_Model_S_Interior.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "UI / Visualization"
+          ],
+          "primaryCategory": "UI / Visualization"
+        },
+        {
+          "id": "electrek-2.9.77-rwd-torque-sleep-67",
+          "title": "RWD Torque sleep",
+          "type": "historical",
+          "description": "On dual-motor cars, can reduce or idle rear-motor torque in light-load situations to improve efficiency (often discussed as rear-motor “torque sleep”).",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.14/dynamics-menu.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S"
+          ],
+          "categories": [
+            "Vehicle Control",
+            "Vehicle OS"
+          ],
+          "primaryCategory": "Vehicle Control"
+        }
+      ],
+      "source": "electrek"
+    },
+    {
+      "version": "2.36.31",
+      "url": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "releaseDate": "September 18, 2016",
+      "features": [
+        {
+          "id": "electrek-2.36.31-perpendicular-autopark-68",
+          "title": "Perpendicular autopark",
+          "type": "historical",
+          "description": "Expands Autopark beyond parallel spaces to perpendicular (head-in/back-in) parking stalls using Autopilot ultrasonics and cameras.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.2/2024.2-autopark.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S",
+            "X"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "electrek-2.36.31-homelink-auto-open-close-69",
+          "title": "Homelink Auto open/close",
+          "type": "historical",
+          "description": "Automatically opens or closes a programmed HomeLink garage door based on arrival/departure (and can pair with Summon’s Auto HomeLink setting).",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.20.5/2026.20.5-arrival-options.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S",
+            "X"
+          ],
+          "categories": [
+            "Vehicle Control",
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Vehicle Control"
+        },
+        {
+          "id": "electrek-2.36.31-auto-brightness-to-display-70",
+          "title": "Auto brightness to display",
+          "type": "historical",
+          "description": "Automatically adjusts center-display brightness for ambient light so the screen stays readable day and night without constant manual tweaks.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.26/2025.26-light-sync.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S",
+            "X"
+          ],
+          "categories": [
+            "UI / Visualization"
+          ],
+          "primaryCategory": "UI / Visualization"
+        },
+        {
+          "id": "electrek-2.36.31-supercharger-availability-71",
+          "title": "Supercharger availability",
+          "type": "historical",
+          "description": "Shows real-time Supercharger stall availability and site status (including temporary closures) on map pins so you can pick an open site before you arrive.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2023.44.25/superchargers-amenities.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S",
+            "X"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route",
+            "Range / Charging / Energy"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        },
+        {
+          "id": "electrek-2.36.31-spotify-music-service-72",
+          "title": "Spotify music service",
+          "type": "historical",
+          "description": "Adds Spotify as an in-car streaming service (introduced as Rdio’s replacement), with account sign-in and playback through the cabin media UI.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.14/2026.14-music-app-queuing.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S",
+            "X"
+          ],
+          "categories": [
+            "Media / Entertainment"
+          ],
+          "primaryCategory": "Media / Entertainment"
+        },
+        {
+          "id": "electrek-2.36.31-summon-to-ap1-cars-73",
+          "title": "Summon to ap1 cars",
+          "type": "historical",
+          "description": "Summon (Beta) lets you move the car forward/back into a parking space from outside using the key fob (within a limited distance), useful for tight garages—available on Autopilot-equipped cars of that era.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.27/summon.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S",
+            "X"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        }
+      ],
+      "source": "electrek"
+    },
+    {
+      "version": "2.50.114",
+      "url": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "releaseDate": "December 22, 2016",
+      "features": [
+        {
+          "id": "electrek-2.50.114-supercharger-amenities-74",
+          "title": "Supercharger amenities",
+          "type": "historical",
+          "description": "Displays amenity information for Supercharger sites (restrooms, dining, Wi‑Fi, etc.) on the map so stops can be planned around more than just stalls.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2023.44.25/superchargers-amenities.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S",
+            "X"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route",
+            "Range / Charging / Energy"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        },
+        {
+          "id": "electrek-2.50.114-automatic-driver-profiles-based-on-key-fobs-75",
+          "title": "Automatic driver profiles based on key fobs",
+          "type": "historical",
+          "description": "Automatically selects the driver profile associated with the key fob that unlocked/approached the car, restoring seat and preference settings without a manual profile tap.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2021.44/2021.44-Driver_Profiles.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S",
+            "X"
+          ],
+          "categories": [
+            "Profile"
+          ],
+          "primaryCategory": "Profile"
+        },
+        {
+          "id": "electrek-2.50.114-2-car-visibility-to-cars-with-ap-76",
+          "title": "2 car visibility to cars with AP",
+          "type": "historical",
+          "description": "Improves Autopilot driving visualization to show additional surrounding vehicles (deeper traffic context ahead/adjacent) on the instrument cluster.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/driving-visualization.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S",
+            "X"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "UI / Visualization"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "electrek-2.50.114-ability-to-name-trip-meter-77",
+          "title": "Ability to name trip meter",
+          "type": "historical",
+          "description": "Lets you assign custom names to trip meters (beyond Trip A/B) so energy/distance logs are easier to track per journey.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-update/trips-energy-app-reorder.webp/a256cf9ade845dd6f46f6935de28c175/trips-energy-app-reorder.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S",
+            "X"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route",
+            "UI / Visualization"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        },
+        {
+          "id": "electrek-2.50.114-swipe-abilities-in-navigation-78",
+          "title": "Swipe abilities in navigation",
+          "type": "historical",
+          "description": "Adds swipe gestures on the navigation UI for faster interaction with the map and trip panels (for example dismissing or switching panels).",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/preferred-routes.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S",
+            "X"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route",
+            "UI / Visualization"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        },
+        {
+          "id": "electrek-2.50.114-cabin-overheat-protection-cools-the-cabin-if-past-40c-79",
+          "title": "Cabin overheat protection (cools the cabin if past 40C)",
+          "type": "historical",
+          "description": "Automatically ventilates or cools the cabin if interior temperature exceeds a high threshold (about 40°C / 105°F) while parked, helping protect occupants, pets, and interior materials.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.14/2024.14-cabin-overheat-protection.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S",
+            "X"
+          ],
+          "categories": [
+            "Comfort / Climate",
+            "Safety / Emergency"
+          ],
+          "primaryCategory": "Comfort / Climate"
+        },
+        {
+          "id": "electrek-2.50.114-homelink-audio-tone-80",
+          "title": "Homelink audio tone",
+          "type": "historical",
+          "description": "Plays an audible confirmation tone when HomeLink transmits, so you know the garage/gate command was sent without watching the UI.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.20.5/2026.20.5-arrival-options.png",
+          "imageDark": null,
+          "links": [],
+          "availability": null,
+          "models": [
+            "S",
+            "X"
+          ],
+          "categories": [
+            "Vehicle Control"
+          ],
+          "primaryCategory": "Vehicle Control"
+        }
+      ],
+      "source": "electrek"
+    }
+  ],
+  "features": [
+    {
+      "id": "electrek-1.9.11-projected-and-rated-range-0",
+      "title": "Projected and rated range",
+      "type": "historical",
+      "description": "Shows both projected range (based on recent driving efficiency) and rated range (EPA/WLTP estimate) so drivers can compare real-world consumption against the official rating on the instrument cluster and energy displays.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2021.40/2021.40-Range-Display.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "UI / Visualization",
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "UI / Visualization",
+      "version": "1.9.11",
+      "releaseDate": "September 23, 2012",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.9.11-entry-exit-feature-displays-on-and-media-auto-play-for-entry-and-decrease-volume-1",
+      "title": "Entry / Exit feature – Displays on and Media auto play for entry and decrease volume upon exit",
+      "type": "historical",
+      "description": "Automatically wakes the displays and can resume media when you enter the car, then lowers media volume when you exit—an early welcome/leave behavior for the Model S cabin experience.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/welcome-animation.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Media / Entertainment",
+        "UI / Visualization"
+      ],
+      "primaryCategory": "Media / Entertainment",
+      "version": "1.9.11",
+      "releaseDate": "September 23, 2012",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.13.16-driver-profiles-up-to-10-can-be-saved-2",
+      "title": "Driver profiles (up to 10 can be saved)",
+      "type": "historical",
+      "description": "Saves personalized seat, mirror, steering, and preference settings under named driver profiles. Early Model S software allowed up to 10 profiles so multiple drivers could restore their setup quickly.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2022.24/2022.24-Driver_Profiles.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Profile"
+      ],
+      "primaryCategory": "Profile",
+      "version": "1.13.16",
+      "releaseDate": "October 9, 2012",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.13.16-creep-mode-emulate-automatic-transmission-idle-forward-3",
+      "title": "Creep mode (emulate automatic transmission idle forward)",
+      "type": "historical",
+      "description": "Optional creep that gently rolls the car forward when Drive is selected and the brake is released, mimicking a conventional automatic transmission at idle for low-speed parking-lot feel.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2023.12/2023.12.9-Stopping-Mode.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Vehicle Control"
+      ],
+      "primaryCategory": "Vehicle Control",
+      "version": "1.13.16",
+      "releaseDate": "October 9, 2012",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.13.16-traffic-lines-in-map-4",
+      "title": "Traffic lines in map",
+      "type": "historical",
+      "description": "Adds live traffic flow coloring on the navigation map so congested roads stand out while routing—an early traffic visualization layer on the Model S touchscreen map.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.8/traffic.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "1.13.16",
+      "releaseDate": "October 9, 2012",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.13.16-higher-volume-granularity-5",
+      "title": "Higher volume granularity",
+      "type": "historical",
+      "description": "Increases the number of discrete volume steps on the media system (beyond the earlier coarse 1–11 scale) so drivers can fine-tune cabin audio more precisely.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2026/volume-icon.webp/c34d1fa61db7885c689603a0ba70b55d/volume-icon.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Media / Entertainment"
+      ],
+      "primaryCategory": "Media / Entertainment",
+      "version": "1.13.16",
+      "releaseDate": "October 9, 2012",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.13.16-lock-and-unlock-touch-screen-buttons-separated-for-ease-of-use-6",
+      "title": "Lock and Unlock touch screen buttons separated for ease of use",
+      "type": "historical",
+      "description": "Splits lock and unlock into separate on-screen controls instead of a single combined control, making it harder to tap the wrong action on the center display.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.14/2024.14-new-lock-sounds.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "UI / Visualization",
+        "Vehicle Control"
+      ],
+      "primaryCategory": "UI / Visualization",
+      "version": "1.13.16",
+      "releaseDate": "October 9, 2012",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.13.16-mobile-app-remote-access-7",
+      "title": "Mobile App Remote Access",
+      "type": "historical",
+      "description": "Enables remote vehicle status and basic controls from the Tesla smartphone app (lock/unlock, climate, charging, and location), extending the cabin UI with phone-side access over the cellular connection.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2023.44.25/trip-planner-2.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Mobile App"
+      ],
+      "primaryCategory": "Mobile App",
+      "version": "1.13.16",
+      "releaseDate": "October 9, 2012",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.15.14-cancel-button-to-nav-8",
+      "title": "Cancel button to nav",
+      "type": "historical",
+      "description": "Adds an explicit cancel control to end an active navigation route from the map UI without digging through menus.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/preferred-routes.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "1.15.14",
+      "releaseDate": "November 30, 2012",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.17.5-vehicle-sleep-mode-reduced-vampire-drain-9",
+      "title": "Vehicle sleep mode (reduced vampire drain)",
+      "type": "historical",
+      "description": "Powers down the displays and non-essential electronics when parked to cut vampire drain. Tesla noted that leaving systems awake could cost on the order of ~8 miles of range per day when unplugged.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2024/eu_actually_smart_summon.jpg/9734acf94909828d4a6914d54813a5da/eu_actually_smart_summon.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Vehicle OS",
+        "Scenario / Mode"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "1.17.5",
+      "releaseDate": "November 30, 2012",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.17.5-app-launcher-10",
+      "title": "App launcher",
+      "type": "historical",
+      "description": "Introduces an app launcher so owners can open cabin apps and choose whether they appear in the upper or lower half of the 17\" touchscreen via drag-and-drop placement.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2021.44/2021.44.25-Customizable_App_Launcher.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "UI / Visualization"
+      ],
+      "primaryCategory": "UI / Visualization",
+      "version": "1.17.5",
+      "releaseDate": "November 30, 2012",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.17.5-voice-commands-11",
+      "title": "Voice commands",
+      "type": "historical",
+      "description": "Hands-free voice control via the steering-wheel button for navigation (“drive to”), phone calls (“call”), and streaming audio (“listen” / play artist radio), using cloud speech recognition over the car’s modem.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.26/2025.26-voice-commands.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Voice & AI"
+      ],
+      "primaryCategory": "Voice & AI",
+      "version": "1.17.5",
+      "releaseDate": "November 30, 2012",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.17.5-auto-present-door-handles-12",
+      "title": "Auto present door handles",
+      "type": "historical",
+      "description": "Automatically presents the flush door handles when you approach with a paired key fob, so you no longer need to press the handle to deploy it before opening the door.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2022.44.25/2022.44.25-Auto_Present_Door_Handles.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Vehicle Control"
+      ],
+      "primaryCategory": "Vehicle Control",
+      "version": "1.17.5",
+      "releaseDate": "November 30, 2012",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.17.5-vehicle-alarm-13",
+      "title": "Vehicle alarm",
+      "type": "historical",
+      "description": "Adds a vehicle alarm that can sound and alert when unauthorized entry or tampering is detected, extending Model S security beyond simple lock status.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.14/2024.14-preview-of-sentry-mode-recordings.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Safety / Emergency"
+      ],
+      "primaryCategory": "Safety / Emergency",
+      "version": "1.17.5",
+      "releaseDate": "November 30, 2012",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.17.5-ability-to-switch-between-metric-and-imperial-units-14",
+      "title": "Ability to switch between metric and imperial units",
+      "type": "historical",
+      "description": "Lets owners choose metric or imperial units for speed, distance, temperature, and related displays so the UI matches regional preferences.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2021.40/2021.40-Range-Display.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "UI / Visualization"
+      ],
+      "primaryCategory": "UI / Visualization",
+      "version": "1.17.5",
+      "releaseDate": "November 30, 2012",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.17.5-range-mode-15",
+      "title": "Range mode",
+      "type": "historical",
+      "description": "An efficiency-focused driving mode that limits energy-hungry systems (climate aggressiveness and related draws) to stretch remaining range when you need every mile.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/estimated-range.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Scenario / Mode",
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Scenario / Mode",
+      "version": "1.17.5",
+      "releaseDate": "November 30, 2012",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.17.5-usb-sorting-for-media-16",
+      "title": "USB sorting for media",
+      "type": "historical",
+      "description": "Improves browsing of USB music libraries with clearer sorting/indexing so large collections of tracks and folders are easier to navigate on the media player.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.14/2026.14-music-app-queuing.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Media / Entertainment"
+      ],
+      "primaryCategory": "Media / Entertainment",
+      "version": "1.17.5",
+      "releaseDate": "November 30, 2012",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.17.5-ability-to-call-phone-numbers-from-map-screen-17",
+      "title": "Ability to call phone numbers from map screen",
+      "type": "historical",
+      "description": "Lets you place a phone call directly from a map place card or listed number while navigating, bridging maps and Bluetooth phone calling.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2022.44.25/2022.44.25-Contact_Lookup.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Mobile App"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "1.17.5",
+      "releaseDate": "November 30, 2012",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.17.5-fan-speed-and-sunroof-controls-to-steering-wheel-controls-18",
+      "title": "Fan speed and sunroof controls to steering wheel controls",
+      "type": "historical",
+      "description": "Allows the steering-wheel scroll wheels to adjust fan speed or sunroof position (in addition to volume/temperature), so climate and roof controls are reachable without leaving the wheel.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_interior_of_Tesla_Model_S.jpg/960px-The_interior_of_Tesla_Model_S.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Comfort / Climate",
+        "Vehicle Control"
+      ],
+      "primaryCategory": "Comfort / Climate",
+      "version": "1.17.5",
+      "releaseDate": "November 30, 2012",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.17.5-location-aware-homelink-19",
+      "title": "Location aware homelink",
+      "type": "historical",
+      "description": "HomeLink garage/gate buttons become context-aware: the car preferentially offers the opener associated with your current location (for example home vs. another programmed site).",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.20.5/2026.20.5-arrival-options.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Vehicle Control"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "1.17.5",
+      "releaseDate": "November 30, 2012",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.19.35-scheduled-charging-mode-20",
+      "title": "Scheduled charging mode",
+      "type": "historical",
+      "description": "Schedule when the car should charge (for off-peak utility rates or departure readiness) instead of charging immediately when plugged in.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.26/undoc/next-scheduled.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Range / Charging / Energy"
+      ],
+      "primaryCategory": "Range / Charging / Energy",
+      "version": "1.19.35",
+      "releaseDate": "March 13, 2013",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.31.48-supercharger-locations-to-maps-21",
+      "title": "Supercharger locations to maps",
+      "type": "historical",
+      "description": "Plots Tesla Supercharger sites on the in-car map so drivers can find DC fast charging along a route or nearby without a separate lookup.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2026/belgium-supercharger-site-maps.webp/04dcf92a8cba0057bdb22e021c5059ae/belgium-supercharger-site-maps.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "1.31.48",
+      "releaseDate": "June 7, 2013",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.31.48-visited-chargers-to-maps-22",
+      "title": "Visited chargers to maps",
+      "type": "historical",
+      "description": "Remembers chargers you have used and surfaces them on the map for quicker return visits and trip planning.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.44.25/2025.44.25-supercharger-site-maps.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "1.31.48",
+      "releaseDate": "June 7, 2013",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.31.48-battery-charge-limit-slider-standard-and-max-range-23",
+      "title": "Battery charge limit slider (Standard and Max Range)",
+      "type": "historical",
+      "description": "Adds a charge-limit control with Standard and Max Range (and finer limits over time) so owners can daily-charge below 100% to reduce battery stress while still topping up for long trips.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.44.25/2025.44.25-save-charge-limit-by-location.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Range / Charging / Energy"
+      ],
+      "primaryCategory": "Range / Charging / Energy",
+      "version": "1.31.48",
+      "releaseDate": "June 7, 2013",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.33.61-contact-sorting-options-24",
+      "title": "Contact sorting options",
+      "type": "historical",
+      "description": "Adds sorting/indexing options for the phone contacts list on the touchscreen, making large Bluetooth address books easier to scan.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2022.44.25/2022.44.25-Contact_Lookup.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Productivity",
+        "Mobile App"
+      ],
+      "primaryCategory": "Productivity",
+      "version": "1.33.61",
+      "releaseDate": "June 20, 2013",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.33.61-new-defrost-mode-25",
+      "title": "New defrost mode",
+      "type": "historical",
+      "description": "Dedicated windshield/defrost climate mode that prioritizes clearing glass quickly in cold or humid conditions from the climate UI.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.2/2024.2-supercharging-in-cold-weather.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Comfort / Climate"
+      ],
+      "primaryCategory": "Comfort / Climate",
+      "version": "1.33.61",
+      "releaseDate": "June 20, 2013",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.33.61-battery-support-will-draw-power-from-wall-instead-of-battery-for-hvac-26",
+      "title": "Battery support (will draw power from wall instead of battery for HVAC)",
+      "type": "historical",
+      "description": "When plugged in, cabin HVAC can run from wall power instead of depleting the traction battery—useful for preconditioning or keeping climate on while charging.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.14/charging.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Comfort / Climate",
+        "Range / Charging / Energy"
+      ],
+      "primaryCategory": "Comfort / Climate",
+      "version": "1.33.61",
+      "releaseDate": "June 20, 2013",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.33.61-battery-ability-to-heat-from-utility-instead-of-itself-27",
+      "title": "Battery ability to heat from utility instead of itself",
+      "type": "historical",
+      "description": "Allows battery heating/preconditioning to draw from grid/wall power when plugged in, preserving pack energy and preparing the battery for efficient charging or departure.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.2/2025.2-third-party-fast-charger-preconditioning.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Range / Charging / Energy",
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Range / Charging / Energy",
+      "version": "1.33.61",
+      "releaseDate": "June 20, 2013",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.35.107-wifi-28",
+      "title": "Wifi",
+      "type": "historical",
+      "description": "Adds Wi‑Fi connectivity so the car can download software updates and stream media over a home or hotspot network instead of relying only on cellular data.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.38/wifi-2.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "1.35.107",
+      "releaseDate": "August 28, 2013",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.35.107-tow-mode-29",
+      "title": "Tow mode",
+      "type": "historical",
+      "description": "Transport/tow mode for flatbed towing: holds the parking brake appropriately and reduces risk of drivetrain damage when the vehicle must be moved with wheels free.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2025/cybertruck-over-weight-limit.webp/e1bb64f55fa46075debe644ee4ae3da5/cybertruck-over-weight-limit.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Trailering",
+        "Scenario / Mode"
+      ],
+      "primaryCategory": "Trailering",
+      "version": "1.35.107",
+      "releaseDate": "August 28, 2013",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.35.107-screen-cleaning-mode-30",
+      "title": "Screen cleaning mode",
+      "type": "historical",
+      "description": "Locks out touch input and often raises brightness so you can wipe the center display without accidentally tapping controls.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2021.44/2021.44.25-Car_Wash_Mode.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Scenario / Mode",
+        "UI / Visualization"
+      ],
+      "primaryCategory": "Scenario / Mode",
+      "version": "1.35.107",
+      "releaseDate": "August 28, 2013",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.35.107-radio-presets-to-steering-wheel-controls-31",
+      "title": "Radio presets to steering wheel controls",
+      "type": "historical",
+      "description": "Lets steering-wheel controls cycle radio presets so you can change stations without reaching for the touchscreen.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2026/volume-icon.webp/c34d1fa61db7885c689603a0ba70b55d/volume-icon.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Media / Entertainment",
+        "Vehicle Control"
+      ],
+      "primaryCategory": "Media / Entertainment",
+      "version": "1.35.107",
+      "releaseDate": "August 28, 2013",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.35.107-tracking-modes-in-map-north-up-or-vehicle-up-32",
+      "title": "Tracking modes in map (north up or vehicle up)",
+      "type": "historical",
+      "description": "Choose whether the map stays north-up or rotates with vehicle heading (heading-up), matching classic navigation preferences.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/preferred-routes.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "1.35.107",
+      "releaseDate": "August 28, 2013",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.49.57-current-anomaly-detection-auto-reduce-charging-amp-by-25-if-problem-is-detected-33",
+      "title": "Current anomaly detection (auto reduce charging amp by 25% if problem is detected)",
+      "type": "historical",
+      "description": "Monitors charging current for electrical anomalies and automatically reduces charge amperage (by ~25%) when a problem is detected to protect the wall circuit and vehicle charge equipment.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.14/charging.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Range / Charging / Energy",
+        "Safety / Emergency"
+      ],
+      "primaryCategory": "Range / Charging / Energy",
+      "version": "1.49.57",
+      "releaseDate": "December 21, 2013",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.49.57-wiper-service-mode-34",
+      "title": "Wiper service mode",
+      "type": "historical",
+      "description": "Moves the wipers to a service position so blades can be replaced safely without forcing the arms against the glass or hood.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/service-mode/front-camera-service-mode.webp/76b5f28b727394480599ab47122948e2/front-camera-service-mode.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Service / Support"
+      ],
+      "primaryCategory": "Service / Support",
+      "version": "1.49.57",
+      "releaseDate": "December 21, 2013",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.49.57-tpms-reset-option-35",
+      "title": "TPMS reset option",
+      "type": "historical",
+      "description": "Adds a tire-pressure monitoring system (TPMS) reset/relearn option after tire service or pressure changes so warnings clear correctly.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.2/undoc/tire-pressure.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Service / Support",
+        "Vehicle Control"
+      ],
+      "primaryCategory": "Service / Support",
+      "version": "1.49.57",
+      "releaseDate": "December 21, 2013",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.51.109-rdio-36",
+      "title": "RDIO",
+      "type": "historical",
+      "description": "Integrates Rdio streaming music in the cabin media player (later replaced by Spotify after Rdio shut down), bringing cloud playlists to the Model S over the car’s data connection.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.32/liveone-powered-by-slacker-radio.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Media / Entertainment"
+      ],
+      "primaryCategory": "Media / Entertainment",
+      "version": "1.51.109",
+      "releaseDate": "May 25, 2014",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.51.109-hill-assist-37",
+      "title": "Hill assist",
+      "type": "historical",
+      "description": "Holds the vehicle briefly when starting on an incline so it does not roll backward before you apply throttle—helpful with strong regen and one-pedal driving habits.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.14/dynamics-menu.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Vehicle Control",
+        "Safety / Emergency"
+      ],
+      "primaryCategory": "Vehicle Control",
+      "version": "1.51.109",
+      "releaseDate": "May 25, 2014",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.51.109-smart-air-suspension-options-auto-lower-for-highway-speeds-38",
+      "title": "Smart air suspension options (auto lower for highway speeds)",
+      "type": "historical",
+      "description": "Automatically lowers air suspension at highway speeds for improved aero/efficiency and raises it again at lower speeds for comfort and clearance (on air-suspension cars).",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2023.12/suspension-options.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Vehicle Control",
+        "Comfort / Climate"
+      ],
+      "primaryCategory": "Vehicle Control",
+      "version": "1.51.109",
+      "releaseDate": "May 25, 2014",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.51.109-home-and-work-locations-39",
+      "title": "Home and work locations",
+      "type": "historical",
+      "description": "Save Home and Work as special destinations for one-tap navigation and later automatic navigation / calendar-aware routing.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/automatic-navigation.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "1.51.109",
+      "releaseDate": "May 25, 2014",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.64.39-asian-font-support-for-media-player-40",
+      "title": "Asian font support for media player",
+      "type": "historical",
+      "description": "Adds Asian-language font support in the media player so track and artist metadata in Chinese, Japanese, Korean, and related scripts render correctly.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.14/2025.14-keyboard-languages.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Media / Entertainment",
+        "UI / Visualization"
+      ],
+      "primaryCategory": "Media / Entertainment",
+      "version": "1.64.39",
+      "releaseDate": "September 4, 2014",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.64.39-fob-reprogram-swap-ability-41",
+      "title": "FOB reprogram/swap ability",
+      "type": "historical",
+      "description": "Allows reprogramming or swapping key fobs from the vehicle UI so replacement or additional fobs can be paired without a service visit for simple swaps.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.8/no-key-screen.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Profile",
+        "Service / Support"
+      ],
+      "primaryCategory": "Profile",
+      "version": "1.64.39",
+      "releaseDate": "September 4, 2014",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.64.39-slacker-radio-reset-ability-42",
+      "title": "Slacker radio reset ability",
+      "type": "historical",
+      "description": "Adds a reset control for Slacker Radio streaming when the service gets stuck, restoring playback without a full car reboot.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.32/liveone-powered-by-slacker-radio.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Media / Entertainment"
+      ],
+      "primaryCategory": "Media / Entertainment",
+      "version": "1.64.39",
+      "releaseDate": "September 4, 2014",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.67.125-traffic-aware-navigation-43",
+      "title": "Traffic aware navigation",
+      "type": "historical",
+      "description": "Navigation routing that accounts for live traffic when calculating ETA and suggesting alternate routes around congestion.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.8/traffic.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "1.67.125",
+      "releaseDate": "November 19, 2014",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.67.125-calendar-44",
+      "title": "Calendar",
+      "type": "historical",
+      "description": "In-car Calendar app that syncs upcoming events (with phone/account connectivity) so you can navigate to event locations and see schedule context on the touchscreen.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2023.44/calendar.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Productivity"
+      ],
+      "primaryCategory": "Productivity",
+      "version": "1.67.125",
+      "releaseDate": "November 19, 2014",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.67.125-more-power-management-options-45",
+      "title": "More power management options",
+      "type": "historical",
+      "description": "Expands power-management settings that control how aggressively the car sleeps displays and background systems to balance vampire drain versus wake readiness.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2024/eu_actually_smart_summon.jpg/9734acf94909828d4a6914d54813a5da/eu_actually_smart_summon.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "1.67.125",
+      "releaseDate": "November 19, 2014",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.67.125-location-based-air-suspension-settings-46",
+      "title": "Location based air suspension settings",
+      "type": "historical",
+      "description": "Remembers preferred air-suspension ride heights for specific locations (driveways, steep approaches) and applies them automatically when you arrive.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2023.12/suspension-options.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Vehicle Control",
+        "Comfort / Climate"
+      ],
+      "primaryCategory": "Vehicle Control",
+      "version": "1.67.125",
+      "releaseDate": "November 19, 2014",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-1.67.125-custom-car-name-47",
+      "title": "Custom car name",
+      "type": "historical",
+      "description": "Lets owners set a custom vehicle name shown in the car UI and mobile app instead of a generic Model S/X label.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2022.24/2022.24-Driver_Profiles.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "UI / Visualization",
+        "Mobile App"
+      ],
+      "primaryCategory": "UI / Visualization",
+      "version": "1.67.125",
+      "releaseDate": "November 19, 2014",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.2.200-international-osk-onscreen-keyboard-48",
+      "title": "International OSK (onscreen keyboard)",
+      "type": "historical",
+      "description": "Expands the on-screen keyboard with additional international layouts and character sets for entering destinations and search text worldwide.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.14/2026.14-keyboard.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "UI / Visualization"
+      ],
+      "primaryCategory": "UI / Visualization",
+      "version": "2.2.200",
+      "releaseDate": "March 17, 2015",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.2.200-trip-energy-prediction-49",
+      "title": "Trip energy prediction",
+      "type": "historical",
+      "description": "Predicts energy use for the planned route and shows expected battery level at arrival, helping decide whether a Supercharger stop is needed.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.44.25/2024.44.25-set-arrival-energy.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "2.2.200",
+      "releaseDate": "March 17, 2015",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.2.200-tacc-to-ap1-cars-50",
+      "title": "TACC to AP1 cars",
+      "type": "historical",
+      "description": "Brings Traffic-Aware Cruise Control to Autopilot Hardware 1 cars: adaptive cruise that matches traffic speed and can follow the car ahead using the forward radar/camera suite.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2023.44.25/aeb.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2.2.200",
+      "releaseDate": "March 17, 2015",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.2.200-auto-high-beam-to-ap1-cars-51",
+      "title": "Auto high beam to AP1 cars",
+      "type": "historical",
+      "description": "Automatically switches between high and low beams based on detected traffic and lighting conditions on Autopilot-equipped cars.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.14/2025.14-adaptive-headlights.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Lighting",
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Lighting",
+      "version": "2.2.200",
+      "releaseDate": "March 17, 2015",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.2.200-forward-collision-warning-to-ap1-cars-52",
+      "title": "Forward collision warning to AP1 cars",
+      "type": "historical",
+      "description": "Alerts the driver when a potential frontal collision is detected, giving time to brake or steer before Automatic Emergency Braking may intervene.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.20/2025.20.3-forward-collision-warning-improvements.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2.2.200",
+      "releaseDate": "March 17, 2015",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.2.200-energy-option-for-battery-display-53",
+      "title": "Energy option for battery display",
+      "type": "historical",
+      "description": "Adds an energy (kWh/percentage) view alongside distance-based range so owners can monitor pack energy directly in the battery/energy display.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.8/energy-app.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "UI / Visualization"
+      ],
+      "primaryCategory": "UI / Visualization",
+      "version": "2.2.200",
+      "releaseDate": "March 17, 2015",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.2.200-smart-preconditioning-auto-warm-your-car-based-on-habits-54",
+      "title": "Smart preconditioning (auto warm your car based on habits)",
+      "type": "historical",
+      "description": "Learns typical departure patterns and can automatically precondition the cabin (and battery when relevant) before you usually leave, so the car is ready without a manual app request.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.26/undoc/next-scheduled.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Comfort / Climate"
+      ],
+      "primaryCategory": "Comfort / Climate",
+      "version": "2.2.200",
+      "releaseDate": "March 17, 2015",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.2.200-reverse-lines-in-backup-cam-55",
+      "title": "Reverse lines in backup cam",
+      "type": "historical",
+      "description": "Overlays parking guidance lines on the backup camera view to help judge trajectory and distance while reversing.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2025/intel-reverse-vis.webp/a2faab9fbff2d90d09f1baffd42fa9e3/intel-reverse-vis.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Camera"
+      ],
+      "primaryCategory": "Camera",
+      "version": "2.2.200",
+      "releaseDate": "March 17, 2015",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.2.200-parkview-assist-56",
+      "title": "Parkview assist",
+      "type": "historical",
+      "description": "Park Assist / Parkview uses ultrasonic sensors to chime and visualize nearby obstacles while parking at low speed.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.20/2025.20.3-camera-updates.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Camera",
+        "Safety / Emergency"
+      ],
+      "primaryCategory": "Camera",
+      "version": "2.2.200",
+      "releaseDate": "March 17, 2015",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.2.200-shuffle-and-repeat-to-media-player-57",
+      "title": "Shuffle and repeat to media player",
+      "type": "historical",
+      "description": "Adds long-requested shuffle and repeat controls to the cabin media player for USB and streaming libraries.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.14/2026.14-music-app-queuing.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Media / Entertainment"
+      ],
+      "primaryCategory": "Media / Entertainment",
+      "version": "2.2.200",
+      "releaseDate": "March 17, 2015",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.2.200-factory-reset-option-58",
+      "title": "Factory reset option",
+      "type": "historical",
+      "description": "Provides a factory reset that erases profiles, Wi‑Fi credentials, HomeLink, and other personal data—important before selling or transferring the vehicle.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.44.25/2024.44.25-maintenance-summary.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Service / Support"
+      ],
+      "primaryCategory": "Service / Support",
+      "version": "2.2.200",
+      "releaseDate": "March 17, 2015",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.5.85-trip-planner-with-routing-via-superchargers-59",
+      "title": "Trip planner with routing via Superchargers",
+      "type": "historical",
+      "description": "Plans long-distance routes with automatic Supercharger stops, charging time estimates, and arrival energy targets so cross-country trips are navigable in one plan.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2023.44.25/trip-planner-2.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "2.5.85",
+      "releaseDate": "September 21, 2015",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.5.85-range-assurance-60",
+      "title": "Range assurance",
+      "type": "historical",
+      "description": "Warns when your remaining range may not reach the entered destination (or next charger) and can suggest charging or a more conservative speed.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/estimated-range.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "2.5.85",
+      "releaseDate": "September 21, 2015",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.5.85-valet-mode-61",
+      "title": "Valet mode",
+      "type": "historical",
+      "description": "Locks the glovebox/frunk, limits top speed and acceleration, hides destination/home data, and requires a PIN to exit—so you can hand the car to a valet with reduced access.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.2/capture-pin-to-drive.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Profile",
+        "Scenario / Mode"
+      ],
+      "primaryCategory": "Profile",
+      "version": "2.5.85",
+      "releaseDate": "September 21, 2015",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.5.85-blind-spot-warning-62",
+      "title": "Blind spot warning",
+      "type": "historical",
+      "description": "Warns when a vehicle is detected in the blind spot during lane changes, using Autopilot sensors to reduce side-collision risk.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.44/2024.44-blind-spot-warning-while-parked.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2.5.85",
+      "releaseDate": "September 21, 2015",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.5.85-aeb-auto-emergency-braking-63",
+      "title": "AEB (auto emergency braking)",
+      "type": "historical",
+      "description": "Automatic Emergency Braking applies the brakes if a frontal collision is imminent and the driver has not responded adequately to warnings.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2023.44.25/aeb.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2.5.85",
+      "releaseDate": "September 21, 2015",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.5.85-pin-dropping-to-navigation-map-64",
+      "title": "Pin dropping to navigation map",
+      "type": "historical",
+      "description": "Drop a pin anywhere on the map to navigate to an arbitrary coordinate—not only searched addresses or POIs.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/preferred-routes.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "2.5.85",
+      "releaseDate": "September 21, 2015",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.9.77-launch-mode-65",
+      "title": "Launch mode",
+      "type": "historical",
+      "description": "Performance Launch Mode optimizes powertrain prep for maximum acceleration launches (preconditions motors/battery as applicable) on supported dual-motor Performance cars.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2020.12.5/tesla/en/day/launch_mode.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Vehicle Control"
+      ],
+      "primaryCategory": "Vehicle Control",
+      "version": "2.9.77",
+      "releaseDate": "December 31, 2015",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.9.77-clock-widget-66",
+      "title": "Clock widget",
+      "type": "historical",
+      "description": "Adds an always-visible clock widget on the display so time is easy to see without opening another app.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tesla_Model_S_Interior.jpg/1280px-Tesla_Model_S_Interior.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "UI / Visualization"
+      ],
+      "primaryCategory": "UI / Visualization",
+      "version": "2.9.77",
+      "releaseDate": "December 31, 2015",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.9.77-rwd-torque-sleep-67",
+      "title": "RWD Torque sleep",
+      "type": "historical",
+      "description": "On dual-motor cars, can reduce or idle rear-motor torque in light-load situations to improve efficiency (often discussed as rear-motor “torque sleep”).",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.14/dynamics-menu.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S"
+      ],
+      "categories": [
+        "Vehicle Control",
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle Control",
+      "version": "2.9.77",
+      "releaseDate": "December 31, 2015",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.36.31-perpendicular-autopark-68",
+      "title": "Perpendicular autopark",
+      "type": "historical",
+      "description": "Expands Autopark beyond parallel spaces to perpendicular (head-in/back-in) parking stalls using Autopilot ultrasonics and cameras.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.2/2024.2-autopark.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S",
+        "X"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2.36.31",
+      "releaseDate": "September 18, 2016",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.36.31-homelink-auto-open-close-69",
+      "title": "Homelink Auto open/close",
+      "type": "historical",
+      "description": "Automatically opens or closes a programmed HomeLink garage door based on arrival/departure (and can pair with Summon’s Auto HomeLink setting).",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.20.5/2026.20.5-arrival-options.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S",
+        "X"
+      ],
+      "categories": [
+        "Vehicle Control",
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Vehicle Control",
+      "version": "2.36.31",
+      "releaseDate": "September 18, 2016",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.36.31-auto-brightness-to-display-70",
+      "title": "Auto brightness to display",
+      "type": "historical",
+      "description": "Automatically adjusts center-display brightness for ambient light so the screen stays readable day and night without constant manual tweaks.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.26/2025.26-light-sync.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S",
+        "X"
+      ],
+      "categories": [
+        "UI / Visualization"
+      ],
+      "primaryCategory": "UI / Visualization",
+      "version": "2.36.31",
+      "releaseDate": "September 18, 2016",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.36.31-supercharger-availability-71",
+      "title": "Supercharger availability",
+      "type": "historical",
+      "description": "Shows real-time Supercharger stall availability and site status (including temporary closures) on map pins so you can pick an open site before you arrive.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2023.44.25/superchargers-amenities.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S",
+        "X"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "2.36.31",
+      "releaseDate": "September 18, 2016",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.36.31-spotify-music-service-72",
+      "title": "Spotify music service",
+      "type": "historical",
+      "description": "Adds Spotify as an in-car streaming service (introduced as Rdio’s replacement), with account sign-in and playback through the cabin media UI.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.14/2026.14-music-app-queuing.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S",
+        "X"
+      ],
+      "categories": [
+        "Media / Entertainment"
+      ],
+      "primaryCategory": "Media / Entertainment",
+      "version": "2.36.31",
+      "releaseDate": "September 18, 2016",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.36.31-summon-to-ap1-cars-73",
+      "title": "Summon to ap1 cars",
+      "type": "historical",
+      "description": "Summon (Beta) lets you move the car forward/back into a parking space from outside using the key fob (within a limited distance), useful for tight garages—available on Autopilot-equipped cars of that era.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.27/summon.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S",
+        "X"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2.36.31",
+      "releaseDate": "September 18, 2016",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.50.114-supercharger-amenities-74",
+      "title": "Supercharger amenities",
+      "type": "historical",
+      "description": "Displays amenity information for Supercharger sites (restrooms, dining, Wi‑Fi, etc.) on the map so stops can be planned around more than just stalls.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2023.44.25/superchargers-amenities.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S",
+        "X"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "2.50.114",
+      "releaseDate": "December 22, 2016",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.50.114-automatic-driver-profiles-based-on-key-fobs-75",
+      "title": "Automatic driver profiles based on key fobs",
+      "type": "historical",
+      "description": "Automatically selects the driver profile associated with the key fob that unlocked/approached the car, restoring seat and preference settings without a manual profile tap.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2021.44/2021.44-Driver_Profiles.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S",
+        "X"
+      ],
+      "categories": [
+        "Profile"
+      ],
+      "primaryCategory": "Profile",
+      "version": "2.50.114",
+      "releaseDate": "December 22, 2016",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.50.114-2-car-visibility-to-cars-with-ap-76",
+      "title": "2 car visibility to cars with AP",
+      "type": "historical",
+      "description": "Improves Autopilot driving visualization to show additional surrounding vehicles (deeper traffic context ahead/adjacent) on the instrument cluster.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/driving-visualization.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S",
+        "X"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "UI / Visualization"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2.50.114",
+      "releaseDate": "December 22, 2016",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.50.114-ability-to-name-trip-meter-77",
+      "title": "Ability to name trip meter",
+      "type": "historical",
+      "description": "Lets you assign custom names to trip meters (beyond Trip A/B) so energy/distance logs are easier to track per journey.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-update/trips-energy-app-reorder.webp/a256cf9ade845dd6f46f6935de28c175/trips-energy-app-reorder.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S",
+        "X"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "UI / Visualization"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "2.50.114",
+      "releaseDate": "December 22, 2016",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.50.114-swipe-abilities-in-navigation-78",
+      "title": "Swipe abilities in navigation",
+      "type": "historical",
+      "description": "Adds swipe gestures on the navigation UI for faster interaction with the map and trip panels (for example dismissing or switching panels).",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/preferred-routes.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S",
+        "X"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "UI / Visualization"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "2.50.114",
+      "releaseDate": "December 22, 2016",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.50.114-cabin-overheat-protection-cools-the-cabin-if-past-40c-79",
+      "title": "Cabin overheat protection (cools the cabin if past 40C)",
+      "type": "historical",
+      "description": "Automatically ventilates or cools the cabin if interior temperature exceeds a high threshold (about 40°C / 105°F) while parked, helping protect occupants, pets, and interior materials.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.14/2024.14-cabin-overheat-protection.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S",
+        "X"
+      ],
+      "categories": [
+        "Comfort / Climate",
+        "Safety / Emergency"
+      ],
+      "primaryCategory": "Comfort / Climate",
+      "version": "2.50.114",
+      "releaseDate": "December 22, 2016",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    },
+    {
+      "id": "electrek-2.50.114-homelink-audio-tone-80",
+      "title": "Homelink audio tone",
+      "type": "historical",
+      "description": "Plays an audible confirmation tone when HomeLink transmits, so you know the garage/gate command was sent without watching the UI.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.20.5/2026.20.5-arrival-options.png",
+      "imageDark": null,
+      "links": [],
+      "availability": null,
+      "models": [
+        "S",
+        "X"
+      ],
+      "categories": [
+        "Vehicle Control"
+      ],
+      "primaryCategory": "Vehicle Control",
+      "version": "2.50.114",
+      "releaseDate": "December 22, 2016",
+      "releaseUrl": "https://electrek.co/2017/03/20/tesla-list-features-software-updates/",
+      "source": "electrek",
+      "enriched": true,
+      "enrichmentSource": "Researched from Tesla release notes / contemporary coverage; imagery from NotaTeslaApp feature screenshots or Wikimedia Commons Model S interior."
+    }
+  ]
+}

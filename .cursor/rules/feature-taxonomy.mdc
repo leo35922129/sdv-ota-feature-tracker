@@ -1,0 +1,108 @@
+---
+description: Protect feature-card taxonomy and sync behavior
+alwaysApply: true
+---
+# Feature-card taxonomy and sync rules
+
+## Manual edits
+
+* A manual tag lock protects existing manual tags only; it must not block adding a new matching system-generated tag.
+* A manual category lock prevents automatic movement to another category, but it must not block adding a new matching system-generated tag.
+* Never interpret a manual override as a reason to skip the entire feature card.
+* Treat manually edited tags, categories, names, and card placement as explicit user decisions.
+* Never automatically remove, replace, normalize, or reassign a manually locked tag or category.
+* Store manual overrides separately from automatically generated values.
+* Record the editor, timestamp, previous value, new value, and reason for every manual override.
+* If a card has a manual category override, automatic scans must not move it.
+* If a card has manually edited tags, preserve those tags during every automatic sync.
+
+## Category creation
+
+* Tesla categories may classify only Tesla feature cards.
+* Rivian categories may classify only Rivian feature cards.
+* When a new category is added, scan all feature cards for the matching brand.
+* Use explicit category rules, aliases, keywords, and feature metadata for matching.
+* Do not classify from vague semantic similarity alone.
+* Add new matching system-generated tags without removing manual tags.
+* Preserve manually locked categories.
+* Allow multiple categories unless the product explicitly requires one category only.
+* Do not run a full reclassification after a normal card edit.
+* Category scans must be idempotent and must not create duplicate tags or cards.
+
+## Category renaming
+
+* Treat a category rename as an explicit migration.
+* Update the canonical category name and system-managed references.
+* Replace old tags only when they were system-generated.
+* If an old tag was manually edited or locked, preserve it and add the new canonical tag.
+* Before applying a rename, generate a dry-run summary of affected cards.
+* Record the migration version, timestamp, operator, and rollback information.
+* Do not rename similarly named categories unless explicitly requested.
+
+## Tesla and Rivian source monitoring
+
+* Cursor rules alone cannot monitor websites in the background.
+* Website monitoring must run through a scheduled job, worker, cron task, or CI workflow.
+* Monitor only the configured Tesla and Rivian release-note websites.
+* Respect robots.txt, terms of use, authentication requirements, and rate limits.
+* Store the source URL, retrieval time, publication date, content hash, and parser version.
+* Detect revisions using stable source identifiers and content hashes.
+* Never create duplicate feature cards when a source page changes.
+* Update only fields owned by the source-sync process.
+* Never overwrite manually edited fields.
+* Send ambiguous, malformed, inaccessible, or materially changed content to a review queue.
+* Do not silently delete cards when a source page disappears.
+* Validate all imported data before publishing it.
+* Use staged or transactional updates with rollback support.
+* Report added, changed, skipped, rejected, and review-required records.
+* Log sync status, failures, retries, and the last successful sync.
+
+## Design protection
+
+* Preserve the current visual design, layout, navigation, spacing, typography, colors, and responsive behavior.
+* Do not change UI or CSS unless the user explicitly requests a design change.
+* Data synchronization must not redesign the website.
+* If a data change requires a UI change, make the smallest possible change and explain its impact.
+* Do not rewrite unrelated components or perform broad refactors.
+
+## Data model and provenance
+
+* Use stable IDs for feature cards and categories.
+* Do not use display names as primary keys.
+* Store automatic and manual values separately.
+* Prefer per-tag and per-category locks instead of one global override when possible.
+* Store source references and source update timestamps.
+* Maintain category aliases and rename mappings in version-controlled configuration.
+* Validate that each category belongs to the correct brand.
+* Define and consistently apply rules for case, whitespace, spelling, aliases, and localization.
+* Include a schema version for stored feature-card data.
+
+## Safety and testing
+
+* Add tests for manual overrides and locked categories.
+* Add tests for Tesla and Rivian category creation.
+* Add tests for multi-category matches and duplicate prevention.
+* Add tests for category rename migrations.
+* Add tests proving automatic sync cannot move manually categorized cards.
+* Use dry-run mode for bulk scans and migrations.
+* Require approval before destructive changes, bulk moves, manual-value replacement, or deletion.
+* Maintain an audit log for manual and automated changes.
+* Support rollback for migrations and source imports.
+* Use feature flags for new classifiers, parsers, and taxonomy migrations.
+* Fail safely when matching confidence, validation, or source integrity checks fail.
+* Never expose API keys, cookies, passwords, or private credentials in logs or client-side code.
+* Sanitize imported HTML and text before displaying it.
+* Use timeouts, retry backoff, rate limiting, and circuit breakers for source monitoring.
+* Make sync jobs resumable so one bad page cannot block all updates.
+
+## Coding-agent workflow
+
+Before changing the implementation:
+
+1. Inspect the existing data model, category logic, sync jobs, and tests.
+2. Identify system-managed fields and manually overridable fields.
+3. Plan changes that affect taxonomy, migrations, or source synchronization.
+4. Update or add tests with the implementation.
+5. Run targeted tests, type checks, linting, and a production build when applicable.
+6. Report changed files, migration effects, test results, and records requiring review.
+7. Do not redesign the interface or modify unrelated files.

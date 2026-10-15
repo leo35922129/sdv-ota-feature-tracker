@@ -1,0 +1,95 @@
+{
+  "source": "tesla-model-s-x-2012-2019",
+  "sourceRows": 150,
+  "addedFeatures": 149,
+  "enrichedModel3": [
+    {
+      "sxId": "tesla-s-x-3-ota-2019-36-2-1-smart-summon-beta-142",
+      "model3Id": "tesla-model-3-ota-2019-36-2-1-smart-summon-beta",
+      "title": "Smart Summon (Beta)",
+      "version": "2019.36.2.1"
+    }
+  ],
+  "keptSeparate": [
+    {
+      "sxId": "tesla-s-x-3-ota-2019-40-50-1-camp-mode-134",
+      "title": "Camp Mode",
+      "version": "2019.40.50.1",
+      "reason": "S/X/3 marked but not an exact version match"
+    },
+    {
+      "sxId": "tesla-s-x-3-ota-2019-40-50-1-smart-summon-beta-regional-expansion-135",
+      "title": "Smart Summon (Beta) regional expansion",
+      "version": "2019.40.50.1",
+      "reason": "S/X/3 marked; no Model 3 record with the same feature identity"
+    },
+    {
+      "sxId": "tesla-s-x-3-ota-2019-20-1-dog-mode-improvements-136",
+      "title": "Dog Mode improvements",
+      "version": "2019.20.1",
+      "reason": "S/X/3 marked; no Model 3 record with the same feature identity"
+    },
+    {
+      "sxId": "tesla-s-x-3-ota-2019-36-2-1-driving-visualization-improvements-139",
+      "title": "Driving Visualization Improvements",
+      "version": "2019.36.2.1",
+      "reason": "S/X/3 marked but not an exact version match"
+    },
+    {
+      "sxId": "tesla-s-x-3-ota-2019-36-2-1-summon-with-key-fob-143",
+      "title": "Summon with Key Fob",
+      "version": "2019.36.2.1",
+      "reason": "S/X/3 marked; no Model 3 record with the same feature identity"
+    },
+    {
+      "sxId": "tesla-s-x-3-ota-2019-32-2-1-web-browser-149",
+      "title": "Web browser",
+      "version": "2019.32.2.1",
+      "reason": "S/X/3 marked but not an exact version match"
+    },
+    {
+      "sxId": "tesla-s-x-3-ota-2019-32-2-1-wheel-configuration-150",
+      "title": "Wheel Configuration",
+      "version": "2019.32.2.1",
+      "reason": "S/X/3 marked; no Model 3 record with the same feature identity"
+    }
+  ],
+  "rejectedExactMerge": [
+    {
+      "sxId": "tesla-s-x-3-ota-2019-40-50-1-camp-mode-134",
+      "title": "Camp Mode",
+      "sxVersion": "2019.40.50.1",
+      "model3Ids": [
+        "tesla-model-3-ota-2019-40-50-5-camp-mode"
+      ],
+      "model3Versions": [
+        "2019.40.50.5"
+      ],
+      "reason": "same feature name, different version or release semantics"
+    },
+    {
+      "sxId": "tesla-s-x-3-ota-2019-36-2-1-driving-visualization-improvements-139",
+      "title": "Driving Visualization Improvements",
+      "sxVersion": "2019.36.2.1",
+      "model3Ids": [
+        "tesla-model-3-ota-2019-40-50-5-driving-visualization-improvements"
+      ],
+      "model3Versions": [
+        "2019.40.50.5"
+      ],
+      "reason": "same feature name, different version or release semantics"
+    },
+    {
+      "sxId": "tesla-s-x-3-ota-2019-32-2-1-web-browser-149",
+      "title": "Web browser",
+      "sxVersion": "2019.32.2.1",
+      "model3Ids": [
+        "tesla-model-3-ota-2018-39-7-web-browser"
+      ],
+      "model3Versions": [
+        "2018.39.7"
+      ],
+      "reason": "same feature name, different version or release semantics"
+    }
+  ]
+}
