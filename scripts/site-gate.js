@@ -3,7 +3,7 @@
  * The password itself is not stored; only its SHA-256 hash is compared.
  */
 const PASSWORD_SHA256 =
-  "fad0bdd2cbec24c8a9e0c590393ee930b28aa029dffca9b6187932f833385c07";
+  "de3d43caad2bd3c4f0622fc60deecd06b34a0f25a80e30b81fe051a3c54799bb";
 const ACCESS_KEY = "sdv-site-access";
 
 function bytesToHex(buffer) {
