@@ -5,3 +5,6 @@ dist/
 build/
 .DS_Store
 data/admin/
+data/.monitor.lock
+data/monitor-launchd.out.log
+data/monitor-launchd.err.log

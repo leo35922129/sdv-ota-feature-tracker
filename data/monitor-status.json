@@ -1,50 +1,50 @@
 {
   "schemaVersion": 1,
   "parserVersion": "ota-source-sync-v1",
-  "checkedAt": "2026-10-15T17:32:37.143Z",
-  "lastSuccessfulSync": "2026-10-15T17:02:37.008Z",
+  "checkedAt": "2026-11-07T00:38:46.910Z",
+  "lastSuccessfulSync": "2026-11-07T00:08:46.776Z",
   "results": {
     "tesla": {
       "brand": "tesla",
       "label": "Tesla",
       "sourceUrl": "https://www.notateslaapp.com/software-updates/history/",
-      "retrievedAt": "2026-10-15T17:32:37.288Z",
-      "contentHash": "22464d5278d8306d9a74e57bd611e6ff0a074825eaf5682573c85426e97189ab",
+      "retrievedAt": "2026-11-07T00:38:47.026Z",
+      "contentHash": "43f76a01f7af6c1472e3b74ae0cc06df4b5255d141a19dd9cbff23b3448efd10",
       "parserVersion": "ota-source-sync-v1",
-      "remoteCount": 1015,
-      "localCount": 1078,
+      "remoteCount": 1029,
+      "localCount": 1092,
       "added": [],
       "secondary": [],
       "needsScrape": false,
       "scraped": true,
       "error": null,
-      "featureCount": 12976,
-      "scrapedAt": "2026-10-15T17:02:39.354Z",
+      "featureCount": 13149,
+      "scrapedAt": "2026-11-07T00:08:53.916Z",
       "contentUnchanged": true
     },
     "rivian": {
       "brand": "rivian",
       "label": "Rivian",
       "sourceUrl": "https://riviantrackr.com/updates/",
-      "retrievedAt": "2026-10-15T17:32:41.478Z",
-      "contentHash": "275e24a83b873d5d7aabb649787c618ed6894c3284f2ddfdfd4482d8e96fdbaa",
+      "retrievedAt": "2026-11-07T00:38:56.866Z",
+      "contentHash": "dde7d0ebed3fe826bba1eebf0f5c714b7a3bb2aff4b75ba108540527d70e61b7",
       "parserVersion": "ota-source-sync-v1",
-      "remoteCount": 78,
-      "localCount": 158,
+      "remoteCount": 80,
+      "localCount": 163,
       "added": [],
       "secondary": [
         {
           "sourceUrl": "https://www.rivianwave.com/software-updates/history/",
-          "retrievedAt": "2026-10-15T17:32:41.853Z",
-          "contentHash": "09151cc8de7e4348ac633ea4d02d23b6fcfc6e268c81957fac40510001af7a08",
+          "retrievedAt": "2026-11-07T00:39:01.364Z",
+          "contentHash": "8c0a9fed088a8ab0b3d6be45b8e99b79e7d3d5aa8edd61aecbdef4fa3b0310bb",
           "remoteCount": 14
         }
       ],
       "needsScrape": false,
       "scraped": true,
       "error": null,
-      "featureCount": 2008,
-      "scrapedAt": "2026-10-15T17:02:45.279Z",
+      "featureCount": 2130,
+      "scrapedAt": "2026-11-07T00:09:12.521Z",
       "contentUnchanged": true
     }
   },
@@ -55,8 +55,8 @@
       "scraped": true,
       "contentUnchanged": true,
       "sourceUrl": "https://www.notateslaapp.com/software-updates/history/",
-      "retrievedAt": "2026-10-15T17:32:37.288Z",
-      "contentHash": "22464d5278d8306d9a74e57bd611e6ff0a074825eaf5682573c85426e97189ab",
+      "retrievedAt": "2026-11-07T00:38:47.026Z",
+      "contentHash": "43f76a01f7af6c1472e3b74ae0cc06df4b5255d141a19dd9cbff23b3448efd10",
       "parserVersion": "ota-source-sync-v1",
       "error": null
     },
@@ -66,8 +66,8 @@
       "scraped": true,
       "contentUnchanged": true,
       "sourceUrl": "https://riviantrackr.com/updates/",
-      "retrievedAt": "2026-10-15T17:32:41.478Z",
-      "contentHash": "275e24a83b873d5d7aabb649787c618ed6894c3284f2ddfdfd4482d8e96fdbaa",
+      "retrievedAt": "2026-11-07T00:38:56.866Z",
+      "contentHash": "dde7d0ebed3fe826bba1eebf0f5c714b7a3bb2aff4b75ba108540527d70e61b7",
       "parserVersion": "ota-source-sync-v1",
       "error": null
     }

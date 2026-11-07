@@ -2,12 +2,37 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
+import { mkdtempSync, writeFileSync, rmSync } from "node:fs";
+import { join } from "node:path";
+import { tmpdir } from "node:os";
 import {
+  acquireMonitorLock,
   hashSourceHtml,
   monitorHasPublishableUpdate,
   PARSER_VERSION,
 } from "./monitor.mjs";
 import { listReleaseNoteVersions, mergeReleaseVersions } from "./scrape.mjs";
+
+test("monitor lock blocks a second live holder and recovers from a stale lock", () => {
+  const dir = mkdtempSync(join(tmpdir(), "monitor-lock-"));
+  const lockPath = join(dir, ".monitor.lock");
+  try {
+    const release = acquireMonitorLock(lockPath);
+    assert.equal(typeof release, "function");
+    assert.equal(acquireMonitorLock(lockPath), null);
+    release();
+
+    writeFileSync(
+      lockPath,
+      JSON.stringify({ pid: 999999999, at: new Date().toISOString() })
+    );
+    const recovered = acquireMonitorLock(lockPath);
+    assert.equal(typeof recovered, "function");
+    recovered();
+  } finally {
+    rmSync(dir, { recursive: true, force: true });
+  }
+});
 
 test("source HTML hashes are stable and change with content", () => {
   const a = hashSourceHtml('<a href="https://www.notateslaapp.com/software-updates/version/2026.26/release-notes">');
@@ -122,8 +147,8 @@ test("scheduled GitHub job checks sources and can publish OTA data", () => {
     "utf8"
   );
   assert.match(deployPages, /workflow_dispatch/);
+  assert.match(deployPages, /branches:\s*\[main\]/);
   assert.doesNotMatch(deployPages, /GM-SDV/);
-  assert.doesNotMatch(deployPages, /push:\s*\n\s*branches:/);
 });
 
 test("sitemap release notes are kept when the history page omits them", () => {

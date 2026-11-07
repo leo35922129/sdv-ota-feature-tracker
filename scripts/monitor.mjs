@@ -7,10 +7,14 @@ import { createHash } from "node:crypto";
 import { spawn } from "node:child_process";
 import {
   appendFileSync,
+  closeSync,
   existsSync,
   mkdirSync,
+  openSync,
   readFileSync,
+  unlinkSync,
   writeFileSync,
+  writeSync,
 } from "node:fs";
 import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -21,6 +25,12 @@ import {
 } from "./scrape.mjs";
 
 export const PARSER_VERSION = "ota-source-sync-v1";
+export const MONITOR_LOCK_FILE = join(
+  dirname(fileURLToPath(import.meta.url)),
+  "..",
+  "data",
+  ".monitor.lock"
+);
 
 export function hashSourceHtml(html) {
   return createHash("sha256").update(String(html || ""), "utf8").digest("hex");
@@ -242,8 +252,94 @@ export function monitorHasPublishableUpdate(status) {
   });
 }
 
+function pidIsAlive(pid) {
+  if (!Number.isInteger(pid) || pid <= 0) return false;
+  try {
+    process.kill(pid, 0);
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+/**
+ * Exclusive lock so LaunchAgent + `npm start` cannot scrape the same
+ * files at once. Returns a release function, or null if another live
+ * monitor owns the lock.
+ */
+export function acquireMonitorLock(lockPath = MONITOR_LOCK_FILE) {
+  mkdirSync(dirname(lockPath), { recursive: true });
+  const payload = `${JSON.stringify({
+    pid: process.pid,
+    at: new Date().toISOString(),
+  })}\n`;
+
+  const tryCreate = () => {
+    const fd = openSync(lockPath, "wx");
+    writeSync(fd, payload);
+    closeSync(fd);
+    return () => {
+      try {
+        unlinkSync(lockPath);
+      } catch {
+        /* already cleared */
+      }
+    };
+  };
+
+  try {
+    return tryCreate();
+  } catch (err) {
+    if (err?.code !== "EEXIST") throw err;
+  }
+
+  let holder = null;
+  try {
+    holder = JSON.parse(readFileSync(lockPath, "utf8"));
+  } catch {
+    holder = null;
+  }
+
+  if (holder && pidIsAlive(Number(holder.pid))) {
+    return null;
+  }
+
+  try {
+    unlinkSync(lockPath);
+  } catch {
+    /* raced with another clearer */
+  }
+
+  try {
+    return tryCreate();
+  } catch (err) {
+    if (err?.code === "EEXIST") return null;
+    throw err;
+  }
+}
+
 export async function runMonitor() {
   mkdirSync(DATA, { recursive: true });
+  const releaseLock = acquireMonitorLock();
+  if (!releaseLock) {
+    console.log("[monitor] Another sync is already running; skipping.");
+    return readMonitorStatus() || {
+      schemaVersion: 1,
+      parserVersion: PARSER_VERSION,
+      checkedAt: new Date().toISOString(),
+      skipped: true,
+      summary: [],
+    };
+  }
+
+  try {
+    return await runMonitorUnlocked();
+  } finally {
+    releaseLock();
+  }
+}
+
+async function runMonitorUnlocked() {
   const checkedAt = new Date().toISOString();
   console.log(`[monitor] ${checkedAt}`);
 
@@ -352,6 +448,7 @@ export async function runMonitor() {
   console.log(`AGENT_MONITOR_RESULT ${JSON.stringify(status.summary)}`);
   return status;
 }
+
 
 function isDirectRun() {
   const entry = process.argv[1];
