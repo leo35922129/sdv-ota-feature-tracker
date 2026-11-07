@@ -10,9 +10,28 @@
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./styles.css?v=20261012-drs199" />
+    <link rel="stylesheet" href="./styles.css?v=20261106-gate" />
+    <script>
+      try {
+        if (sessionStorage.getItem("sdv-site-access") === "ok") {
+          document.documentElement.classList.add("site-unlocked");
+        }
+      } catch (e) {}
+    </script>
   </head>
   <body data-brand="tesla">
+    <div id="siteGate" class="site-gate">
+      <form id="siteGateForm" class="site-gate-card">
+        <h1>SDV OTA Competitive Intelligence</h1>
+        <p>Enter the shared password to continue.</p>
+        <label class="site-gate-field">
+          <span>Password</span>
+          <input id="siteGatePassword" type="password" name="password" autocomplete="current-password" required />
+        </label>
+        <p id="siteGateError" class="site-gate-error" hidden>That password is not correct.</p>
+        <button type="submit">Continue</button>
+      </form>
+    </div>
     <a class="skip-link" href="#results">Skip to results</a>
     <div class="page">
       <section class="hero-shell">
@@ -144,6 +163,6 @@
     <div class="card-backdrop" id="cardBackdrop" hidden></div>
     <div id="featureDetailHost" class="feature-detail-host" hidden></div>
     <div id="adminDialogHost" class="admin-dialog-host" hidden></div>
-    <script type="module" src="./app.js?v=20261012-drs199"></script>
+    <script src="./scripts/site-gate.js?v=20261106-gate"></script>
   </body>
 </html>
