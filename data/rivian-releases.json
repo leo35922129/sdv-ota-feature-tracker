@@ -6,10 +6,10 @@
     "https://www.rivianwave.com/software-updates/"
   ],
   "waveVersions": [
-    "2026.36.02",
     "2026.36.42",
     "2026.36.41",
     "2026.36.40",
+    "2026.36.02",
     "2026.36.01",
     "2026.36",
     "2026.31.40",
@@ -84,7 +84,7 @@
     "2023.46",
     "2023.42.01"
   ],
-  "scrapedAt": "2026-11-07T00:09:12.521Z",
+  "scrapedAt": "2026-11-07T21:58:12.072Z",
   "categories": [
     "Vehicle OS",
     "Drive Assist & Autonomy",
@@ -62274,1001 +62274,6 @@
       "waveUrl": null
     },
     {
-      "id": "2026.36.02-wave-0-new-rivian-assistant",
-      "title": "New Rivian Assistant",
-      "type": "official",
-      "description": "Rivian Assistant is now available on the R2 vehicle. Use the AI-powered, in-vehicle Rivian Assistant to help with the following: Control vehicle settings, climate control, navigation, media, messaging and calling. Reference the Owner's Guide with your voice. Answer general knowledge or follow-up questions. You can ask about local restaurants, the weather at your destination, or the song that was just played. Explain in-vehicle alerts or notifications or walk you through troubleshooting steps for vehicle concerns. How to Use To use Rivian Assistant, complete the first-time setup on the center display. To activate Rivian Assistant: On the steering wheel, push in the right Haptic Halo Wheel. Tap Rivian Assistant ⠀ in the status bar on the center display. Say \"Okay, Rivian,\" or “Hey, Rivian.” To stop a command or interaction, tap the Rivian Assistant wave graphic on the center display. To learn more about Rivian Assistant, ask it about what it can do. To opt out or deactivate the wake words, go to Settings > Rivian Assistant on the center display. For more information, go to the Owner's Guide and search for Rivian Assistant. How to Personalize In the Rivian mobile app version 3.17 or later, you can personalize your Rivian Assistant experience through Rivian Intelligence. Go to Account > Rivian Intelligence to turn on these features: Google Calendars: Connect your calendars (from the same Gmail account) so you can create, re-schedule, or navigate to events using Rivian Assistant. Gmail integration: Rivian Assistant now connects with Gmail, so you can read, search, and get summaries of your emails hands-free while driving. To link your Gmail account, go to Rivian Intelligence in the Rivian mobile app. You can also view your connected account from the center display in your vehicle. Memory: Rivian Assistant learns your preferences over time, such as favorite music genres, restaurants, and regular destinations, including work or school drop-off locations. You can turn off Memory or delete the stored details at any time. NOTES The mobile app saves the Rivian Intelligence settings to your driver profile and applies them to any Rivian vehicle you drive. Rivian Assistant is available on vehicles that are actively subscribed to Connect+ or are in a trial period. Rivian Assistant is only available in English. Google Calendar and Memory are turned off by default. Opt in to use these features.",
-      "image": "https://www.rivianwave.com/img/paths/storage/rivian-screen/rivian-assistant-preview-1778605815.webp/6655d1ccad1ecf2135d91486a81de4d9/rivian-assistant-preview-1778605815.jpg",
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R2"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-1-navigation-improvements",
-      "title": "Navigation Improvements",
-      "type": "official",
-      "description": "We improved Navigation by adding the following: You can now name and re-order your saved locations, which you access through the Favorites menu or Rivian Assistant. The charger category search now uses the same charger filters and pins as the map of charging stations . Sites that may require multiple plug-ins for a successful charge now appear with lower charging scores. Where possible, charging scores also factor in your vehicle’s specific charge port type. Electric Era now appears as a fast-charging network across 16 states, located at retail locations such as Chevron, Costco, and Love's.",
-      "image": "https://www.rivianwave.com/img/paths/storage/rivian-screen/rivian-navigation-location-names-contact-addresses-2.webp/012d87f7cc2610d28af5a30abb42bbf5/rivian-navigation-location-names-contact-addresses-2.jpg",
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-2-programmable-liftgate-height",
-      "title": "Programmable Liftgate Height",
-      "type": "official",
-      "description": "You can now set a custom opening height for the powered liftgate, which is useful when a garage has a low ceiling or when the vehicle is carrying a bike rack. To set the custom height: Open the liftgate to the height you want, and then press and hold the liftgate button to pause it. Press and hold the interior liftgate button for three seconds until the vehicle plays a chime and flashes the hazard lights once. To reset the liftgate height: Open the liftgate. Wait for it to reach its programmed height. Press and hold the interior liftgate button for three seconds. The vehicle plays two chimes and flashes the hazard lights twice to confirm the height is reset. For more information, go to the Owner's Guide and search for powered liftgate.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R2"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-3-pet-comfort-new-mobile-app-controls-and-pet-cam",
-      "title": "Pet Comfort: New Mobile App Controls and Pet Cam",
-      "type": "official",
-      "description": "Now you can use the Rivian mobile app version 3.17 or later to turn Pet Comfort on or off when you’re away from your vehicle. (All models) The Pet Cam view lets you check in on your pet from the app while Pet Comfort is active and live streaming is available. (Now available on R2) NOTES Pet Cam requires an active Connect+ subscription. If someone is inside the cabin and Pet Cam is live streaming, the center display provides an option to turn off live streaming and protect privacy.",
-      "image": "https://www.rivianwave.com/img/paths/storage/rivian-reference/rivian_pet_comfort_hero.jpg/551024d89c19593bd315a8cb16d2e99c/rivian_pet_comfort_hero.jpg",
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-4-rivian-assistant-improvements",
-      "title": "Rivian Assistant Improvements",
-      "type": "official",
-      "description": "Secondary Google Calendar support: Rivian Assistant now has access to events from more than just your primary Google Calendar. If your linked Google account includes other calendars, like a family calendar, a shared team calendar, or a holiday calendar, you can choose which ones Rivian Assistant references when you ask about your schedule. To add a secondary calendar, go to Rivian Intelligence in the Rivian mobile app. Gmail integration: Rivian Assistant now connects with Gmail, so you can read, search, and get summaries of your emails hands-free while driving. To link your Gmail account, go to Rivian Intelligence in the Rivian mobile app. You can also view your connected account from the center display in your vehicle. Contact disambiguation: When you ask Rivian Assistant to call or message someone who shares a name with another contact or has multiple saved numbers, it now shows you a quick list to choose from on the center display instead of walking you through several spoken confirmations.",
-      "image": "https://www.rivianwave.com/img/paths/storage/rivian-screen/rivian-assistant-preview.webp/d60e2a7ffa61cb24d9aabadf2f013ee6/rivian-assistant-preview.jpg",
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-0",
-      "title": "Improved the scrolling behavior and haptic feedback of the Haptic Halo Wheels. (R2)",
-      "type": "improvement",
-      "description": "Improved the scrolling behavior and haptic feedback of the Haptic Halo Wheels. (R2)",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-1",
-      "title": "Autonomy (R1T Gen 2, R1S Gen 2, R2) Attention warnings during Universal Hands-Free and …",
-      "type": "improvement",
-      "description": "Autonomy (R1T Gen 2, R1S Gen 2, R2) Attention warnings during Universal Hands-Free and Highway Assist now dynamically adjust their timing and escalation based on real-time road and traffic complexity, delivering a more intuitive drive.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-2",
-      "title": "Improved the Driver Attention Detection model to respond more accurately when you’re we…",
-      "type": "improvement",
-      "description": "Improved the Driver Attention Detection model to respond more accurately when you’re wearing sunglasses.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-3",
-      "title": "Fixed an issue that kept the vehicle from locking or unlocking until it was restarted. …",
-      "type": "improvement",
-      "description": "Fixed an issue that kept the vehicle from locking or unlocking until it was restarted. (R2)",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-4",
-      "title": "Improved tonneau cover notifications for more accurate notification when an obstruction…",
-      "type": "improvement",
-      "description": "Improved tonneau cover notifications for more accurate notification when an obstruction is detected. (R1 Gen 1)",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-5",
-      "title": "Improved the reliability and quality of roomy entry and exit and mirror tilt behavior. …",
-      "type": "improvement",
-      "description": "Improved the reliability and quality of roomy entry and exit and mirror tilt behavior. (R1 Gen 2)",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-6",
-      "title": "The vehicle now reliably warns you that the Gear Tunnel, front trunk, or a door is open…",
-      "type": "improvement",
-      "description": "The vehicle now reliably warns you that the Gear Tunnel, front trunk, or a door is open, even if one of the other closures isn't reporting properly. (R1 Gen 2)",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-7",
-      "title": "Your doors no longer automatically lock when you shift out of P (Park) while the driver…",
-      "type": "improvement",
-      "description": "Your doors no longer automatically lock when you shift out of P (Park) while the driver door is open, so you won't get locked out at a car wash or if you step out briefly. (All models)",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-8",
-      "title": "Improved performance of passive entry for drivers with Google Pixel 9, 10, or 11 phones…",
-      "type": "improvement",
-      "description": "Improved performance of passive entry for drivers with Google Pixel 9, 10, or 11 phones. (R2)",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-9",
-      "title": "The vehicle now reliably warns you that a door, liftgate, or front trunk is open, even …",
-      "type": "improvement",
-      "description": "The vehicle now reliably warns you that a door, liftgate, or front trunk is open, even if one of the other closures isn’t reporting properly. (R2)",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-10",
-      "title": "Improved the design and notifications of the Energy app for a better user experience.",
-      "type": "improvement",
-      "description": "Improved the design and notifications of the Energy app for a better user experience.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-11",
-      "title": "Improved messaging if the vehicle automatically pauses 120 V outlet power to prioritize…",
-      "type": "improvement",
-      "description": "Improved messaging if the vehicle automatically pauses 120 V outlet power to prioritize charging speeds while the vehicle is charging and Outlets are set to Auto.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-12",
-      "title": "Fixed an issue that temporarily caused the charging graph to show outdated information …",
-      "type": "improvement",
-      "description": "Fixed an issue that temporarily caused the charging graph to show outdated information after the vehicle was plugged into a Tesla Supercharger.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-13",
-      "title": "Made general climate control improvements to provide consistent cabin comfort in cold w…",
-      "type": "improvement",
-      "description": "Made general climate control improvements to provide consistent cabin comfort in cold weather.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-14",
-      "title": "Improved load times for library and search and improved the reliability of artwork and …",
-      "type": "improvement",
-      "description": "Improved load times for library and search and improved the reliability of artwork and song details.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-15",
-      "title": "Fixed the main issues that caused playback to stop, pause unexpectedly, or lose audio a…",
-      "type": "improvement",
-      "description": "Fixed the main issues that caused playback to stop, pause unexpectedly, or lose audio after phone calls, network drops, or extended periods when the vehicle was off.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-16",
-      "title": "Fixed an issue that caused some users to have trouble signing into their accounts.",
-      "type": "improvement",
-      "description": "Fixed an issue that caused some users to have trouble signing into their accounts.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-17",
-      "title": "Fixed a rare issue where media playback failed to start or stopped after 15 seconds.",
-      "type": "improvement",
-      "description": "Fixed a rare issue where media playback failed to start or stopped after 15 seconds.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-18",
-      "title": "Increased the number of albums available on the Artist page.",
-      "type": "improvement",
-      "description": "Increased the number of albums available on the Artist page.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-19",
-      "title": "Fixed an issue where tapping album art on the media player didn’t open the album or pod…",
-      "type": "improvement",
-      "description": "Fixed an issue where tapping album art on the media player didn’t open the album or podcast page for the currently playing track.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-20",
-      "title": "Improved climate control to provide consistent cabin comfort in cold weather.",
-      "type": "improvement",
-      "description": "Improved climate control to provide consistent cabin comfort in cold weather.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-21",
-      "title": "If the cabin climate is warming up or cooling down, the vehicle now displays the Seat C…",
-      "type": "improvement",
-      "description": "If the cabin climate is warming up or cooling down, the vehicle now displays the Seat Climate icon with the corresponding Heat or Ventilate icon but doesn't automatically heat or ventilate the seat.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-22",
-      "title": "Fixed an issue that caused the cabin air vents to point upwards instead of returning to…",
-      "type": "improvement",
-      "description": "Fixed an issue that caused the cabin air vents to point upwards instead of returning to their saved positions after you used the defrost feature.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-23",
-      "title": "External storage drive usage: Expanded compatibility with additional portable Solid Sta…",
-      "type": "improvement",
-      "description": "External storage drive usage: Expanded compatibility with additional portable Solid State Drives (SSDs) to more reliably record Road Cam videos and copy Gear Guard videos from the vehicle to your USB device.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-24",
-      "title": "Improved detection to reduce unnecessary requests to reformat or re-connect the drive. …",
-      "type": "improvement",
-      "description": "Improved detection to reduce unnecessary requests to reformat or re-connect the drive. (Thanks, RivianTrackr!)",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-25",
-      "title": "Improved stream start reliability.",
-      "type": "improvement",
-      "description": "Improved stream start reliability.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-26",
-      "title": "Reduced connection times.",
-      "type": "improvement",
-      "description": "Reduced connection times.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-27",
-      "title": "Significantly increased responsiveness when switching cameras.",
-      "type": "improvement",
-      "description": "Significantly increased responsiveness when switching cameras.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-28",
-      "title": "Fixed an issue that caused the garage door opener setup to get stuck on the pairing scr…",
-      "type": "improvement",
-      "description": "Fixed an issue that caused the garage door opener setup to get stuck on the pairing screen instead of timing out. (R1 Gen 2)",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-29",
-      "title": "Fixed an issue that caused the buttons in the pairing flow to overlap. (R1 Gen 1, R1 Ge…",
-      "type": "improvement",
-      "description": "Fixed an issue that caused the buttons in the pairing flow to overlap. (R1 Gen 1, R1 Gen 2)",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-30",
-      "title": "Improved trailer weight estimation to obtain more accurate range estimates.",
-      "type": "improvement",
-      "description": "Improved trailer weight estimation to obtain more accurate range estimates.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-31",
-      "title": "Fixed an issue that kept the Rear Cross-Traffic Warning unavailable message from appear…",
-      "type": "improvement",
-      "description": "Fixed an issue that kept the Rear Cross-Traffic Warning unavailable message from appearing on the rear camera view.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-32",
-      "title": "Improved responsiveness when you opened the Settings app on the center display.",
-      "type": "improvement",
-      "description": "Improved responsiveness when you opened the Settings app on the center display.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-33",
-      "title": "Fixed an issue that caused the center display clock to show an incorrect time after the…",
-      "type": "improvement",
-      "description": "Fixed an issue that caused the center display clock to show an incorrect time after the vehicle woke from sleep.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
-      "id": "2026.36.02-wave-improvement-34",
-      "title": "Fixed issues that caused the displays to restart repeatedly after a vehicle restart or …",
-      "type": "improvement",
-      "description": "Fixed issues that caused the displays to restart repeatedly after a vehicle restart or show black screens for several seconds when you re-entered the vehicle.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.36.02",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
-    },
-    {
       "id": "2026.36.42-wave-0-new-rivian-assistant",
       "title": "New Rivian Assistant",
       "type": "official",
@@ -65278,6 +64283,1001 @@
         "rivianwave"
       ],
       "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.40/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-0-new-rivian-assistant",
+      "title": "New Rivian Assistant",
+      "type": "official",
+      "description": "Rivian Assistant is now available on the R2 vehicle. Use the AI-powered, in-vehicle Rivian Assistant to help with the following: Control vehicle settings, climate control, navigation, media, messaging and calling. Reference the Owner's Guide with your voice. Answer general knowledge or follow-up questions. You can ask about local restaurants, the weather at your destination, or the song that was just played. Explain in-vehicle alerts or notifications or walk you through troubleshooting steps for vehicle concerns. How to Use To use Rivian Assistant, complete the first-time setup on the center display. To activate Rivian Assistant: On the steering wheel, push in the right Haptic Halo Wheel. Tap Rivian Assistant ⠀ in the status bar on the center display. Say \"Okay, Rivian,\" or “Hey, Rivian.” To stop a command or interaction, tap the Rivian Assistant wave graphic on the center display. To learn more about Rivian Assistant, ask it about what it can do. To opt out or deactivate the wake words, go to Settings > Rivian Assistant on the center display. For more information, go to the Owner's Guide and search for Rivian Assistant. How to Personalize In the Rivian mobile app version 3.17 or later, you can personalize your Rivian Assistant experience through Rivian Intelligence. Go to Account > Rivian Intelligence to turn on these features: Google Calendars: Connect your calendars (from the same Gmail account) so you can create, re-schedule, or navigate to events using Rivian Assistant. Gmail integration: Rivian Assistant now connects with Gmail, so you can read, search, and get summaries of your emails hands-free while driving. To link your Gmail account, go to Rivian Intelligence in the Rivian mobile app. You can also view your connected account from the center display in your vehicle. Memory: Rivian Assistant learns your preferences over time, such as favorite music genres, restaurants, and regular destinations, including work or school drop-off locations. You can turn off Memory or delete the stored details at any time. NOTES The mobile app saves the Rivian Intelligence settings to your driver profile and applies them to any Rivian vehicle you drive. Rivian Assistant is available on vehicles that are actively subscribed to Connect+ or are in a trial period. Rivian Assistant is only available in English. Google Calendar and Memory are turned off by default. Opt in to use these features.",
+      "image": "https://www.rivianwave.com/img/paths/storage/rivian-screen/rivian-assistant-preview-1778605815.webp/6655d1ccad1ecf2135d91486a81de4d9/rivian-assistant-preview-1778605815.jpg",
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R2"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-1-navigation-improvements",
+      "title": "Navigation Improvements",
+      "type": "official",
+      "description": "We improved Navigation by adding the following: You can now name and re-order your saved locations, which you access through the Favorites menu or Rivian Assistant. The charger category search now uses the same charger filters and pins as the map of charging stations . Sites that may require multiple plug-ins for a successful charge now appear with lower charging scores. Where possible, charging scores also factor in your vehicle’s specific charge port type. Electric Era now appears as a fast-charging network across 16 states, located at retail locations such as Chevron, Costco, and Love's.",
+      "image": "https://www.rivianwave.com/img/paths/storage/rivian-screen/rivian-navigation-location-names-contact-addresses-2.webp/012d87f7cc2610d28af5a30abb42bbf5/rivian-navigation-location-names-contact-addresses-2.jpg",
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-2-programmable-liftgate-height",
+      "title": "Programmable Liftgate Height",
+      "type": "official",
+      "description": "You can now set a custom opening height for the powered liftgate, which is useful when a garage has a low ceiling or when the vehicle is carrying a bike rack. To set the custom height: Open the liftgate to the height you want, and then press and hold the liftgate button to pause it. Press and hold the interior liftgate button for three seconds until the vehicle plays a chime and flashes the hazard lights once. To reset the liftgate height: Open the liftgate. Wait for it to reach its programmed height. Press and hold the interior liftgate button for three seconds. The vehicle plays two chimes and flashes the hazard lights twice to confirm the height is reset. For more information, go to the Owner's Guide and search for powered liftgate.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R2"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-3-pet-comfort-new-mobile-app-controls-and-pet-cam",
+      "title": "Pet Comfort: New Mobile App Controls and Pet Cam",
+      "type": "official",
+      "description": "Now you can use the Rivian mobile app version 3.17 or later to turn Pet Comfort on or off when you’re away from your vehicle. (All models) The Pet Cam view lets you check in on your pet from the app while Pet Comfort is active and live streaming is available. (Now available on R2) NOTES Pet Cam requires an active Connect+ subscription. If someone is inside the cabin and Pet Cam is live streaming, the center display provides an option to turn off live streaming and protect privacy.",
+      "image": "https://www.rivianwave.com/img/paths/storage/rivian-reference/rivian_pet_comfort_hero.jpg/551024d89c19593bd315a8cb16d2e99c/rivian_pet_comfort_hero.jpg",
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-4-rivian-assistant-improvements",
+      "title": "Rivian Assistant Improvements",
+      "type": "official",
+      "description": "Secondary Google Calendar support: Rivian Assistant now has access to events from more than just your primary Google Calendar. If your linked Google account includes other calendars, like a family calendar, a shared team calendar, or a holiday calendar, you can choose which ones Rivian Assistant references when you ask about your schedule. To add a secondary calendar, go to Rivian Intelligence in the Rivian mobile app. Gmail integration: Rivian Assistant now connects with Gmail, so you can read, search, and get summaries of your emails hands-free while driving. To link your Gmail account, go to Rivian Intelligence in the Rivian mobile app. You can also view your connected account from the center display in your vehicle. Contact disambiguation: When you ask Rivian Assistant to call or message someone who shares a name with another contact or has multiple saved numbers, it now shows you a quick list to choose from on the center display instead of walking you through several spoken confirmations.",
+      "image": "https://www.rivianwave.com/img/paths/storage/rivian-screen/rivian-assistant-preview.webp/d60e2a7ffa61cb24d9aabadf2f013ee6/rivian-assistant-preview.jpg",
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-0",
+      "title": "Improved the scrolling behavior and haptic feedback of the Haptic Halo Wheels. (R2)",
+      "type": "improvement",
+      "description": "Improved the scrolling behavior and haptic feedback of the Haptic Halo Wheels. (R2)",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-1",
+      "title": "Autonomy (R1T Gen 2, R1S Gen 2, R2) Attention warnings during Universal Hands-Free and …",
+      "type": "improvement",
+      "description": "Autonomy (R1T Gen 2, R1S Gen 2, R2) Attention warnings during Universal Hands-Free and Highway Assist now dynamically adjust their timing and escalation based on real-time road and traffic complexity, delivering a more intuitive drive.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-2",
+      "title": "Improved the Driver Attention Detection model to respond more accurately when you’re we…",
+      "type": "improvement",
+      "description": "Improved the Driver Attention Detection model to respond more accurately when you’re wearing sunglasses.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-3",
+      "title": "Fixed an issue that kept the vehicle from locking or unlocking until it was restarted. …",
+      "type": "improvement",
+      "description": "Fixed an issue that kept the vehicle from locking or unlocking until it was restarted. (R2)",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-4",
+      "title": "Improved tonneau cover notifications for more accurate notification when an obstruction…",
+      "type": "improvement",
+      "description": "Improved tonneau cover notifications for more accurate notification when an obstruction is detected. (R1 Gen 1)",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-5",
+      "title": "Improved the reliability and quality of roomy entry and exit and mirror tilt behavior. …",
+      "type": "improvement",
+      "description": "Improved the reliability and quality of roomy entry and exit and mirror tilt behavior. (R1 Gen 2)",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-6",
+      "title": "The vehicle now reliably warns you that the Gear Tunnel, front trunk, or a door is open…",
+      "type": "improvement",
+      "description": "The vehicle now reliably warns you that the Gear Tunnel, front trunk, or a door is open, even if one of the other closures isn't reporting properly. (R1 Gen 2)",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-7",
+      "title": "Your doors no longer automatically lock when you shift out of P (Park) while the driver…",
+      "type": "improvement",
+      "description": "Your doors no longer automatically lock when you shift out of P (Park) while the driver door is open, so you won't get locked out at a car wash or if you step out briefly. (All models)",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-8",
+      "title": "Improved performance of passive entry for drivers with Google Pixel 9, 10, or 11 phones…",
+      "type": "improvement",
+      "description": "Improved performance of passive entry for drivers with Google Pixel 9, 10, or 11 phones. (R2)",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-9",
+      "title": "The vehicle now reliably warns you that a door, liftgate, or front trunk is open, even …",
+      "type": "improvement",
+      "description": "The vehicle now reliably warns you that a door, liftgate, or front trunk is open, even if one of the other closures isn’t reporting properly. (R2)",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-10",
+      "title": "Improved the design and notifications of the Energy app for a better user experience.",
+      "type": "improvement",
+      "description": "Improved the design and notifications of the Energy app for a better user experience.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-11",
+      "title": "Improved messaging if the vehicle automatically pauses 120 V outlet power to prioritize…",
+      "type": "improvement",
+      "description": "Improved messaging if the vehicle automatically pauses 120 V outlet power to prioritize charging speeds while the vehicle is charging and Outlets are set to Auto.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-12",
+      "title": "Fixed an issue that temporarily caused the charging graph to show outdated information …",
+      "type": "improvement",
+      "description": "Fixed an issue that temporarily caused the charging graph to show outdated information after the vehicle was plugged into a Tesla Supercharger.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-13",
+      "title": "Made general climate control improvements to provide consistent cabin comfort in cold w…",
+      "type": "improvement",
+      "description": "Made general climate control improvements to provide consistent cabin comfort in cold weather.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-14",
+      "title": "Improved load times for library and search and improved the reliability of artwork and …",
+      "type": "improvement",
+      "description": "Improved load times for library and search and improved the reliability of artwork and song details.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-15",
+      "title": "Fixed the main issues that caused playback to stop, pause unexpectedly, or lose audio a…",
+      "type": "improvement",
+      "description": "Fixed the main issues that caused playback to stop, pause unexpectedly, or lose audio after phone calls, network drops, or extended periods when the vehicle was off.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-16",
+      "title": "Fixed an issue that caused some users to have trouble signing into their accounts.",
+      "type": "improvement",
+      "description": "Fixed an issue that caused some users to have trouble signing into their accounts.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-17",
+      "title": "Fixed a rare issue where media playback failed to start or stopped after 15 seconds.",
+      "type": "improvement",
+      "description": "Fixed a rare issue where media playback failed to start or stopped after 15 seconds.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-18",
+      "title": "Increased the number of albums available on the Artist page.",
+      "type": "improvement",
+      "description": "Increased the number of albums available on the Artist page.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-19",
+      "title": "Fixed an issue where tapping album art on the media player didn’t open the album or pod…",
+      "type": "improvement",
+      "description": "Fixed an issue where tapping album art on the media player didn’t open the album or podcast page for the currently playing track.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-20",
+      "title": "Improved climate control to provide consistent cabin comfort in cold weather.",
+      "type": "improvement",
+      "description": "Improved climate control to provide consistent cabin comfort in cold weather.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-21",
+      "title": "If the cabin climate is warming up or cooling down, the vehicle now displays the Seat C…",
+      "type": "improvement",
+      "description": "If the cabin climate is warming up or cooling down, the vehicle now displays the Seat Climate icon with the corresponding Heat or Ventilate icon but doesn't automatically heat or ventilate the seat.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-22",
+      "title": "Fixed an issue that caused the cabin air vents to point upwards instead of returning to…",
+      "type": "improvement",
+      "description": "Fixed an issue that caused the cabin air vents to point upwards instead of returning to their saved positions after you used the defrost feature.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-23",
+      "title": "External storage drive usage: Expanded compatibility with additional portable Solid Sta…",
+      "type": "improvement",
+      "description": "External storage drive usage: Expanded compatibility with additional portable Solid State Drives (SSDs) to more reliably record Road Cam videos and copy Gear Guard videos from the vehicle to your USB device.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-24",
+      "title": "Improved detection to reduce unnecessary requests to reformat or re-connect the drive. …",
+      "type": "improvement",
+      "description": "Improved detection to reduce unnecessary requests to reformat or re-connect the drive. (Thanks, RivianTrackr!)",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-25",
+      "title": "Improved stream start reliability.",
+      "type": "improvement",
+      "description": "Improved stream start reliability.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-26",
+      "title": "Reduced connection times.",
+      "type": "improvement",
+      "description": "Reduced connection times.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-27",
+      "title": "Significantly increased responsiveness when switching cameras.",
+      "type": "improvement",
+      "description": "Significantly increased responsiveness when switching cameras.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-28",
+      "title": "Fixed an issue that caused the garage door opener setup to get stuck on the pairing scr…",
+      "type": "improvement",
+      "description": "Fixed an issue that caused the garage door opener setup to get stuck on the pairing screen instead of timing out. (R1 Gen 2)",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-29",
+      "title": "Fixed an issue that caused the buttons in the pairing flow to overlap. (R1 Gen 1, R1 Ge…",
+      "type": "improvement",
+      "description": "Fixed an issue that caused the buttons in the pairing flow to overlap. (R1 Gen 1, R1 Gen 2)",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-30",
+      "title": "Improved trailer weight estimation to obtain more accurate range estimates.",
+      "type": "improvement",
+      "description": "Improved trailer weight estimation to obtain more accurate range estimates.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-31",
+      "title": "Fixed an issue that kept the Rear Cross-Traffic Warning unavailable message from appear…",
+      "type": "improvement",
+      "description": "Fixed an issue that kept the Rear Cross-Traffic Warning unavailable message from appearing on the rear camera view.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-32",
+      "title": "Improved responsiveness when you opened the Settings app on the center display.",
+      "type": "improvement",
+      "description": "Improved responsiveness when you opened the Settings app on the center display.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-33",
+      "title": "Fixed an issue that caused the center display clock to show an incorrect time after the…",
+      "type": "improvement",
+      "description": "Fixed an issue that caused the center display clock to show an incorrect time after the vehicle woke from sleep.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
+    },
+    {
+      "id": "2026.36.02-wave-improvement-34",
+      "title": "Fixed issues that caused the displays to restart repeatedly after a vehicle restart or …",
+      "type": "improvement",
+      "description": "Fixed issues that caused the displays to restart repeatedly after a vehicle restart or show black screens for several seconds when you re-entered the vehicle.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.36.02",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.36.02/release-notes"
     },
     {
       "id": "2026.36.01-wave-0-new-rivian-assistant",
@@ -74958,6 +74958,5 @@
       ],
       "waveUrl": "https://www.rivianwave.com/software-updates/version/2023.42.01/release-notes"
     }
-  ],
-  "contentUnchanged": true
+  ]
 }
