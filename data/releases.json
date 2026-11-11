@@ -1,6 +1,6 @@
 {
   "source": "https://www.notateslaapp.com/software-updates/history/",
-  "scrapedAt": "2026-11-11T17:44:14.347Z",
+  "scrapedAt": "2026-11-11T18:39:45.611Z",
   "categories": [
     "Vehicle OS",
     "Autopilot / Full Self-Driving",
@@ -82547,172 +82547,6 @@
       ]
     },
     {
-      "version": "2026.39.6",
-      "url": "https://www.notateslaapp.com/software-updates/version/2026.39.6/release-notes",
-      "releaseDate": "October 29, 2026",
-      "features": [
-        {
-          "id": "fsd-supervised-2026396-detail",
-          "title": "FSD (Supervised)",
-          "type": "official",
-          "description": "Under your supervision, FSD (Supervised) can drive your Tesla almost anywhere. It will start from a parked position, make lane changes, select forks to follow your navigation route, navigate around other vehicles and objects, make left and right turns and stop at your destination. You and anyone you authorize must use additional caution and remain attentive. It does not make your vehicle autonomous. Do not become complacent. FSD (Supervised) is enabled on your vehicle. To use the feature, first watch the tutorial and take the quiz, available in the new Self-Driving App or in Control > Self-Driving. Then press the Start FSD (Supervised) button on the UI, or press the right scroll wheel button once. You can disable FSD (Supervised) in Self-Driving Settings.",
-          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.39/fsd-supervised.png",
-          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.39/dark/fsd-supervised.png",
-          "links": [],
-          "availability": "Not relevant in the US",
-          "models": [
-            "3",
-            "Y"
-          ],
-          "categories": [
-            "Autopilot / Full Self-Driving",
-            "Map / Navigation / Trip / Route"
-          ],
-          "primaryCategory": "Autopilot / Full Self-Driving"
-        },
-        {
-          "id": "emergency-drive-away-2026396-detail",
-          "title": "Emergency Drive Away",
-          "type": "official",
-          "description": "Emergency Drive Away lets you shift into Drive while a Supercharger cable is still connected. Use it only in an emergency: driving away with the cable attached will damage your vehicle and the Supercharger, and you may be responsible for repair costs. When you activate this feature, short recordings from your vehicle's cameras are shared with Tesla.",
-          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/emergency-drive-away.png",
-          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/emergency-drive-away.png",
-          "links": [],
-          "availability": "Available in the US",
-          "models": [
-            "3",
-            "Y",
-            "CT"
-          ],
-          "categories": [
-            "Camera"
-          ],
-          "primaryCategory": "Camera"
-        },
-        {
-          "id": "halloween-mode-2026396-detail",
-          "title": "Halloween Mode",
-          "type": "official",
-          "description": "Spread holiday fear year round with Halloween Mode. Put a Ghost Costume on your car visualization. Turn on Trick or Treat Mode to play spooky sounds and flicker the lights when visitors approach. Schedule a haunting light show, and turn your car into a chilling Photobooth!",
-          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/halloween-mode.png",
-          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/halloween-mode.png",
-          "links": [
-            {
-              "title": "Photos & Videos of Halloween Mode",
-              "url": "https://www.notateslaapp.com/news/4777/tesla-rolls-out-halloween-mode-with-update-2026383"
-            }
-          ],
-          "availability": "Available Worldwide",
-          "models": [
-            "3",
-            "Y",
-            "CT"
-          ],
-          "categories": [
-            "Media / Entertainment"
-          ],
-          "primaryCategory": "Media / Entertainment"
-        },
-        {
-          "id": "set-arrival-energy-2026396-detail",
-          "title": "Set Arrival Energy",
-          "type": "official",
-          "description": "Set your desired Arrival Energy for any trip from your phone. Open the location tab in the Tesla Mobile App, enter your destination, and tap Set Arrival Energy. Requires Mobile App v4.58.0 or later.",
-          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/set-arrival-energy.png",
-          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/set-arrival-energy.png",
-          "links": [],
-          "availability": "Available Worldwide",
-          "models": [
-            "S",
-            "3",
-            "X",
-            "Y",
-            "CT"
-          ],
-          "categories": [
-            "Map / Navigation / Trip / Route",
-            "Range / Charging / Energy"
-          ],
-          "primaryCategory": "Map / Navigation / Trip / Route"
-        },
-        {
-          "id": "visual-updates-2026396-detail",
-          "title": "Visual Updates",
-          "type": "official",
-          "description": "The center display now features higher quality images of your Tesla, and an enhanced park scene environment.",
-          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/visual-updates.png",
-          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/visual-updates.png",
-          "links": [],
-          "availability": "Available Worldwide",
-          "models": [
-            "3",
-            "Y"
-          ],
-          "categories": [
-            "UI / Visualization"
-          ],
-          "primaryCategory": "UI / Visualization"
-        },
-        {
-          "id": "dynamic-headlight-leveling-2026396-detail",
-          "title": "Dynamic Headlight Leveling",
-          "type": "official",
-          "description": "Low beams will automatically adjust their aim based on driving conditions and nearby traffic to maximize your visibility while reducing glare for other road users.",
-          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.20/2024.20-adaptive-headlight-improvements.png",
-          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2024.20/dark/2024.20-adaptive-headlight-improvements.png",
-          "links": [],
-          "availability": "Available Worldwide",
-          "models": [
-            "3",
-            "CT"
-          ],
-          "categories": [
-            "Lighting"
-          ],
-          "primaryCategory": "Lighting"
-        },
-        {
-          "id": "supercharger-site-maps-2026396-detail",
-          "title": "Supercharger Site Maps",
-          "type": "official",
-          "description": "You can now see a detailed view of select Tesla Superchargers by tapping \"View Site Map.\" When navigating to a pilot location, the site layout and live occupancy (Available / Occupied / Down) will be displayed upon arrival.",
-          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/supercharger-site-maps.png",
-          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/supercharger-site-maps.png",
-          "links": [],
-          "availability": "Available Worldwide",
-          "models": [
-            "3",
-            "Y"
-          ],
-          "categories": [
-            "Map / Navigation / Trip / Route"
-          ],
-          "primaryCategory": "Map / Navigation / Trip / Route"
-        },
-        {
-          "id": "security-improvements-2026396-detail",
-          "title": "Security Improvements",
-          "type": "official",
-          "description": "This update includes important security fixes and improvements.",
-          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/security-improvements.png",
-          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/dark/security-improvements.png",
-          "links": [],
-          "availability": "Available Worldwide",
-          "models": [
-            "S",
-            "3",
-            "X",
-            "Y",
-            "CT"
-          ],
-          "categories": [
-            "Security"
-          ],
-          "primaryCategory": "Security"
-        }
-      ]
-    },
-    {
       "version": "2026.39.100",
       "url": "https://www.notateslaapp.com/software-updates/version/2026.39.100/release-notes",
       "releaseDate": "November 11, 2026",
@@ -83995,6 +83829,172 @@
               "url": "https://www.notateslaapp.com/news/4780/everything-in-teslas-halloween-mode-photos-videos"
             }
           ],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Security"
+          ],
+          "primaryCategory": "Security"
+        }
+      ]
+    },
+    {
+      "version": "2026.39.6",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.39.6/release-notes",
+      "releaseDate": "October 29, 2026",
+      "features": [
+        {
+          "id": "fsd-supervised-2026396-detail",
+          "title": "FSD (Supervised)",
+          "type": "official",
+          "description": "Under your supervision, FSD (Supervised) can drive your Tesla almost anywhere. It will start from a parked position, make lane changes, select forks to follow your navigation route, navigate around other vehicles and objects, make left and right turns and stop at your destination. You and anyone you authorize must use additional caution and remain attentive. It does not make your vehicle autonomous. Do not become complacent. FSD (Supervised) is enabled on your vehicle. To use the feature, first watch the tutorial and take the quiz, available in the new Self-Driving App or in Control > Self-Driving. Then press the Start FSD (Supervised) button on the UI, or press the right scroll wheel button once. You can disable FSD (Supervised) in Self-Driving Settings.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.39/fsd-supervised.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.39/dark/fsd-supervised.png",
+          "links": [],
+          "availability": "Not relevant in the US",
+          "models": [
+            "3",
+            "Y"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "emergency-drive-away-2026396-detail",
+          "title": "Emergency Drive Away",
+          "type": "official",
+          "description": "Emergency Drive Away lets you shift into Drive while a Supercharger cable is still connected. Use it only in an emergency: driving away with the cable attached will damage your vehicle and the Supercharger, and you may be responsible for repair costs. When you activate this feature, short recordings from your vehicle's cameras are shared with Tesla.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/emergency-drive-away.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/emergency-drive-away.png",
+          "links": [],
+          "availability": "Available in the US",
+          "models": [
+            "3",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Camera"
+          ],
+          "primaryCategory": "Camera"
+        },
+        {
+          "id": "halloween-mode-2026396-detail",
+          "title": "Halloween Mode",
+          "type": "official",
+          "description": "Spread holiday fear year round with Halloween Mode. Put a Ghost Costume on your car visualization. Turn on Trick or Treat Mode to play spooky sounds and flicker the lights when visitors approach. Schedule a haunting light show, and turn your car into a chilling Photobooth!",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/halloween-mode.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/halloween-mode.png",
+          "links": [
+            {
+              "title": "Photos & Videos of Halloween Mode",
+              "url": "https://www.notateslaapp.com/news/4777/tesla-rolls-out-halloween-mode-with-update-2026383"
+            }
+          ],
+          "availability": "Available Worldwide",
+          "models": [
+            "3",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Media / Entertainment"
+          ],
+          "primaryCategory": "Media / Entertainment"
+        },
+        {
+          "id": "set-arrival-energy-2026396-detail",
+          "title": "Set Arrival Energy",
+          "type": "official",
+          "description": "Set your desired Arrival Energy for any trip from your phone. Open the location tab in the Tesla Mobile App, enter your destination, and tap Set Arrival Energy. Requires Mobile App v4.58.0 or later.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/set-arrival-energy.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/set-arrival-energy.png",
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route",
+            "Range / Charging / Energy"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        },
+        {
+          "id": "visual-updates-2026396-detail",
+          "title": "Visual Updates",
+          "type": "official",
+          "description": "The center display now features higher quality images of your Tesla, and an enhanced park scene environment.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/visual-updates.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/visual-updates.png",
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "3",
+            "Y"
+          ],
+          "categories": [
+            "UI / Visualization"
+          ],
+          "primaryCategory": "UI / Visualization"
+        },
+        {
+          "id": "dynamic-headlight-leveling-2026396-detail",
+          "title": "Dynamic Headlight Leveling",
+          "type": "official",
+          "description": "Low beams will automatically adjust their aim based on driving conditions and nearby traffic to maximize your visibility while reducing glare for other road users.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.20/2024.20-adaptive-headlight-improvements.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2024.20/dark/2024.20-adaptive-headlight-improvements.png",
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "3",
+            "CT"
+          ],
+          "categories": [
+            "Lighting"
+          ],
+          "primaryCategory": "Lighting"
+        },
+        {
+          "id": "supercharger-site-maps-2026396-detail",
+          "title": "Supercharger Site Maps",
+          "type": "official",
+          "description": "You can now see a detailed view of select Tesla Superchargers by tapping \"View Site Map.\" When navigating to a pilot location, the site layout and live occupancy (Available / Occupied / Down) will be displayed upon arrival.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/supercharger-site-maps.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/supercharger-site-maps.png",
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "3",
+            "Y"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        },
+        {
+          "id": "security-improvements-2026396-detail",
+          "title": "Security Improvements",
+          "type": "official",
+          "description": "This update includes important security fixes and improvements.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/security-improvements.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/dark/security-improvements.png",
+          "links": [],
           "availability": "Available Worldwide",
           "models": [
             "S",
@@ -373254,189 +373254,6 @@
       "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.40.50.1/release-notes"
     },
     {
-      "id": "fsd-supervised-2026396-detail",
-      "title": "FSD (Supervised)",
-      "type": "official",
-      "description": "Under your supervision, FSD (Supervised) can drive your Tesla almost anywhere. It will start from a parked position, make lane changes, select forks to follow your navigation route, navigate around other vehicles and objects, make left and right turns and stop at your destination. You and anyone you authorize must use additional caution and remain attentive. It does not make your vehicle autonomous. Do not become complacent. FSD (Supervised) is enabled on your vehicle. To use the feature, first watch the tutorial and take the quiz, available in the new Self-Driving App or in Control > Self-Driving. Then press the Start FSD (Supervised) button on the UI, or press the right scroll wheel button once. You can disable FSD (Supervised) in Self-Driving Settings.",
-      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.39/fsd-supervised.png",
-      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.39/dark/fsd-supervised.png",
-      "links": [],
-      "availability": "Not relevant in the US",
-      "models": [
-        "3",
-        "Y"
-      ],
-      "categories": [
-        "Autopilot / Full Self-Driving",
-        "Map / Navigation / Trip / Route"
-      ],
-      "primaryCategory": "Autopilot / Full Self-Driving",
-      "version": "2026.39.6",
-      "releaseDate": "October 29, 2026",
-      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.39.6/release-notes"
-    },
-    {
-      "id": "emergency-drive-away-2026396-detail",
-      "title": "Emergency Drive Away",
-      "type": "official",
-      "description": "Emergency Drive Away lets you shift into Drive while a Supercharger cable is still connected. Use it only in an emergency: driving away with the cable attached will damage your vehicle and the Supercharger, and you may be responsible for repair costs. When you activate this feature, short recordings from your vehicle's cameras are shared with Tesla.",
-      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/emergency-drive-away.png",
-      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/emergency-drive-away.png",
-      "links": [],
-      "availability": "Available in the US",
-      "models": [
-        "3",
-        "Y",
-        "CT"
-      ],
-      "categories": [
-        "Camera"
-      ],
-      "primaryCategory": "Camera",
-      "version": "2026.39.6",
-      "releaseDate": "October 29, 2026",
-      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.39.6/release-notes"
-    },
-    {
-      "id": "halloween-mode-2026396-detail",
-      "title": "Halloween Mode",
-      "type": "official",
-      "description": "Spread holiday fear year round with Halloween Mode. Put a Ghost Costume on your car visualization. Turn on Trick or Treat Mode to play spooky sounds and flicker the lights when visitors approach. Schedule a haunting light show, and turn your car into a chilling Photobooth!",
-      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/halloween-mode.png",
-      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/halloween-mode.png",
-      "links": [
-        {
-          "title": "Photos & Videos of Halloween Mode",
-          "url": "https://www.notateslaapp.com/news/4777/tesla-rolls-out-halloween-mode-with-update-2026383"
-        }
-      ],
-      "availability": "Available Worldwide",
-      "models": [
-        "3",
-        "Y",
-        "CT"
-      ],
-      "categories": [
-        "Media / Entertainment"
-      ],
-      "primaryCategory": "Media / Entertainment",
-      "version": "2026.39.6",
-      "releaseDate": "October 29, 2026",
-      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.39.6/release-notes"
-    },
-    {
-      "id": "set-arrival-energy-2026396-detail",
-      "title": "Set Arrival Energy",
-      "type": "official",
-      "description": "Set your desired Arrival Energy for any trip from your phone. Open the location tab in the Tesla Mobile App, enter your destination, and tap Set Arrival Energy. Requires Mobile App v4.58.0 or later.",
-      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/set-arrival-energy.png",
-      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/set-arrival-energy.png",
-      "links": [],
-      "availability": "Available Worldwide",
-      "models": [
-        "S",
-        "3",
-        "X",
-        "Y",
-        "CT"
-      ],
-      "categories": [
-        "Map / Navigation / Trip / Route",
-        "Range / Charging / Energy"
-      ],
-      "primaryCategory": "Map / Navigation / Trip / Route",
-      "version": "2026.39.6",
-      "releaseDate": "October 29, 2026",
-      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.39.6/release-notes"
-    },
-    {
-      "id": "visual-updates-2026396-detail",
-      "title": "Visual Updates",
-      "type": "official",
-      "description": "The center display now features higher quality images of your Tesla, and an enhanced park scene environment.",
-      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/visual-updates.png",
-      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/visual-updates.png",
-      "links": [],
-      "availability": "Available Worldwide",
-      "models": [
-        "3",
-        "Y"
-      ],
-      "categories": [
-        "UI / Visualization"
-      ],
-      "primaryCategory": "UI / Visualization",
-      "version": "2026.39.6",
-      "releaseDate": "October 29, 2026",
-      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.39.6/release-notes"
-    },
-    {
-      "id": "dynamic-headlight-leveling-2026396-detail",
-      "title": "Dynamic Headlight Leveling",
-      "type": "official",
-      "description": "Low beams will automatically adjust their aim based on driving conditions and nearby traffic to maximize your visibility while reducing glare for other road users.",
-      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.20/2024.20-adaptive-headlight-improvements.png",
-      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2024.20/dark/2024.20-adaptive-headlight-improvements.png",
-      "links": [],
-      "availability": "Available Worldwide",
-      "models": [
-        "3",
-        "CT"
-      ],
-      "categories": [
-        "Lighting"
-      ],
-      "primaryCategory": "Lighting",
-      "version": "2026.39.6",
-      "releaseDate": "October 29, 2026",
-      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.39.6/release-notes"
-    },
-    {
-      "id": "supercharger-site-maps-2026396-detail",
-      "title": "Supercharger Site Maps",
-      "type": "official",
-      "description": "You can now see a detailed view of select Tesla Superchargers by tapping \"View Site Map.\" When navigating to a pilot location, the site layout and live occupancy (Available / Occupied / Down) will be displayed upon arrival.",
-      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/supercharger-site-maps.png",
-      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/supercharger-site-maps.png",
-      "links": [],
-      "availability": "Available Worldwide",
-      "models": [
-        "3",
-        "Y"
-      ],
-      "categories": [
-        "Map / Navigation / Trip / Route"
-      ],
-      "primaryCategory": "Map / Navigation / Trip / Route",
-      "version": "2026.39.6",
-      "releaseDate": "October 29, 2026",
-      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.39.6/release-notes"
-    },
-    {
-      "id": "security-improvements-2026396-detail",
-      "title": "Security Improvements",
-      "type": "official",
-      "description": "This update includes important security fixes and improvements.",
-      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/security-improvements.png",
-      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/dark/security-improvements.png",
-      "links": [],
-      "availability": "Available Worldwide",
-      "models": [
-        "S",
-        "3",
-        "X",
-        "Y",
-        "CT"
-      ],
-      "categories": [
-        "Security"
-      ],
-      "primaryCategory": "Security",
-      "version": "2026.39.6",
-      "releaseDate": "October 29, 2026",
-      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.39.6/release-notes"
-    },
-    {
       "id": "fsd-supervised-naming-update-202639100-detail",
       "title": "FSD (Supervised) Naming Update",
       "type": "official",
@@ -374867,6 +374684,189 @@
       "version": "2026.38.6.1",
       "releaseDate": "October 29, 2026",
       "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.6.1/release-notes"
+    },
+    {
+      "id": "fsd-supervised-2026396-detail",
+      "title": "FSD (Supervised)",
+      "type": "official",
+      "description": "Under your supervision, FSD (Supervised) can drive your Tesla almost anywhere. It will start from a parked position, make lane changes, select forks to follow your navigation route, navigate around other vehicles and objects, make left and right turns and stop at your destination. You and anyone you authorize must use additional caution and remain attentive. It does not make your vehicle autonomous. Do not become complacent. FSD (Supervised) is enabled on your vehicle. To use the feature, first watch the tutorial and take the quiz, available in the new Self-Driving App or in Control > Self-Driving. Then press the Start FSD (Supervised) button on the UI, or press the right scroll wheel button once. You can disable FSD (Supervised) in Self-Driving Settings.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.39/fsd-supervised.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.39/dark/fsd-supervised.png",
+      "links": [],
+      "availability": "Not relevant in the US",
+      "models": [
+        "3",
+        "Y"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.39.6",
+      "releaseDate": "October 29, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.39.6/release-notes"
+    },
+    {
+      "id": "emergency-drive-away-2026396-detail",
+      "title": "Emergency Drive Away",
+      "type": "official",
+      "description": "Emergency Drive Away lets you shift into Drive while a Supercharger cable is still connected. Use it only in an emergency: driving away with the cable attached will damage your vehicle and the Supercharger, and you may be responsible for repair costs. When you activate this feature, short recordings from your vehicle's cameras are shared with Tesla.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/emergency-drive-away.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/emergency-drive-away.png",
+      "links": [],
+      "availability": "Available in the US",
+      "models": [
+        "3",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Camera"
+      ],
+      "primaryCategory": "Camera",
+      "version": "2026.39.6",
+      "releaseDate": "October 29, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.39.6/release-notes"
+    },
+    {
+      "id": "halloween-mode-2026396-detail",
+      "title": "Halloween Mode",
+      "type": "official",
+      "description": "Spread holiday fear year round with Halloween Mode. Put a Ghost Costume on your car visualization. Turn on Trick or Treat Mode to play spooky sounds and flicker the lights when visitors approach. Schedule a haunting light show, and turn your car into a chilling Photobooth!",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/halloween-mode.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/halloween-mode.png",
+      "links": [
+        {
+          "title": "Photos & Videos of Halloween Mode",
+          "url": "https://www.notateslaapp.com/news/4777/tesla-rolls-out-halloween-mode-with-update-2026383"
+        }
+      ],
+      "availability": "Available Worldwide",
+      "models": [
+        "3",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Media / Entertainment"
+      ],
+      "primaryCategory": "Media / Entertainment",
+      "version": "2026.39.6",
+      "releaseDate": "October 29, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.39.6/release-notes"
+    },
+    {
+      "id": "set-arrival-energy-2026396-detail",
+      "title": "Set Arrival Energy",
+      "type": "official",
+      "description": "Set your desired Arrival Energy for any trip from your phone. Open the location tab in the Tesla Mobile App, enter your destination, and tap Set Arrival Energy. Requires Mobile App v4.58.0 or later.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/set-arrival-energy.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/set-arrival-energy.png",
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "2026.39.6",
+      "releaseDate": "October 29, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.39.6/release-notes"
+    },
+    {
+      "id": "visual-updates-2026396-detail",
+      "title": "Visual Updates",
+      "type": "official",
+      "description": "The center display now features higher quality images of your Tesla, and an enhanced park scene environment.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/visual-updates.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/visual-updates.png",
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "3",
+        "Y"
+      ],
+      "categories": [
+        "UI / Visualization"
+      ],
+      "primaryCategory": "UI / Visualization",
+      "version": "2026.39.6",
+      "releaseDate": "October 29, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.39.6/release-notes"
+    },
+    {
+      "id": "dynamic-headlight-leveling-2026396-detail",
+      "title": "Dynamic Headlight Leveling",
+      "type": "official",
+      "description": "Low beams will automatically adjust their aim based on driving conditions and nearby traffic to maximize your visibility while reducing glare for other road users.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.20/2024.20-adaptive-headlight-improvements.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2024.20/dark/2024.20-adaptive-headlight-improvements.png",
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "3",
+        "CT"
+      ],
+      "categories": [
+        "Lighting"
+      ],
+      "primaryCategory": "Lighting",
+      "version": "2026.39.6",
+      "releaseDate": "October 29, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.39.6/release-notes"
+    },
+    {
+      "id": "supercharger-site-maps-2026396-detail",
+      "title": "Supercharger Site Maps",
+      "type": "official",
+      "description": "You can now see a detailed view of select Tesla Superchargers by tapping \"View Site Map.\" When navigating to a pilot location, the site layout and live occupancy (Available / Occupied / Down) will be displayed upon arrival.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/supercharger-site-maps.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/supercharger-site-maps.png",
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "3",
+        "Y"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "2026.39.6",
+      "releaseDate": "October 29, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.39.6/release-notes"
+    },
+    {
+      "id": "security-improvements-2026396-detail",
+      "title": "Security Improvements",
+      "type": "official",
+      "description": "This update includes important security fixes and improvements.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/security-improvements.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/dark/security-improvements.png",
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Security"
+      ],
+      "primaryCategory": "Security",
+      "version": "2026.39.6",
+      "releaseDate": "October 29, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.39.6/release-notes"
     },
     {
       "id": "emergency-drive-away-2026386-detail",
@@ -595477,7 +595477,7 @@
     "scrapedAt": "2026-08-14T14:31:42.343Z"
   },
   "electrekEnrichment": {
-    "enrichedAt": "2026-11-11T17:44:14.522Z",
+    "enrichedAt": "2026-11-11T18:39:45.872Z",
     "enrichedCount": 81
   },
   "model3Historical": {
