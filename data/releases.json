@@ -1,6 +1,6 @@
 {
   "source": "https://www.notateslaapp.com/software-updates/history/",
-  "scrapedAt": "2026-11-11T09:19:54.958Z",
+  "scrapedAt": "2026-11-11T17:44:14.347Z",
   "categories": [
     "Vehicle OS",
     "Autopilot / Full Self-Driving",
@@ -32,7 +32,7 @@
   ],
   "categoryCounts": {
     "Vehicle OS": 1680,
-    "Autopilot / Full Self-Driving": 1850,
+    "Autopilot / Full Self-Driving": 1852,
     "Mobile App": 635,
     "Profile": 65,
     "Range / Charging / Energy": 779,
@@ -42,7 +42,7 @@
     "Connectivity": 143,
     "Media / Entertainment": 888,
     "Audio": 810,
-    "Map / Navigation / Trip / Route": 1343,
+    "Map / Navigation / Trip / Route": 1344,
     "Camera": 1689,
     "Lighting": 190,
     "Display": 181,
@@ -59,8 +59,8 @@
     "Onboarding / Tutorial": 110,
     "Scenario / Mode": 185
   },
-  "releaseCount": 1093,
-  "featureCount": 13153,
+  "releaseCount": 1094,
+  "featureCount": 13155,
   "releases": [
     {
       "version": "2026.38",
@@ -82709,6 +82709,50 @@
             "Security"
           ],
           "primaryCategory": "Security"
+        }
+      ]
+    },
+    {
+      "version": "2026.39.100",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.39.100/release-notes",
+      "releaseDate": "November 11, 2026",
+      "features": [
+        {
+          "id": "fsd-supervised-naming-update-202639100-detail",
+          "title": "FSD (Supervised) Naming Update",
+          "type": "official",
+          "description": "This change only updates the name of certain features and text in your vehicle, and does not change the way your features behave.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.39/fsd-supervised-naming-update.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.39/dark/fsd-supervised-naming-update.png",
+          "links": [],
+          "availability": "Not relevant in the US",
+          "models": [
+            "3",
+            "Y"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "fsd-supervised-202639100-detail",
+          "title": "FSD (Supervised)",
+          "type": "official",
+          "description": "Under your supervision, FSD (Supervised) can drive your Tesla almost anywhere. It will start from a parked position, make lane changes, select forks to follow your navigation route, navigate around other vehicles and objects, make left and right turns and stop at your destination. You and anyone you authorize must use additional caution and remain attentive. It does not make your vehicle autonomous. Do not become complacent. FSD (Supervised) is enabled on your vehicle. To use the feature, first watch the tutorial and take the quiz, available in the new Self-Driving App or in Control > Self-Driving. Then press the Start FSD (Supervised) button on the UI, or press the right scroll wheel button once. You can disable FSD (Supervised) in Self-Driving Settings.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.39/fsd-supervised-2.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.39/dark/fsd-supervised-2.png",
+          "links": [],
+          "availability": "Not relevant in the US",
+          "models": [
+            "3",
+            "Y"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
         }
       ]
     },
@@ -373393,6 +373437,49 @@
       "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.39.6/release-notes"
     },
     {
+      "id": "fsd-supervised-naming-update-202639100-detail",
+      "title": "FSD (Supervised) Naming Update",
+      "type": "official",
+      "description": "This change only updates the name of certain features and text in your vehicle, and does not change the way your features behave.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.39/fsd-supervised-naming-update.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.39/dark/fsd-supervised-naming-update.png",
+      "links": [],
+      "availability": "Not relevant in the US",
+      "models": [
+        "3",
+        "Y"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.39.100",
+      "releaseDate": "November 11, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.39.100/release-notes"
+    },
+    {
+      "id": "fsd-supervised-202639100-detail",
+      "title": "FSD (Supervised)",
+      "type": "official",
+      "description": "Under your supervision, FSD (Supervised) can drive your Tesla almost anywhere. It will start from a parked position, make lane changes, select forks to follow your navigation route, navigate around other vehicles and objects, make left and right turns and stop at your destination. You and anyone you authorize must use additional caution and remain attentive. It does not make your vehicle autonomous. Do not become complacent. FSD (Supervised) is enabled on your vehicle. To use the feature, first watch the tutorial and take the quiz, available in the new Self-Driving App or in Control > Self-Driving. Then press the Start FSD (Supervised) button on the UI, or press the right scroll wheel button once. You can disable FSD (Supervised) in Self-Driving Settings.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.39/fsd-supervised-2.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.39/dark/fsd-supervised-2.png",
+      "links": [],
+      "availability": "Not relevant in the US",
+      "models": [
+        "3",
+        "Y"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.39.100",
+      "releaseDate": "November 11, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.39.100/release-notes"
+    },
+    {
       "id": "model-y-l-badge-animation-20263845-detail",
       "title": "Model Y L Badge Animation",
       "type": "undocumented",
@@ -595390,7 +595477,7 @@
     "scrapedAt": "2026-08-14T14:31:42.343Z"
   },
   "electrekEnrichment": {
-    "enrichedAt": "2026-11-11T09:19:55.226Z",
+    "enrichedAt": "2026-11-11T17:44:14.522Z",
     "enrichedCount": 81
   },
   "model3Historical": {
