@@ -1,6 +1,6 @@
 {
   "source": "https://www.notateslaapp.com/software-updates/history/",
-  "scrapedAt": "2026-11-11T18:39:45.611Z",
+  "scrapedAt": "2026-11-12T04:45:04.723Z",
   "categories": [
     "Vehicle OS",
     "Autopilot / Full Self-Driving",
@@ -32,7 +32,7 @@
   ],
   "categoryCounts": {
     "Vehicle OS": 1680,
-    "Autopilot / Full Self-Driving": 1852,
+    "Autopilot / Full Self-Driving": 1853,
     "Mobile App": 635,
     "Profile": 65,
     "Range / Charging / Energy": 779,
@@ -48,19 +48,19 @@
     "Display": 181,
     "Performance": 102,
     "Phone Call": 72,
-    "Security": 492,
-    "Voice & AI": 309,
+    "Security": 493,
+    "Voice & AI": 310,
     "Trailering": 63,
     "Gaming": 444,
     "Productivity": 80,
     "Safety / Emergency": 640,
-    "Service / Support": 215,
-    "UI / Visualization": 571,
+    "Service / Support": 216,
+    "UI / Visualization": 572,
     "Onboarding / Tutorial": 110,
     "Scenario / Mode": 185
   },
-  "releaseCount": 1094,
-  "featureCount": 13155,
+  "releaseCount": 1095,
+  "featureCount": 13160,
   "releases": [
     {
       "version": "2026.38",
@@ -82587,6 +82587,116 @@
             "Map / Navigation / Trip / Route"
           ],
           "primaryCategory": "Autopilot / Full Self-Driving"
+        }
+      ]
+    },
+    {
+      "version": "2026.38.100",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.38.100/release-notes",
+      "releaseDate": "November 12, 2026",
+      "features": [
+        {
+          "id": "fsd-streaks-202638100-detail",
+          "title": "FSD Streaks",
+          "type": "undocumented",
+          "description": "Tesla has added FSD Streaks support to the legacy Model S and Model X with this FSD update. Note : This applies to legacy Model S/X vehicles with Intel and HW3.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-14-3-4-streak-celebrations.webp/3fc24c21b4b60ca541155b0cee40fcaa/fsd-14-3-4-streak-celebrations.jpg",
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Video and Details",
+              "url": "https://www.notateslaapp.com/news/4293/tesla-adds-fsd-streak-celebrations-in-fsd-v1434"
+            }
+          ],
+          "availability": null,
+          "models": [],
+          "categories": [
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "model-y-l-badge-animation-202638100-detail",
+          "title": "Model Y L Badge Animation",
+          "type": "undocumented",
+          "description": "The Launch Series badge animation has been added to the Model Y L with this update. Simply tap it to see the badge animate.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2026/launch-series-badge-animation.webp/941e0f28328302ba443f18d3eb175721/launch-series-badge-animation.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [],
+          "categories": [
+            "UI / Visualization"
+          ],
+          "primaryCategory": "UI / Visualization"
+        },
+        {
+          "id": "grok-no-longer-in-beta-202638100-detail",
+          "title": "Grok No Longer in Beta",
+          "type": "undocumented",
+          "description": "With this update, Tesla has removed the beta label from Grok.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2025/grok-ui-3.webp/bf6c99cdc1d0b627d04ddf1ba8b580ef/grok-ui-3.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Voice & AI"
+          ],
+          "primaryCategory": "Voice & AI"
+        },
+        {
+          "id": "service-mode-improvements-202638100-detail",
+          "title": "Service Mode Improvements",
+          "type": "undocumented",
+          "description": "Service Mode Update - Quick Touchscreen Language Switch Servicing a vehicle set to an unfamiliar language has now become easier. When entering Service Mode, the customer's original language setting is saved. If the touchscreen language does not match the default language of the vehicle's current country location, a Change Touchscreen Language button (always shown in English) appears at the top of the Service panel and allows users to select a preferred language. Then, upon exiting Service Mode, the customer's original language setting is automatically restored. Note that touchscreen language changes trigger a restart of the user interface. Models : All High Voltage Panel Update - Isolation Alert Popup The High Voltage panel now displays status information for each isolation health dot via a popup. To view the popup, tap the health dot for the component. If the component is healthy, it will show the current isolation resistance values. If the component is unhealthy, it will display the current isolation resistance values and any isolation alerts or Diagnostic Trouble Codes (DTCs) that are present on the vehicle. Models : All",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2023/service-mode-6.jpg/199d11978e61b090ac54d0bc04b7c177/service-mode-6.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Service / Support"
+          ],
+          "primaryCategory": "Service / Support"
+        },
+        {
+          "id": "halloween-mode-wraps-license-plates-for-intel-202638100-detail",
+          "title": "Halloween Mode Wraps & License Plates for Intel",
+          "type": "undocumented",
+          "description": "While Tesla’s Halloween Mode is not available on Intel vehicles , these vehicles do still receive the same Halloween Mode wraps and license plates that are available on AMD vehicles. Unfortunately, the rest of the features, including, the Halloween visualizations, Trick or Treat Mode and the lock sound are not available on Intel vehicles.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/tesla-screen-license-plate.webp/40a7d1e572b2ed8a214f0a2856208f06/tesla-screen-license-plate.jpg",
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Features of Halloween Mode",
+              "url": "https://www.notateslaapp.com/news/4780/everything-in-teslas-halloween-mode-photos-videos"
+            }
+          ],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Security"
+          ],
+          "primaryCategory": "Security"
         }
       ]
     },
@@ -373297,6 +373407,124 @@
       "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.39.100/release-notes"
     },
     {
+      "id": "fsd-streaks-202638100-detail",
+      "title": "FSD Streaks",
+      "type": "undocumented",
+      "description": "Tesla has added FSD Streaks support to the legacy Model S and Model X with this FSD update. Note : This applies to legacy Model S/X vehicles with Intel and HW3.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-14-3-4-streak-celebrations.webp/3fc24c21b4b60ca541155b0cee40fcaa/fsd-14-3-4-streak-celebrations.jpg",
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Video and Details",
+          "url": "https://www.notateslaapp.com/news/4293/tesla-adds-fsd-streak-celebrations-in-fsd-v1434"
+        }
+      ],
+      "availability": null,
+      "models": [],
+      "categories": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.38.100",
+      "releaseDate": "November 12, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.100/release-notes"
+    },
+    {
+      "id": "model-y-l-badge-animation-202638100-detail",
+      "title": "Model Y L Badge Animation",
+      "type": "undocumented",
+      "description": "The Launch Series badge animation has been added to the Model Y L with this update. Simply tap it to see the badge animate.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2026/launch-series-badge-animation.webp/941e0f28328302ba443f18d3eb175721/launch-series-badge-animation.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [],
+      "categories": [
+        "UI / Visualization"
+      ],
+      "primaryCategory": "UI / Visualization",
+      "version": "2026.38.100",
+      "releaseDate": "November 12, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.100/release-notes"
+    },
+    {
+      "id": "grok-no-longer-in-beta-202638100-detail",
+      "title": "Grok No Longer in Beta",
+      "type": "undocumented",
+      "description": "With this update, Tesla has removed the beta label from Grok.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2025/grok-ui-3.webp/bf6c99cdc1d0b627d04ddf1ba8b580ef/grok-ui-3.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Voice & AI"
+      ],
+      "primaryCategory": "Voice & AI",
+      "version": "2026.38.100",
+      "releaseDate": "November 12, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.100/release-notes"
+    },
+    {
+      "id": "service-mode-improvements-202638100-detail",
+      "title": "Service Mode Improvements",
+      "type": "undocumented",
+      "description": "Service Mode Update - Quick Touchscreen Language Switch Servicing a vehicle set to an unfamiliar language has now become easier. When entering Service Mode, the customer's original language setting is saved. If the touchscreen language does not match the default language of the vehicle's current country location, a Change Touchscreen Language button (always shown in English) appears at the top of the Service panel and allows users to select a preferred language. Then, upon exiting Service Mode, the customer's original language setting is automatically restored. Note that touchscreen language changes trigger a restart of the user interface. Models : All High Voltage Panel Update - Isolation Alert Popup The High Voltage panel now displays status information for each isolation health dot via a popup. To view the popup, tap the health dot for the component. If the component is healthy, it will show the current isolation resistance values. If the component is unhealthy, it will display the current isolation resistance values and any isolation alerts or Diagnostic Trouble Codes (DTCs) that are present on the vehicle. Models : All",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2023/service-mode-6.jpg/199d11978e61b090ac54d0bc04b7c177/service-mode-6.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Service / Support"
+      ],
+      "primaryCategory": "Service / Support",
+      "version": "2026.38.100",
+      "releaseDate": "November 12, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.100/release-notes"
+    },
+    {
+      "id": "halloween-mode-wraps-license-plates-for-intel-202638100-detail",
+      "title": "Halloween Mode Wraps & License Plates for Intel",
+      "type": "undocumented",
+      "description": "While Tesla’s Halloween Mode is not available on Intel vehicles , these vehicles do still receive the same Halloween Mode wraps and license plates that are available on AMD vehicles. Unfortunately, the rest of the features, including, the Halloween visualizations, Trick or Treat Mode and the lock sound are not available on Intel vehicles.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/tesla-screen-license-plate.webp/40a7d1e572b2ed8a214f0a2856208f06/tesla-screen-license-plate.jpg",
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Features of Halloween Mode",
+          "url": "https://www.notateslaapp.com/news/4780/everything-in-teslas-halloween-mode-photos-videos"
+        }
+      ],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Security"
+      ],
+      "primaryCategory": "Security",
+      "version": "2026.38.100",
+      "releaseDate": "November 12, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.100/release-notes"
+    },
+    {
       "id": "model-y-l-badge-animation-20263845-detail",
       "title": "Model Y L Badge Animation",
       "type": "undocumented",
@@ -595477,7 +595705,7 @@
     "scrapedAt": "2026-08-14T14:31:42.343Z"
   },
   "electrekEnrichment": {
-    "enrichedAt": "2026-11-11T18:39:45.872Z",
+    "enrichedAt": "2026-11-12T04:45:04.864Z",
     "enrichedCount": 81
   },
   "model3Historical": {
