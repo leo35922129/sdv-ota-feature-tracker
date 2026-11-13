@@ -84,7 +84,7 @@
     "2023.46",
     "2023.42.01"
   ],
-  "scrapedAt": "2026-11-13T15:34:58.610Z",
+  "scrapedAt": "2026-11-13T17:39:14.754Z",
   "categories": [
     "Vehicle OS",
     "Drive Assist & Autonomy",
@@ -113,37 +113,184 @@
   "categoryCounts": {
     "Vehicle OS": 902,
     "Drive Assist & Autonomy": 273,
-    "Mobile & Watch App": 149,
-    "Connectivity": 11,
-    "User Profile": 17,
-    "Charging": 218,
-    "Vehicle Control": 195,
+    "Mobile & Watch App": 150,
+    "Connectivity": 12,
+    "User Profile": 18,
+    "Charging": 219,
+    "Vehicle Control": 196,
     "Drive Modes": 50,
-    "Comfort / Climate": 102,
+    "Comfort / Climate": 103,
     "Media / Entertainment": 83,
-    "Audio": 12,
-    "Map / Navigation / Trip": 142,
-    "Camera": 110,
+    "Audio": 13,
+    "Map / Navigation / Trip": 143,
+    "Camera": 112,
     "Lighting": 8,
-    "Voice & AI": 39,
+    "Voice & AI": 41,
     "Trailering": 26,
-    "Gaming": 3,
+    "Gaming": 4,
     "Productivity": 8,
     "Safety / Emergency": 69,
-    "Service / Support": 324,
-    "UI / Visualization": 237,
+    "Service / Support": 327,
+    "UI / Visualization": 239,
     "Onboarding / Tutorial": 1,
     "Scenario / Mode": 24
   },
-  "releaseCount": 80,
-  "featureCount": 2130,
+  "releaseCount": 81,
+  "featureCount": 2140,
   "mergeStats": {
-    "trackrFeatures": 1607,
+    "trackrFeatures": 1617,
     "waveFeatures": 662,
     "mergedBoth": 139,
     "withWaveImage": 122
   },
   "releases": [
+    {
+      "version": "2026.41",
+      "url": "https://riviantrackr.com/2026-41/",
+      "releaseDate": "Public Release",
+      "availableFor": "Available For",
+      "image": "https://riviantrackr.com/wp-content/uploads/2026/07/update-display-bright.png",
+      "features": [
+        {
+          "id": "2026.41-navigation",
+          "title": "Navigation",
+          "type": "official",
+          "description": "See what's ahead View more road incidents along a route, including lane closures and objects in the road, plus traffic lights and stop signs. Tap supported incidents on the map for more detail. Get visual and audio alerts as you approach supported incidents. Choose audio for alerts, directions, or both so you can hear what's ahead even when you know the way. Explore alternative routes while you drive See and choose alternative routes without leaving active navigation. Compare travel times directly on the map, then tap an alternative route to make it the active one. Improvements Improved loading times for routes that don't require charging stops. Added the option to set a preferred arrival range at charging stops separate from your destination, giving more control over how you plan a trip. After navigation begins, added the option to see and adjust current trip preferences and quickly change any settings you don't want.",
+          "image": "https://riviantrackr.com/wp-content/uploads/2026/07/update-display-bright.png",
+          "imageDark": null,
+          "links": [],
+          "categories": [
+            "Charging",
+            "Map / Navigation / Trip",
+            "Audio"
+          ],
+          "primaryCategory": "Charging"
+        },
+        {
+          "id": "2026.41-software-update-download-improvements",
+          "title": "Software Update Download Improvements",
+          "type": "official",
+          "description": "Software updates now download more efficiently, with improved Wi-Fi connectivity and clearer notifications when updates are ready to download. Notifications now appear in the Rivian mobile app when a new software update is available for download, making it easier to manage updates over your home Wi-Fi connection.",
+          "image": "https://riviantrackr.com/wp-content/uploads/2026/07/update-display-bright.png",
+          "imageDark": null,
+          "links": [],
+          "categories": [
+            "Mobile & Watch App",
+            "Connectivity"
+          ],
+          "primaryCategory": "Mobile & Watch App"
+        },
+        {
+          "id": "2026.41-new-night-theme",
+          "title": "New Night Theme",
+          "type": "official",
+          "description": "The vehicle display now features a new Night theme designed to improve visibility and reduce eye strain during nighttime driving.",
+          "image": "https://riviantrackr.com/wp-content/uploads/2026/07/update-display-bright.png",
+          "imageDark": null,
+          "links": [],
+          "categories": [
+            "UI / Visualization"
+          ],
+          "primaryCategory": "UI / Visualization"
+        },
+        {
+          "id": "2026.41-rivian-assistant-real-time-sports-updates",
+          "title": "Rivian Assistant: Real-time Sports Updates",
+          "type": "official",
+          "description": "Stay up to date with your favorite teams hands-free by asking Rivian Assistant for live scores, game schedules, and league standings across top football, baseball, basketball, and soccer leagues. NOTE Requires an active internet connection. Support for more sports and leagues, including college sports, is coming soon.",
+          "image": "https://riviantrackr.com/wp-content/uploads/2026/07/update-display-bright.png",
+          "imageDark": null,
+          "links": [],
+          "categories": [
+            "Voice & AI",
+            "Gaming"
+          ],
+          "primaryCategory": "Voice & AI"
+        },
+        {
+          "id": "2026.41-gear-guard",
+          "title": "Gear Guard",
+          "type": "official",
+          "description": "Improved Gear Guard detection performance. Fixed an issue with the Motion Cam \"Switch off at home location\" setting that caused it to toggle off after a software update. Fixed issues related to stability of the initial setup process of Gear Guard, including setup of a USB device.",
+          "image": "https://riviantrackr.com/wp-content/uploads/2026/07/update-display-bright.png",
+          "imageDark": null,
+          "links": [],
+          "categories": [
+            "Camera"
+          ],
+          "primaryCategory": "Camera"
+        },
+        {
+          "id": "2026.41-google-cast",
+          "title": "Google Cast",
+          "type": "official",
+          "description": "Improved connection reliability and recovery when the network briefly drops during a session. Smoother playback when switching between apps, resuming a cast, or transitioning to and from ad content. Improved overall system performance when casting.",
+          "image": "https://riviantrackr.com/wp-content/uploads/2026/07/update-display-bright.png",
+          "imageDark": null,
+          "links": [],
+          "categories": [
+            "Service / Support"
+          ],
+          "primaryCategory": "Service / Support"
+        },
+        {
+          "id": "2026.41-climate",
+          "title": "Climate",
+          "type": "official",
+          "description": "Fixed an issue that caused the fan speed to oscillate during defrost mode. Gen 1 Only Rear cabin climate air distribution settings now persist. Improved defog and defrost interaction behavior. Improved airflow behavior during maximum defrost operation. Improved the restoration of preconditioning to occupied settings. Improved third-row cooling interaction and notifications for cabin heating.",
+          "image": "https://riviantrackr.com/wp-content/uploads/2026/07/update-display-bright.png",
+          "imageDark": null,
+          "links": [],
+          "categories": [
+            "Comfort / Climate"
+          ],
+          "primaryCategory": "Comfort / Climate"
+        },
+        {
+          "id": "2026.41-vehicle-access",
+          "title": "Vehicle access",
+          "type": "official",
+          "description": "Improved driver profile detection upon vehicle entry. Improved the reliability and quality of automatic movements of the driver seat, steering column, and mirrors, including roomy entry and reverse mirror tilt. Gen 1 Only Fixed an issue that caused formerly disabled passive entry to reactivate itself after an update. Fixed an issue that caused key fob signal strength reporting inconsistencies when multiple key devices were present. Improved the robustness of the enrollment and pairing process. Fixed a rare issue that prevented the vehicle from shifting into D (Drive) or R (Reverse) when a valid key was present.",
+          "image": "https://riviantrackr.com/wp-content/uploads/2026/07/update-display-bright.png",
+          "imageDark": null,
+          "links": [],
+          "categories": [
+            "User Profile",
+            "Vehicle Control",
+            "Service / Support"
+          ],
+          "primaryCategory": "User Profile"
+        },
+        {
+          "id": "2026.41-improvement-0",
+          "title": "Improved the responsiveness and reliability of the Infotainment system, including camera views and overall performance.",
+          "type": "improvement",
+          "description": "Improved the responsiveness and reliability of the Infotainment system, including camera views and overall performance.",
+          "image": "https://riviantrackr.com/wp-content/uploads/2026/07/update-display-bright.png",
+          "imageDark": null,
+          "links": [],
+          "categories": [
+            "Camera",
+            "Service / Support",
+            "UI / Visualization"
+          ],
+          "primaryCategory": "Camera"
+        },
+        {
+          "id": "2026.41-improvement-1",
+          "title": "Fixed an issue that prevented Rivian Assistant from recognizing spoken punctuation.",
+          "type": "improvement",
+          "description": "Fixed an issue that prevented Rivian Assistant from recognizing spoken punctuation.",
+          "image": "https://riviantrackr.com/wp-content/uploads/2026/07/update-display-bright.png",
+          "imageDark": null,
+          "links": [],
+          "categories": [
+            "Voice & AI"
+          ],
+          "primaryCategory": "Voice & AI"
+        }
+      ]
+    },
     {
       "version": "2026.36",
       "url": "https://riviantrackr.com/2026-36-02/",
@@ -155,13 +302,17 @@
           "id": "2026.36-additional-improvements",
           "title": "Additional Improvements",
           "type": "official",
-          "description": "Resolved an issue impacting time zone handling in Canada due to new Canadian daylight saving rules in some regions. &larr; Previous R1T & R1S update 2026.36 Hotfix October 27, 2026",
+          "description": "Resolved an issue impacting time zone handling in Canada due to new Canadian daylight saving rules in some regions. &larr; Previous R1T & R1S update 2026.36 Hotfix October 27, 2026 Next R1T & R1S update &rarr; 2026.41 November 13, 2026",
           "image": "https://riviantrackr.com/wp-content/uploads/2026/07/update-display-bright.png",
           "imageDark": null,
           "links": [
             {
               "title": "&larr; Previous R1T & R1S update 2026.36 Hotfix October 27, 2026",
               "url": "https://riviantrackr.com/2026-36-01/"
+            },
+            {
+              "title": "Next R1T & R1S update &rarr; 2026.41 November 13, 2026",
+              "url": "https://riviantrackr.com/2026-41/"
             }
           ],
           "categories": [
@@ -22645,16 +22796,238 @@
   ],
   "features": [
     {
+      "id": "2026.41-navigation",
+      "title": "Navigation",
+      "type": "official",
+      "description": "See what's ahead View more road incidents along a route, including lane closures and objects in the road, plus traffic lights and stop signs. Tap supported incidents on the map for more detail. Get visual and audio alerts as you approach supported incidents. Choose audio for alerts, directions, or both so you can hear what's ahead even when you know the way. Explore alternative routes while you drive See and choose alternative routes without leaving active navigation. Compare travel times directly on the map, then tap an alternative route to make it the active one. Improvements Improved loading times for routes that don't require charging stops. Added the option to set a preferred arrival range at charging stops separate from your destination, giving more control over how you plan a trip. After navigation begins, added the option to see and adjust current trip preferences and quickly change any settings you don't want.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "categories": [
+        "Charging",
+        "Map / Navigation / Trip",
+        "Audio"
+      ],
+      "primaryCategory": "Charging",
+      "models": [],
+      "version": "2026.41",
+      "releaseDate": "Public Release",
+      "releaseUrl": "https://riviantrackr.com/2026-41/",
+      "sources": [
+        "riviantrackr"
+      ],
+      "waveUrl": null
+    },
+    {
+      "id": "2026.41-software-update-download-improvements",
+      "title": "Software Update Download Improvements",
+      "type": "official",
+      "description": "Software updates now download more efficiently, with improved Wi-Fi connectivity and clearer notifications when updates are ready to download. Notifications now appear in the Rivian mobile app when a new software update is available for download, making it easier to manage updates over your home Wi-Fi connection.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "categories": [
+        "Mobile & Watch App",
+        "Connectivity"
+      ],
+      "primaryCategory": "Mobile & Watch App",
+      "models": [],
+      "version": "2026.41",
+      "releaseDate": "Public Release",
+      "releaseUrl": "https://riviantrackr.com/2026-41/",
+      "sources": [
+        "riviantrackr"
+      ],
+      "waveUrl": null
+    },
+    {
+      "id": "2026.41-new-night-theme",
+      "title": "New Night Theme",
+      "type": "official",
+      "description": "The vehicle display now features a new Night theme designed to improve visibility and reduce eye strain during nighttime driving.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "categories": [
+        "UI / Visualization"
+      ],
+      "primaryCategory": "UI / Visualization",
+      "models": [],
+      "version": "2026.41",
+      "releaseDate": "Public Release",
+      "releaseUrl": "https://riviantrackr.com/2026-41/",
+      "sources": [
+        "riviantrackr"
+      ],
+      "waveUrl": null
+    },
+    {
+      "id": "2026.41-rivian-assistant-real-time-sports-updates",
+      "title": "Rivian Assistant: Real-time Sports Updates",
+      "type": "official",
+      "description": "Stay up to date with your favorite teams hands-free by asking Rivian Assistant for live scores, game schedules, and league standings across top football, baseball, basketball, and soccer leagues. NOTE Requires an active internet connection. Support for more sports and leagues, including college sports, is coming soon.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "categories": [
+        "Voice & AI",
+        "Gaming"
+      ],
+      "primaryCategory": "Voice & AI",
+      "models": [],
+      "version": "2026.41",
+      "releaseDate": "Public Release",
+      "releaseUrl": "https://riviantrackr.com/2026-41/",
+      "sources": [
+        "riviantrackr"
+      ],
+      "waveUrl": null
+    },
+    {
+      "id": "2026.41-gear-guard",
+      "title": "Gear Guard",
+      "type": "official",
+      "description": "Improved Gear Guard detection performance. Fixed an issue with the Motion Cam \"Switch off at home location\" setting that caused it to toggle off after a software update. Fixed issues related to stability of the initial setup process of Gear Guard, including setup of a USB device.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "categories": [
+        "Camera"
+      ],
+      "primaryCategory": "Camera",
+      "models": [],
+      "version": "2026.41",
+      "releaseDate": "Public Release",
+      "releaseUrl": "https://riviantrackr.com/2026-41/",
+      "sources": [
+        "riviantrackr"
+      ],
+      "waveUrl": null
+    },
+    {
+      "id": "2026.41-google-cast",
+      "title": "Google Cast",
+      "type": "official",
+      "description": "Improved connection reliability and recovery when the network briefly drops during a session. Smoother playback when switching between apps, resuming a cast, or transitioning to and from ad content. Improved overall system performance when casting.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "categories": [
+        "Service / Support"
+      ],
+      "primaryCategory": "Service / Support",
+      "models": [],
+      "version": "2026.41",
+      "releaseDate": "Public Release",
+      "releaseUrl": "https://riviantrackr.com/2026-41/",
+      "sources": [
+        "riviantrackr"
+      ],
+      "waveUrl": null
+    },
+    {
+      "id": "2026.41-climate",
+      "title": "Climate",
+      "type": "official",
+      "description": "Fixed an issue that caused the fan speed to oscillate during defrost mode. Gen 1 Only Rear cabin climate air distribution settings now persist. Improved defog and defrost interaction behavior. Improved airflow behavior during maximum defrost operation. Improved the restoration of preconditioning to occupied settings. Improved third-row cooling interaction and notifications for cabin heating.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "categories": [
+        "Comfort / Climate"
+      ],
+      "primaryCategory": "Comfort / Climate",
+      "models": [],
+      "version": "2026.41",
+      "releaseDate": "Public Release",
+      "releaseUrl": "https://riviantrackr.com/2026-41/",
+      "sources": [
+        "riviantrackr"
+      ],
+      "waveUrl": null
+    },
+    {
+      "id": "2026.41-vehicle-access",
+      "title": "Vehicle access",
+      "type": "official",
+      "description": "Improved driver profile detection upon vehicle entry. Improved the reliability and quality of automatic movements of the driver seat, steering column, and mirrors, including roomy entry and reverse mirror tilt. Gen 1 Only Fixed an issue that caused formerly disabled passive entry to reactivate itself after an update. Fixed an issue that caused key fob signal strength reporting inconsistencies when multiple key devices were present. Improved the robustness of the enrollment and pairing process. Fixed a rare issue that prevented the vehicle from shifting into D (Drive) or R (Reverse) when a valid key was present.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "categories": [
+        "User Profile",
+        "Vehicle Control",
+        "Service / Support"
+      ],
+      "primaryCategory": "User Profile",
+      "models": [],
+      "version": "2026.41",
+      "releaseDate": "Public Release",
+      "releaseUrl": "https://riviantrackr.com/2026-41/",
+      "sources": [
+        "riviantrackr"
+      ],
+      "waveUrl": null
+    },
+    {
+      "id": "2026.41-improvement-0",
+      "title": "Improved the responsiveness and reliability of the Infotainment system, including camera views and overall performance.",
+      "type": "improvement",
+      "description": "Improved the responsiveness and reliability of the Infotainment system, including camera views and overall performance.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "categories": [
+        "Camera",
+        "Service / Support",
+        "UI / Visualization"
+      ],
+      "primaryCategory": "Camera",
+      "models": [],
+      "version": "2026.41",
+      "releaseDate": "Public Release",
+      "releaseUrl": "https://riviantrackr.com/2026-41/",
+      "sources": [
+        "riviantrackr"
+      ],
+      "waveUrl": null
+    },
+    {
+      "id": "2026.41-improvement-1",
+      "title": "Fixed an issue that prevented Rivian Assistant from recognizing spoken punctuation.",
+      "type": "improvement",
+      "description": "Fixed an issue that prevented Rivian Assistant from recognizing spoken punctuation.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "categories": [
+        "Voice & AI"
+      ],
+      "primaryCategory": "Voice & AI",
+      "models": [],
+      "version": "2026.41",
+      "releaseDate": "Public Release",
+      "releaseUrl": "https://riviantrackr.com/2026-41/",
+      "sources": [
+        "riviantrackr"
+      ],
+      "waveUrl": null
+    },
+    {
       "id": "2026.36-additional-improvements",
       "title": "Additional Improvements",
       "type": "official",
-      "description": "Resolved an issue impacting time zone handling in Canada due to new Canadian daylight saving rules in some regions. &larr; Previous R1T & R1S update 2026.36 Hotfix October 27, 2026",
+      "description": "Resolved an issue impacting time zone handling in Canada due to new Canadian daylight saving rules in some regions. &larr; Previous R1T & R1S update 2026.36 Hotfix October 27, 2026 Next R1T & R1S update &rarr; 2026.41 November 13, 2026",
       "image": null,
       "imageDark": null,
       "links": [
         {
           "title": "&larr; Previous R1T & R1S update 2026.36 Hotfix October 27, 2026",
           "url": "https://riviantrackr.com/2026-36-01/"
+        },
+        {
+          "title": "Next R1T & R1S update &rarr; 2026.41 November 13, 2026",
+          "url": "https://riviantrackr.com/2026-41/"
         }
       ],
       "categories": [
