@@ -1,6 +1,6 @@
 {
   "source": "https://www.notateslaapp.com/software-updates/history/",
-  "scrapedAt": "2026-11-13T20:40:03.979Z",
+  "scrapedAt": "2026-11-14T18:28:55.470Z",
   "categories": [
     "Vehicle OS",
     "Autopilot / Full Self-Driving",
@@ -32,35 +32,35 @@
   ],
   "categoryCounts": {
     "Vehicle OS": 1680,
-    "Autopilot / Full Self-Driving": 1853,
+    "Autopilot / Full Self-Driving": 1862,
     "Mobile App": 635,
     "Profile": 65,
-    "Range / Charging / Energy": 779,
+    "Range / Charging / Energy": 780,
     "Vehicle Control": 1177,
     "Comfort / Climate": 592,
     "Interior Cabin": 4,
     "Connectivity": 143,
-    "Media / Entertainment": 888,
+    "Media / Entertainment": 889,
     "Audio": 810,
-    "Map / Navigation / Trip / Route": 1344,
-    "Camera": 1689,
-    "Lighting": 190,
+    "Map / Navigation / Trip / Route": 1349,
+    "Camera": 1691,
+    "Lighting": 191,
     "Display": 181,
     "Performance": 102,
     "Phone Call": 72,
-    "Security": 493,
-    "Voice & AI": 310,
+    "Security": 495,
+    "Voice & AI": 311,
     "Trailering": 63,
     "Gaming": 444,
     "Productivity": 80,
-    "Safety / Emergency": 640,
-    "Service / Support": 216,
-    "UI / Visualization": 572,
+    "Safety / Emergency": 641,
+    "Service / Support": 217,
+    "UI / Visualization": 574,
     "Onboarding / Tutorial": 110,
     "Scenario / Mode": 185
   },
-  "releaseCount": 1095,
-  "featureCount": 13160,
+  "releaseCount": 1096,
+  "featureCount": 13180,
   "releases": [
     {
       "version": "2026.38",
@@ -82587,6 +82587,417 @@
             "Map / Navigation / Trip / Route"
           ],
           "primaryCategory": "Autopilot / Full Self-Driving"
+        }
+      ]
+    },
+    {
+      "version": "2026.38.5.13",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.38.5.13/release-notes",
+      "releaseDate": "November 13, 2026",
+      "features": [
+        {
+          "id": "halloween-mode-202638513-detail",
+          "title": "Halloween Mode",
+          "type": "official",
+          "description": "Spread holiday fear year round with Halloween Mode. Put a Ghost Costume on your car visualization. Turn on Trick or Treat Mode to play spooky sounds and flicker the lights when visitors approach. Schedule a haunting light show, and turn your car into a chilling Photobooth!",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/halloween-mode.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/halloween-mode.png",
+          "links": [
+            {
+              "title": "Photos & Videos of Halloween Mode",
+              "url": "https://www.notateslaapp.com/news/4777/tesla-rolls-out-halloween-mode-with-update-2026383"
+            }
+          ],
+          "availability": "Available Worldwide",
+          "models": [
+            "3",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Media / Entertainment"
+          ],
+          "primaryCategory": "Media / Entertainment"
+        },
+        {
+          "id": "visual-updates-202638513-detail",
+          "title": "Visual Updates",
+          "type": "official",
+          "description": "The center display now features higher quality images of your Tesla, and an enhanced park scene environment.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/visual-updates.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/visual-updates.png",
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "3",
+            "Y"
+          ],
+          "categories": [
+            "UI / Visualization"
+          ],
+          "primaryCategory": "UI / Visualization"
+        },
+        {
+          "id": "emergency-drive-away-202638513-detail",
+          "title": "Emergency Drive Away",
+          "type": "official",
+          "description": "Emergency Drive Away lets you shift into Drive while a Supercharger cable is still connected. Use it only in an emergency: driving away with the cable attached will damage your vehicle and the Supercharger, and you may be responsible for repair costs. When you activate this feature, short recordings from your vehicle's cameras are shared with Tesla.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/emergency-drive-away.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/emergency-drive-away.png",
+          "links": [],
+          "availability": "Available in the US",
+          "models": [
+            "3",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Camera"
+          ],
+          "primaryCategory": "Camera"
+        },
+        {
+          "id": "supercharger-site-maps-202638513-detail",
+          "title": "Supercharger Site Maps",
+          "type": "official",
+          "description": "You can now see a detailed view of select Tesla Superchargers by tapping \"View Site Map.\" When navigating to a pilot location, the site layout and live occupancy (Available / Occupied / Down) will be displayed upon arrival.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/supercharger-site-maps.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/supercharger-site-maps.png",
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "3",
+            "Y"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        },
+        {
+          "id": "set-arrival-energy-202638513-detail",
+          "title": "Set Arrival Energy",
+          "type": "official",
+          "description": "Set your desired Arrival Energy for any trip from your phone. Open the location tab in the Tesla Mobile App, enter your destination, and tap Set Arrival Energy. Requires Mobile App v4.58.0 or later.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/set-arrival-energy.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/set-arrival-energy.png",
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route",
+            "Range / Charging / Energy"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        },
+        {
+          "id": "dynamic-headlight-leveling-202638513-detail",
+          "title": "Dynamic Headlight Leveling",
+          "type": "official",
+          "description": "Low beams will automatically adjust their aim based on driving conditions and nearby traffic to maximize your visibility while reducing glare for other road users.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.20/2024.20-adaptive-headlight-improvements.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2024.20/dark/2024.20-adaptive-headlight-improvements.png",
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "3",
+            "CT"
+          ],
+          "categories": [
+            "Lighting"
+          ],
+          "primaryCategory": "Lighting"
+        },
+        {
+          "id": "automatic-collision-evasion-202638513-detail",
+          "title": "Automatic Collision Evasion",
+          "type": "official",
+          "description": "Automatic Collision Evasion activates Full Self-Driving (Supervised) to try to keep your vehicle safe and then continue driving. It can engage while you are driving manually and detects that you are not sufficiently attentive to the road (for example, reaching toward the back seat), or that Full Self-Driving (Supervised) may have been unintentionally disengaged. See your Owner's Manual for more details.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.27/automatic-collision-evasion.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.27/dark/automatic-collision-evasion.png",
+          "links": [
+            {
+              "title": "More Details",
+              "url": "https://www.notateslaapp.com/news/4646/tesla-adds-fsd-automatic-collision-evasion-for-manual-drives"
+            }
+          ],
+          "availability": "Available in the US",
+          "models": [
+            "3",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Safety / Emergency"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "fsd-supervised-v14313-202638513-detail",
+          "title": "FSD (Supervised) v14.3.13",
+          "type": "official",
+          "description": "Full Self-Driving (Supervised) v14.3.13 includes: - Upgraded the Reinforcement Learning (RL) stage of training the FSD neural network, resulting in improvements in a wide variety of driving scenarios. - Upgraded the neural network vision encoder, improving understanding in rare and low-visibility scenarios, strengthening 3D geometry understanding, and expanding traffic sign understanding. - Rewrote the AI compiler and runtime from the ground up with MLIR, resulting in 20% faster reaction time and improving model iteration speed. - Mitigated unnecessary lane biasing and minor tailgating behaviors. - Increased decisiveness of parking spot selection and maneuvering. - Improved parking location pin prediction, now shown on a map with a P icon. - Enhanced response to emergency vehicles, school buses, right-of-way violators, and other rare vehicles. - Improved handling of small animals by focusing RL training on harder examples and adding rewards for better proactive safety. - Improved traffic light handling at complex intersections with compound lights, curved roads, and yellow light stopping — driven by training on hard RL examples sourced from the Tesla fleet. - Improved handling for rare and unusual objects extending, hanging, or leaning into the vehicle path by sourcing infrequent events from the fleet. - Improved handling of temporary system degradations by maintaining control and automatically recovering without driver intervention, reducing unnecessary disengagements. - Improved driver monitoring system sensitivity with better eye gaze tracking, eye wear handling, and higher accuracy in variable lighting conditions. - Unified the model between Actually Smart Summon, FSD, and Robotaxi for more capable and reliable behavior. - Help Tesla improve Self-Driving by selecting an intervention reason on the main screen after taking over. - You can now see distance traveled in FSD (Supervised) without an intervention. The Self-Driving App will also show your longest intervention-free streak. - Parking options now display on the map when arriving at your destination. Upcoming Improvements: - Expand reasoning to all behaviors beyond destination handling. - Add pothole avoidance.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available in the US",
+          "models": [
+            "3",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "full-self-driving-supervised-202638513-detail",
+          "title": "Full Self-Driving (Supervised)",
+          "type": "official",
+          "description": "Under your supervision, Full Self-Driving (Supervised) can drive your Tesla almost anywhere. It will start from a parked position, make lane changes, select forks to follow your navigation route, navigate around other vehicles and objects, make left and right turns and park at your destination. You and anyone you authorize must use additional caution and remain attentive. It does not make your vehicle autonomous. Do not become complacent. Full Self-Driving (Supervised) is enabled on your vehicle. To use the feature, press the Start Self-Driving button on the UI, or press the right scroll wheel button once. You can disable Full Self-Driving (Supervised) in Autopilot Settings.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-full-self-driving-supervised.png",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available in the US",
+          "models": [
+            "3",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "fsd-supervised-v143-lite-202638513-detail",
+          "title": "FSD (Supervised) v14.3 Lite",
+          "type": "official",
+          "description": "FSD (Supervised) v14.3 Lite includes: - Distilled the intelligence from HW4 V14 into HW3. This allows HW3 to directly learn how to handle scenarios using HW4 V14 as a guide. This process unlocks the improvements that have been made to HW4 including Reinforcement Learning (RL) and offline models for HW3. - Improved both proactive and reactive responsiveness across a wide variety of categories including navigation handling, merges and forks, pedestrian interactions, traffic lights, and vehicle cut-in scenarios. - Improved general comfort in nominal scenarios through fewer false slowdowns, smoother steering and more consistent lane centering. - Introduced parking, unparking, and reversing capabilities. - Added Arrival Options for you to select where FSD should pull over or park: in a Parking Lot, on the Street, in a Driveway. - Speed Profiles are now available at all times, to further customize driving style preference.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.20.5/2026.20.5-fsd-supervised-v14-lite.png",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available in the US",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "start-self-driving-from-park-202638513-detail",
+          "title": "Start Self-Driving from Park",
+          "type": "official",
+          "description": "A button will appear on the screen when driver requirements are met. Driver requirements include (but are not limited to): - Driver is seated in driver's seat - Driver is buckled - Cabin Camera is unobstructed Brake Confirm requires the driver to press and release the brake pedal before FSD (Supervised) can be activated. When Brake Confirm is disabled, pressing the button will allow Self-Driving to apply the brakes and engage FSD (Supervised). If driver detection requirements are not met or if FSD (Supervised) does not detect a driver, you will be required to press and release the brake pedal to confirm. You can enable Brake Confirm in Self-Driving > Brake Confirm. This feature does not make your vehicle autonomous and you must remain attentive and be ready to take over at any time. Only a licensed driver authorized to operate the vehicle should be allowed access to the driver's seat position any time the vehicle is not in Theater or Arcade modes.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.20.5/2026.20.5-start-self-driving-from-park.png",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available in the US",
+          "models": [
+            "3",
+            "Y"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Camera"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "arrival-options-202638513-detail",
+          "title": "Arrival Options",
+          "type": "official",
+          "description": "- You can now select an arrival option such as Parking Lot, Street, Driveway, and Pull Over for Robotaxi-style drop offs. - Your preferences for arrival options and preferred parking positions are persisted for each destination.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.20.5/2026.20.5-arrival-options.png",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available in the US",
+          "models": [
+            "3",
+            "Y"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "speed-profiles-202638513-detail",
+          "title": "Speed Profiles",
+          "type": "official",
+          "description": "FSD (Supervised) will now determine the appropriate speed based on a mix of driver profile, speed limit, and surrounding traffic. - Introduced new Speed Profile SLOTH, which comes with lower speeds & more conservative lane selection than CHILL. - Driver profile now has a stronger impact on behavior. The more assertive the profile, the higher the max speed. - Right scroll-wheel up/down now adjusts Speed Profile setting rather than your precise max speed offset selection in mph/kph.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.20.5/2026.20.5-speed-profiles.png",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available in the US",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "ui-improvements-202638513-detail",
+          "title": "UI Improvements",
+          "type": "official",
+          "description": "Adjust settings like the Speed Profile and Arrival Options directly from the Self-Driving visualization on the center display.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.20.5/2026.20.5-ui-improvements.png",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available in the US",
+          "models": [
+            "3",
+            "Y"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "security-improvements-202638513-detail",
+          "title": "Security Improvements",
+          "type": "official",
+          "description": "This update includes important security fixes and improvements.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/security-improvements.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/dark/security-improvements.png",
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Security"
+          ],
+          "primaryCategory": "Security"
+        },
+        {
+          "id": "fsd-streaks-202638513-detail",
+          "title": "FSD Streaks",
+          "type": "undocumented",
+          "description": "Tesla has added FSD Streaks support to the legacy Model S and Model X with this FSD update. Note : This applies to legacy Model S/X vehicles with Intel and HW3.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-14-3-4-streak-celebrations.webp/3fc24c21b4b60ca541155b0cee40fcaa/fsd-14-3-4-streak-celebrations.jpg",
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Video and Details",
+              "url": "https://www.notateslaapp.com/news/4293/tesla-adds-fsd-streak-celebrations-in-fsd-v1434"
+            }
+          ],
+          "availability": null,
+          "models": [],
+          "categories": [
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "model-y-l-badge-animation-202638513-detail",
+          "title": "Model Y L Badge Animation",
+          "type": "undocumented",
+          "description": "The Launch Series badge animation has been added to the Model Y L with this update. Simply tap it to see the badge animate.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2026/launch-series-badge-animation.webp/941e0f28328302ba443f18d3eb175721/launch-series-badge-animation.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [],
+          "categories": [
+            "UI / Visualization"
+          ],
+          "primaryCategory": "UI / Visualization"
+        },
+        {
+          "id": "grok-no-longer-in-beta-202638513-detail",
+          "title": "Grok No Longer in Beta",
+          "type": "undocumented",
+          "description": "With this update, Tesla has removed the beta label from Grok.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2025/grok-ui-3.webp/bf6c99cdc1d0b627d04ddf1ba8b580ef/grok-ui-3.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Voice & AI"
+          ],
+          "primaryCategory": "Voice & AI"
+        },
+        {
+          "id": "service-mode-improvements-202638513-detail",
+          "title": "Service Mode Improvements",
+          "type": "undocumented",
+          "description": "Service Mode Update - Quick Touchscreen Language Switch Servicing a vehicle set to an unfamiliar language has now become easier. When entering Service Mode, the customer's original language setting is saved. If the touchscreen language does not match the default language of the vehicle's current country location, a Change Touchscreen Language button (always shown in English) appears at the top of the Service panel and allows users to select a preferred language. Then, upon exiting Service Mode, the customer's original language setting is automatically restored. Note that touchscreen language changes trigger a restart of the user interface. Models : All High Voltage Panel Update - Isolation Alert Popup The High Voltage panel now displays status information for each isolation health dot via a popup. To view the popup, tap the health dot for the component. If the component is healthy, it will show the current isolation resistance values. If the component is unhealthy, it will display the current isolation resistance values and any isolation alerts or Diagnostic Trouble Codes (DTCs) that are present on the vehicle. Models : All",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2023/service-mode-6.jpg/199d11978e61b090ac54d0bc04b7c177/service-mode-6.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Service / Support"
+          ],
+          "primaryCategory": "Service / Support"
+        },
+        {
+          "id": "halloween-mode-wraps-license-plates-for-intel-202638513-detail",
+          "title": "Halloween Mode Wraps & License Plates for Intel",
+          "type": "undocumented",
+          "description": "While Tesla’s Halloween Mode is not available on Intel vehicles , these vehicles do still receive the same Halloween Mode wraps and license plates that are available on AMD vehicles. Unfortunately, the rest of the features, including, the Halloween visualizations, Trick or Treat Mode and the lock sound are not available on Intel vehicles.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/tesla-screen-license-plate.webp/40a7d1e572b2ed8a214f0a2856208f06/tesla-screen-license-plate.jpg",
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Features of Halloween Mode",
+              "url": "https://www.notateslaapp.com/news/4780/everything-in-teslas-halloween-mode-photos-videos"
+            }
+          ],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Security"
+          ],
+          "primaryCategory": "Security"
         }
       ]
     },
@@ -373407,6 +373818,470 @@
       "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.39.100/release-notes"
     },
     {
+      "id": "halloween-mode-202638513-detail",
+      "title": "Halloween Mode",
+      "type": "official",
+      "description": "Spread holiday fear year round with Halloween Mode. Put a Ghost Costume on your car visualization. Turn on Trick or Treat Mode to play spooky sounds and flicker the lights when visitors approach. Schedule a haunting light show, and turn your car into a chilling Photobooth!",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/halloween-mode.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/halloween-mode.png",
+      "links": [
+        {
+          "title": "Photos & Videos of Halloween Mode",
+          "url": "https://www.notateslaapp.com/news/4777/tesla-rolls-out-halloween-mode-with-update-2026383"
+        }
+      ],
+      "availability": "Available Worldwide",
+      "models": [
+        "3",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Media / Entertainment"
+      ],
+      "primaryCategory": "Media / Entertainment",
+      "version": "2026.38.5.13",
+      "releaseDate": "November 13, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.5.13/release-notes"
+    },
+    {
+      "id": "visual-updates-202638513-detail",
+      "title": "Visual Updates",
+      "type": "official",
+      "description": "The center display now features higher quality images of your Tesla, and an enhanced park scene environment.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/visual-updates.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/visual-updates.png",
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "3",
+        "Y"
+      ],
+      "categories": [
+        "UI / Visualization"
+      ],
+      "primaryCategory": "UI / Visualization",
+      "version": "2026.38.5.13",
+      "releaseDate": "November 13, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.5.13/release-notes"
+    },
+    {
+      "id": "emergency-drive-away-202638513-detail",
+      "title": "Emergency Drive Away",
+      "type": "official",
+      "description": "Emergency Drive Away lets you shift into Drive while a Supercharger cable is still connected. Use it only in an emergency: driving away with the cable attached will damage your vehicle and the Supercharger, and you may be responsible for repair costs. When you activate this feature, short recordings from your vehicle's cameras are shared with Tesla.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/emergency-drive-away.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/emergency-drive-away.png",
+      "links": [],
+      "availability": "Available in the US",
+      "models": [
+        "3",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Camera"
+      ],
+      "primaryCategory": "Camera",
+      "version": "2026.38.5.13",
+      "releaseDate": "November 13, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.5.13/release-notes"
+    },
+    {
+      "id": "supercharger-site-maps-202638513-detail",
+      "title": "Supercharger Site Maps",
+      "type": "official",
+      "description": "You can now see a detailed view of select Tesla Superchargers by tapping \"View Site Map.\" When navigating to a pilot location, the site layout and live occupancy (Available / Occupied / Down) will be displayed upon arrival.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/supercharger-site-maps.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/supercharger-site-maps.png",
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "3",
+        "Y"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "2026.38.5.13",
+      "releaseDate": "November 13, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.5.13/release-notes"
+    },
+    {
+      "id": "set-arrival-energy-202638513-detail",
+      "title": "Set Arrival Energy",
+      "type": "official",
+      "description": "Set your desired Arrival Energy for any trip from your phone. Open the location tab in the Tesla Mobile App, enter your destination, and tap Set Arrival Energy. Requires Mobile App v4.58.0 or later.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/set-arrival-energy.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/set-arrival-energy.png",
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "2026.38.5.13",
+      "releaseDate": "November 13, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.5.13/release-notes"
+    },
+    {
+      "id": "dynamic-headlight-leveling-202638513-detail",
+      "title": "Dynamic Headlight Leveling",
+      "type": "official",
+      "description": "Low beams will automatically adjust their aim based on driving conditions and nearby traffic to maximize your visibility while reducing glare for other road users.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.20/2024.20-adaptive-headlight-improvements.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2024.20/dark/2024.20-adaptive-headlight-improvements.png",
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "3",
+        "CT"
+      ],
+      "categories": [
+        "Lighting"
+      ],
+      "primaryCategory": "Lighting",
+      "version": "2026.38.5.13",
+      "releaseDate": "November 13, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.5.13/release-notes"
+    },
+    {
+      "id": "automatic-collision-evasion-202638513-detail",
+      "title": "Automatic Collision Evasion",
+      "type": "official",
+      "description": "Automatic Collision Evasion activates Full Self-Driving (Supervised) to try to keep your vehicle safe and then continue driving. It can engage while you are driving manually and detects that you are not sufficiently attentive to the road (for example, reaching toward the back seat), or that Full Self-Driving (Supervised) may have been unintentionally disengaged. See your Owner's Manual for more details.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.27/automatic-collision-evasion.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.27/dark/automatic-collision-evasion.png",
+      "links": [
+        {
+          "title": "More Details",
+          "url": "https://www.notateslaapp.com/news/4646/tesla-adds-fsd-automatic-collision-evasion-for-manual-drives"
+        }
+      ],
+      "availability": "Available in the US",
+      "models": [
+        "3",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.38.5.13",
+      "releaseDate": "November 13, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.5.13/release-notes"
+    },
+    {
+      "id": "fsd-supervised-v14313-202638513-detail",
+      "title": "FSD (Supervised) v14.3.13",
+      "type": "official",
+      "description": "Full Self-Driving (Supervised) v14.3.13 includes: - Upgraded the Reinforcement Learning (RL) stage of training the FSD neural network, resulting in improvements in a wide variety of driving scenarios. - Upgraded the neural network vision encoder, improving understanding in rare and low-visibility scenarios, strengthening 3D geometry understanding, and expanding traffic sign understanding. - Rewrote the AI compiler and runtime from the ground up with MLIR, resulting in 20% faster reaction time and improving model iteration speed. - Mitigated unnecessary lane biasing and minor tailgating behaviors. - Increased decisiveness of parking spot selection and maneuvering. - Improved parking location pin prediction, now shown on a map with a P icon. - Enhanced response to emergency vehicles, school buses, right-of-way violators, and other rare vehicles. - Improved handling of small animals by focusing RL training on harder examples and adding rewards for better proactive safety. - Improved traffic light handling at complex intersections with compound lights, curved roads, and yellow light stopping — driven by training on hard RL examples sourced from the Tesla fleet. - Improved handling for rare and unusual objects extending, hanging, or leaning into the vehicle path by sourcing infrequent events from the fleet. - Improved handling of temporary system degradations by maintaining control and automatically recovering without driver intervention, reducing unnecessary disengagements. - Improved driver monitoring system sensitivity with better eye gaze tracking, eye wear handling, and higher accuracy in variable lighting conditions. - Unified the model between Actually Smart Summon, FSD, and Robotaxi for more capable and reliable behavior. - Help Tesla improve Self-Driving by selecting an intervention reason on the main screen after taking over. - You can now see distance traveled in FSD (Supervised) without an intervention. The Self-Driving App will also show your longest intervention-free streak. - Parking options now display on the map when arriving at your destination. Upcoming Improvements: - Expand reasoning to all behaviors beyond destination handling. - Add pothole avoidance.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available in the US",
+      "models": [
+        "3",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.38.5.13",
+      "releaseDate": "November 13, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.5.13/release-notes"
+    },
+    {
+      "id": "full-self-driving-supervised-202638513-detail",
+      "title": "Full Self-Driving (Supervised)",
+      "type": "official",
+      "description": "Under your supervision, Full Self-Driving (Supervised) can drive your Tesla almost anywhere. It will start from a parked position, make lane changes, select forks to follow your navigation route, navigate around other vehicles and objects, make left and right turns and park at your destination. You and anyone you authorize must use additional caution and remain attentive. It does not make your vehicle autonomous. Do not become complacent. Full Self-Driving (Supervised) is enabled on your vehicle. To use the feature, press the Start Self-Driving button on the UI, or press the right scroll wheel button once. You can disable Full Self-Driving (Supervised) in Autopilot Settings.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-full-self-driving-supervised.png",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available in the US",
+      "models": [
+        "3",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.38.5.13",
+      "releaseDate": "November 13, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.5.13/release-notes"
+    },
+    {
+      "id": "fsd-supervised-v143-lite-202638513-detail",
+      "title": "FSD (Supervised) v14.3 Lite",
+      "type": "official",
+      "description": "FSD (Supervised) v14.3 Lite includes: - Distilled the intelligence from HW4 V14 into HW3. This allows HW3 to directly learn how to handle scenarios using HW4 V14 as a guide. This process unlocks the improvements that have been made to HW4 including Reinforcement Learning (RL) and offline models for HW3. - Improved both proactive and reactive responsiveness across a wide variety of categories including navigation handling, merges and forks, pedestrian interactions, traffic lights, and vehicle cut-in scenarios. - Improved general comfort in nominal scenarios through fewer false slowdowns, smoother steering and more consistent lane centering. - Introduced parking, unparking, and reversing capabilities. - Added Arrival Options for you to select where FSD should pull over or park: in a Parking Lot, on the Street, in a Driveway. - Speed Profiles are now available at all times, to further customize driving style preference.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.20.5/2026.20.5-fsd-supervised-v14-lite.png",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available in the US",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.38.5.13",
+      "releaseDate": "November 13, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.5.13/release-notes"
+    },
+    {
+      "id": "start-self-driving-from-park-202638513-detail",
+      "title": "Start Self-Driving from Park",
+      "type": "official",
+      "description": "A button will appear on the screen when driver requirements are met. Driver requirements include (but are not limited to): - Driver is seated in driver's seat - Driver is buckled - Cabin Camera is unobstructed Brake Confirm requires the driver to press and release the brake pedal before FSD (Supervised) can be activated. When Brake Confirm is disabled, pressing the button will allow Self-Driving to apply the brakes and engage FSD (Supervised). If driver detection requirements are not met or if FSD (Supervised) does not detect a driver, you will be required to press and release the brake pedal to confirm. You can enable Brake Confirm in Self-Driving > Brake Confirm. This feature does not make your vehicle autonomous and you must remain attentive and be ready to take over at any time. Only a licensed driver authorized to operate the vehicle should be allowed access to the driver's seat position any time the vehicle is not in Theater or Arcade modes.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.20.5/2026.20.5-start-self-driving-from-park.png",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available in the US",
+      "models": [
+        "3",
+        "Y"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.38.5.13",
+      "releaseDate": "November 13, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.5.13/release-notes"
+    },
+    {
+      "id": "arrival-options-202638513-detail",
+      "title": "Arrival Options",
+      "type": "official",
+      "description": "- You can now select an arrival option such as Parking Lot, Street, Driveway, and Pull Over for Robotaxi-style drop offs. - Your preferences for arrival options and preferred parking positions are persisted for each destination.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.20.5/2026.20.5-arrival-options.png",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available in the US",
+      "models": [
+        "3",
+        "Y"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.38.5.13",
+      "releaseDate": "November 13, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.5.13/release-notes"
+    },
+    {
+      "id": "speed-profiles-202638513-detail",
+      "title": "Speed Profiles",
+      "type": "official",
+      "description": "FSD (Supervised) will now determine the appropriate speed based on a mix of driver profile, speed limit, and surrounding traffic. - Introduced new Speed Profile SLOTH, which comes with lower speeds & more conservative lane selection than CHILL. - Driver profile now has a stronger impact on behavior. The more assertive the profile, the higher the max speed. - Right scroll-wheel up/down now adjusts Speed Profile setting rather than your precise max speed offset selection in mph/kph.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.20.5/2026.20.5-speed-profiles.png",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available in the US",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.38.5.13",
+      "releaseDate": "November 13, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.5.13/release-notes"
+    },
+    {
+      "id": "ui-improvements-202638513-detail",
+      "title": "UI Improvements",
+      "type": "official",
+      "description": "Adjust settings like the Speed Profile and Arrival Options directly from the Self-Driving visualization on the center display.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.20.5/2026.20.5-ui-improvements.png",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available in the US",
+      "models": [
+        "3",
+        "Y"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.38.5.13",
+      "releaseDate": "November 13, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.5.13/release-notes"
+    },
+    {
+      "id": "security-improvements-202638513-detail",
+      "title": "Security Improvements",
+      "type": "official",
+      "description": "This update includes important security fixes and improvements.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/security-improvements.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.26/dark/security-improvements.png",
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Security"
+      ],
+      "primaryCategory": "Security",
+      "version": "2026.38.5.13",
+      "releaseDate": "November 13, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.5.13/release-notes"
+    },
+    {
+      "id": "fsd-streaks-202638513-detail",
+      "title": "FSD Streaks",
+      "type": "undocumented",
+      "description": "Tesla has added FSD Streaks support to the legacy Model S and Model X with this FSD update. Note : This applies to legacy Model S/X vehicles with Intel and HW3.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-14-3-4-streak-celebrations.webp/3fc24c21b4b60ca541155b0cee40fcaa/fsd-14-3-4-streak-celebrations.jpg",
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Video and Details",
+          "url": "https://www.notateslaapp.com/news/4293/tesla-adds-fsd-streak-celebrations-in-fsd-v1434"
+        }
+      ],
+      "availability": null,
+      "models": [],
+      "categories": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.38.5.13",
+      "releaseDate": "November 13, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.5.13/release-notes"
+    },
+    {
+      "id": "model-y-l-badge-animation-202638513-detail",
+      "title": "Model Y L Badge Animation",
+      "type": "undocumented",
+      "description": "The Launch Series badge animation has been added to the Model Y L with this update. Simply tap it to see the badge animate.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2026/launch-series-badge-animation.webp/941e0f28328302ba443f18d3eb175721/launch-series-badge-animation.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [],
+      "categories": [
+        "UI / Visualization"
+      ],
+      "primaryCategory": "UI / Visualization",
+      "version": "2026.38.5.13",
+      "releaseDate": "November 13, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.5.13/release-notes"
+    },
+    {
+      "id": "grok-no-longer-in-beta-202638513-detail",
+      "title": "Grok No Longer in Beta",
+      "type": "undocumented",
+      "description": "With this update, Tesla has removed the beta label from Grok.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2025/grok-ui-3.webp/bf6c99cdc1d0b627d04ddf1ba8b580ef/grok-ui-3.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Voice & AI"
+      ],
+      "primaryCategory": "Voice & AI",
+      "version": "2026.38.5.13",
+      "releaseDate": "November 13, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.5.13/release-notes"
+    },
+    {
+      "id": "service-mode-improvements-202638513-detail",
+      "title": "Service Mode Improvements",
+      "type": "undocumented",
+      "description": "Service Mode Update - Quick Touchscreen Language Switch Servicing a vehicle set to an unfamiliar language has now become easier. When entering Service Mode, the customer's original language setting is saved. If the touchscreen language does not match the default language of the vehicle's current country location, a Change Touchscreen Language button (always shown in English) appears at the top of the Service panel and allows users to select a preferred language. Then, upon exiting Service Mode, the customer's original language setting is automatically restored. Note that touchscreen language changes trigger a restart of the user interface. Models : All High Voltage Panel Update - Isolation Alert Popup The High Voltage panel now displays status information for each isolation health dot via a popup. To view the popup, tap the health dot for the component. If the component is healthy, it will show the current isolation resistance values. If the component is unhealthy, it will display the current isolation resistance values and any isolation alerts or Diagnostic Trouble Codes (DTCs) that are present on the vehicle. Models : All",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2023/service-mode-6.jpg/199d11978e61b090ac54d0bc04b7c177/service-mode-6.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Service / Support"
+      ],
+      "primaryCategory": "Service / Support",
+      "version": "2026.38.5.13",
+      "releaseDate": "November 13, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.5.13/release-notes"
+    },
+    {
+      "id": "halloween-mode-wraps-license-plates-for-intel-202638513-detail",
+      "title": "Halloween Mode Wraps & License Plates for Intel",
+      "type": "undocumented",
+      "description": "While Tesla’s Halloween Mode is not available on Intel vehicles , these vehicles do still receive the same Halloween Mode wraps and license plates that are available on AMD vehicles. Unfortunately, the rest of the features, including, the Halloween visualizations, Trick or Treat Mode and the lock sound are not available on Intel vehicles.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/tesla-screen-license-plate.webp/40a7d1e572b2ed8a214f0a2856208f06/tesla-screen-license-plate.jpg",
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Features of Halloween Mode",
+          "url": "https://www.notateslaapp.com/news/4780/everything-in-teslas-halloween-mode-photos-videos"
+        }
+      ],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Security"
+      ],
+      "primaryCategory": "Security",
+      "version": "2026.38.5.13",
+      "releaseDate": "November 13, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.5.13/release-notes"
+    },
+    {
       "id": "fsd-streaks-202638100-detail",
       "title": "FSD Streaks",
       "type": "undocumented",
@@ -595705,7 +596580,7 @@
     "scrapedAt": "2026-08-14T14:31:42.343Z"
   },
   "electrekEnrichment": {
-    "enrichedAt": "2026-11-14T06:39:24.496Z",
+    "enrichedAt": "2026-11-14T18:28:55.666Z",
     "enrichedCount": 81
   },
   "model3Historical": {
@@ -595810,6 +596685,5 @@
   },
   "electrekSxDedupe": {
     "paired": 52
-  },
-  "contentUnchanged": true
+  }
 }
