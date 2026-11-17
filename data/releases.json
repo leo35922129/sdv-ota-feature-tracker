@@ -1,6 +1,6 @@
 {
   "source": "https://www.notateslaapp.com/software-updates/history/",
-  "scrapedAt": "2026-11-17T08:39:58.706Z",
+  "scrapedAt": "2026-11-17T17:58:49.759Z",
   "categories": [
     "Vehicle OS",
     "Autopilot / Full Self-Driving",
@@ -31,8 +31,8 @@
     "Scenario / Mode"
   ],
   "categoryCounts": {
-    "Vehicle OS": 1681,
-    "Autopilot / Full Self-Driving": 1867,
+    "Vehicle OS": 1680,
+    "Autopilot / Full Self-Driving": 1870,
     "Mobile App": 635,
     "Profile": 65,
     "Range / Charging / Energy": 781,
@@ -42,26 +42,140 @@
     "Connectivity": 143,
     "Media / Entertainment": 890,
     "Audio": 810,
-    "Map / Navigation / Trip / Route": 1352,
+    "Map / Navigation / Trip / Route": 1355,
     "Camera": 1692,
     "Lighting": 192,
     "Display": 181,
     "Performance": 102,
     "Phone Call": 72,
-    "Security": 496,
+    "Security": 497,
     "Voice & AI": 311,
     "Trailering": 63,
     "Gaming": 444,
     "Productivity": 80,
-    "Safety / Emergency": 642,
+    "Safety / Emergency": 643,
     "Service / Support": 217,
     "UI / Visualization": 575,
     "Onboarding / Tutorial": 110,
     "Scenario / Mode": 185
   },
   "releaseCount": 1097,
-  "featureCount": 13193,
+  "featureCount": 13197,
   "releases": [
+    {
+      "version": "2026.44.1",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.44.1/release-notes",
+      "releaseDate": "November 17, 2026",
+      "features": [
+        {
+          "id": "charger-network-view-2026441-detail",
+          "title": "Charger Network View",
+          "type": "official",
+          "description": "Charger pins on the map now cluster at normal zoom levels, showing network coverage as you zoom out.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/charger-network-view.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/dark/charger-network-view.png",
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        },
+        {
+          "id": "automatic-collision-evasion-2026441-detail",
+          "title": "Automatic Collision Evasion",
+          "type": "official",
+          "description": "Automatic Collision Evasion activates Full Self-Driving (Supervised) to try to keep your vehicle safe and then continue driving. It can engage while you are driving manually and detects that you are not sufficiently attentive to the road (for example, reaching toward the back seat), or that Full Self-Driving (Supervised) may have been unintentionally disengaged. See your Owner's Manual for more details.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.27/automatic-collision-evasion.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.27/dark/automatic-collision-evasion.png",
+          "links": [
+            {
+              "title": "More Details",
+              "url": "https://www.notateslaapp.com/news/4646/tesla-adds-fsd-automatic-collision-evasion-for-manual-drives"
+            }
+          ],
+          "availability": "Available in the US",
+          "models": [
+            "3",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Safety / Emergency"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "fsd-supervised-v14313-2026441-detail",
+          "title": "FSD (Supervised) v14.3.13",
+          "type": "official",
+          "description": "Full Self-Driving (Supervised) v14.3.13 includes: - Upgraded the Reinforcement Learning (RL) stage of training the FSD neural network, resulting in improvements in a wide variety of driving scenarios. - Upgraded the neural network vision encoder, improving understanding in rare and low-visibility scenarios, strengthening 3D geometry understanding, and expanding traffic sign understanding. - Rewrote the AI compiler and runtime from the ground up with MLIR, resulting in 20% faster reaction time and improving model iteration speed. - Mitigated unnecessary lane biasing and minor tailgating behaviors. - Increased decisiveness of parking spot selection and maneuvering. - Improved parking location pin prediction, now shown on a map with a P icon. - Enhanced response to emergency vehicles, school buses, right-of-way violators, and other rare vehicles. - Improved handling of small animals by focusing RL training on harder examples and adding rewards for better proactive safety. - Improved traffic light handling at complex intersections with compound lights, curved roads, and yellow light stopping — driven by training on hard RL examples sourced from the Tesla fleet. - Improved handling for rare and unusual objects extending, hanging, or leaning into the vehicle path by sourcing infrequent events from the fleet. - Improved handling of temporary system degradations by maintaining control and automatically recovering without driver intervention, reducing unnecessary disengagements. - Improved driver monitoring system sensitivity with better eye gaze tracking, eye wear handling, and higher accuracy in variable lighting conditions. - Unified the model between Actually Smart Summon, FSD, and Robotaxi for more capable and reliable behavior. - Help Tesla improve Self-Driving by selecting an intervention reason on the main screen after taking over. - You can now see distance traveled in FSD (Supervised) without an intervention. The Self-Driving App will also show your longest intervention-free streak. - Parking options now display on the map when arriving at your destination. Upcoming Improvements: - Expand reasoning to all behaviors beyond destination handling. - Add pothole avoidance.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available in the US",
+          "models": [
+            "3",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "full-self-driving-supervised-2026441-detail",
+          "title": "Full Self-Driving (Supervised)",
+          "type": "official",
+          "description": "Under your supervision, Full Self-Driving (Supervised) can drive your Tesla almost anywhere. It will start from a parked position, make lane changes, select forks to follow your navigation route, navigate around other vehicles and objects, make left and right turns and park at your destination. You and anyone you authorize must use additional caution and remain attentive. It does not make your vehicle autonomous. Do not become complacent. Full Self-Driving (Supervised) is enabled on your vehicle. To use the feature, press the Start Self-Driving button on the UI, or press the right scroll wheel button once. You can disable Full Self-Driving (Supervised) in Autopilot Settings.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-full-self-driving-supervised.png",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available in the US",
+          "models": [
+            "3",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "security-improvements-2026441-detail",
+          "title": "Security Improvements",
+          "type": "official",
+          "description": "This update includes important security fixes and improvements.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/security-improvements.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/dark/security-improvements.png",
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Security"
+          ],
+          "primaryCategory": "Security"
+        }
+      ]
+    },
     {
       "version": "2026.38",
       "url": "https://www.notateslaapp.com/software-updates/version/2026.38/release-notes",
@@ -610,7 +724,7 @@
           "id": "fsd-supervised-v14313-20263845-detail",
           "title": "FSD (Supervised) v14.3.13",
           "type": "official",
-          "description": "Full Self-Driving (Supervised) v14.3.13 includes: - Upgraded the Reinforcement Learning (RL) stage of training the FSD neural network, resulting in improvements in a wide variety of driving scenarios. - Upgraded the neural network vision encoder, improving understanding in rare and low-visibility scenarios, strengthening 3D geometry understanding, and expanding traffic sign understanding. - Rewrote the AI compiler and runtime from the ground up with MLIR, resulting in 20% faster reaction time and improving model iteration speed. - Mitigated unnecessary lane biasing and minor tailgating behaviors. - Increased decisiveness of parking spot selection and maneuvering. - Improved parking location pin prediction, now shown on a map with a P icon. - Enhanced response to emergency vehicles, school buses, right-of-way violators, and other rare vehicles. - Improved handling of small animals by focusing RL training on harder examples and adding rewards for better proactive safety. - Improved traffic light handling at complex intersections with compound lights, curved roads, and yellow light stopping — driven by training on hard RL examples sourced from the Tesla fleet. - Improved handling for rare and unusual objects extending, hanging, or leaning into the vehicle path by sourcing infrequent events from the fleet. - Improved handling of temporary system degradations by maintaining control and automatically recovering without driver intervention, reducing unnecessary disengagements. - Improved driver monitoring system sensitivity with better eye gaze tracking, eye wear handling, and higher accuracy in variable lighting conditions. - Unified the model between Actually Smart Summon, FSD, and Robotaxi for more capable and reliable behavior. - Help Tesla improve Self-Driving by selecting an intervention reason on the main screen after taking over. - You can now see distance traveled in FSD (Supervised) without an intervention. The Self-Driving App will also show your longest intervention-free streak. - Parking options now display on the map when arriving at your destination. Upcoming Improvements: - Expand reasoning to all behaviors beyond destination handling. - Add pothole avoidance.",
+          "description": "Full Self-Driving (Supervised) v14.3.13 includes: - Upgraded the Reinforcement Learning (RL) stage of training the FSD neural network, resulting in improvements in a wide variety of driving scenarios. - Upgraded the neural network vision encoder, improving understanding in rare and low-visibility scenarios, strengthening 3D geometry understanding, and expanding traffic sign understanding. - Rewrote the AI compiler and runtime from the ground up with MLIR, resulting in 20% faster reaction time and improving model iteration speed. - Mitigated unnecessary lane biasing and minor tailgating behaviors. - Increased decisiveness of parking spot selection and maneuvering. - Improved parking location pin prediction, now shown on a map with a P icon. - Enhanced response to emergency vehicles, school buses, right-of-way violators, and other rare vehicles. - Improved handling of small animals by focusing RL training on harder examples and adding rewards for better proactive safety. - Improved traffic light handling at complex intersections with compound lights, curved roads, and yellow light stopping — driven by training on hard RL examples sourced from the Tesla fleet. - Improved handling for rare and unusual objects extending, hanging, or leaning into the vehicle path by sourcing infrequent events from the fleet. - Improved handling of temporary system degradations by maintaining control and automatically recovering without driver intervention, reducing unnecessary disengagements. - Improved driver monitoring system sensitivity with better eye gaze tracking, eye wear handling, and higher accuracy in variable lighting conditions. - Unified the model between Actually Smart Summon, FSD, and Robotaxi for more capable and reliable behavior. (New in FSD v14.3.2 for non-Cybertrucks, New in FSD v14.3.4 for the Cybertruck) Actually Smart Summon max speed is now increased to 8mph (13km/h). (Added in FSD v14.3.3, not available on Cybertruck) - Help Tesla improve Self-Driving by selecting an intervention reason on the main screen after taking over. (New in FSD v14.3.2) You can now see distance traveled in FSD (Supervised) without an intervention. The Self-Driving App will also show your longest intervention-free streak. (Added in FSD v14.3.3) - Parking options now display on the map when arriving at your destination. (Added in FSD v14.3.4) Upcoming Improvements: - Expand reasoning to all behaviors beyond destination handling. - Add pothole avoidance.",
           "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
           "imageDark": null,
           "links": [],
@@ -82496,33 +82610,6 @@
           "primaryCategory": "Autopilot / Full Self-Driving",
           "source": "tesla-model-s-x-2012-2019",
           "canonicalFeatureKey": "tesla-ota-smart-summon-beta-regional-expansion"
-        }
-      ]
-    },
-    {
-      "version": "2026.44.1",
-      "url": "https://www.notateslaapp.com/software-updates/version/2026.44.1/release-notes",
-      "releaseDate": "November 17, 2026",
-      "features": [
-        {
-          "id": "release-notes-not-available-2026.44.1",
-          "title": "Release notes are not available.",
-          "type": "official",
-          "description": "Please check back shortly. If you have received 2026.44.1, you can share release notes with us below.",
-          "image": null,
-          "imageDark": null,
-          "links": [
-            {
-              "title": "Share Release Notes",
-              "url": "https://www.notateslaapp.com/share-release?version=2026.44.1"
-            }
-          ],
-          "availability": null,
-          "models": [],
-          "categories": [
-            "Vehicle OS"
-          ],
-          "primaryCategory": "Vehicle OS"
         }
       ]
     },
@@ -282148,6 +282235,128 @@
   ],
   "features": [
     {
+      "id": "charger-network-view-2026441-detail",
+      "title": "Charger Network View",
+      "type": "official",
+      "description": "Charger pins on the map now cluster at normal zoom levels, showing network coverage as you zoom out.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/charger-network-view.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/dark/charger-network-view.png",
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "2026.44.1",
+      "releaseDate": "November 17, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.1/release-notes"
+    },
+    {
+      "id": "automatic-collision-evasion-2026441-detail",
+      "title": "Automatic Collision Evasion",
+      "type": "official",
+      "description": "Automatic Collision Evasion activates Full Self-Driving (Supervised) to try to keep your vehicle safe and then continue driving. It can engage while you are driving manually and detects that you are not sufficiently attentive to the road (for example, reaching toward the back seat), or that Full Self-Driving (Supervised) may have been unintentionally disengaged. See your Owner's Manual for more details.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.27/automatic-collision-evasion.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.27/dark/automatic-collision-evasion.png",
+      "links": [
+        {
+          "title": "More Details",
+          "url": "https://www.notateslaapp.com/news/4646/tesla-adds-fsd-automatic-collision-evasion-for-manual-drives"
+        }
+      ],
+      "availability": "Available in the US",
+      "models": [
+        "3",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.44.1",
+      "releaseDate": "November 17, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.1/release-notes"
+    },
+    {
+      "id": "fsd-supervised-v14313-2026441-detail",
+      "title": "FSD (Supervised) v14.3.13",
+      "type": "official",
+      "description": "Full Self-Driving (Supervised) v14.3.13 includes: - Upgraded the Reinforcement Learning (RL) stage of training the FSD neural network, resulting in improvements in a wide variety of driving scenarios. - Upgraded the neural network vision encoder, improving understanding in rare and low-visibility scenarios, strengthening 3D geometry understanding, and expanding traffic sign understanding. - Rewrote the AI compiler and runtime from the ground up with MLIR, resulting in 20% faster reaction time and improving model iteration speed. - Mitigated unnecessary lane biasing and minor tailgating behaviors. - Increased decisiveness of parking spot selection and maneuvering. - Improved parking location pin prediction, now shown on a map with a P icon. - Enhanced response to emergency vehicles, school buses, right-of-way violators, and other rare vehicles. - Improved handling of small animals by focusing RL training on harder examples and adding rewards for better proactive safety. - Improved traffic light handling at complex intersections with compound lights, curved roads, and yellow light stopping — driven by training on hard RL examples sourced from the Tesla fleet. - Improved handling for rare and unusual objects extending, hanging, or leaning into the vehicle path by sourcing infrequent events from the fleet. - Improved handling of temporary system degradations by maintaining control and automatically recovering without driver intervention, reducing unnecessary disengagements. - Improved driver monitoring system sensitivity with better eye gaze tracking, eye wear handling, and higher accuracy in variable lighting conditions. - Unified the model between Actually Smart Summon, FSD, and Robotaxi for more capable and reliable behavior. - Help Tesla improve Self-Driving by selecting an intervention reason on the main screen after taking over. - You can now see distance traveled in FSD (Supervised) without an intervention. The Self-Driving App will also show your longest intervention-free streak. - Parking options now display on the map when arriving at your destination. Upcoming Improvements: - Expand reasoning to all behaviors beyond destination handling. - Add pothole avoidance.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available in the US",
+      "models": [
+        "3",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.44.1",
+      "releaseDate": "November 17, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.1/release-notes"
+    },
+    {
+      "id": "full-self-driving-supervised-2026441-detail",
+      "title": "Full Self-Driving (Supervised)",
+      "type": "official",
+      "description": "Under your supervision, Full Self-Driving (Supervised) can drive your Tesla almost anywhere. It will start from a parked position, make lane changes, select forks to follow your navigation route, navigate around other vehicles and objects, make left and right turns and park at your destination. You and anyone you authorize must use additional caution and remain attentive. It does not make your vehicle autonomous. Do not become complacent. Full Self-Driving (Supervised) is enabled on your vehicle. To use the feature, press the Start Self-Driving button on the UI, or press the right scroll wheel button once. You can disable Full Self-Driving (Supervised) in Autopilot Settings.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-full-self-driving-supervised.png",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available in the US",
+      "models": [
+        "3",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.44.1",
+      "releaseDate": "November 17, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.1/release-notes"
+    },
+    {
+      "id": "security-improvements-2026441-detail",
+      "title": "Security Improvements",
+      "type": "official",
+      "description": "This update includes important security fixes and improvements.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/security-improvements.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/dark/security-improvements.png",
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Security"
+      ],
+      "primaryCategory": "Security",
+      "version": "2026.44.1",
+      "releaseDate": "November 17, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.1/release-notes"
+    },
+    {
       "id": "visual-updates-202638-detail",
       "title": "Visual Updates",
       "type": "official",
@@ -282754,7 +282963,7 @@
       "id": "fsd-supervised-v14313-20263845-detail",
       "title": "FSD (Supervised) v14.3.13",
       "type": "official",
-      "description": "Full Self-Driving (Supervised) v14.3.13 includes: - Upgraded the Reinforcement Learning (RL) stage of training the FSD neural network, resulting in improvements in a wide variety of driving scenarios. - Upgraded the neural network vision encoder, improving understanding in rare and low-visibility scenarios, strengthening 3D geometry understanding, and expanding traffic sign understanding. - Rewrote the AI compiler and runtime from the ground up with MLIR, resulting in 20% faster reaction time and improving model iteration speed. - Mitigated unnecessary lane biasing and minor tailgating behaviors. - Increased decisiveness of parking spot selection and maneuvering. - Improved parking location pin prediction, now shown on a map with a P icon. - Enhanced response to emergency vehicles, school buses, right-of-way violators, and other rare vehicles. - Improved handling of small animals by focusing RL training on harder examples and adding rewards for better proactive safety. - Improved traffic light handling at complex intersections with compound lights, curved roads, and yellow light stopping — driven by training on hard RL examples sourced from the Tesla fleet. - Improved handling for rare and unusual objects extending, hanging, or leaning into the vehicle path by sourcing infrequent events from the fleet. - Improved handling of temporary system degradations by maintaining control and automatically recovering without driver intervention, reducing unnecessary disengagements. - Improved driver monitoring system sensitivity with better eye gaze tracking, eye wear handling, and higher accuracy in variable lighting conditions. - Unified the model between Actually Smart Summon, FSD, and Robotaxi for more capable and reliable behavior. - Help Tesla improve Self-Driving by selecting an intervention reason on the main screen after taking over. - You can now see distance traveled in FSD (Supervised) without an intervention. The Self-Driving App will also show your longest intervention-free streak. - Parking options now display on the map when arriving at your destination. Upcoming Improvements: - Expand reasoning to all behaviors beyond destination handling. - Add pothole avoidance.",
+      "description": "Full Self-Driving (Supervised) v14.3.13 includes: - Upgraded the Reinforcement Learning (RL) stage of training the FSD neural network, resulting in improvements in a wide variety of driving scenarios. - Upgraded the neural network vision encoder, improving understanding in rare and low-visibility scenarios, strengthening 3D geometry understanding, and expanding traffic sign understanding. - Rewrote the AI compiler and runtime from the ground up with MLIR, resulting in 20% faster reaction time and improving model iteration speed. - Mitigated unnecessary lane biasing and minor tailgating behaviors. - Increased decisiveness of parking spot selection and maneuvering. - Improved parking location pin prediction, now shown on a map with a P icon. - Enhanced response to emergency vehicles, school buses, right-of-way violators, and other rare vehicles. - Improved handling of small animals by focusing RL training on harder examples and adding rewards for better proactive safety. - Improved traffic light handling at complex intersections with compound lights, curved roads, and yellow light stopping — driven by training on hard RL examples sourced from the Tesla fleet. - Improved handling for rare and unusual objects extending, hanging, or leaning into the vehicle path by sourcing infrequent events from the fleet. - Improved handling of temporary system degradations by maintaining control and automatically recovering without driver intervention, reducing unnecessary disengagements. - Improved driver monitoring system sensitivity with better eye gaze tracking, eye wear handling, and higher accuracy in variable lighting conditions. - Unified the model between Actually Smart Summon, FSD, and Robotaxi for more capable and reliable behavior. (New in FSD v14.3.2 for non-Cybertrucks, New in FSD v14.3.4 for the Cybertruck) Actually Smart Summon max speed is now increased to 8mph (13km/h). (Added in FSD v14.3.3, not available on Cybertruck) - Help Tesla improve Self-Driving by selecting an intervention reason on the main screen after taking over. (New in FSD v14.3.2) You can now see distance traveled in FSD (Supervised) without an intervention. The Self-Driving App will also show your longest intervention-free streak. (Added in FSD v14.3.3) - Parking options now display on the map when arriving at your destination. (Added in FSD v14.3.4) Upcoming Improvements: - Expand reasoning to all behaviors beyond destination handling. - Add pothole avoidance.",
       "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
       "imageDark": null,
       "links": [],
@@ -373978,29 +374187,6 @@
       "version": "2019.40.50.1",
       "releaseDate": "December 24, 2019",
       "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.40.50.1/release-notes"
-    },
-    {
-      "id": "release-notes-not-available-2026.44.1",
-      "title": "Release notes are not available.",
-      "type": "official",
-      "description": "Please check back shortly. If you have received 2026.44.1, you can share release notes with us below.",
-      "image": null,
-      "imageDark": null,
-      "links": [
-        {
-          "title": "Share Release Notes",
-          "url": "https://www.notateslaapp.com/share-release?version=2026.44.1"
-        }
-      ],
-      "availability": null,
-      "models": [],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2026.44.1",
-      "releaseDate": "November 17, 2026",
-      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.1/release-notes"
     },
     {
       "id": "halloween-mode-202638513-detail",
@@ -597148,7 +597334,7 @@
     "scrapedAt": "2026-08-14T14:31:42.343Z"
   },
   "electrekEnrichment": {
-    "enrichedAt": "2026-11-17T08:39:58.928Z",
+    "enrichedAt": "2026-11-17T17:58:49.939Z",
     "enrichedCount": 81
   },
   "model3Historical": {
