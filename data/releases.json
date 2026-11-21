@@ -1,6 +1,6 @@
 {
   "source": "https://www.notateslaapp.com/software-updates/history/",
-  "scrapedAt": "2026-11-21T00:28:19.609Z",
+  "scrapedAt": "2026-11-21T21:18:16.831Z",
   "categories": [
     "Vehicle OS",
     "Autopilot / Full Self-Driving",
@@ -49,7 +49,7 @@
     "Performance": 102,
     "Phone Call": 72,
     "Security": 497,
-    "Voice & AI": 311,
+    "Voice & AI": 312,
     "Trailering": 64,
     "Gaming": 444,
     "Productivity": 80,
@@ -60,7 +60,7 @@
     "Scenario / Mode": 185
   },
   "releaseCount": 1097,
-  "featureCount": 13205,
+  "featureCount": 13206,
   "releases": [
     {
       "version": "2026.44.1",
@@ -314,6 +314,32 @@
             "Range / Charging / Energy"
           ],
           "primaryCategory": "Map / Navigation / Trip / Route"
+        },
+        {
+          "id": "more-features-coming-soon-2026441-detail",
+          "title": "More Features Coming Soon",
+          "type": "undocumented",
+          "description": "This update includes several hidden changes that hint at upcoming features. One change is receiving notifications if a Supercharger you’re navigating to suddenly becomes busier or less busy, and the price changes. Drivers will receive an in-vehicle alert saying the Supercharger price has decreased or increased. There are also upcoming Grok changes, with one suggesting that Grok’s wake word may be improved with an on-vehicle model. Vehicle navigation may soon also offer a new option to prefer major roads and avoid smaller or unpaved routes.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-update/automatic-navigation.webp/ee97b0d05cb4c87a85cc26e360de9265/automatic-navigation.jpg",
+          "imageDark": null,
+          "links": [
+            {
+              "title": "More Details",
+              "url": "https://www.notateslaapp.com/news/5025/tesla-update-2026441-is-hiding-a-new-navigation-option-supercharger-notifications-and-grok-improvements"
+            }
+          ],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Voice & AI"
+          ],
+          "primaryCategory": "Voice & AI"
         }
       ]
     },
@@ -282658,6 +282684,35 @@
         "Range / Charging / Energy"
       ],
       "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "2026.44.1",
+      "releaseDate": "November 17, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.1/release-notes"
+    },
+    {
+      "id": "more-features-coming-soon-2026441-detail",
+      "title": "More Features Coming Soon",
+      "type": "undocumented",
+      "description": "This update includes several hidden changes that hint at upcoming features. One change is receiving notifications if a Supercharger you’re navigating to suddenly becomes busier or less busy, and the price changes. Drivers will receive an in-vehicle alert saying the Supercharger price has decreased or increased. There are also upcoming Grok changes, with one suggesting that Grok’s wake word may be improved with an on-vehicle model. Vehicle navigation may soon also offer a new option to prefer major roads and avoid smaller or unpaved routes.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-update/automatic-navigation.webp/ee97b0d05cb4c87a85cc26e360de9265/automatic-navigation.jpg",
+      "imageDark": null,
+      "links": [
+        {
+          "title": "More Details",
+          "url": "https://www.notateslaapp.com/news/5025/tesla-update-2026441-is-hiding-a-new-navigation-option-supercharger-notifications-and-grok-improvements"
+        }
+      ],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Voice & AI"
+      ],
+      "primaryCategory": "Voice & AI",
       "version": "2026.44.1",
       "releaseDate": "November 17, 2026",
       "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.1/release-notes"
@@ -597640,7 +597695,7 @@
     "scrapedAt": "2026-08-14T14:31:42.343Z"
   },
   "electrekEnrichment": {
-    "enrichedAt": "2026-11-21T00:28:19.864Z",
+    "enrichedAt": "2026-11-21T21:18:17.042Z",
     "enrichedCount": 81
   },
   "model3Historical": {
