@@ -1,6 +1,6 @@
 {
   "source": "https://www.notateslaapp.com/software-updates/history/",
-  "scrapedAt": "2026-11-19T21:55:00.794Z",
+  "scrapedAt": "2026-11-21T00:28:19.609Z",
   "categories": [
     "Vehicle OS",
     "Autopilot / Full Self-Driving",
@@ -32,17 +32,17 @@
   ],
   "categoryCounts": {
     "Vehicle OS": 1680,
-    "Autopilot / Full Self-Driving": 1875,
+    "Autopilot / Full Self-Driving": 1876,
     "Mobile App": 635,
     "Profile": 65,
-    "Range / Charging / Energy": 781,
+    "Range / Charging / Energy": 782,
     "Vehicle Control": 1177,
     "Comfort / Climate": 592,
     "Interior Cabin": 4,
     "Connectivity": 143,
     "Media / Entertainment": 890,
     "Audio": 810,
-    "Map / Navigation / Trip / Route": 1356,
+    "Map / Navigation / Trip / Route": 1357,
     "Camera": 1693,
     "Lighting": 192,
     "Display": 181,
@@ -50,7 +50,7 @@
     "Phone Call": 72,
     "Security": 497,
     "Voice & AI": 311,
-    "Trailering": 63,
+    "Trailering": 64,
     "Gaming": 444,
     "Productivity": 80,
     "Safety / Emergency": 643,
@@ -60,7 +60,7 @@
     "Scenario / Mode": 185
   },
   "releaseCount": 1097,
-  "featureCount": 13202,
+  "featureCount": 13205,
   "releases": [
     {
       "version": "2026.44.1",
@@ -250,6 +250,70 @@
             "Autopilot / Full Self-Driving"
           ],
           "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "service-menu-redesign-2026441-detail",
+          "title": "Service Menu Redesign",
+          "type": "undocumented",
+          "description": "The Controls > Service menu has received a fresh layout. The new layout brings the Request Service and Tow Mode buttons to the forefront, while organizing content into two sections, Health & Maintenance and Actions. Actions holds features such as Car Wash Mode, Wiper Service, Adjust Headlights, and other functions, while Health & Maintenance houses tire PSI, alerts, and recommended service.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2026/service-menu.webp/cd6d75101544661b984a769477cb39a9/service-menu.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Trailering"
+          ],
+          "primaryCategory": "Trailering"
+        },
+        {
+          "id": "si-computer-2026441-detail",
+          "title": "SI Computer",
+          "type": "undocumented",
+          "description": "Tesla has renamed the vehicle’s FSD computer from AI Computer to SI Computer. This shows up in the Controls > Software menu.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2026/si-computer.webp/2389a24737d33d69a35462874f577cc1/si-computer.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "service-mode-improvements-2026441-detail",
+          "title": "Service Mode Improvements",
+          "type": "undocumented",
+          "description": "HV Battery Panel Update - Reset PCS Button A Reset Power Conversion System (PCS) button has been added to the HV Battery panel PCS popup. The button allows users to reset the PCS Electronic Control Unit (ECU) directly from Service Mode instead of searching for the task in Toolbox. Models: Model 3, Model Y, Model S (2021+), Model X (2021+), Cybertruck HV Battery and Charging Panel Update - PCS2 Labeling The HV Battery and Charging panels now correctly display the component label as Power Conversion System (PCS) 2 when a PCS2 bidirectional unit is installed. Previously, vehicles with PCS2 hardware were still labeled as PCS. Models: Model 3, Model Y Interior Lighting Panel Update - Frunk LED Health Indicator The Interior Lighting panel now includes a health indicator for the front trunk (or frunk) LED. When the frunk is open, the indicator shows the LED connection status: green for connected, red for disconnected. A disconnected frunk LED is detected via an undercurrent alert, helping technicians identify when the LED connector has not been plugged back in after servicing the front area of the vehicle. Models: Model 3, Model Y, Model S (2021+), Model X (2021+) Portuguese Language (Beta) Service Mode now supports Portuguese as a language option. Users can select Portuguese from the language drop-down list in Vehicle Info. Portuguese is currently in beta and may contain translation inaccuracies. Models: All vehicles Service Mode Update - Feedback Button (Service Mode Plus) The feedback feature has been updated with a new in-app experience, replacing the previous email and QR code. A Feedback button is now available in the navigation sidebar. Tapping it opens a form where users can select a category (Bug, Improvement, or Translation), enter a description, and optionally place an on-screen marker to highlight the area of concern. Models: All vehicles CAN Viewer Button Removed and Renamed to Signal Viewer (Service Mode Plus) The CAN Viewer button has been removed from the Vehicle Overview page and renamed to Signal Viewer. Signal Viewer is now only accessible from the Tools section in the navigation menu.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2026/service-mode-2026.44.webp/3a751ec82746983c277b5b37314f1e95/service-mode-2026.44.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route",
+            "Range / Charging / Energy"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
         }
       ]
     },
@@ -282521,6 +282585,79 @@
         "Autopilot / Full Self-Driving"
       ],
       "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.44.1",
+      "releaseDate": "November 17, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.1/release-notes"
+    },
+    {
+      "id": "service-menu-redesign-2026441-detail",
+      "title": "Service Menu Redesign",
+      "type": "undocumented",
+      "description": "The Controls > Service menu has received a fresh layout. The new layout brings the Request Service and Tow Mode buttons to the forefront, while organizing content into two sections, Health & Maintenance and Actions. Actions holds features such as Car Wash Mode, Wiper Service, Adjust Headlights, and other functions, while Health & Maintenance houses tire PSI, alerts, and recommended service.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2026/service-menu.webp/cd6d75101544661b984a769477cb39a9/service-menu.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Trailering"
+      ],
+      "primaryCategory": "Trailering",
+      "version": "2026.44.1",
+      "releaseDate": "November 17, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.1/release-notes"
+    },
+    {
+      "id": "si-computer-2026441-detail",
+      "title": "SI Computer",
+      "type": "undocumented",
+      "description": "Tesla has renamed the vehicle’s FSD computer from AI Computer to SI Computer. This shows up in the Controls > Software menu.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2026/si-computer.webp/2389a24737d33d69a35462874f577cc1/si-computer.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.44.1",
+      "releaseDate": "November 17, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.1/release-notes"
+    },
+    {
+      "id": "service-mode-improvements-2026441-detail",
+      "title": "Service Mode Improvements",
+      "type": "undocumented",
+      "description": "HV Battery Panel Update - Reset PCS Button A Reset Power Conversion System (PCS) button has been added to the HV Battery panel PCS popup. The button allows users to reset the PCS Electronic Control Unit (ECU) directly from Service Mode instead of searching for the task in Toolbox. Models: Model 3, Model Y, Model S (2021+), Model X (2021+), Cybertruck HV Battery and Charging Panel Update - PCS2 Labeling The HV Battery and Charging panels now correctly display the component label as Power Conversion System (PCS) 2 when a PCS2 bidirectional unit is installed. Previously, vehicles with PCS2 hardware were still labeled as PCS. Models: Model 3, Model Y Interior Lighting Panel Update - Frunk LED Health Indicator The Interior Lighting panel now includes a health indicator for the front trunk (or frunk) LED. When the frunk is open, the indicator shows the LED connection status: green for connected, red for disconnected. A disconnected frunk LED is detected via an undercurrent alert, helping technicians identify when the LED connector has not been plugged back in after servicing the front area of the vehicle. Models: Model 3, Model Y, Model S (2021+), Model X (2021+) Portuguese Language (Beta) Service Mode now supports Portuguese as a language option. Users can select Portuguese from the language drop-down list in Vehicle Info. Portuguese is currently in beta and may contain translation inaccuracies. Models: All vehicles Service Mode Update - Feedback Button (Service Mode Plus) The feedback feature has been updated with a new in-app experience, replacing the previous email and QR code. A Feedback button is now available in the navigation sidebar. Tapping it opens a form where users can select a category (Bug, Improvement, or Translation), enter a description, and optionally place an on-screen marker to highlight the area of concern. Models: All vehicles CAN Viewer Button Removed and Renamed to Signal Viewer (Service Mode Plus) The CAN Viewer button has been removed from the Vehicle Overview page and renamed to Signal Viewer. Signal Viewer is now only accessible from the Tools section in the navigation menu.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2026/service-mode-2026.44.webp/3a751ec82746983c277b5b37314f1e95/service-mode-2026.44.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
       "version": "2026.44.1",
       "releaseDate": "November 17, 2026",
       "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.1/release-notes"
@@ -597503,7 +597640,7 @@
     "scrapedAt": "2026-08-14T14:31:42.343Z"
   },
   "electrekEnrichment": {
-    "enrichedAt": "2026-11-19T21:55:00.952Z",
+    "enrichedAt": "2026-11-21T00:28:19.864Z",
     "enrichedCount": 81
   },
   "model3Historical": {
