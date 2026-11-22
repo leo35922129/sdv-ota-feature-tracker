@@ -1,6 +1,6 @@
 {
   "source": "https://www.notateslaapp.com/software-updates/history/",
-  "scrapedAt": "2026-11-21T21:18:16.831Z",
+  "scrapedAt": "2026-11-22T01:27:43.359Z",
   "categories": [
     "Vehicle OS",
     "Autopilot / Full Self-Driving",
@@ -32,7 +32,7 @@
   ],
   "categoryCounts": {
     "Vehicle OS": 1680,
-    "Autopilot / Full Self-Driving": 1876,
+    "Autopilot / Full Self-Driving": 1881,
     "Mobile App": 635,
     "Profile": 65,
     "Range / Charging / Energy": 782,
@@ -42,25 +42,25 @@
     "Connectivity": 143,
     "Media / Entertainment": 890,
     "Audio": 810,
-    "Map / Navigation / Trip / Route": 1357,
-    "Camera": 1693,
+    "Map / Navigation / Trip / Route": 1358,
+    "Camera": 1695,
     "Lighting": 192,
     "Display": 181,
     "Performance": 102,
     "Phone Call": 72,
-    "Security": 497,
-    "Voice & AI": 312,
+    "Security": 498,
+    "Voice & AI": 313,
     "Trailering": 64,
     "Gaming": 444,
     "Productivity": 80,
-    "Safety / Emergency": 643,
-    "Service / Support": 217,
-    "UI / Visualization": 575,
+    "Safety / Emergency": 644,
+    "Service / Support": 218,
+    "UI / Visualization": 576,
     "Onboarding / Tutorial": 110,
     "Scenario / Mode": 185
   },
-  "releaseCount": 1097,
-  "featureCount": 13206,
+  "releaseCount": 1098,
+  "featureCount": 13215,
   "releases": [
     {
       "version": "2026.44.1",
@@ -1694,6 +1694,180 @@
         },
         {
           "id": "halloween-mode-wraps-license-plates-for-intel-20263855-detail",
+          "title": "Halloween Mode Wraps & License Plates for Intel",
+          "type": "undocumented",
+          "description": "While Tesla’s Halloween Mode is not available on Intel vehicles , these vehicles do still receive the same Halloween Mode wraps and license plates that are available on AMD vehicles. Unfortunately, the rest of the features, including, the Halloween visualizations, Trick or Treat Mode and the lock sound are not available on Intel vehicles.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/tesla-screen-license-plate.webp/40a7d1e572b2ed8a214f0a2856208f06/tesla-screen-license-plate.jpg",
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Features of Halloween Mode",
+              "url": "https://www.notateslaapp.com/news/4780/everything-in-teslas-halloween-mode-photos-videos"
+            }
+          ],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Security"
+          ],
+          "primaryCategory": "Security"
+        }
+      ]
+    },
+    {
+      "version": "2026.38.6.11",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.38.6.11/release-notes",
+      "releaseDate": "November 21, 2026",
+      "features": [
+        {
+          "id": "fsd-supervised-v1501-202638611-detail",
+          "title": "FSD (Supervised) v15.0.1",
+          "type": "official",
+          "description": "v15 upgrades every part of the end-to-end driving network. Includes: - Upgraded vision encoder shared between FSD, Robotaxi, and Optimus, which is trained on millions of internet videos for improved generalization and data efficiency, improving the critical intervention rate by 25x. - Introduced Tesla Reality View, replacing all of the explicit model signals into a single end-to-end visualization using less total compute. - Improved navigation by using an end-to-end learned model based on route preference data from the fleet. - Improved parking location selection by using personalized parking history, and the map will now display multiple parking options at your destination. - Improved driver monitoring by increasing vision-based attention monitoring availability with hats and sunglasses and decreasing strictness in higher speed driver profiles. - Improved detection of road signs, small animals, road debris, and chains. - Improved detection of potholes, road details, and avoidance of deep standing water. - Improved speed handling for each driver profile, school zones and speed limits, and inclement weather. - Improved Autoshift functionality by unifying with FSD-based gear predictions.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/fsd-supervised-v1501.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/fsd-supervised-v1501.png",
+          "links": [],
+          "availability": "Available in the US",
+          "models": [],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "tesla-reality-view-202638611-detail",
+          "title": "Tesla Reality View",
+          "type": "official",
+          "description": "- New real-time generative driving visualization that continuously streams a view from an arbitrary virtual camera situated above your vehicle, enabling you to see and control what FSD is planning to do. - Select between fullscreen visualizations, maps or a split view - or choose quiet mode for a calming cabin experience. - Upcoming navigation turns display directly in the driving visualization. - Turn signals are quieter and fade out after a few clicks.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/tesla-reality-view.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/tesla-reality-view.png",
+          "links": [],
+          "availability": "Available in the US",
+          "models": [],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Camera"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "speed-camera-slowdown-202638611-detail",
+          "title": "Speed Camera Slowdown",
+          "type": "official",
+          "description": "FSD (Supervised) can now slow down when it detects a speed camera. Press the accelerator or increase your speed profile to cancel the slowdown. If you cancel twice at the same camera, your Tesla saves that location and will not slow down there again. To remove saved cameras, go to Controls > Service > Manage Saved Locations.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/speed-camera-slowdown.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/speed-camera-slowdown.png",
+          "links": [],
+          "availability": "Available in the US",
+          "models": [],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Camera"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "bike-rack-mode-202638611-detail",
+          "title": "Bike Rack Mode",
+          "type": "official",
+          "description": "With Bike Rack Mode, you can now engage FSD (Supervised) and Autosteer when a bike rack or similar hitch accessory is installed. When Bike Rack Mode is enabled, FSD (Supervised) pulls over near your destination and does not reverse. Autopark, Summon, and Backup chimes and warnings will be disabled.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/bike-rack-mode.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/bike-rack-mode.png",
+          "links": [],
+          "availability": "Available in the US",
+          "models": [],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Safety / Emergency"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "fsd-streaks-202638611-detail",
+          "title": "FSD Streaks",
+          "type": "undocumented",
+          "description": "Tesla has added FSD Streaks support to the legacy Model S and Model X with this FSD update. Note : This applies to legacy Model S/X vehicles with Intel and HW3.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-14-3-4-streak-celebrations.webp/3fc24c21b4b60ca541155b0cee40fcaa/fsd-14-3-4-streak-celebrations.jpg",
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Video and Details",
+              "url": "https://www.notateslaapp.com/news/4293/tesla-adds-fsd-streak-celebrations-in-fsd-v1434"
+            }
+          ],
+          "availability": null,
+          "models": [],
+          "categories": [
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "model-y-l-badge-animation-202638611-detail",
+          "title": "Model Y L Badge Animation",
+          "type": "undocumented",
+          "description": "The Launch Series badge animation has been added to the Model Y L with this update. Simply tap it to see the badge animate.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2026/launch-series-badge-animation.webp/941e0f28328302ba443f18d3eb175721/launch-series-badge-animation.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [],
+          "categories": [
+            "UI / Visualization"
+          ],
+          "primaryCategory": "UI / Visualization"
+        },
+        {
+          "id": "grok-no-longer-in-beta-202638611-detail",
+          "title": "Grok No Longer in Beta",
+          "type": "undocumented",
+          "description": "With this update, Tesla has removed the beta label from Grok.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2025/grok-ui-3.webp/bf6c99cdc1d0b627d04ddf1ba8b580ef/grok-ui-3.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Voice & AI"
+          ],
+          "primaryCategory": "Voice & AI"
+        },
+        {
+          "id": "service-mode-improvements-202638611-detail",
+          "title": "Service Mode Improvements",
+          "type": "undocumented",
+          "description": "Service Mode Update - Quick Touchscreen Language Switch Servicing a vehicle set to an unfamiliar language has now become easier. When entering Service Mode, the customer's original language setting is saved. If the touchscreen language does not match the default language of the vehicle's current country location, a Change Touchscreen Language button (always shown in English) appears at the top of the Service panel and allows users to select a preferred language. Then, upon exiting Service Mode, the customer's original language setting is automatically restored. Note that touchscreen language changes trigger a restart of the user interface. Models : All High Voltage Panel Update - Isolation Alert Popup The High Voltage panel now displays status information for each isolation health dot via a popup. To view the popup, tap the health dot for the component. If the component is healthy, it will show the current isolation resistance values. If the component is unhealthy, it will display the current isolation resistance values and any isolation alerts or Diagnostic Trouble Codes (DTCs) that are present on the vehicle. Models : All",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2023/service-mode-6.jpg/199d11978e61b090ac54d0bc04b7c177/service-mode-6.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Service / Support"
+          ],
+          "primaryCategory": "Service / Support"
+        },
+        {
+          "id": "halloween-mode-wraps-license-plates-for-intel-202638611-detail",
           "title": "Halloween Mode Wraps & License Plates for Intel",
           "type": "undocumented",
           "description": "While Tesla’s Halloween Mode is not available on Intel vehicles , these vehicles do still receive the same Halloween Mode wraps and license plates that are available on AMD vehicles. Unfortunately, the rest of the features, including, the Halloween visualizations, Trick or Treat Mode and the lock sound are not available on Intel vehicles.",
@@ -284259,6 +284433,200 @@
       "version": "2026.38.5.5",
       "releaseDate": "October 21, 2026",
       "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.5.5/release-notes"
+    },
+    {
+      "id": "fsd-supervised-v1501-202638611-detail",
+      "title": "FSD (Supervised) v15.0.1",
+      "type": "official",
+      "description": "v15 upgrades every part of the end-to-end driving network. Includes: - Upgraded vision encoder shared between FSD, Robotaxi, and Optimus, which is trained on millions of internet videos for improved generalization and data efficiency, improving the critical intervention rate by 25x. - Introduced Tesla Reality View, replacing all of the explicit model signals into a single end-to-end visualization using less total compute. - Improved navigation by using an end-to-end learned model based on route preference data from the fleet. - Improved parking location selection by using personalized parking history, and the map will now display multiple parking options at your destination. - Improved driver monitoring by increasing vision-based attention monitoring availability with hats and sunglasses and decreasing strictness in higher speed driver profiles. - Improved detection of road signs, small animals, road debris, and chains. - Improved detection of potholes, road details, and avoidance of deep standing water. - Improved speed handling for each driver profile, school zones and speed limits, and inclement weather. - Improved Autoshift functionality by unifying with FSD-based gear predictions.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/fsd-supervised-v1501.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/fsd-supervised-v1501.png",
+      "links": [],
+      "availability": "Available in the US",
+      "models": [],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.38.6.11",
+      "releaseDate": "November 21, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.6.11/release-notes"
+    },
+    {
+      "id": "tesla-reality-view-202638611-detail",
+      "title": "Tesla Reality View",
+      "type": "official",
+      "description": "- New real-time generative driving visualization that continuously streams a view from an arbitrary virtual camera situated above your vehicle, enabling you to see and control what FSD is planning to do. - Select between fullscreen visualizations, maps or a split view - or choose quiet mode for a calming cabin experience. - Upcoming navigation turns display directly in the driving visualization. - Turn signals are quieter and fade out after a few clicks.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/tesla-reality-view.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/tesla-reality-view.png",
+      "links": [],
+      "availability": "Available in the US",
+      "models": [],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.38.6.11",
+      "releaseDate": "November 21, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.6.11/release-notes"
+    },
+    {
+      "id": "speed-camera-slowdown-202638611-detail",
+      "title": "Speed Camera Slowdown",
+      "type": "official",
+      "description": "FSD (Supervised) can now slow down when it detects a speed camera. Press the accelerator or increase your speed profile to cancel the slowdown. If you cancel twice at the same camera, your Tesla saves that location and will not slow down there again. To remove saved cameras, go to Controls > Service > Manage Saved Locations.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/speed-camera-slowdown.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/speed-camera-slowdown.png",
+      "links": [],
+      "availability": "Available in the US",
+      "models": [],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.38.6.11",
+      "releaseDate": "November 21, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.6.11/release-notes"
+    },
+    {
+      "id": "bike-rack-mode-202638611-detail",
+      "title": "Bike Rack Mode",
+      "type": "official",
+      "description": "With Bike Rack Mode, you can now engage FSD (Supervised) and Autosteer when a bike rack or similar hitch accessory is installed. When Bike Rack Mode is enabled, FSD (Supervised) pulls over near your destination and does not reverse. Autopark, Summon, and Backup chimes and warnings will be disabled.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/bike-rack-mode.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.38/dark/bike-rack-mode.png",
+      "links": [],
+      "availability": "Available in the US",
+      "models": [],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.38.6.11",
+      "releaseDate": "November 21, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.6.11/release-notes"
+    },
+    {
+      "id": "fsd-streaks-202638611-detail",
+      "title": "FSD Streaks",
+      "type": "undocumented",
+      "description": "Tesla has added FSD Streaks support to the legacy Model S and Model X with this FSD update. Note : This applies to legacy Model S/X vehicles with Intel and HW3.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-14-3-4-streak-celebrations.webp/3fc24c21b4b60ca541155b0cee40fcaa/fsd-14-3-4-streak-celebrations.jpg",
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Video and Details",
+          "url": "https://www.notateslaapp.com/news/4293/tesla-adds-fsd-streak-celebrations-in-fsd-v1434"
+        }
+      ],
+      "availability": null,
+      "models": [],
+      "categories": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.38.6.11",
+      "releaseDate": "November 21, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.6.11/release-notes"
+    },
+    {
+      "id": "model-y-l-badge-animation-202638611-detail",
+      "title": "Model Y L Badge Animation",
+      "type": "undocumented",
+      "description": "The Launch Series badge animation has been added to the Model Y L with this update. Simply tap it to see the badge animate.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2026/launch-series-badge-animation.webp/941e0f28328302ba443f18d3eb175721/launch-series-badge-animation.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [],
+      "categories": [
+        "UI / Visualization"
+      ],
+      "primaryCategory": "UI / Visualization",
+      "version": "2026.38.6.11",
+      "releaseDate": "November 21, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.6.11/release-notes"
+    },
+    {
+      "id": "grok-no-longer-in-beta-202638611-detail",
+      "title": "Grok No Longer in Beta",
+      "type": "undocumented",
+      "description": "With this update, Tesla has removed the beta label from Grok.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2025/grok-ui-3.webp/bf6c99cdc1d0b627d04ddf1ba8b580ef/grok-ui-3.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Voice & AI"
+      ],
+      "primaryCategory": "Voice & AI",
+      "version": "2026.38.6.11",
+      "releaseDate": "November 21, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.6.11/release-notes"
+    },
+    {
+      "id": "service-mode-improvements-202638611-detail",
+      "title": "Service Mode Improvements",
+      "type": "undocumented",
+      "description": "Service Mode Update - Quick Touchscreen Language Switch Servicing a vehicle set to an unfamiliar language has now become easier. When entering Service Mode, the customer's original language setting is saved. If the touchscreen language does not match the default language of the vehicle's current country location, a Change Touchscreen Language button (always shown in English) appears at the top of the Service panel and allows users to select a preferred language. Then, upon exiting Service Mode, the customer's original language setting is automatically restored. Note that touchscreen language changes trigger a restart of the user interface. Models : All High Voltage Panel Update - Isolation Alert Popup The High Voltage panel now displays status information for each isolation health dot via a popup. To view the popup, tap the health dot for the component. If the component is healthy, it will show the current isolation resistance values. If the component is unhealthy, it will display the current isolation resistance values and any isolation alerts or Diagnostic Trouble Codes (DTCs) that are present on the vehicle. Models : All",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2023/service-mode-6.jpg/199d11978e61b090ac54d0bc04b7c177/service-mode-6.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Service / Support"
+      ],
+      "primaryCategory": "Service / Support",
+      "version": "2026.38.6.11",
+      "releaseDate": "November 21, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.6.11/release-notes"
+    },
+    {
+      "id": "halloween-mode-wraps-license-plates-for-intel-202638611-detail",
+      "title": "Halloween Mode Wraps & License Plates for Intel",
+      "type": "undocumented",
+      "description": "While Tesla’s Halloween Mode is not available on Intel vehicles , these vehicles do still receive the same Halloween Mode wraps and license plates that are available on AMD vehicles. Unfortunately, the rest of the features, including, the Halloween visualizations, Trick or Treat Mode and the lock sound are not available on Intel vehicles.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/tesla-screen-license-plate.webp/40a7d1e572b2ed8a214f0a2856208f06/tesla-screen-license-plate.jpg",
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Features of Halloween Mode",
+          "url": "https://www.notateslaapp.com/news/4780/everything-in-teslas-halloween-mode-photos-videos"
+        }
+      ],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Security"
+      ],
+      "primaryCategory": "Security",
+      "version": "2026.38.6.11",
+      "releaseDate": "November 21, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.6.11/release-notes"
     },
     {
       "id": "ad-blocker-202632100-detail",
@@ -597695,7 +598063,7 @@
     "scrapedAt": "2026-08-14T14:31:42.343Z"
   },
   "electrekEnrichment": {
-    "enrichedAt": "2026-11-21T21:18:17.042Z",
+    "enrichedAt": "2026-11-22T01:27:43.603Z",
     "enrichedCount": 81
   },
   "model3Historical": {
