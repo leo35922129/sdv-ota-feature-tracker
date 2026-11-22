@@ -598063,7 +598063,7 @@
     "scrapedAt": "2026-08-14T14:31:42.343Z"
   },
   "electrekEnrichment": {
-    "enrichedAt": "2026-11-22T01:27:43.603Z",
+    "enrichedAt": "2026-11-22T16:32:16.342Z",
     "enrichedCount": 81
   },
   "model3Historical": {
@@ -598168,5 +598168,6 @@
   },
   "electrekSxDedupe": {
     "paired": 52
-  }
+  },
+  "contentUnchanged": true
 }
