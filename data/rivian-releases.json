@@ -6,6 +6,7 @@
     "https://www.rivianwave.com/software-updates/"
   ],
   "waveVersions": [
+    "2026.41",
     "2025.34",
     "2026.36.42",
     "2026.36.41",
@@ -16,7 +17,6 @@
     "2026.31.40",
     "2026.31",
     "2026.24",
-    "2026.23",
     "2025.14",
     "2025.10",
     "2024.51",
@@ -30,6 +30,7 @@
     "2024.27.30",
     "2024.19.04",
     "2024.11.02",
+    "2026.23",
     "2026.15.32",
     "2026.15.30",
     "2026.15.01",
@@ -82,10 +83,9 @@
     "2024.07.02",
     "2024.03.02",
     "2023.50.01",
-    "2023.46",
-    "2023.42.01"
+    "2023.46"
   ],
-  "scrapedAt": "2026-11-22T16:32:26.789Z",
+  "scrapedAt": "2026-11-23T23:02:23.280Z",
   "categories": [
     "Vehicle OS",
     "Drive Assist & Autonomy",
@@ -62648,6 +62648,27 @@
       "waveUrl": null
     },
     {
+      "id": "2026.41-wave-0-release-notes-are-not-available",
+      "title": "Release notes are not available.",
+      "type": "official",
+      "description": "Please check back shortly. If you have received 2026.41, you can share release notes with us below. Share Release Notes",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.41",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2026.41/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.41/release-notes"
+    },
+    {
       "id": "2025.34-wave-0-enhanced-highway-assist-improvements",
       "title": "Enhanced Highway Assist Improvements",
       "type": "official",
@@ -75409,27 +75430,6 @@
         "rivianwave"
       ],
       "waveUrl": "https://www.rivianwave.com/software-updates/version/2023.46/release-notes"
-    },
-    {
-      "id": "2023.42.01-wave-0-release-notes-are-not-available",
-      "title": "Release notes are not available.",
-      "type": "official",
-      "description": "Please check back shortly. If you have received 2023.42.01, you can share release notes with us below. Share Release Notes",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2023.42.01",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2023.42.01/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2023.42.01/release-notes"
     }
   ]
 }
