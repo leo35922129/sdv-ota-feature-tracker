@@ -7,7 +7,6 @@
   ],
   "waveVersions": [
     "2026.41",
-    "2025.34",
     "2026.36.42",
     "2026.36.41",
     "2026.36.40",
@@ -44,6 +43,7 @@
     "2025.34.30",
     "2025.34.20",
     "2025.34.01",
+    "2025.34",
     "2025.26.30",
     "2025.26.01",
     "2025.22.30",
@@ -85,7 +85,7 @@
     "2023.50.01",
     "2023.46"
   ],
-  "scrapedAt": "2026-11-25T02:51:15.203Z",
+  "scrapedAt": "2026-11-25T11:52:40.937Z",
   "categories": [
     "Vehicle OS",
     "Drive Assist & Autonomy",
@@ -62669,55 +62669,6 @@
       "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.41/release-notes"
     },
     {
-      "id": "2025.34-wave-0-enhanced-highway-assist-improvements",
-      "title": "Enhanced Highway Assist Improvements",
-      "type": "official",
-      "description": "The new Co-Steer feature allows you to adjust your position within a lane using gentle steering inputs while Highway Assist is active without the system disengaging. Co-Steer enables you to make adjustments within the lane in certain situations, like driving beside barriers or passing a semi-truck in an adjacent lane. This feature provides you with collaborative steering while using Highway Assist. The availability of Enhanced Highway Assist has increased by up to 50%, particularly on urban and suburban highways. Introduced a new perception model that improves lane centering performance, especially in moderate to tight curves.",
-      "image": "https://www.rivianwave.com/img/paths/storage/rivian-autonomy/autonomy-plus.webp/649bc486fe79f5e6bc531c85a01f6af5/autonomy-plus.jpg",
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2025.34",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2025.34/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2025.34/release-notes"
-    },
-    {
-      "id": "2025.34-wave-3-additional-improvements-gen-1-gen-2",
-      "title": "Additional Improvements (Gen 1 & Gen 2)",
-      "type": "official",
-      "description": "Performance Improvements Updated and improved media apps, including increased touchscreen responsiveness. Improved Navigation stability and responsiveness. Improved responsiveness to mobile commands while vehicle is asleep. Resolved a rare issue that prevented users from accepting the terms of service for Rivian Navigation with Google Maps. Fixed an issue that kept Gear Guard video thumbnails from displaying properly on the Motion Cam and Incidents screens. Fixed an issue that caused trip energy and efficiency data to fluctuate unexpectedly. Made improvements to the accuracy of battery range on arrival estimates, including adding location air density as a factor for locations at higher elevations.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "models": [
-        "R1T",
-        "R2",
-        "R1S"
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "version": "2025.34",
-      "releaseDate": "",
-      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2025.34/release-notes",
-      "sources": [
-        "rivianwave"
-      ],
-      "waveUrl": "https://www.rivianwave.com/software-updates/version/2025.34/release-notes"
-    },
-    {
       "id": "2026.36.42-wave-0-new-rivian-assistant",
       "title": "New Rivian Assistant",
       "type": "official",
@@ -71485,6 +71436,55 @@
         "rivianwave"
       ],
       "waveUrl": "https://www.rivianwave.com/software-updates/version/2025.34.01/release-notes"
+    },
+    {
+      "id": "2025.34-wave-0-enhanced-highway-assist-improvements",
+      "title": "Enhanced Highway Assist Improvements",
+      "type": "official",
+      "description": "The new Co-Steer feature allows you to adjust your position within a lane using gentle steering inputs while Highway Assist is active without the system disengaging. Co-Steer enables you to make adjustments within the lane in certain situations, like driving beside barriers or passing a semi-truck in an adjacent lane. This feature provides you with collaborative steering while using Highway Assist. The availability of Enhanced Highway Assist has increased by up to 50%, particularly on urban and suburban highways. Introduced a new perception model that improves lane centering performance, especially in moderate to tight curves.",
+      "image": "https://www.rivianwave.com/img/paths/storage/rivian-autonomy/autonomy-plus.webp/649bc486fe79f5e6bc531c85a01f6af5/autonomy-plus.jpg",
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2025.34",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2025.34/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2025.34/release-notes"
+    },
+    {
+      "id": "2025.34-wave-3-additional-improvements-gen-1-gen-2",
+      "title": "Additional Improvements (Gen 1 & Gen 2)",
+      "type": "official",
+      "description": "Performance Improvements Updated and improved media apps, including increased touchscreen responsiveness. Improved Navigation stability and responsiveness. Improved responsiveness to mobile commands while vehicle is asleep. Resolved a rare issue that prevented users from accepting the terms of service for Rivian Navigation with Google Maps. Fixed an issue that kept Gear Guard video thumbnails from displaying properly on the Motion Cam and Incidents screens. Fixed an issue that caused trip energy and efficiency data to fluctuate unexpectedly. Made improvements to the accuracy of battery range on arrival estimates, including adding location air density as a factor for locations at higher elevations.",
+      "image": null,
+      "imageDark": null,
+      "links": [],
+      "models": [
+        "R1T",
+        "R2",
+        "R1S"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2025.34",
+      "releaseDate": "",
+      "releaseUrl": "https://www.rivianwave.com/software-updates/version/2025.34/release-notes",
+      "sources": [
+        "rivianwave"
+      ],
+      "waveUrl": "https://www.rivianwave.com/software-updates/version/2025.34/release-notes"
     },
     {
       "id": "2025.26.30-wave-0-improvements-gen-1-gen-2",
