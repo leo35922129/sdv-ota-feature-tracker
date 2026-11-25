@@ -85,7 +85,7 @@
     "2023.50.01",
     "2023.46"
   ],
-  "scrapedAt": "2026-11-23T23:02:23.280Z",
+  "scrapedAt": "2026-11-25T02:51:15.203Z",
   "categories": [
     "Vehicle OS",
     "Drive Assist & Autonomy",
@@ -148,7 +148,7 @@
     {
       "version": "2026.41",
       "url": "https://riviantrackr.com/2026-41/",
-      "releaseDate": "Public release",
+      "releaseDate": "Nov 23, 2026",
       "availableFor": "Available for",
       "image": "https://riviantrackr.com/wp-content/uploads/2026/07/update-display-bright.png",
       "features": [
@@ -303,7 +303,7 @@
           "id": "2026.36-additional-improvements",
           "title": "Additional Improvements",
           "type": "official",
-          "description": "Resolved an issue impacting time zone handling in Canada due to new Canadian daylight saving rules in some regions. &larr; Previous R1T & R1S update 2026.36 Hotfix October 27, 2026 Next R1T & R1S update &rarr; 2026.41 November 13, 2026",
+          "description": "Resolved an issue impacting time zone handling in Canada due to new Canadian daylight saving rules in some regions. &larr; Previous R1T & R1S update 2026.36 Hotfix October 27, 2026 Next R1T & R1S update &rarr; 2026.41 November 23, 2026",
           "image": "https://riviantrackr.com/wp-content/uploads/2026/07/update-display-bright.png",
           "imageDark": null,
           "links": [
@@ -312,7 +312,7 @@
               "url": "https://riviantrackr.com/2026-36-01/"
             },
             {
-              "title": "Next R1T & R1S update &rarr; 2026.41 November 13, 2026",
+              "title": "Next R1T & R1S update &rarr; 2026.41 November 23, 2026",
               "url": "https://riviantrackr.com/2026-41/"
             }
           ],
@@ -22812,7 +22812,7 @@
       "primaryCategory": "Charging",
       "models": [],
       "version": "2026.41",
-      "releaseDate": "Public release",
+      "releaseDate": "Nov 23, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-41/",
       "sources": [
         "riviantrackr"
@@ -22834,7 +22834,7 @@
       "primaryCategory": "Mobile & Watch App",
       "models": [],
       "version": "2026.41",
-      "releaseDate": "Public release",
+      "releaseDate": "Nov 23, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-41/",
       "sources": [
         "riviantrackr"
@@ -22855,7 +22855,7 @@
       "primaryCategory": "UI / Visualization",
       "models": [],
       "version": "2026.41",
-      "releaseDate": "Public release",
+      "releaseDate": "Nov 23, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-41/",
       "sources": [
         "riviantrackr"
@@ -22877,7 +22877,7 @@
       "primaryCategory": "Voice & AI",
       "models": [],
       "version": "2026.41",
-      "releaseDate": "Public release",
+      "releaseDate": "Nov 23, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-41/",
       "sources": [
         "riviantrackr"
@@ -22898,7 +22898,7 @@
       "primaryCategory": "Camera",
       "models": [],
       "version": "2026.41",
-      "releaseDate": "Public release",
+      "releaseDate": "Nov 23, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-41/",
       "sources": [
         "riviantrackr"
@@ -22919,7 +22919,7 @@
       "primaryCategory": "Service / Support",
       "models": [],
       "version": "2026.41",
-      "releaseDate": "Public release",
+      "releaseDate": "Nov 23, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-41/",
       "sources": [
         "riviantrackr"
@@ -22940,7 +22940,7 @@
       "primaryCategory": "Comfort / Climate",
       "models": [],
       "version": "2026.41",
-      "releaseDate": "Public release",
+      "releaseDate": "Nov 23, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-41/",
       "sources": [
         "riviantrackr"
@@ -22963,7 +22963,7 @@
       "primaryCategory": "User Profile",
       "models": [],
       "version": "2026.41",
-      "releaseDate": "Public release",
+      "releaseDate": "Nov 23, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-41/",
       "sources": [
         "riviantrackr"
@@ -22986,7 +22986,7 @@
       "primaryCategory": "Camera",
       "models": [],
       "version": "2026.41",
-      "releaseDate": "Public release",
+      "releaseDate": "Nov 23, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-41/",
       "sources": [
         "riviantrackr"
@@ -23007,7 +23007,7 @@
       "primaryCategory": "Voice & AI",
       "models": [],
       "version": "2026.41",
-      "releaseDate": "Public release",
+      "releaseDate": "Nov 23, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-41/",
       "sources": [
         "riviantrackr"
@@ -23018,7 +23018,7 @@
       "id": "2026.36-additional-improvements",
       "title": "Additional Improvements",
       "type": "official",
-      "description": "Resolved an issue impacting time zone handling in Canada due to new Canadian daylight saving rules in some regions. &larr; Previous R1T & R1S update 2026.36 Hotfix October 27, 2026 Next R1T & R1S update &rarr; 2026.41 November 13, 2026",
+      "description": "Resolved an issue impacting time zone handling in Canada due to new Canadian daylight saving rules in some regions. &larr; Previous R1T & R1S update 2026.36 Hotfix October 27, 2026 Next R1T & R1S update &rarr; 2026.41 November 23, 2026",
       "image": null,
       "imageDark": null,
       "links": [
@@ -23027,7 +23027,7 @@
           "url": "https://riviantrackr.com/2026-36-01/"
         },
         {
-          "title": "Next R1T & R1S update &rarr; 2026.41 November 13, 2026",
+          "title": "Next R1T & R1S update &rarr; 2026.41 November 23, 2026",
           "url": "https://riviantrackr.com/2026-41/"
         }
       ],
