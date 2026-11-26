@@ -1,6 +1,6 @@
 {
   "source": "https://www.notateslaapp.com/software-updates/history/",
-  "scrapedAt": "2026-11-23T23:02:09.447Z",
+  "scrapedAt": "2026-11-26T12:56:59.019Z",
   "categories": [
     "Vehicle OS",
     "Autopilot / Full Self-Driving",
@@ -32,35 +32,35 @@
   ],
   "categoryCounts": {
     "Vehicle OS": 1680,
-    "Autopilot / Full Self-Driving": 1882,
+    "Autopilot / Full Self-Driving": 1887,
     "Mobile App": 635,
     "Profile": 65,
-    "Range / Charging / Energy": 783,
+    "Range / Charging / Energy": 784,
     "Vehicle Control": 1177,
     "Comfort / Climate": 592,
     "Interior Cabin": 4,
     "Connectivity": 143,
     "Media / Entertainment": 890,
     "Audio": 810,
-    "Map / Navigation / Trip / Route": 1359,
+    "Map / Navigation / Trip / Route": 1362,
     "Camera": 1695,
     "Lighting": 192,
     "Display": 181,
     "Performance": 102,
     "Phone Call": 72,
-    "Security": 498,
-    "Voice & AI": 314,
-    "Trailering": 65,
+    "Security": 499,
+    "Voice & AI": 316,
+    "Trailering": 66,
     "Gaming": 444,
     "Productivity": 80,
     "Safety / Emergency": 644,
-    "Service / Support": 218,
-    "UI / Visualization": 576,
+    "Service / Support": 219,
+    "UI / Visualization": 577,
     "Onboarding / Tutorial": 110,
     "Scenario / Mode": 185
   },
-  "releaseCount": 1099,
-  "featureCount": 13219,
+  "releaseCount": 1101,
+  "featureCount": 13231,
   "releases": [
     {
       "version": "2026.44.1",
@@ -82951,6 +82951,260 @@
           "primaryCategory": "Autopilot / Full Self-Driving",
           "source": "tesla-model-s-x-2012-2019",
           "canonicalFeatureKey": "tesla-ota-smart-summon-beta-regional-expansion"
+        }
+      ]
+    },
+    {
+      "version": "2026.44.3.1",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes",
+      "releaseDate": "November 26, 2026",
+      "features": [
+        {
+          "id": "service-menu-redesign-20264431-detail",
+          "title": "Service Menu Redesign",
+          "type": "undocumented",
+          "description": "The Controls > Service menu has received a fresh layout. The new layout brings the Request Service and Tow Mode buttons to the forefront, while organizing content into two sections, Health & Maintenance and Actions. Actions holds features such as Car Wash Mode, Wiper Service, Adjust Headlights, and other functions, while Health & Maintenance houses tire PSI, alerts, and recommended service.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2026/service-menu.webp/cd6d75101544661b984a769477cb39a9/service-menu.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Trailering"
+          ],
+          "primaryCategory": "Trailering"
+        },
+        {
+          "id": "si-computer-20264431-detail",
+          "title": "SI Computer",
+          "type": "undocumented",
+          "description": "Tesla has renamed the vehicle’s FSD computer from AI Computer to SI Computer. This shows up in the Controls > Software menu.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2026/si-computer.webp/2389a24737d33d69a35462874f577cc1/si-computer.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "service-mode-improvements-20264431-detail",
+          "title": "Service Mode Improvements",
+          "type": "undocumented",
+          "description": "HV Battery Panel Update - Reset PCS Button A Reset Power Conversion System (PCS) button has been added to the HV Battery panel PCS popup. The button allows users to reset the PCS Electronic Control Unit (ECU) directly from Service Mode instead of searching for the task in Toolbox. Models: Model 3, Model Y, Model S (2021+), Model X (2021+), Cybertruck HV Battery and Charging Panel Update - PCS2 Labeling The HV Battery and Charging panels now correctly display the component label as Power Conversion System (PCS) 2 when a PCS2 bidirectional unit is installed. Previously, vehicles with PCS2 hardware were still labeled as PCS. Models: Model 3, Model Y Interior Lighting Panel Update - Frunk LED Health Indicator The Interior Lighting panel now includes a health indicator for the front trunk (or frunk) LED. When the frunk is open, the indicator shows the LED connection status: green for connected, red for disconnected. A disconnected frunk LED is detected via an undercurrent alert, helping technicians identify when the LED connector has not been plugged back in after servicing the front area of the vehicle. Models: Model 3, Model Y, Model S (2021+), Model X (2021+) Portuguese Language (Beta) Service Mode now supports Portuguese as a language option. Users can select Portuguese from the language drop-down list in Vehicle Info. Portuguese is currently in beta and may contain translation inaccuracies. Models: All vehicles Service Mode Update - Feedback Button (Service Mode Plus) The feedback feature has been updated with a new in-app experience, replacing the previous email and QR code. A Feedback button is now available in the navigation sidebar. Tapping it opens a form where users can select a category (Bug, Improvement, or Translation), enter a description, and optionally place an on-screen marker to highlight the area of concern. Models: All vehicles CAN Viewer Button Removed and Renamed to Signal Viewer (Service Mode Plus) The CAN Viewer button has been removed from the Vehicle Overview page and renamed to Signal Viewer. Signal Viewer is now only accessible from the Tools section in the navigation menu.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2026/service-mode-2026.44.webp/3a751ec82746983c277b5b37314f1e95/service-mode-2026.44.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route",
+            "Range / Charging / Energy"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        },
+        {
+          "id": "more-features-coming-soon-20264431-detail",
+          "title": "More Features Coming Soon",
+          "type": "undocumented",
+          "description": "This update includes several hidden changes that hint at upcoming features. One change is receiving notifications if a Supercharger you’re navigating to suddenly becomes busier or less busy, and the price changes. Drivers will receive an in-vehicle alert saying the Supercharger price has decreased or increased. There are also upcoming Grok changes, with one suggesting that Grok’s wake word may be improved with an on-vehicle model. Vehicle navigation may soon also offer a new option to prefer major roads and avoid smaller or unpaved routes.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-update/automatic-navigation.webp/ee97b0d05cb4c87a85cc26e360de9265/automatic-navigation.jpg",
+          "imageDark": null,
+          "links": [
+            {
+              "title": "More Details",
+              "url": "https://www.notateslaapp.com/news/5025/tesla-update-2026441-is-hiding-a-new-navigation-option-supercharger-notifications-and-grok-improvements"
+            }
+          ],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Voice & AI"
+          ],
+          "primaryCategory": "Voice & AI"
+        }
+      ]
+    },
+    {
+      "version": "2026.38.200",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.38.200/release-notes",
+      "releaseDate": "November 25, 2026",
+      "features": [
+        {
+          "id": "disengagement-menu-202638200-detail",
+          "title": "Disengagement Menu",
+          "type": "undocumented",
+          "description": "With FSD v15, Tesla has completely removed the disengagement menu when you disable FSD. Users no longer need to dismiss anything upon taking over — no prompts or dialogs appear of any kind",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-14-3-3-disengagement-menu-options-1779008636.webp/349f5d8221103b4bf63f536f6881facf/fsd-14-3-3-disengagement-menu-options-1779008636.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available in the US",
+          "models": [],
+          "categories": [
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "hide-fsd-visualizations-map-mode-202638200-detail",
+          "title": "Hide FSD Visualizations — Map Mode",
+          "type": "undocumented",
+          "description": "With FSD v15, Tesla has finally added a feature many users have been requesting—the ability to hide FSD visualizations. In this new view, the navigation maps go full screen, completely hiding the FSD visuals. This is similar to the screen on a Model S/X, since the FSD visuals are on the driver display and the maps use the entire center display.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2026/fsd-v15-map-mode.webp/771eb67e3e960b225f703cd3f3629c53/fsd-v15-map-mode.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available in the US",
+          "models": [],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "calm-mode-202638200-detail",
+          "title": "Calm Mode",
+          "type": "undocumented",
+          "description": "Tesla has added its new Calm Mode, which is available on its Robotaxis to consumer vehicles with FSD v15. Calm Mode reduces screen distractions by hiding FSD visualizations and the map view. The entire screen switches to show only vital information, such as vehicle speed, speed limit, next turn, and arrival time. The dock is replaced with a simplified view that has the vehicle settings, climate buttons and music.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2026/fsd-v15-calm-mode.webp/ca8adcf93cac58520102e457e40264e0/fsd-v15-calm-mode.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available in the US",
+          "models": [],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "fsd-streaks-202638200-detail",
+          "title": "FSD Streaks",
+          "type": "undocumented",
+          "description": "Tesla has added FSD Streaks support to the legacy Model S and Model X with this FSD update. Note : This applies to legacy Model S/X vehicles with Intel and HW3.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-14-3-4-streak-celebrations.webp/3fc24c21b4b60ca541155b0cee40fcaa/fsd-14-3-4-streak-celebrations.jpg",
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Video and Details",
+              "url": "https://www.notateslaapp.com/news/4293/tesla-adds-fsd-streak-celebrations-in-fsd-v1434"
+            }
+          ],
+          "availability": null,
+          "models": [],
+          "categories": [
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "model-y-l-badge-animation-202638200-detail",
+          "title": "Model Y L Badge Animation",
+          "type": "undocumented",
+          "description": "The Launch Series badge animation has been added to the Model Y L with this update. Simply tap it to see the badge animate.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2026/launch-series-badge-animation.webp/941e0f28328302ba443f18d3eb175721/launch-series-badge-animation.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [],
+          "categories": [
+            "UI / Visualization"
+          ],
+          "primaryCategory": "UI / Visualization"
+        },
+        {
+          "id": "grok-no-longer-in-beta-202638200-detail",
+          "title": "Grok No Longer in Beta",
+          "type": "undocumented",
+          "description": "With this update, Tesla has removed the beta label from Grok.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2025/grok-ui-3.webp/bf6c99cdc1d0b627d04ddf1ba8b580ef/grok-ui-3.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Voice & AI"
+          ],
+          "primaryCategory": "Voice & AI"
+        },
+        {
+          "id": "service-mode-improvements-202638200-detail",
+          "title": "Service Mode Improvements",
+          "type": "undocumented",
+          "description": "Service Mode Update - Quick Touchscreen Language Switch Servicing a vehicle set to an unfamiliar language has now become easier. When entering Service Mode, the customer's original language setting is saved. If the touchscreen language does not match the default language of the vehicle's current country location, a Change Touchscreen Language button (always shown in English) appears at the top of the Service panel and allows users to select a preferred language. Then, upon exiting Service Mode, the customer's original language setting is automatically restored. Note that touchscreen language changes trigger a restart of the user interface. Models : All High Voltage Panel Update - Isolation Alert Popup The High Voltage panel now displays status information for each isolation health dot via a popup. To view the popup, tap the health dot for the component. If the component is healthy, it will show the current isolation resistance values. If the component is unhealthy, it will display the current isolation resistance values and any isolation alerts or Diagnostic Trouble Codes (DTCs) that are present on the vehicle. Models : All",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2023/service-mode-6.jpg/199d11978e61b090ac54d0bc04b7c177/service-mode-6.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Service / Support"
+          ],
+          "primaryCategory": "Service / Support"
+        },
+        {
+          "id": "halloween-mode-wraps-license-plates-for-intel-202638200-detail",
+          "title": "Halloween Mode Wraps & License Plates for Intel",
+          "type": "undocumented",
+          "description": "While Tesla’s Halloween Mode is not available on Intel vehicles , these vehicles do still receive the same Halloween Mode wraps and license plates that are available on AMD vehicles. Unfortunately, the rest of the features, including, the Halloween visualizations, Trick or Treat Mode and the lock sound are not available on Intel vehicles.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/tesla-screen-license-plate.webp/40a7d1e572b2ed8a214f0a2856208f06/tesla-screen-license-plate.jpg",
+          "imageDark": null,
+          "links": [
+            {
+              "title": "Features of Halloween Mode",
+              "url": "https://www.notateslaapp.com/news/4780/everything-in-teslas-halloween-mode-photos-videos"
+            }
+          ],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Security"
+          ],
+          "primaryCategory": "Security"
         }
       ]
     },
@@ -375015,6 +375269,282 @@
       "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.40.50.1/release-notes"
     },
     {
+      "id": "service-menu-redesign-20264431-detail",
+      "title": "Service Menu Redesign",
+      "type": "undocumented",
+      "description": "The Controls > Service menu has received a fresh layout. The new layout brings the Request Service and Tow Mode buttons to the forefront, while organizing content into two sections, Health & Maintenance and Actions. Actions holds features such as Car Wash Mode, Wiper Service, Adjust Headlights, and other functions, while Health & Maintenance houses tire PSI, alerts, and recommended service.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2026/service-menu.webp/cd6d75101544661b984a769477cb39a9/service-menu.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Trailering"
+      ],
+      "primaryCategory": "Trailering",
+      "version": "2026.44.3.1",
+      "releaseDate": "November 26, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes"
+    },
+    {
+      "id": "si-computer-20264431-detail",
+      "title": "SI Computer",
+      "type": "undocumented",
+      "description": "Tesla has renamed the vehicle’s FSD computer from AI Computer to SI Computer. This shows up in the Controls > Software menu.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2026/si-computer.webp/2389a24737d33d69a35462874f577cc1/si-computer.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.44.3.1",
+      "releaseDate": "November 26, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes"
+    },
+    {
+      "id": "service-mode-improvements-20264431-detail",
+      "title": "Service Mode Improvements",
+      "type": "undocumented",
+      "description": "HV Battery Panel Update - Reset PCS Button A Reset Power Conversion System (PCS) button has been added to the HV Battery panel PCS popup. The button allows users to reset the PCS Electronic Control Unit (ECU) directly from Service Mode instead of searching for the task in Toolbox. Models: Model 3, Model Y, Model S (2021+), Model X (2021+), Cybertruck HV Battery and Charging Panel Update - PCS2 Labeling The HV Battery and Charging panels now correctly display the component label as Power Conversion System (PCS) 2 when a PCS2 bidirectional unit is installed. Previously, vehicles with PCS2 hardware were still labeled as PCS. Models: Model 3, Model Y Interior Lighting Panel Update - Frunk LED Health Indicator The Interior Lighting panel now includes a health indicator for the front trunk (or frunk) LED. When the frunk is open, the indicator shows the LED connection status: green for connected, red for disconnected. A disconnected frunk LED is detected via an undercurrent alert, helping technicians identify when the LED connector has not been plugged back in after servicing the front area of the vehicle. Models: Model 3, Model Y, Model S (2021+), Model X (2021+) Portuguese Language (Beta) Service Mode now supports Portuguese as a language option. Users can select Portuguese from the language drop-down list in Vehicle Info. Portuguese is currently in beta and may contain translation inaccuracies. Models: All vehicles Service Mode Update - Feedback Button (Service Mode Plus) The feedback feature has been updated with a new in-app experience, replacing the previous email and QR code. A Feedback button is now available in the navigation sidebar. Tapping it opens a form where users can select a category (Bug, Improvement, or Translation), enter a description, and optionally place an on-screen marker to highlight the area of concern. Models: All vehicles CAN Viewer Button Removed and Renamed to Signal Viewer (Service Mode Plus) The CAN Viewer button has been removed from the Vehicle Overview page and renamed to Signal Viewer. Signal Viewer is now only accessible from the Tools section in the navigation menu.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2026/service-mode-2026.44.webp/3a751ec82746983c277b5b37314f1e95/service-mode-2026.44.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "2026.44.3.1",
+      "releaseDate": "November 26, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes"
+    },
+    {
+      "id": "more-features-coming-soon-20264431-detail",
+      "title": "More Features Coming Soon",
+      "type": "undocumented",
+      "description": "This update includes several hidden changes that hint at upcoming features. One change is receiving notifications if a Supercharger you’re navigating to suddenly becomes busier or less busy, and the price changes. Drivers will receive an in-vehicle alert saying the Supercharger price has decreased or increased. There are also upcoming Grok changes, with one suggesting that Grok’s wake word may be improved with an on-vehicle model. Vehicle navigation may soon also offer a new option to prefer major roads and avoid smaller or unpaved routes.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-update/automatic-navigation.webp/ee97b0d05cb4c87a85cc26e360de9265/automatic-navigation.jpg",
+      "imageDark": null,
+      "links": [
+        {
+          "title": "More Details",
+          "url": "https://www.notateslaapp.com/news/5025/tesla-update-2026441-is-hiding-a-new-navigation-option-supercharger-notifications-and-grok-improvements"
+        }
+      ],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Voice & AI"
+      ],
+      "primaryCategory": "Voice & AI",
+      "version": "2026.44.3.1",
+      "releaseDate": "November 26, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes"
+    },
+    {
+      "id": "disengagement-menu-202638200-detail",
+      "title": "Disengagement Menu",
+      "type": "undocumented",
+      "description": "With FSD v15, Tesla has completely removed the disengagement menu when you disable FSD. Users no longer need to dismiss anything upon taking over — no prompts or dialogs appear of any kind",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-14-3-3-disengagement-menu-options-1779008636.webp/349f5d8221103b4bf63f536f6881facf/fsd-14-3-3-disengagement-menu-options-1779008636.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available in the US",
+      "models": [],
+      "categories": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.38.200",
+      "releaseDate": "November 25, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.200/release-notes"
+    },
+    {
+      "id": "hide-fsd-visualizations-map-mode-202638200-detail",
+      "title": "Hide FSD Visualizations — Map Mode",
+      "type": "undocumented",
+      "description": "With FSD v15, Tesla has finally added a feature many users have been requesting—the ability to hide FSD visualizations. In this new view, the navigation maps go full screen, completely hiding the FSD visuals. This is similar to the screen on a Model S/X, since the FSD visuals are on the driver display and the maps use the entire center display.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2026/fsd-v15-map-mode.webp/771eb67e3e960b225f703cd3f3629c53/fsd-v15-map-mode.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available in the US",
+      "models": [],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.38.200",
+      "releaseDate": "November 25, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.200/release-notes"
+    },
+    {
+      "id": "calm-mode-202638200-detail",
+      "title": "Calm Mode",
+      "type": "undocumented",
+      "description": "Tesla has added its new Calm Mode, which is available on its Robotaxis to consumer vehicles with FSD v15. Calm Mode reduces screen distractions by hiding FSD visualizations and the map view. The entire screen switches to show only vital information, such as vehicle speed, speed limit, next turn, and arrival time. The dock is replaced with a simplified view that has the vehicle settings, climate buttons and music.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2026/fsd-v15-calm-mode.webp/ca8adcf93cac58520102e457e40264e0/fsd-v15-calm-mode.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available in the US",
+      "models": [],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.38.200",
+      "releaseDate": "November 25, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.200/release-notes"
+    },
+    {
+      "id": "fsd-streaks-202638200-detail",
+      "title": "FSD Streaks",
+      "type": "undocumented",
+      "description": "Tesla has added FSD Streaks support to the legacy Model S and Model X with this FSD update. Note : This applies to legacy Model S/X vehicles with Intel and HW3.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-14-3-4-streak-celebrations.webp/3fc24c21b4b60ca541155b0cee40fcaa/fsd-14-3-4-streak-celebrations.jpg",
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Video and Details",
+          "url": "https://www.notateslaapp.com/news/4293/tesla-adds-fsd-streak-celebrations-in-fsd-v1434"
+        }
+      ],
+      "availability": null,
+      "models": [],
+      "categories": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.38.200",
+      "releaseDate": "November 25, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.200/release-notes"
+    },
+    {
+      "id": "model-y-l-badge-animation-202638200-detail",
+      "title": "Model Y L Badge Animation",
+      "type": "undocumented",
+      "description": "The Launch Series badge animation has been added to the Model Y L with this update. Simply tap it to see the badge animate.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2026/launch-series-badge-animation.webp/941e0f28328302ba443f18d3eb175721/launch-series-badge-animation.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [],
+      "categories": [
+        "UI / Visualization"
+      ],
+      "primaryCategory": "UI / Visualization",
+      "version": "2026.38.200",
+      "releaseDate": "November 25, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.200/release-notes"
+    },
+    {
+      "id": "grok-no-longer-in-beta-202638200-detail",
+      "title": "Grok No Longer in Beta",
+      "type": "undocumented",
+      "description": "With this update, Tesla has removed the beta label from Grok.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2025/grok-ui-3.webp/bf6c99cdc1d0b627d04ddf1ba8b580ef/grok-ui-3.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Voice & AI"
+      ],
+      "primaryCategory": "Voice & AI",
+      "version": "2026.38.200",
+      "releaseDate": "November 25, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.200/release-notes"
+    },
+    {
+      "id": "service-mode-improvements-202638200-detail",
+      "title": "Service Mode Improvements",
+      "type": "undocumented",
+      "description": "Service Mode Update - Quick Touchscreen Language Switch Servicing a vehicle set to an unfamiliar language has now become easier. When entering Service Mode, the customer's original language setting is saved. If the touchscreen language does not match the default language of the vehicle's current country location, a Change Touchscreen Language button (always shown in English) appears at the top of the Service panel and allows users to select a preferred language. Then, upon exiting Service Mode, the customer's original language setting is automatically restored. Note that touchscreen language changes trigger a restart of the user interface. Models : All High Voltage Panel Update - Isolation Alert Popup The High Voltage panel now displays status information for each isolation health dot via a popup. To view the popup, tap the health dot for the component. If the component is healthy, it will show the current isolation resistance values. If the component is unhealthy, it will display the current isolation resistance values and any isolation alerts or Diagnostic Trouble Codes (DTCs) that are present on the vehicle. Models : All",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2023/service-mode-6.jpg/199d11978e61b090ac54d0bc04b7c177/service-mode-6.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Service / Support"
+      ],
+      "primaryCategory": "Service / Support",
+      "version": "2026.38.200",
+      "releaseDate": "November 25, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.200/release-notes"
+    },
+    {
+      "id": "halloween-mode-wraps-license-plates-for-intel-202638200-detail",
+      "title": "Halloween Mode Wraps & License Plates for Intel",
+      "type": "undocumented",
+      "description": "While Tesla’s Halloween Mode is not available on Intel vehicles , these vehicles do still receive the same Halloween Mode wraps and license plates that are available on AMD vehicles. Unfortunately, the rest of the features, including, the Halloween visualizations, Trick or Treat Mode and the lock sound are not available on Intel vehicles.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/tesla-screen-license-plate.webp/40a7d1e572b2ed8a214f0a2856208f06/tesla-screen-license-plate.jpg",
+      "imageDark": null,
+      "links": [
+        {
+          "title": "Features of Halloween Mode",
+          "url": "https://www.notateslaapp.com/news/4780/everything-in-teslas-halloween-mode-photos-videos"
+        }
+      ],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Security"
+      ],
+      "primaryCategory": "Security",
+      "version": "2026.38.200",
+      "releaseDate": "November 25, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.38.200/release-notes"
+    },
+    {
       "id": "service-menu-redesign-2026442-detail",
       "title": "Service Menu Redesign",
       "type": "undocumented",
@@ -598262,7 +598792,7 @@
     "scrapedAt": "2026-08-14T14:31:42.343Z"
   },
   "electrekEnrichment": {
-    "enrichedAt": "2026-11-26T03:17:33.901Z",
+    "enrichedAt": "2026-11-26T12:56:59.238Z",
     "enrichedCount": 81
   },
   "model3Historical": {
@@ -598367,6 +598897,5 @@
   },
   "electrekSxDedupe": {
     "paired": 52
-  },
-  "contentUnchanged": true
+  }
 }
