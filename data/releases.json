@@ -1,6 +1,6 @@
 {
   "source": "https://www.notateslaapp.com/software-updates/history/",
-  "scrapedAt": "2026-11-26T12:56:59.019Z",
+  "scrapedAt": "2026-11-26T22:04:41.499Z",
   "categories": [
     "Vehicle OS",
     "Autopilot / Full Self-Driving",
@@ -31,36 +31,36 @@
     "Scenario / Mode"
   ],
   "categoryCounts": {
-    "Vehicle OS": 1680,
-    "Autopilot / Full Self-Driving": 1887,
+    "Vehicle OS": 1681,
+    "Autopilot / Full Self-Driving": 1895,
     "Mobile App": 635,
     "Profile": 65,
-    "Range / Charging / Energy": 784,
+    "Range / Charging / Energy": 785,
     "Vehicle Control": 1177,
     "Comfort / Climate": 592,
     "Interior Cabin": 4,
     "Connectivity": 143,
     "Media / Entertainment": 890,
     "Audio": 810,
-    "Map / Navigation / Trip / Route": 1362,
-    "Camera": 1695,
+    "Map / Navigation / Trip / Route": 1366,
+    "Camera": 1696,
     "Lighting": 192,
     "Display": 181,
     "Performance": 102,
     "Phone Call": 72,
-    "Security": 499,
+    "Security": 500,
     "Voice & AI": 316,
     "Trailering": 66,
     "Gaming": 444,
     "Productivity": 80,
-    "Safety / Emergency": 644,
+    "Safety / Emergency": 645,
     "Service / Support": 219,
     "UI / Visualization": 577,
     "Onboarding / Tutorial": 110,
     "Scenario / Mode": 185
   },
   "releaseCount": 1101,
-  "featureCount": 13231,
+  "featureCount": 13243,
   "releases": [
     {
       "version": "2026.44.1",
@@ -317,6 +317,353 @@
         },
         {
           "id": "more-features-coming-soon-2026441-detail",
+          "title": "More Features Coming Soon",
+          "type": "undocumented",
+          "description": "This update includes several hidden changes that hint at upcoming features. One change is receiving notifications if a Supercharger you’re navigating to suddenly becomes busier or less busy, and the price changes. Drivers will receive an in-vehicle alert saying the Supercharger price has decreased or increased. There are also upcoming Grok changes, with one suggesting that Grok’s wake word may be improved with an on-vehicle model. Vehicle navigation may soon also offer a new option to prefer major roads and avoid smaller or unpaved routes.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-update/automatic-navigation.webp/ee97b0d05cb4c87a85cc26e360de9265/automatic-navigation.jpg",
+          "imageDark": null,
+          "links": [
+            {
+              "title": "More Details",
+              "url": "https://www.notateslaapp.com/news/5025/tesla-update-2026441-is-hiding-a-new-navigation-option-supercharger-notifications-and-grok-improvements"
+            }
+          ],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Voice & AI"
+          ],
+          "primaryCategory": "Voice & AI"
+        }
+      ]
+    },
+    {
+      "version": "2026.44.3.1",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes",
+      "releaseDate": "November 26, 2026",
+      "features": [
+        {
+          "id": "manual-battery-preconditioning-20264431-detail",
+          "title": "Manual Battery Preconditioning",
+          "type": "official",
+          "description": "You can now manually precondition your battery to reach its optimal temperature before fast charging to save time. Start preconditioning about one hour before you plan to charge. Once the optimal temperature is reached, it will be maintained for thirty minutes. You can now also precondition your battery via the Mobile App before driving to a fast charger. To start, go to Charging > Precondition for Fast Charging. Requires Mobile App v4.63.0.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/manual-battery-preconditioning.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/dark/manual-battery-preconditioning.png",
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y"
+          ],
+          "categories": [
+            "Range / Charging / Energy"
+          ],
+          "primaryCategory": "Range / Charging / Energy"
+        },
+        {
+          "id": "charger-network-view-20264431-detail",
+          "title": "Charger Network View",
+          "type": "official",
+          "description": "Charger pins on the map now cluster at normal zoom levels, showing network coverage as you zoom out.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/charger-network-view.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/dark/charger-network-view.png",
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        },
+        {
+          "id": "automatic-collision-evasion-20264431-detail",
+          "title": "Automatic Collision Evasion",
+          "type": "official",
+          "description": "Automatic Collision Evasion activates Full Self-Driving (Supervised) to try to keep your vehicle safe and then continue driving. It can engage while you are driving manually and detects that you are not sufficiently attentive to the road (for example, reaching toward the back seat), or that Full Self-Driving (Supervised) may have been unintentionally disengaged. See your Owner's Manual for more details.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.27/automatic-collision-evasion.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.27/dark/automatic-collision-evasion.png",
+          "links": [
+            {
+              "title": "More Details",
+              "url": "https://www.notateslaapp.com/news/4646/tesla-adds-fsd-automatic-collision-evasion-for-manual-drives"
+            }
+          ],
+          "availability": "Available in the US",
+          "models": [
+            "3",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Safety / Emergency"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "fsd-supervised-v143-lite-20264431-detail",
+          "title": "FSD (Supervised) v14.3 Lite",
+          "type": "official",
+          "description": "FSD (Supervised) v14.3 Lite includes: - Distilled the intelligence from HW4 V14 into HW3. This allows HW3 to directly learn how to handle scenarios using HW4 V14 as a guide. This process unlocks the improvements that have been made to HW4 including Reinforcement Learning (RL) and offline models for HW3. - Improved both proactive and reactive responsiveness across a wide variety of categories including navigation handling, merges and forks, pedestrian interactions, traffic lights, and vehicle cut-in scenarios. - Improved general comfort in nominal scenarios through fewer false slowdowns, smoother steering and more consistent lane centering. - Introduced parking, unparking, and reversing capabilities. - Added Arrival Options for you to select where FSD should pull over or park: in a Parking Lot, on the Street, in a Driveway. - Speed Profiles are now available at all times, to further customize driving style preference.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/fsd-supervised-v143-lite.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/dark/fsd-supervised-v143-lite.png",
+          "links": [],
+          "availability": "Available in the US",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "minor-fixes-20264431-detail",
+          "title": "Minor Fixes",
+          "type": "official",
+          "description": "This release contains minor fixes and improvements",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/minor-fixes.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/dark/minor-fixes.png",
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Vehicle OS"
+          ],
+          "primaryCategory": "Vehicle OS"
+        },
+        {
+          "id": "fsd-supervised-v14313-20264431-detail",
+          "title": "FSD (Supervised) v14.3.13",
+          "type": "official",
+          "description": "Full Self-Driving (Supervised) v14.3.13 includes: - Upgraded the Reinforcement Learning (RL) stage of training the FSD neural network, resulting in improvements in a wide variety of driving scenarios. - Upgraded the neural network vision encoder, improving understanding in rare and low-visibility scenarios, strengthening 3D geometry understanding, and expanding traffic sign understanding. - Rewrote the AI compiler and runtime from the ground up with MLIR, resulting in 20% faster reaction time and improving model iteration speed. - Mitigated unnecessary lane biasing and minor tailgating behaviors. - Increased decisiveness of parking spot selection and maneuvering. - Improved parking location pin prediction, now shown on a map with a P icon. - Enhanced response to emergency vehicles, school buses, right-of-way violators, and other rare vehicles. - Improved handling of small animals by focusing RL training on harder examples and adding rewards for better proactive safety. - Improved traffic light handling at complex intersections with compound lights, curved roads, and yellow light stopping — driven by training on hard RL examples sourced from the Tesla fleet. - Improved handling for rare and unusual objects extending, hanging, or leaning into the vehicle path by sourcing infrequent events from the fleet. - Improved handling of temporary system degradations by maintaining control and automatically recovering without driver intervention, reducing unnecessary disengagements. - Improved driver monitoring system sensitivity with better eye gaze tracking, eye wear handling, and higher accuracy in variable lighting conditions. - Unified the model between Actually Smart Summon, FSD, and Robotaxi for more capable and reliable behavior. (New in FSD v14.3.2 for non-Cybertrucks, New in FSD v14.3.4 for the Cybertruck) Actually Smart Summon max speed is now increased to 8mph (13km/h). (Added in FSD v14.3.3, not available on Cybertruck) - Help Tesla improve Self-Driving by selecting an intervention reason on the main screen after taking over. (New in FSD v14.3.2) You can now see distance traveled in FSD (Supervised) without an intervention. The Self-Driving App will also show your longest intervention-free streak. (Added in FSD v14.3.3) - Parking options now display on the map when arriving at your destination. (Added in FSD v14.3.4) Upcoming Improvements: - Expand reasoning to all behaviors beyond destination handling. - Add pothole avoidance.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available in the US",
+          "models": [
+            "3",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "start-self-driving-from-park-20264431-detail",
+          "title": "Start Self-Driving from Park",
+          "type": "official",
+          "description": "A button will appear on the screen when driver requirements are met. Driver requirements include (but are not limited to): - Driver is seated in driver's seat - Driver is buckled - Cabin Camera is unobstructed Brake Confirm requires the driver to press and release the brake pedal before FSD (Supervised) can be activated. When Brake Confirm is disabled, pressing the button will allow Self-Driving to apply the brakes and engage FSD (Supervised). If driver detection requirements are not met or if FSD (Supervised) does not detect a driver, you will be required to press and release the brake pedal to confirm. You can enable Brake Confirm in Self-Driving > Brake Confirm. This feature does not make your vehicle autonomous and you must remain attentive and be ready to take over at any time. Only a licensed driver authorized to operate the vehicle should be allowed access to the driver's seat position any time the vehicle is not in Theater or Arcade modes.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/start-self-driving-from-park.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/dark/start-self-driving-from-park.png",
+          "links": [],
+          "availability": "Available in the US",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Camera"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "full-self-driving-supervised-20264431-detail",
+          "title": "Full Self-Driving (Supervised)",
+          "type": "official",
+          "description": "Under your supervision, Full Self-Driving (Supervised) can drive your Tesla almost anywhere. It will start from a parked position, make lane changes, select forks to follow your navigation route, navigate around other vehicles and objects, make left and right turns and park at your destination. You and anyone you authorize must use additional caution and remain attentive. It does not make your vehicle autonomous. Do not become complacent. Full Self-Driving (Supervised) is enabled on your vehicle. To use the feature, press the Start Self-Driving button on the UI, or press the right scroll wheel button once. You can disable Full Self-Driving (Supervised) in Autopilot Settings.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-full-self-driving-supervised.png",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available in the US",
+          "models": [
+            "3",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving",
+            "Map / Navigation / Trip / Route"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "arrival-options-20264431-detail",
+          "title": "Arrival Options",
+          "type": "official",
+          "description": "- You can now select an arrival option such as Parking Lot, Street, Driveway, and Pull Over for Robotaxi-style drop offs. - Your preferences for arrival options and preferred parking positions are persisted for each destination.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/arrival-options.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/dark/arrival-options.png",
+          "links": [],
+          "availability": "Available in the US",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "speed-profiles-20264431-detail",
+          "title": "Speed Profiles",
+          "type": "official",
+          "description": "FSD (Supervised) will now determine the appropriate speed based on a mix of driver profile, speed limit, and surrounding traffic. - Introduced new Speed Profile SLOTH, which comes with lower speeds & more conservative lane selection than CHILL. - Driver profile now has a stronger impact on behavior. The more assertive the profile, the higher the max speed. - Right scroll-wheel up/down now adjusts Speed Profile setting rather than your precise max speed offset selection in mph/kph.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/speed-profiles.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/dark/speed-profiles.png",
+          "links": [],
+          "availability": "Available in the US",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "ui-improvements-20264431-detail",
+          "title": "UI Improvements",
+          "type": "official",
+          "description": "Adjust settings like the Speed Profile and Arrival Options directly from the Self-Driving visualization on the center display.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/ui-improvements.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/dark/ui-improvements.png",
+          "links": [],
+          "availability": "Available in the US",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "security-improvements-20264431-detail",
+          "title": "Security Improvements",
+          "type": "official",
+          "description": "This update includes important security fixes and improvements.",
+          "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/security-improvements.png",
+          "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/dark/security-improvements.png",
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Security"
+          ],
+          "primaryCategory": "Security"
+        },
+        {
+          "id": "service-menu-redesign-20264431-detail",
+          "title": "Service Menu Redesign",
+          "type": "undocumented",
+          "description": "The Controls > Service menu has received a fresh layout. The new layout brings the Request Service and Tow Mode buttons to the forefront, while organizing content into two sections, Health & Maintenance and Actions. Actions holds features such as Car Wash Mode, Wiper Service, Adjust Headlights, and other functions, while Health & Maintenance houses tire PSI, alerts, and recommended service.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2026/service-menu.webp/cd6d75101544661b984a769477cb39a9/service-menu.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Trailering"
+          ],
+          "primaryCategory": "Trailering"
+        },
+        {
+          "id": "si-computer-20264431-detail",
+          "title": "SI Computer",
+          "type": "undocumented",
+          "description": "Tesla has renamed the vehicle’s FSD computer from AI Computer to SI Computer. This shows up in the Controls > Software menu.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2026/si-computer.webp/2389a24737d33d69a35462874f577cc1/si-computer.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Autopilot / Full Self-Driving"
+          ],
+          "primaryCategory": "Autopilot / Full Self-Driving"
+        },
+        {
+          "id": "service-mode-improvements-20264431-detail",
+          "title": "Service Mode Improvements",
+          "type": "undocumented",
+          "description": "HV Battery Panel Update - Reset PCS Button A Reset Power Conversion System (PCS) button has been added to the HV Battery panel PCS popup. The button allows users to reset the PCS Electronic Control Unit (ECU) directly from Service Mode instead of searching for the task in Toolbox. Models: Model 3, Model Y, Model S (2021+), Model X (2021+), Cybertruck HV Battery and Charging Panel Update - PCS2 Labeling The HV Battery and Charging panels now correctly display the component label as Power Conversion System (PCS) 2 when a PCS2 bidirectional unit is installed. Previously, vehicles with PCS2 hardware were still labeled as PCS. Models: Model 3, Model Y Interior Lighting Panel Update - Frunk LED Health Indicator The Interior Lighting panel now includes a health indicator for the front trunk (or frunk) LED. When the frunk is open, the indicator shows the LED connection status: green for connected, red for disconnected. A disconnected frunk LED is detected via an undercurrent alert, helping technicians identify when the LED connector has not been plugged back in after servicing the front area of the vehicle. Models: Model 3, Model Y, Model S (2021+), Model X (2021+) Portuguese Language (Beta) Service Mode now supports Portuguese as a language option. Users can select Portuguese from the language drop-down list in Vehicle Info. Portuguese is currently in beta and may contain translation inaccuracies. Models: All vehicles Service Mode Update - Feedback Button (Service Mode Plus) The feedback feature has been updated with a new in-app experience, replacing the previous email and QR code. A Feedback button is now available in the navigation sidebar. Tapping it opens a form where users can select a category (Bug, Improvement, or Translation), enter a description, and optionally place an on-screen marker to highlight the area of concern. Models: All vehicles CAN Viewer Button Removed and Renamed to Signal Viewer (Service Mode Plus) The CAN Viewer button has been removed from the Vehicle Overview page and renamed to Signal Viewer. Signal Viewer is now only accessible from the Tools section in the navigation menu.",
+          "image": "https://www.notateslaapp.com/img/containers/article_images/2026/service-mode-2026.44.webp/3a751ec82746983c277b5b37314f1e95/service-mode-2026.44.jpg",
+          "imageDark": null,
+          "links": [],
+          "availability": "Available Worldwide",
+          "models": [
+            "S",
+            "3",
+            "X",
+            "Y",
+            "CT"
+          ],
+          "categories": [
+            "Map / Navigation / Trip / Route",
+            "Range / Charging / Energy"
+          ],
+          "primaryCategory": "Map / Navigation / Trip / Route"
+        },
+        {
+          "id": "more-features-coming-soon-20264431-detail",
           "title": "More Features Coming Soon",
           "type": "undocumented",
           "description": "This update includes several hidden changes that hint at upcoming features. One change is receiving notifications if a Supercharger you’re navigating to suddenly becomes busier or less busy, and the price changes. Drivers will receive an in-vehicle alert saying the Supercharger price has decreased or increased. There are also upcoming Grok changes, with one suggesting that Grok’s wake word may be improved with an on-vehicle model. Vehicle navigation may soon also offer a new option to prefer major roads and avoid smaller or unpaved routes.",
@@ -82951,103 +83298,6 @@
           "primaryCategory": "Autopilot / Full Self-Driving",
           "source": "tesla-model-s-x-2012-2019",
           "canonicalFeatureKey": "tesla-ota-smart-summon-beta-regional-expansion"
-        }
-      ]
-    },
-    {
-      "version": "2026.44.3.1",
-      "url": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes",
-      "releaseDate": "November 26, 2026",
-      "features": [
-        {
-          "id": "service-menu-redesign-20264431-detail",
-          "title": "Service Menu Redesign",
-          "type": "undocumented",
-          "description": "The Controls > Service menu has received a fresh layout. The new layout brings the Request Service and Tow Mode buttons to the forefront, while organizing content into two sections, Health & Maintenance and Actions. Actions holds features such as Car Wash Mode, Wiper Service, Adjust Headlights, and other functions, while Health & Maintenance houses tire PSI, alerts, and recommended service.",
-          "image": "https://www.notateslaapp.com/img/containers/article_images/2026/service-menu.webp/cd6d75101544661b984a769477cb39a9/service-menu.jpg",
-          "imageDark": null,
-          "links": [],
-          "availability": "Available Worldwide",
-          "models": [
-            "S",
-            "3",
-            "X",
-            "Y",
-            "CT"
-          ],
-          "categories": [
-            "Trailering"
-          ],
-          "primaryCategory": "Trailering"
-        },
-        {
-          "id": "si-computer-20264431-detail",
-          "title": "SI Computer",
-          "type": "undocumented",
-          "description": "Tesla has renamed the vehicle’s FSD computer from AI Computer to SI Computer. This shows up in the Controls > Software menu.",
-          "image": "https://www.notateslaapp.com/img/containers/article_images/2026/si-computer.webp/2389a24737d33d69a35462874f577cc1/si-computer.jpg",
-          "imageDark": null,
-          "links": [],
-          "availability": "Available Worldwide",
-          "models": [
-            "S",
-            "3",
-            "X",
-            "Y",
-            "CT"
-          ],
-          "categories": [
-            "Autopilot / Full Self-Driving"
-          ],
-          "primaryCategory": "Autopilot / Full Self-Driving"
-        },
-        {
-          "id": "service-mode-improvements-20264431-detail",
-          "title": "Service Mode Improvements",
-          "type": "undocumented",
-          "description": "HV Battery Panel Update - Reset PCS Button A Reset Power Conversion System (PCS) button has been added to the HV Battery panel PCS popup. The button allows users to reset the PCS Electronic Control Unit (ECU) directly from Service Mode instead of searching for the task in Toolbox. Models: Model 3, Model Y, Model S (2021+), Model X (2021+), Cybertruck HV Battery and Charging Panel Update - PCS2 Labeling The HV Battery and Charging panels now correctly display the component label as Power Conversion System (PCS) 2 when a PCS2 bidirectional unit is installed. Previously, vehicles with PCS2 hardware were still labeled as PCS. Models: Model 3, Model Y Interior Lighting Panel Update - Frunk LED Health Indicator The Interior Lighting panel now includes a health indicator for the front trunk (or frunk) LED. When the frunk is open, the indicator shows the LED connection status: green for connected, red for disconnected. A disconnected frunk LED is detected via an undercurrent alert, helping technicians identify when the LED connector has not been plugged back in after servicing the front area of the vehicle. Models: Model 3, Model Y, Model S (2021+), Model X (2021+) Portuguese Language (Beta) Service Mode now supports Portuguese as a language option. Users can select Portuguese from the language drop-down list in Vehicle Info. Portuguese is currently in beta and may contain translation inaccuracies. Models: All vehicles Service Mode Update - Feedback Button (Service Mode Plus) The feedback feature has been updated with a new in-app experience, replacing the previous email and QR code. A Feedback button is now available in the navigation sidebar. Tapping it opens a form where users can select a category (Bug, Improvement, or Translation), enter a description, and optionally place an on-screen marker to highlight the area of concern. Models: All vehicles CAN Viewer Button Removed and Renamed to Signal Viewer (Service Mode Plus) The CAN Viewer button has been removed from the Vehicle Overview page and renamed to Signal Viewer. Signal Viewer is now only accessible from the Tools section in the navigation menu.",
-          "image": "https://www.notateslaapp.com/img/containers/article_images/2026/service-mode-2026.44.webp/3a751ec82746983c277b5b37314f1e95/service-mode-2026.44.jpg",
-          "imageDark": null,
-          "links": [],
-          "availability": "Available Worldwide",
-          "models": [
-            "S",
-            "3",
-            "X",
-            "Y",
-            "CT"
-          ],
-          "categories": [
-            "Map / Navigation / Trip / Route",
-            "Range / Charging / Energy"
-          ],
-          "primaryCategory": "Map / Navigation / Trip / Route"
-        },
-        {
-          "id": "more-features-coming-soon-20264431-detail",
-          "title": "More Features Coming Soon",
-          "type": "undocumented",
-          "description": "This update includes several hidden changes that hint at upcoming features. One change is receiving notifications if a Supercharger you’re navigating to suddenly becomes busier or less busy, and the price changes. Drivers will receive an in-vehicle alert saying the Supercharger price has decreased or increased. There are also upcoming Grok changes, with one suggesting that Grok’s wake word may be improved with an on-vehicle model. Vehicle navigation may soon also offer a new option to prefer major roads and avoid smaller or unpaved routes.",
-          "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-update/automatic-navigation.webp/ee97b0d05cb4c87a85cc26e360de9265/automatic-navigation.jpg",
-          "imageDark": null,
-          "links": [
-            {
-              "title": "More Details",
-              "url": "https://www.notateslaapp.com/news/5025/tesla-update-2026441-is-hiding-a-new-navigation-option-supercharger-notifications-and-grok-improvements"
-            }
-          ],
-          "availability": "Available Worldwide",
-          "models": [
-            "S",
-            "3",
-            "X",
-            "Y",
-            "CT"
-          ],
-          "categories": [
-            "Voice & AI"
-          ],
-          "primaryCategory": "Voice & AI"
         }
       ]
     },
@@ -283243,6 +283493,394 @@
       "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.1/release-notes"
     },
     {
+      "id": "manual-battery-preconditioning-20264431-detail",
+      "title": "Manual Battery Preconditioning",
+      "type": "official",
+      "description": "You can now manually precondition your battery to reach its optimal temperature before fast charging to save time. Start preconditioning about one hour before you plan to charge. Once the optimal temperature is reached, it will be maintained for thirty minutes. You can now also precondition your battery via the Mobile App before driving to a fast charger. To start, go to Charging > Precondition for Fast Charging. Requires Mobile App v4.63.0.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/manual-battery-preconditioning.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/dark/manual-battery-preconditioning.png",
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y"
+      ],
+      "categories": [
+        "Range / Charging / Energy"
+      ],
+      "primaryCategory": "Range / Charging / Energy",
+      "version": "2026.44.3.1",
+      "releaseDate": "November 26, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes"
+    },
+    {
+      "id": "charger-network-view-20264431-detail",
+      "title": "Charger Network View",
+      "type": "official",
+      "description": "Charger pins on the map now cluster at normal zoom levels, showing network coverage as you zoom out.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/charger-network-view.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/dark/charger-network-view.png",
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "2026.44.3.1",
+      "releaseDate": "November 26, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes"
+    },
+    {
+      "id": "automatic-collision-evasion-20264431-detail",
+      "title": "Automatic Collision Evasion",
+      "type": "official",
+      "description": "Automatic Collision Evasion activates Full Self-Driving (Supervised) to try to keep your vehicle safe and then continue driving. It can engage while you are driving manually and detects that you are not sufficiently attentive to the road (for example, reaching toward the back seat), or that Full Self-Driving (Supervised) may have been unintentionally disengaged. See your Owner's Manual for more details.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.27/automatic-collision-evasion.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.27/dark/automatic-collision-evasion.png",
+      "links": [
+        {
+          "title": "More Details",
+          "url": "https://www.notateslaapp.com/news/4646/tesla-adds-fsd-automatic-collision-evasion-for-manual-drives"
+        }
+      ],
+      "availability": "Available in the US",
+      "models": [
+        "3",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Safety / Emergency"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.44.3.1",
+      "releaseDate": "November 26, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes"
+    },
+    {
+      "id": "fsd-supervised-v143-lite-20264431-detail",
+      "title": "FSD (Supervised) v14.3 Lite",
+      "type": "official",
+      "description": "FSD (Supervised) v14.3 Lite includes: - Distilled the intelligence from HW4 V14 into HW3. This allows HW3 to directly learn how to handle scenarios using HW4 V14 as a guide. This process unlocks the improvements that have been made to HW4 including Reinforcement Learning (RL) and offline models for HW3. - Improved both proactive and reactive responsiveness across a wide variety of categories including navigation handling, merges and forks, pedestrian interactions, traffic lights, and vehicle cut-in scenarios. - Improved general comfort in nominal scenarios through fewer false slowdowns, smoother steering and more consistent lane centering. - Introduced parking, unparking, and reversing capabilities. - Added Arrival Options for you to select where FSD should pull over or park: in a Parking Lot, on the Street, in a Driveway. - Speed Profiles are now available at all times, to further customize driving style preference.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/fsd-supervised-v143-lite.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/dark/fsd-supervised-v143-lite.png",
+      "links": [],
+      "availability": "Available in the US",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.44.3.1",
+      "releaseDate": "November 26, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes"
+    },
+    {
+      "id": "minor-fixes-20264431-detail",
+      "title": "Minor Fixes",
+      "type": "official",
+      "description": "This release contains minor fixes and improvements",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/minor-fixes.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/dark/minor-fixes.png",
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Vehicle OS"
+      ],
+      "primaryCategory": "Vehicle OS",
+      "version": "2026.44.3.1",
+      "releaseDate": "November 26, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes"
+    },
+    {
+      "id": "fsd-supervised-v14313-20264431-detail",
+      "title": "FSD (Supervised) v14.3.13",
+      "type": "official",
+      "description": "Full Self-Driving (Supervised) v14.3.13 includes: - Upgraded the Reinforcement Learning (RL) stage of training the FSD neural network, resulting in improvements in a wide variety of driving scenarios. - Upgraded the neural network vision encoder, improving understanding in rare and low-visibility scenarios, strengthening 3D geometry understanding, and expanding traffic sign understanding. - Rewrote the AI compiler and runtime from the ground up with MLIR, resulting in 20% faster reaction time and improving model iteration speed. - Mitigated unnecessary lane biasing and minor tailgating behaviors. - Increased decisiveness of parking spot selection and maneuvering. - Improved parking location pin prediction, now shown on a map with a P icon. - Enhanced response to emergency vehicles, school buses, right-of-way violators, and other rare vehicles. - Improved handling of small animals by focusing RL training on harder examples and adding rewards for better proactive safety. - Improved traffic light handling at complex intersections with compound lights, curved roads, and yellow light stopping — driven by training on hard RL examples sourced from the Tesla fleet. - Improved handling for rare and unusual objects extending, hanging, or leaning into the vehicle path by sourcing infrequent events from the fleet. - Improved handling of temporary system degradations by maintaining control and automatically recovering without driver intervention, reducing unnecessary disengagements. - Improved driver monitoring system sensitivity with better eye gaze tracking, eye wear handling, and higher accuracy in variable lighting conditions. - Unified the model between Actually Smart Summon, FSD, and Robotaxi for more capable and reliable behavior. (New in FSD v14.3.2 for non-Cybertrucks, New in FSD v14.3.4 for the Cybertruck) Actually Smart Summon max speed is now increased to 8mph (13km/h). (Added in FSD v14.3.3, not available on Cybertruck) - Help Tesla improve Self-Driving by selecting an intervention reason on the main screen after taking over. (New in FSD v14.3.2) You can now see distance traveled in FSD (Supervised) without an intervention. The Self-Driving App will also show your longest intervention-free streak. (Added in FSD v14.3.3) - Parking options now display on the map when arriving at your destination. (Added in FSD v14.3.4) Upcoming Improvements: - Expand reasoning to all behaviors beyond destination handling. - Add pothole avoidance.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available in the US",
+      "models": [
+        "3",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.44.3.1",
+      "releaseDate": "November 26, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes"
+    },
+    {
+      "id": "start-self-driving-from-park-20264431-detail",
+      "title": "Start Self-Driving from Park",
+      "type": "official",
+      "description": "A button will appear on the screen when driver requirements are met. Driver requirements include (but are not limited to): - Driver is seated in driver's seat - Driver is buckled - Cabin Camera is unobstructed Brake Confirm requires the driver to press and release the brake pedal before FSD (Supervised) can be activated. When Brake Confirm is disabled, pressing the button will allow Self-Driving to apply the brakes and engage FSD (Supervised). If driver detection requirements are not met or if FSD (Supervised) does not detect a driver, you will be required to press and release the brake pedal to confirm. You can enable Brake Confirm in Self-Driving > Brake Confirm. This feature does not make your vehicle autonomous and you must remain attentive and be ready to take over at any time. Only a licensed driver authorized to operate the vehicle should be allowed access to the driver's seat position any time the vehicle is not in Theater or Arcade modes.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/start-self-driving-from-park.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/dark/start-self-driving-from-park.png",
+      "links": [],
+      "availability": "Available in the US",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Camera"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.44.3.1",
+      "releaseDate": "November 26, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes"
+    },
+    {
+      "id": "full-self-driving-supervised-20264431-detail",
+      "title": "Full Self-Driving (Supervised)",
+      "type": "official",
+      "description": "Under your supervision, Full Self-Driving (Supervised) can drive your Tesla almost anywhere. It will start from a parked position, make lane changes, select forks to follow your navigation route, navigate around other vehicles and objects, make left and right turns and park at your destination. You and anyone you authorize must use additional caution and remain attentive. It does not make your vehicle autonomous. Do not become complacent. Full Self-Driving (Supervised) is enabled on your vehicle. To use the feature, press the Start Self-Driving button on the UI, or press the right scroll wheel button once. You can disable Full Self-Driving (Supervised) in Autopilot Settings.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-full-self-driving-supervised.png",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available in the US",
+      "models": [
+        "3",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving",
+        "Map / Navigation / Trip / Route"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.44.3.1",
+      "releaseDate": "November 26, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes"
+    },
+    {
+      "id": "arrival-options-20264431-detail",
+      "title": "Arrival Options",
+      "type": "official",
+      "description": "- You can now select an arrival option such as Parking Lot, Street, Driveway, and Pull Over for Robotaxi-style drop offs. - Your preferences for arrival options and preferred parking positions are persisted for each destination.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/arrival-options.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/dark/arrival-options.png",
+      "links": [],
+      "availability": "Available in the US",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.44.3.1",
+      "releaseDate": "November 26, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes"
+    },
+    {
+      "id": "speed-profiles-20264431-detail",
+      "title": "Speed Profiles",
+      "type": "official",
+      "description": "FSD (Supervised) will now determine the appropriate speed based on a mix of driver profile, speed limit, and surrounding traffic. - Introduced new Speed Profile SLOTH, which comes with lower speeds & more conservative lane selection than CHILL. - Driver profile now has a stronger impact on behavior. The more assertive the profile, the higher the max speed. - Right scroll-wheel up/down now adjusts Speed Profile setting rather than your precise max speed offset selection in mph/kph.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/speed-profiles.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/dark/speed-profiles.png",
+      "links": [],
+      "availability": "Available in the US",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.44.3.1",
+      "releaseDate": "November 26, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes"
+    },
+    {
+      "id": "ui-improvements-20264431-detail",
+      "title": "UI Improvements",
+      "type": "official",
+      "description": "Adjust settings like the Speed Profile and Arrival Options directly from the Self-Driving visualization on the center display.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/ui-improvements.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/dark/ui-improvements.png",
+      "links": [],
+      "availability": "Available in the US",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.44.3.1",
+      "releaseDate": "November 26, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes"
+    },
+    {
+      "id": "security-improvements-20264431-detail",
+      "title": "Security Improvements",
+      "type": "official",
+      "description": "This update includes important security fixes and improvements.",
+      "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/security-improvements.png",
+      "imageDark": "https://www.notateslaapp.com/images/tesla-car-updates/2026.44/dark/security-improvements.png",
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Security"
+      ],
+      "primaryCategory": "Security",
+      "version": "2026.44.3.1",
+      "releaseDate": "November 26, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes"
+    },
+    {
+      "id": "service-menu-redesign-20264431-detail",
+      "title": "Service Menu Redesign",
+      "type": "undocumented",
+      "description": "The Controls > Service menu has received a fresh layout. The new layout brings the Request Service and Tow Mode buttons to the forefront, while organizing content into two sections, Health & Maintenance and Actions. Actions holds features such as Car Wash Mode, Wiper Service, Adjust Headlights, and other functions, while Health & Maintenance houses tire PSI, alerts, and recommended service.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2026/service-menu.webp/cd6d75101544661b984a769477cb39a9/service-menu.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Trailering"
+      ],
+      "primaryCategory": "Trailering",
+      "version": "2026.44.3.1",
+      "releaseDate": "November 26, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes"
+    },
+    {
+      "id": "si-computer-20264431-detail",
+      "title": "SI Computer",
+      "type": "undocumented",
+      "description": "Tesla has renamed the vehicle’s FSD computer from AI Computer to SI Computer. This shows up in the Controls > Software menu.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2026/si-computer.webp/2389a24737d33d69a35462874f577cc1/si-computer.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Autopilot / Full Self-Driving"
+      ],
+      "primaryCategory": "Autopilot / Full Self-Driving",
+      "version": "2026.44.3.1",
+      "releaseDate": "November 26, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes"
+    },
+    {
+      "id": "service-mode-improvements-20264431-detail",
+      "title": "Service Mode Improvements",
+      "type": "undocumented",
+      "description": "HV Battery Panel Update - Reset PCS Button A Reset Power Conversion System (PCS) button has been added to the HV Battery panel PCS popup. The button allows users to reset the PCS Electronic Control Unit (ECU) directly from Service Mode instead of searching for the task in Toolbox. Models: Model 3, Model Y, Model S (2021+), Model X (2021+), Cybertruck HV Battery and Charging Panel Update - PCS2 Labeling The HV Battery and Charging panels now correctly display the component label as Power Conversion System (PCS) 2 when a PCS2 bidirectional unit is installed. Previously, vehicles with PCS2 hardware were still labeled as PCS. Models: Model 3, Model Y Interior Lighting Panel Update - Frunk LED Health Indicator The Interior Lighting panel now includes a health indicator for the front trunk (or frunk) LED. When the frunk is open, the indicator shows the LED connection status: green for connected, red for disconnected. A disconnected frunk LED is detected via an undercurrent alert, helping technicians identify when the LED connector has not been plugged back in after servicing the front area of the vehicle. Models: Model 3, Model Y, Model S (2021+), Model X (2021+) Portuguese Language (Beta) Service Mode now supports Portuguese as a language option. Users can select Portuguese from the language drop-down list in Vehicle Info. Portuguese is currently in beta and may contain translation inaccuracies. Models: All vehicles Service Mode Update - Feedback Button (Service Mode Plus) The feedback feature has been updated with a new in-app experience, replacing the previous email and QR code. A Feedback button is now available in the navigation sidebar. Tapping it opens a form where users can select a category (Bug, Improvement, or Translation), enter a description, and optionally place an on-screen marker to highlight the area of concern. Models: All vehicles CAN Viewer Button Removed and Renamed to Signal Viewer (Service Mode Plus) The CAN Viewer button has been removed from the Vehicle Overview page and renamed to Signal Viewer. Signal Viewer is now only accessible from the Tools section in the navigation menu.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/2026/service-mode-2026.44.webp/3a751ec82746983c277b5b37314f1e95/service-mode-2026.44.jpg",
+      "imageDark": null,
+      "links": [],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Map / Navigation / Trip / Route",
+        "Range / Charging / Energy"
+      ],
+      "primaryCategory": "Map / Navigation / Trip / Route",
+      "version": "2026.44.3.1",
+      "releaseDate": "November 26, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes"
+    },
+    {
+      "id": "more-features-coming-soon-20264431-detail",
+      "title": "More Features Coming Soon",
+      "type": "undocumented",
+      "description": "This update includes several hidden changes that hint at upcoming features. One change is receiving notifications if a Supercharger you’re navigating to suddenly becomes busier or less busy, and the price changes. Drivers will receive an in-vehicle alert saying the Supercharger price has decreased or increased. There are also upcoming Grok changes, with one suggesting that Grok’s wake word may be improved with an on-vehicle model. Vehicle navigation may soon also offer a new option to prefer major roads and avoid smaller or unpaved routes.",
+      "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-update/automatic-navigation.webp/ee97b0d05cb4c87a85cc26e360de9265/automatic-navigation.jpg",
+      "imageDark": null,
+      "links": [
+        {
+          "title": "More Details",
+          "url": "https://www.notateslaapp.com/news/5025/tesla-update-2026441-is-hiding-a-new-navigation-option-supercharger-notifications-and-grok-improvements"
+        }
+      ],
+      "availability": "Available Worldwide",
+      "models": [
+        "S",
+        "3",
+        "X",
+        "Y",
+        "CT"
+      ],
+      "categories": [
+        "Voice & AI"
+      ],
+      "primaryCategory": "Voice & AI",
+      "version": "2026.44.3.1",
+      "releaseDate": "November 26, 2026",
+      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes"
+    },
+    {
       "id": "visual-updates-202638-detail",
       "title": "Visual Updates",
       "type": "official",
@@ -375267,108 +375905,6 @@
       "version": "2019.40.50.1",
       "releaseDate": "December 24, 2019",
       "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2019.40.50.1/release-notes"
-    },
-    {
-      "id": "service-menu-redesign-20264431-detail",
-      "title": "Service Menu Redesign",
-      "type": "undocumented",
-      "description": "The Controls > Service menu has received a fresh layout. The new layout brings the Request Service and Tow Mode buttons to the forefront, while organizing content into two sections, Health & Maintenance and Actions. Actions holds features such as Car Wash Mode, Wiper Service, Adjust Headlights, and other functions, while Health & Maintenance houses tire PSI, alerts, and recommended service.",
-      "image": "https://www.notateslaapp.com/img/containers/article_images/2026/service-menu.webp/cd6d75101544661b984a769477cb39a9/service-menu.jpg",
-      "imageDark": null,
-      "links": [],
-      "availability": "Available Worldwide",
-      "models": [
-        "S",
-        "3",
-        "X",
-        "Y",
-        "CT"
-      ],
-      "categories": [
-        "Trailering"
-      ],
-      "primaryCategory": "Trailering",
-      "version": "2026.44.3.1",
-      "releaseDate": "November 26, 2026",
-      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes"
-    },
-    {
-      "id": "si-computer-20264431-detail",
-      "title": "SI Computer",
-      "type": "undocumented",
-      "description": "Tesla has renamed the vehicle’s FSD computer from AI Computer to SI Computer. This shows up in the Controls > Software menu.",
-      "image": "https://www.notateslaapp.com/img/containers/article_images/2026/si-computer.webp/2389a24737d33d69a35462874f577cc1/si-computer.jpg",
-      "imageDark": null,
-      "links": [],
-      "availability": "Available Worldwide",
-      "models": [
-        "S",
-        "3",
-        "X",
-        "Y",
-        "CT"
-      ],
-      "categories": [
-        "Autopilot / Full Self-Driving"
-      ],
-      "primaryCategory": "Autopilot / Full Self-Driving",
-      "version": "2026.44.3.1",
-      "releaseDate": "November 26, 2026",
-      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes"
-    },
-    {
-      "id": "service-mode-improvements-20264431-detail",
-      "title": "Service Mode Improvements",
-      "type": "undocumented",
-      "description": "HV Battery Panel Update - Reset PCS Button A Reset Power Conversion System (PCS) button has been added to the HV Battery panel PCS popup. The button allows users to reset the PCS Electronic Control Unit (ECU) directly from Service Mode instead of searching for the task in Toolbox. Models: Model 3, Model Y, Model S (2021+), Model X (2021+), Cybertruck HV Battery and Charging Panel Update - PCS2 Labeling The HV Battery and Charging panels now correctly display the component label as Power Conversion System (PCS) 2 when a PCS2 bidirectional unit is installed. Previously, vehicles with PCS2 hardware were still labeled as PCS. Models: Model 3, Model Y Interior Lighting Panel Update - Frunk LED Health Indicator The Interior Lighting panel now includes a health indicator for the front trunk (or frunk) LED. When the frunk is open, the indicator shows the LED connection status: green for connected, red for disconnected. A disconnected frunk LED is detected via an undercurrent alert, helping technicians identify when the LED connector has not been plugged back in after servicing the front area of the vehicle. Models: Model 3, Model Y, Model S (2021+), Model X (2021+) Portuguese Language (Beta) Service Mode now supports Portuguese as a language option. Users can select Portuguese from the language drop-down list in Vehicle Info. Portuguese is currently in beta and may contain translation inaccuracies. Models: All vehicles Service Mode Update - Feedback Button (Service Mode Plus) The feedback feature has been updated with a new in-app experience, replacing the previous email and QR code. A Feedback button is now available in the navigation sidebar. Tapping it opens a form where users can select a category (Bug, Improvement, or Translation), enter a description, and optionally place an on-screen marker to highlight the area of concern. Models: All vehicles CAN Viewer Button Removed and Renamed to Signal Viewer (Service Mode Plus) The CAN Viewer button has been removed from the Vehicle Overview page and renamed to Signal Viewer. Signal Viewer is now only accessible from the Tools section in the navigation menu.",
-      "image": "https://www.notateslaapp.com/img/containers/article_images/2026/service-mode-2026.44.webp/3a751ec82746983c277b5b37314f1e95/service-mode-2026.44.jpg",
-      "imageDark": null,
-      "links": [],
-      "availability": "Available Worldwide",
-      "models": [
-        "S",
-        "3",
-        "X",
-        "Y",
-        "CT"
-      ],
-      "categories": [
-        "Map / Navigation / Trip / Route",
-        "Range / Charging / Energy"
-      ],
-      "primaryCategory": "Map / Navigation / Trip / Route",
-      "version": "2026.44.3.1",
-      "releaseDate": "November 26, 2026",
-      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes"
-    },
-    {
-      "id": "more-features-coming-soon-20264431-detail",
-      "title": "More Features Coming Soon",
-      "type": "undocumented",
-      "description": "This update includes several hidden changes that hint at upcoming features. One change is receiving notifications if a Supercharger you’re navigating to suddenly becomes busier or less busy, and the price changes. Drivers will receive an in-vehicle alert saying the Supercharger price has decreased or increased. There are also upcoming Grok changes, with one suggesting that Grok’s wake word may be improved with an on-vehicle model. Vehicle navigation may soon also offer a new option to prefer major roads and avoid smaller or unpaved routes.",
-      "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-update/automatic-navigation.webp/ee97b0d05cb4c87a85cc26e360de9265/automatic-navigation.jpg",
-      "imageDark": null,
-      "links": [
-        {
-          "title": "More Details",
-          "url": "https://www.notateslaapp.com/news/5025/tesla-update-2026441-is-hiding-a-new-navigation-option-supercharger-notifications-and-grok-improvements"
-        }
-      ],
-      "availability": "Available Worldwide",
-      "models": [
-        "S",
-        "3",
-        "X",
-        "Y",
-        "CT"
-      ],
-      "categories": [
-        "Voice & AI"
-      ],
-      "primaryCategory": "Voice & AI",
-      "version": "2026.44.3.1",
-      "releaseDate": "November 26, 2026",
-      "releaseUrl": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes"
     },
     {
       "id": "disengagement-menu-202638200-detail",
@@ -598792,7 +599328,7 @@
     "scrapedAt": "2026-08-14T14:31:42.343Z"
   },
   "electrekEnrichment": {
-    "enrichedAt": "2026-11-26T12:56:59.238Z",
+    "enrichedAt": "2026-11-26T22:04:41.676Z",
     "enrichedCount": 81
   },
   "model3Historical": {
