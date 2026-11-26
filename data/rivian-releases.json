@@ -85,7 +85,7 @@
     "2023.50.01",
     "2023.46"
   ],
-  "scrapedAt": "2026-11-25T11:52:40.937Z",
+  "scrapedAt": "2026-11-26T03:17:37.449Z",
   "categories": [
     "Vehicle OS",
     "Drive Assist & Autonomy",
@@ -112,34 +112,34 @@
     "Scenario / Mode"
   ],
   "categoryCounts": {
-    "Vehicle OS": 906,
-    "Drive Assist & Autonomy": 273,
-    "Mobile & Watch App": 150,
+    "Vehicle OS": 900,
+    "Drive Assist & Autonomy": 269,
+    "Mobile & Watch App": 148,
     "Connectivity": 12,
-    "User Profile": 18,
-    "Charging": 219,
-    "Vehicle Control": 196,
-    "Drive Modes": 50,
-    "Comfort / Climate": 103,
+    "User Profile": 17,
+    "Charging": 214,
+    "Vehicle Control": 195,
+    "Drive Modes": 49,
+    "Comfort / Climate": 102,
     "Media / Entertainment": 83,
     "Audio": 13,
-    "Map / Navigation / Trip": 143,
-    "Camera": 112,
+    "Map / Navigation / Trip": 141,
+    "Camera": 111,
     "Lighting": 8,
-    "Voice & AI": 41,
+    "Voice & AI": 33,
     "Trailering": 26,
     "Gaming": 4,
-    "Productivity": 8,
+    "Productivity": 5,
     "Safety / Emergency": 69,
-    "Service / Support": 327,
-    "UI / Visualization": 239,
+    "Service / Support": 322,
+    "UI / Visualization": 235,
     "Onboarding / Tutorial": 1,
     "Scenario / Mode": 24
   },
-  "releaseCount": 81,
-  "featureCount": 2144,
+  "releaseCount": 75,
+  "featureCount": 2117,
   "mergeStats": {
-    "trackrFeatures": 1617,
+    "trackrFeatures": 1590,
     "waveFeatures": 666,
     "mergedBoth": 139,
     "withWaveImage": 123
@@ -149,7 +149,7 @@
       "version": "2026.41",
       "url": "https://riviantrackr.com/2026-41/",
       "releaseDate": "Nov 23, 2026",
-      "availableFor": "Available for",
+      "availableFor": null,
       "image": "https://riviantrackr.com/wp-content/uploads/2026/07/update-display-bright.png",
       "features": [
         {
@@ -294,71 +294,9 @@
     },
     {
       "version": "2026.36",
-      "url": "https://riviantrackr.com/2026-36-02/",
-      "releaseDate": "Nov 4, 2026",
-      "availableFor": "R1T & R1S",
-      "image": "https://riviantrackr.com/wp-content/uploads/2026/07/update-display-bright.png",
-      "features": [
-        {
-          "id": "2026.36-additional-improvements",
-          "title": "Additional Improvements",
-          "type": "official",
-          "description": "Resolved an issue impacting time zone handling in Canada due to new Canadian daylight saving rules in some regions. &larr; Previous R1T & R1S update 2026.36 Hotfix October 27, 2026 Next R1T & R1S update &rarr; 2026.41 November 23, 2026",
-          "image": "https://riviantrackr.com/wp-content/uploads/2026/07/update-display-bright.png",
-          "imageDark": null,
-          "links": [
-            {
-              "title": "&larr; Previous R1T & R1S update 2026.36 Hotfix October 27, 2026",
-              "url": "https://riviantrackr.com/2026-36-01/"
-            },
-            {
-              "title": "Next R1T & R1S update &rarr; 2026.41 November 23, 2026",
-              "url": "https://riviantrackr.com/2026-41/"
-            }
-          ],
-          "categories": [
-            "Vehicle OS"
-          ],
-          "primaryCategory": "Vehicle OS"
-        }
-      ]
-    },
-    {
-      "version": "2026.36",
-      "url": "https://riviantrackr.com/2026-36-01/",
-      "releaseDate": "Oct 27, 2026",
-      "availableFor": "R1T & R1S R2",
-      "image": "https://riviantrackr.com/wp-content/uploads/2026/07/update-display-bright-r1.jpg",
-      "features": [
-        {
-          "id": "2026.36-additional-improvements",
-          "title": "Additional Improvements",
-          "type": "official",
-          "description": "Made several stability, responsiveness, and performance improvements to the infotainment system. &larr; Previous R1T & R1S update 2026.36 October 7, 2026 Next R1T & R1S update &rarr; 2026.36 Hotfix November 4, 2026",
-          "image": "https://riviantrackr.com/wp-content/uploads/2026/07/update-display-bright-r1.jpg",
-          "imageDark": null,
-          "links": [
-            {
-              "title": "&larr; Previous R1T & R1S update 2026.36 October 7, 2026",
-              "url": "https://riviantrackr.com/2026-36/"
-            },
-            {
-              "title": "Next R1T & R1S update &rarr; 2026.36 Hotfix November 4, 2026",
-              "url": "https://riviantrackr.com/2026-36-02/"
-            }
-          ],
-          "categories": [
-            "UI / Visualization"
-          ],
-          "primaryCategory": "UI / Visualization"
-        }
-      ]
-    },
-    {
-      "version": "2026.36",
       "url": "https://riviantrackr.com/2026-36/",
       "releaseDate": "Oct 7, 2026",
-      "availableFor": "R1T & R1S R2",
+      "availableFor": null,
       "image": "https://riviantrackr.com/wp-content/uploads/2026/07/update-display-bright.png",
       "features": [
         {
@@ -535,7 +473,7 @@
       "version": "2026.31",
       "url": "https://riviantrackr.com/2026-31/",
       "releaseDate": "Sep 4, 2026",
-      "availableFor": "R1T & R1S R2",
+      "availableFor": null,
       "image": "https://riviantrackr.com/wp-content/uploads/2026/07/update-display-bright-r1.jpg",
       "features": [
         {
@@ -1192,28 +1130,6 @@
       ]
     },
     {
-      "version": "2026.15",
-      "url": "https://riviantrackr.com/2026-15-32/",
-      "releaseDate": "Jul 31, 2026",
-      "availableFor": "R1T & R1S",
-      "image": "https://riviantrackr.com/wp-content/uploads/2026/07/update-display-bright-r1.jpg",
-      "features": [
-        {
-          "id": "2026.15-improvement-0",
-          "title": "Fixed an issue affecting saved Data and Privacy settings. Please reconfirm your preferences under Settings > Data and pr",
-          "type": "improvement",
-          "description": "Fixed an issue affecting saved Data and Privacy settings. Please reconfirm your preferences under Settings > Data and privacy on the center display.",
-          "image": "https://riviantrackr.com/wp-content/uploads/2026/07/update-display-bright-r1.jpg",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "UI / Visualization"
-          ],
-          "primaryCategory": "UI / Visualization"
-        }
-      ]
-    },
-    {
       "version": "2026.24.40",
       "url": "https://riviantrackr.com/2026-24/",
       "releaseDate": "Jul 15, 2026",
@@ -1665,250 +1581,6 @@
             "Vehicle Control"
           ],
           "primaryCategory": "Voice & AI"
-        }
-      ]
-    },
-    {
-      "version": "2026.15",
-      "url": "https://riviantrackr.com/2026-15-30/",
-      "releaseDate": "Jun 5, 2026",
-      "availableFor": "R1T & R1S",
-      "image": "https://riviantrackr.com/wp-content/uploads/2026/05/2026-FeaturedOTA-1.jpg",
-      "features": [
-        {
-          "id": "2026.15-rivian-assistant-improvements",
-          "title": "Rivian Assistant Improvements",
-          "type": "official",
-          "description": "",
-          "image": "https://riviantrackr.com/wp-content/uploads/2026/05/2026-FeaturedOTA-1.jpg",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "Voice & AI"
-          ],
-          "primaryCategory": "Voice & AI"
-        },
-        {
-          "id": "2026.15-messaging-and-calling",
-          "title": "Messaging and Calling",
-          "type": "official",
-          "description": "Uses an updated search hierarchy to identify the contact you are trying to reach by first searching your Favorites, then your Recents, and finally your main contact list. Better recognize harder-to-spell names, nicknames, or slightly mispronounced names. Automatically defaults to mobile numbers when calling a contact and uses natural language (like \"Work\" or \"Home\") when it asks you to confirm which number to dial. Allows you to ask for information about a contact without automatically starting a call by saying something like, \"Hey, Rivian, what number do I have for Mom?\"",
-          "image": "https://riviantrackr.com/wp-content/uploads/2026/05/2026-FeaturedOTA-1.jpg",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "Voice & AI",
-            "Productivity"
-          ],
-          "primaryCategory": "Voice & AI"
-        },
-        {
-          "id": "2026.15-conversations",
-          "title": "Conversations",
-          "type": "official",
-          "description": "When you dictate a text message, Rivian Assistant now automatically adds punctuation for you. We've tuned the \"Hey, Rivian\" model to be more responsive, reducing the number of times you need to repeat yourself. Rivian Assistant now has a better understanding of the hardware associated with your vehicle. For example, if you're in an R1T, it knows the vehicle doesn't have a powered liftgate. If the connection drops while Rivian Assistant is processing your request, it now lets you know instead of staying silent.",
-          "image": "https://riviantrackr.com/wp-content/uploads/2026/05/2026-FeaturedOTA-1.jpg",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "Voice & AI"
-          ],
-          "primaryCategory": "Voice & AI"
-        },
-        {
-          "id": "2026.15-navigation",
-          "title": "Navigation",
-          "type": "official",
-          "description": "Rivian Assistant is now aware of routes visible on your screen before you start navigation, allowing you to ask for charging information or trip details for a route preview. Rivian Assistant is now better at finding points of interest (POIs) and recalling recent destinations. Updating a saved location (like Work) via voice no longer accidentally resets your charging filters. We fixed an issue that caused every stop on a long trip to show the same arrival time.",
-          "image": "https://riviantrackr.com/wp-content/uploads/2026/05/2026-FeaturedOTA-1.jpg",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "Voice & AI",
-            "Charging",
-            "Map / Navigation / Trip"
-          ],
-          "primaryCategory": "Voice & AI"
-        },
-        {
-          "id": "2026.15-climate-and-comfort",
-          "title": "Climate and Comfort",
-          "type": "official",
-          "description": "If cabin climate is off and you ask Rivian Assistant to set a temperature, it now restores your previous fan settings instead of defaulting to the lowest speed. If you issue a vague climate request, like, \"Hey, Rivian, make it warmer,\" Rivian Assistant now has a more sensible starting point for how much to increase the temperature, rather than just guessing. We fixed several logic issues to ensure Rivian Assistant heats the exact seat you requested every time.",
-          "image": "https://riviantrackr.com/wp-content/uploads/2026/05/2026-FeaturedOTA-1.jpg",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "Voice & AI",
-            "Comfort / Climate"
-          ],
-          "primaryCategory": "Voice & AI"
-        },
-        {
-          "id": "2026.15-calendar",
-          "title": "Calendar",
-          "type": "official",
-          "description": "If you have certain events hidden on your personal calendar, Rivian Assistant now honors those settings and won't display or read them out loud in the vehicle. Rivian Assistant now anchors correctly to your local time and day when you ask a question like, \"What's on my schedule this Friday?\" or \"What's happening tomorrow?\" Rivian Assistant now uses the correct past, present, and future tenses when describing your events, making the conversation feel more natural.",
-          "image": "https://riviantrackr.com/wp-content/uploads/2026/05/2026-FeaturedOTA-1.jpg",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "Voice & AI",
-            "Productivity"
-          ],
-          "primaryCategory": "Voice & AI"
-        },
-        {
-          "id": "2026.15-cabin",
-          "title": "Cabin",
-          "type": "official",
-          "description": "Based on community feedback, we've reduced the volume of the chimes when using Rivian Assistant.",
-          "image": "https://riviantrackr.com/wp-content/uploads/2026/05/2026-FeaturedOTA-1.jpg",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "Voice & AI"
-          ],
-          "primaryCategory": "Voice & AI"
-        },
-        {
-          "id": "2026.15-under-the-hood",
-          "title": "Under the Hood",
-          "type": "official",
-          "description": "Availability of Rivian Assistant is now based strictly on your vehicle language settings, regardless of your geographic region. If your vehicle language is set to English, Rivian Assistant is available. We added smarter logic for how Rivian Assistant connects to the cloud, making it more resilient in areas with spotty cellular service. If the vehicle temporarily loses its location, Rivian Assistant is now much better at providing helpful weather information without getting confused. We fixed spacing issues in the messaging interface and ensured that long titles in the Owner's Guide wrap properly on the screen. Rivian Assistant Memory (information Rivian Assistant learns to help you better) is protected by per-user encryption keys. Rivian Assistant now automatically clears chat history and the visual panel whenever you switch driver profiles, ensuring conversations are yours alone. We fixed dozens of issues and made various performance improvements behind the scenes. NOTE In order to get the most out of your experience with your Rivian Assistant, enable Rivian Assistant Memory in the Rivian mobile app version 3.12 or later. Choose Account > Rivian Intelligence > Memory and turn it on.",
-          "image": "https://riviantrackr.com/wp-content/uploads/2026/05/2026-FeaturedOTA-1.jpg",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "Drive Assist & Autonomy",
-            "Voice & AI",
-            "Mobile & Watch App",
-            "Service / Support",
-            "Productivity"
-          ],
-          "primaryCategory": "Drive Assist & Autonomy"
-        },
-        {
-          "id": "2026.15-improvement-0",
-          "title": "Fixed an issue that allowed a garage to be accessed and opened despite the profile being locked.",
-          "type": "improvement",
-          "description": "Fixed an issue that allowed a garage to be accessed and opened despite the profile being locked.",
-          "image": "https://riviantrackr.com/wp-content/uploads/2026/05/2026-FeaturedOTA-1.jpg",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "Vehicle OS"
-          ],
-          "primaryCategory": "Vehicle OS"
-        },
-        {
-          "id": "2026.15-improvement-1",
-          "title": "Fixed an issue that locked the profile when Stay off was selected while Camp courtesy was active.",
-          "type": "improvement",
-          "description": "Fixed an issue that locked the profile when Stay off was selected while Camp courtesy was active.",
-          "image": "https://riviantrackr.com/wp-content/uploads/2026/05/2026-FeaturedOTA-1.jpg",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "Vehicle OS"
-          ],
-          "primaryCategory": "Vehicle OS"
-        },
-        {
-          "id": "2026.15-improvement-2",
-          "title": "Fixed an issue that prevented the PIN entry screen from appearing when attempting to switch profiles if the PIN screen h",
-          "type": "improvement",
-          "description": "Fixed an issue that prevented the PIN entry screen from appearing when attempting to switch profiles if the PIN screen had previously been canceled.",
-          "image": "https://riviantrackr.com/wp-content/uploads/2026/05/2026-FeaturedOTA-1.jpg",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "Vehicle OS"
-          ],
-          "primaryCategory": "Vehicle OS"
-        },
-        {
-          "id": "2026.15-improvement-3",
-          "title": "After a PIN is successfully entered to unlock a driver profile, the Navigation app now opens on the center display by de",
-          "type": "improvement",
-          "description": "After a PIN is successfully entered to unlock a driver profile, the Navigation app now opens on the center display by default.",
-          "image": "https://riviantrackr.com/wp-content/uploads/2026/05/2026-FeaturedOTA-1.jpg",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "Drive Assist & Autonomy",
-            "User Profile",
-            "Map / Navigation / Trip",
-            "UI / Visualization"
-          ],
-          "primaryCategory": "Drive Assist & Autonomy"
-        },
-        {
-          "id": "2026.15-improvement-4",
-          "title": "To help improve driving with the flow of traffic during Universal Hands-Free, Highway Assist, and Adaptive Cruise Contro",
-          "type": "improvement",
-          "description": "To help improve driving with the flow of traffic during Universal Hands-Free, Highway Assist, and Adaptive Cruise Control, we reduced the minimum speed to 5 mph (8km/h).",
-          "image": "https://riviantrackr.com/wp-content/uploads/2026/05/2026-FeaturedOTA-1.jpg",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "Drive Assist & Autonomy"
-          ],
-          "primaryCategory": "Drive Assist & Autonomy"
-        },
-        {
-          "id": "2026.15-improvement-5",
-          "title": "Fixed an issue that caused certain Launch Mode visual elements to overlap on the center display.",
-          "type": "improvement",
-          "description": "Fixed an issue that caused certain Launch Mode visual elements to overlap on the center display.",
-          "image": "https://riviantrackr.com/wp-content/uploads/2026/05/2026-FeaturedOTA-1.jpg",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "UI / Visualization"
-          ],
-          "primaryCategory": "UI / Visualization"
-        },
-        {
-          "id": "2026.15-improvement-6",
-          "title": "Fixed an issue that caused the garage door pairing menu to appear on top of the reverse camera screen if you shifted int",
-          "type": "improvement",
-          "description": "Fixed an issue that caused the garage door pairing menu to appear on top of the reverse camera screen if you shifted into R (Reverse) while setting up a new garage door opener.",
-          "image": "https://riviantrackr.com/wp-content/uploads/2026/05/2026-FeaturedOTA-1.jpg",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "Camera",
-            "Vehicle Control"
-          ],
-          "primaryCategory": "Camera"
-        },
-        {
-          "id": "2026.15-improvement-7",
-          "title": "Fixed an issue with Drive Modes app flashing black when you made changes.",
-          "type": "improvement",
-          "description": "Fixed an issue with Drive Modes app flashing black when you made changes.",
-          "image": "https://riviantrackr.com/wp-content/uploads/2026/05/2026-FeaturedOTA-1.jpg",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "Vehicle OS"
-          ],
-          "primaryCategory": "Vehicle OS"
-        },
-        {
-          "id": "2026.15-improvement-8",
-          "title": "Fixed a rare issue that caused some privacy settings to randomly toggle on or off, impacting location and Autonomy featu",
-          "type": "improvement",
-          "description": "Fixed a rare issue that caused some privacy settings to randomly toggle on or off, impacting location and Autonomy features. Please double-check your privacy settings after the update.",
-          "image": "https://riviantrackr.com/wp-content/uploads/2026/05/2026-FeaturedOTA-1.jpg",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "Drive Assist & Autonomy",
-            "Service / Support"
-          ],
-          "primaryCategory": "Drive Assist & Autonomy"
         }
       ]
     },
@@ -2530,42 +2202,6 @@
     },
     {
       "version": "2025.46",
-      "url": "https://riviantrackr.com/2025-46-30/",
-      "releaseDate": "Jan 8, 2026",
-      "availableFor": "R1T & R1S",
-      "image": "https://riviantrackr.com/wp-content/uploads/2024/05/RT2024-Master-Banner-scaled.webp",
-      "features": [
-        {
-          "id": "2025.46-improvement-0",
-          "title": "Fixed a rare issue that limited the AC charging rate setting to a maximum of 8A.",
-          "type": "improvement",
-          "description": "Fixed a rare issue that limited the AC charging rate setting to a maximum of 8A.",
-          "image": "https://riviantrackr.com/wp-content/uploads/2024/05/RT2024-Master-Banner-scaled.webp",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "Charging",
-            "Service / Support"
-          ],
-          "primaryCategory": "Charging"
-        },
-        {
-          "id": "2025.46-improvement-1",
-          "title": "Fixed a very rare issue causing system fault notification after wake from sleep.",
-          "type": "improvement",
-          "description": "Fixed a very rare issue causing system fault notification after wake from sleep.",
-          "image": "https://riviantrackr.com/wp-content/uploads/2024/05/RT2024-Master-Banner-scaled.webp",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "Service / Support"
-          ],
-          "primaryCategory": "Service / Support"
-        }
-      ]
-    },
-    {
-      "version": "2025.46",
       "url": "https://riviantrackr.com/2025-46/",
       "releaseDate": "Dec 18, 2025",
       "availableFor": "R1T & R1S",
@@ -2970,82 +2606,6 @@
             "Service / Support"
           ],
           "primaryCategory": "Service / Support"
-        }
-      ]
-    },
-    {
-      "version": "2025.38",
-      "url": "https://riviantrackr.com/2025-38-30/",
-      "releaseDate": "Nov 20, 2025",
-      "availableFor": "R1T & R1S",
-      "image": "https://riviantrackr.com/wp-content/uploads/2024/05/RT2024-Master-Banner-scaled.webp",
-      "features": [
-        {
-          "id": "2025.38-improvement-0",
-          "title": "Fixed a rare issue that caused the 12 V battery to drain when the vehicle woke from sleep.",
-          "type": "improvement",
-          "description": "Fixed a rare issue that caused the 12 V battery to drain when the vehicle woke from sleep.",
-          "image": "https://riviantrackr.com/wp-content/uploads/2024/05/RT2024-Master-Banner-scaled.webp",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "Charging",
-            "Service / Support"
-          ],
-          "primaryCategory": "Charging"
-        },
-        {
-          "id": "2025.38-improvement-1",
-          "title": "Fixed an issue that disabled phone proximity features in rare conditions.",
-          "type": "improvement",
-          "description": "Fixed an issue that disabled phone proximity features in rare conditions.",
-          "image": "https://riviantrackr.com/wp-content/uploads/2024/05/RT2024-Master-Banner-scaled.webp",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "Vehicle OS"
-          ],
-          "primaryCategory": "Vehicle OS"
-        },
-        {
-          "id": "2025.38-improvement-2",
-          "title": "Fixed an issue that prevented the Rivian mobile app from updating the current drive mode.",
-          "type": "improvement",
-          "description": "Fixed an issue that prevented the Rivian mobile app from updating the current drive mode.",
-          "image": "https://riviantrackr.com/wp-content/uploads/2024/05/RT2024-Master-Banner-scaled.webp",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "Mobile & Watch App",
-            "Drive Modes"
-          ],
-          "primaryCategory": "Mobile & Watch App"
-        },
-        {
-          "id": "2025.38-improvement-3",
-          "title": "Fixed some rare issues that caused fast-charging failures.",
-          "type": "improvement",
-          "description": "Fixed some rare issues that caused fast-charging failures.",
-          "image": "https://riviantrackr.com/wp-content/uploads/2024/05/RT2024-Master-Banner-scaled.webp",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "Charging"
-          ],
-          "primaryCategory": "Charging"
-        },
-        {
-          "id": "2025.38-improvement-4",
-          "title": "Fixed an issue that impacted the charge port indicator and the in-vehicle charge status display.",
-          "type": "improvement",
-          "description": "Fixed an issue that impacted the charge port indicator and the in-vehicle charge status display.",
-          "image": "https://riviantrackr.com/wp-content/uploads/2024/05/RT2024-Master-Banner-scaled.webp",
-          "imageDark": null,
-          "links": [],
-          "categories": [
-            "Charging"
-          ],
-          "primaryCategory": "Charging"
         }
       ]
     },
@@ -23015,73 +22575,6 @@
       "waveUrl": null
     },
     {
-      "id": "2026.36-additional-improvements",
-      "title": "Additional Improvements",
-      "type": "official",
-      "description": "Resolved an issue impacting time zone handling in Canada due to new Canadian daylight saving rules in some regions. &larr; Previous R1T & R1S update 2026.36 Hotfix October 27, 2026 Next R1T & R1S update &rarr; 2026.41 November 23, 2026",
-      "image": null,
-      "imageDark": null,
-      "links": [
-        {
-          "title": "&larr; Previous R1T & R1S update 2026.36 Hotfix October 27, 2026",
-          "url": "https://riviantrackr.com/2026-36-01/"
-        },
-        {
-          "title": "Next R1T & R1S update &rarr; 2026.41 November 23, 2026",
-          "url": "https://riviantrackr.com/2026-41/"
-        }
-      ],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2026.36",
-      "releaseDate": "Nov 4, 2026",
-      "releaseUrl": "https://riviantrackr.com/2026-36-02/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
-      "id": "2026.36-additional-improvements",
-      "title": "Additional Improvements",
-      "type": "official",
-      "description": "Made several stability, responsiveness, and performance improvements to the infotainment system. &larr; Previous R1T & R1S update 2026.36 October 7, 2026 Next R1T & R1S update &rarr; 2026.36 Hotfix November 4, 2026",
-      "image": null,
-      "imageDark": null,
-      "links": [
-        {
-          "title": "&larr; Previous R1T & R1S update 2026.36 October 7, 2026",
-          "url": "https://riviantrackr.com/2026-36/"
-        },
-        {
-          "title": "Next R1T & R1S update &rarr; 2026.36 Hotfix November 4, 2026",
-          "url": "https://riviantrackr.com/2026-36-02/"
-        }
-      ],
-      "categories": [
-        "UI / Visualization"
-      ],
-      "primaryCategory": "UI / Visualization",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
-      "version": "2026.36",
-      "releaseDate": "Oct 27, 2026",
-      "releaseUrl": "https://riviantrackr.com/2026-36-01/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
       "id": "2026.36-navigation",
       "title": "Navigation",
       "type": "official",
@@ -23095,11 +22588,7 @@
         "Map / Navigation / Trip"
       ],
       "primaryCategory": "Voice & AI",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.36",
       "releaseDate": "Oct 7, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-36/",
@@ -23122,11 +22611,7 @@
         "Scenario / Mode"
       ],
       "primaryCategory": "Mobile & Watch App",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.36",
       "releaseDate": "Oct 7, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-36/",
@@ -23150,11 +22635,7 @@
         "UI / Visualization"
       ],
       "primaryCategory": "Voice & AI",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.36",
       "releaseDate": "Oct 7, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-36/",
@@ -23175,11 +22656,7 @@
         "Drive Assist & Autonomy"
       ],
       "primaryCategory": "Drive Assist & Autonomy",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.36",
       "releaseDate": "Oct 7, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-36/",
@@ -23201,11 +22678,7 @@
         "Service / Support"
       ],
       "primaryCategory": "Vehicle Control",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.36",
       "releaseDate": "Oct 7, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-36/",
@@ -23226,11 +22699,7 @@
         "Comfort / Climate"
       ],
       "primaryCategory": "Comfort / Climate",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.36",
       "releaseDate": "Oct 7, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-36/",
@@ -23253,11 +22722,7 @@
         "Service / Support"
       ],
       "primaryCategory": "Audio",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.36",
       "releaseDate": "Oct 7, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-36/",
@@ -23279,11 +22744,7 @@
         "Media / Entertainment"
       ],
       "primaryCategory": "Audio",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.36",
       "releaseDate": "Oct 7, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-36/",
@@ -23304,11 +22765,7 @@
         "Vehicle OS"
       ],
       "primaryCategory": "Vehicle OS",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.36",
       "releaseDate": "Oct 7, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-36/",
@@ -23330,11 +22787,7 @@
         "Service / Support"
       ],
       "primaryCategory": "Camera",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.36",
       "releaseDate": "Oct 7, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-36/",
@@ -23355,11 +22808,7 @@
         "Vehicle Control"
       ],
       "primaryCategory": "Vehicle Control",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.36",
       "releaseDate": "Oct 7, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-36/",
@@ -23380,11 +22829,7 @@
         "Service / Support"
       ],
       "primaryCategory": "Service / Support",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.36",
       "releaseDate": "Oct 7, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-36/",
@@ -23409,11 +22854,7 @@
         "UI / Visualization"
       ],
       "primaryCategory": "Map / Navigation / Trip",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.31",
       "releaseDate": "Sep 4, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-31/",
@@ -23436,11 +22877,7 @@
         "Mobile & Watch App"
       ],
       "primaryCategory": "Camera",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.31",
       "releaseDate": "Sep 4, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-31/",
@@ -23461,11 +22898,7 @@
         "Voice & AI"
       ],
       "primaryCategory": "Voice & AI",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.31",
       "releaseDate": "Sep 4, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-31/",
@@ -23487,11 +22920,7 @@
         "Service / Support"
       ],
       "primaryCategory": "Connectivity",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.31",
       "releaseDate": "Sep 4, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-31/",
@@ -23512,11 +22941,7 @@
         "Charging"
       ],
       "primaryCategory": "Charging",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.31",
       "releaseDate": "Sep 4, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-31/",
@@ -23537,11 +22962,7 @@
         "Charging"
       ],
       "primaryCategory": "Charging",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.31",
       "releaseDate": "Sep 4, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-31/",
@@ -23562,11 +22983,7 @@
         "Vehicle OS"
       ],
       "primaryCategory": "Vehicle OS",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.31",
       "releaseDate": "Sep 4, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-31/",
@@ -23587,11 +23004,7 @@
         "Charging"
       ],
       "primaryCategory": "Charging",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.31",
       "releaseDate": "Sep 4, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-31/",
@@ -23612,11 +23025,7 @@
         "Vehicle Control"
       ],
       "primaryCategory": "Vehicle Control",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.31",
       "releaseDate": "Sep 4, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-31/",
@@ -23637,11 +23046,7 @@
         "Comfort / Climate"
       ],
       "primaryCategory": "Comfort / Climate",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.31",
       "releaseDate": "Sep 4, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-31/",
@@ -23662,11 +23067,7 @@
         "Comfort / Climate"
       ],
       "primaryCategory": "Comfort / Climate",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.31",
       "releaseDate": "Sep 4, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-31/",
@@ -23690,11 +23091,7 @@
         "UI / Visualization"
       ],
       "primaryCategory": "Mobile & Watch App",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.31",
       "releaseDate": "Sep 4, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-31/",
@@ -23715,11 +23112,7 @@
         "Vehicle OS"
       ],
       "primaryCategory": "Vehicle OS",
-      "models": [
-        "R1T",
-        "R1S",
-        "R2"
-      ],
+      "models": [],
       "version": "2026.31",
       "releaseDate": "Sep 4, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-31/",
@@ -24560,30 +23953,6 @@
       "waveUrl": "https://www.rivianwave.com/software-updates/version/2026.23/release-notes"
     },
     {
-      "id": "2026.15-improvement-0",
-      "title": "Fixed an issue affecting saved Data and Privacy settings. Please reconfirm your preferences under Settings > Data and pr",
-      "type": "improvement",
-      "description": "Fixed an issue affecting saved Data and Privacy settings. Please reconfirm your preferences under Settings > Data and privacy on the center display.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "UI / Visualization"
-      ],
-      "primaryCategory": "UI / Visualization",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2026.15",
-      "releaseDate": "Jul 31, 2026",
-      "releaseUrl": "https://riviantrackr.com/2026-15-32/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
       "id": "2026.24.40-pet-comfort",
       "title": "Pet Comfort",
       "type": "official",
@@ -25319,428 +24688,6 @@
       "version": "2026.20.40",
       "releaseDate": "Jun 9, 2026",
       "releaseUrl": "https://riviantrackr.com/2026-20/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
-      "id": "2026.15-rivian-assistant-improvements",
-      "title": "Rivian Assistant Improvements",
-      "type": "official",
-      "description": "",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "Voice & AI"
-      ],
-      "primaryCategory": "Voice & AI",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2026.15",
-      "releaseDate": "Jun 5, 2026",
-      "releaseUrl": "https://riviantrackr.com/2026-15-30/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
-      "id": "2026.15-messaging-and-calling",
-      "title": "Messaging and Calling",
-      "type": "official",
-      "description": "Uses an updated search hierarchy to identify the contact you are trying to reach by first searching your Favorites, then your Recents, and finally your main contact list. Better recognize harder-to-spell names, nicknames, or slightly mispronounced names. Automatically defaults to mobile numbers when calling a contact and uses natural language (like \"Work\" or \"Home\") when it asks you to confirm which number to dial. Allows you to ask for information about a contact without automatically starting a call by saying something like, \"Hey, Rivian, what number do I have for Mom?\"",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "Voice & AI",
-        "Productivity"
-      ],
-      "primaryCategory": "Voice & AI",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2026.15",
-      "releaseDate": "Jun 5, 2026",
-      "releaseUrl": "https://riviantrackr.com/2026-15-30/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
-      "id": "2026.15-conversations",
-      "title": "Conversations",
-      "type": "official",
-      "description": "When you dictate a text message, Rivian Assistant now automatically adds punctuation for you. We've tuned the \"Hey, Rivian\" model to be more responsive, reducing the number of times you need to repeat yourself. Rivian Assistant now has a better understanding of the hardware associated with your vehicle. For example, if you're in an R1T, it knows the vehicle doesn't have a powered liftgate. If the connection drops while Rivian Assistant is processing your request, it now lets you know instead of staying silent.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "Voice & AI"
-      ],
-      "primaryCategory": "Voice & AI",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2026.15",
-      "releaseDate": "Jun 5, 2026",
-      "releaseUrl": "https://riviantrackr.com/2026-15-30/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
-      "id": "2026.15-navigation",
-      "title": "Navigation",
-      "type": "official",
-      "description": "Rivian Assistant is now aware of routes visible on your screen before you start navigation, allowing you to ask for charging information or trip details for a route preview. Rivian Assistant is now better at finding points of interest (POIs) and recalling recent destinations. Updating a saved location (like Work) via voice no longer accidentally resets your charging filters. We fixed an issue that caused every stop on a long trip to show the same arrival time.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "Voice & AI",
-        "Charging",
-        "Map / Navigation / Trip"
-      ],
-      "primaryCategory": "Voice & AI",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2026.15",
-      "releaseDate": "Jun 5, 2026",
-      "releaseUrl": "https://riviantrackr.com/2026-15-30/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
-      "id": "2026.15-climate-and-comfort",
-      "title": "Climate and Comfort",
-      "type": "official",
-      "description": "If cabin climate is off and you ask Rivian Assistant to set a temperature, it now restores your previous fan settings instead of defaulting to the lowest speed. If you issue a vague climate request, like, \"Hey, Rivian, make it warmer,\" Rivian Assistant now has a more sensible starting point for how much to increase the temperature, rather than just guessing. We fixed several logic issues to ensure Rivian Assistant heats the exact seat you requested every time.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "Voice & AI",
-        "Comfort / Climate"
-      ],
-      "primaryCategory": "Voice & AI",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2026.15",
-      "releaseDate": "Jun 5, 2026",
-      "releaseUrl": "https://riviantrackr.com/2026-15-30/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
-      "id": "2026.15-calendar",
-      "title": "Calendar",
-      "type": "official",
-      "description": "If you have certain events hidden on your personal calendar, Rivian Assistant now honors those settings and won't display or read them out loud in the vehicle. Rivian Assistant now anchors correctly to your local time and day when you ask a question like, \"What's on my schedule this Friday?\" or \"What's happening tomorrow?\" Rivian Assistant now uses the correct past, present, and future tenses when describing your events, making the conversation feel more natural.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "Voice & AI",
-        "Productivity"
-      ],
-      "primaryCategory": "Voice & AI",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2026.15",
-      "releaseDate": "Jun 5, 2026",
-      "releaseUrl": "https://riviantrackr.com/2026-15-30/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
-      "id": "2026.15-cabin",
-      "title": "Cabin",
-      "type": "official",
-      "description": "Based on community feedback, we've reduced the volume of the chimes when using Rivian Assistant.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "Voice & AI"
-      ],
-      "primaryCategory": "Voice & AI",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2026.15",
-      "releaseDate": "Jun 5, 2026",
-      "releaseUrl": "https://riviantrackr.com/2026-15-30/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
-      "id": "2026.15-under-the-hood",
-      "title": "Under the Hood",
-      "type": "official",
-      "description": "Availability of Rivian Assistant is now based strictly on your vehicle language settings, regardless of your geographic region. If your vehicle language is set to English, Rivian Assistant is available. We added smarter logic for how Rivian Assistant connects to the cloud, making it more resilient in areas with spotty cellular service. If the vehicle temporarily loses its location, Rivian Assistant is now much better at providing helpful weather information without getting confused. We fixed spacing issues in the messaging interface and ensured that long titles in the Owner's Guide wrap properly on the screen. Rivian Assistant Memory (information Rivian Assistant learns to help you better) is protected by per-user encryption keys. Rivian Assistant now automatically clears chat history and the visual panel whenever you switch driver profiles, ensuring conversations are yours alone. We fixed dozens of issues and made various performance improvements behind the scenes. NOTE In order to get the most out of your experience with your Rivian Assistant, enable Rivian Assistant Memory in the Rivian mobile app version 3.12 or later. Choose Account > Rivian Intelligence > Memory and turn it on.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "Drive Assist & Autonomy",
-        "Voice & AI",
-        "Mobile & Watch App",
-        "Service / Support",
-        "Productivity"
-      ],
-      "primaryCategory": "Drive Assist & Autonomy",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2026.15",
-      "releaseDate": "Jun 5, 2026",
-      "releaseUrl": "https://riviantrackr.com/2026-15-30/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
-      "id": "2026.15-improvement-0",
-      "title": "Fixed an issue that allowed a garage to be accessed and opened despite the profile being locked.",
-      "type": "improvement",
-      "description": "Fixed an issue that allowed a garage to be accessed and opened despite the profile being locked.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2026.15",
-      "releaseDate": "Jun 5, 2026",
-      "releaseUrl": "https://riviantrackr.com/2026-15-30/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
-      "id": "2026.15-improvement-1",
-      "title": "Fixed an issue that locked the profile when Stay off was selected while Camp courtesy was active.",
-      "type": "improvement",
-      "description": "Fixed an issue that locked the profile when Stay off was selected while Camp courtesy was active.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2026.15",
-      "releaseDate": "Jun 5, 2026",
-      "releaseUrl": "https://riviantrackr.com/2026-15-30/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
-      "id": "2026.15-improvement-2",
-      "title": "Fixed an issue that prevented the PIN entry screen from appearing when attempting to switch profiles if the PIN screen h",
-      "type": "improvement",
-      "description": "Fixed an issue that prevented the PIN entry screen from appearing when attempting to switch profiles if the PIN screen had previously been canceled.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2026.15",
-      "releaseDate": "Jun 5, 2026",
-      "releaseUrl": "https://riviantrackr.com/2026-15-30/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
-      "id": "2026.15-improvement-3",
-      "title": "After a PIN is successfully entered to unlock a driver profile, the Navigation app now opens on the center display by de",
-      "type": "improvement",
-      "description": "After a PIN is successfully entered to unlock a driver profile, the Navigation app now opens on the center display by default.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "Drive Assist & Autonomy",
-        "User Profile",
-        "Map / Navigation / Trip",
-        "UI / Visualization"
-      ],
-      "primaryCategory": "Drive Assist & Autonomy",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2026.15",
-      "releaseDate": "Jun 5, 2026",
-      "releaseUrl": "https://riviantrackr.com/2026-15-30/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
-      "id": "2026.15-improvement-4",
-      "title": "To help improve driving with the flow of traffic during Universal Hands-Free, Highway Assist, and Adaptive Cruise Contro",
-      "type": "improvement",
-      "description": "To help improve driving with the flow of traffic during Universal Hands-Free, Highway Assist, and Adaptive Cruise Control, we reduced the minimum speed to 5 mph (8km/h).",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "Drive Assist & Autonomy"
-      ],
-      "primaryCategory": "Drive Assist & Autonomy",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2026.15",
-      "releaseDate": "Jun 5, 2026",
-      "releaseUrl": "https://riviantrackr.com/2026-15-30/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
-      "id": "2026.15-improvement-5",
-      "title": "Fixed an issue that caused certain Launch Mode visual elements to overlap on the center display.",
-      "type": "improvement",
-      "description": "Fixed an issue that caused certain Launch Mode visual elements to overlap on the center display.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "UI / Visualization"
-      ],
-      "primaryCategory": "UI / Visualization",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2026.15",
-      "releaseDate": "Jun 5, 2026",
-      "releaseUrl": "https://riviantrackr.com/2026-15-30/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
-      "id": "2026.15-improvement-6",
-      "title": "Fixed an issue that caused the garage door pairing menu to appear on top of the reverse camera screen if you shifted int",
-      "type": "improvement",
-      "description": "Fixed an issue that caused the garage door pairing menu to appear on top of the reverse camera screen if you shifted into R (Reverse) while setting up a new garage door opener.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "Camera",
-        "Vehicle Control"
-      ],
-      "primaryCategory": "Camera",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2026.15",
-      "releaseDate": "Jun 5, 2026",
-      "releaseUrl": "https://riviantrackr.com/2026-15-30/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
-      "id": "2026.15-improvement-7",
-      "title": "Fixed an issue with Drive Modes app flashing black when you made changes.",
-      "type": "improvement",
-      "description": "Fixed an issue with Drive Modes app flashing black when you made changes.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2026.15",
-      "releaseDate": "Jun 5, 2026",
-      "releaseUrl": "https://riviantrackr.com/2026-15-30/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
-      "id": "2026.15-improvement-8",
-      "title": "Fixed a rare issue that caused some privacy settings to randomly toggle on or off, impacting location and Autonomy featu",
-      "type": "improvement",
-      "description": "Fixed a rare issue that caused some privacy settings to randomly toggle on or off, impacting location and Autonomy features. Please double-check your privacy settings after the update.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "Drive Assist & Autonomy",
-        "Service / Support"
-      ],
-      "primaryCategory": "Drive Assist & Autonomy",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2026.15",
-      "releaseDate": "Jun 5, 2026",
-      "releaseUrl": "https://riviantrackr.com/2026-15-30/",
       "sources": [
         "riviantrackr"
       ],
@@ -26839,55 +25786,6 @@
       "waveUrl": null
     },
     {
-      "id": "2025.46-improvement-0",
-      "title": "Fixed a rare issue that limited the AC charging rate setting to a maximum of 8A.",
-      "type": "improvement",
-      "description": "Fixed a rare issue that limited the AC charging rate setting to a maximum of 8A.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "Charging",
-        "Service / Support"
-      ],
-      "primaryCategory": "Charging",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2025.46",
-      "releaseDate": "Jan 8, 2026",
-      "releaseUrl": "https://riviantrackr.com/2025-46-30/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
-      "id": "2025.46-improvement-1",
-      "title": "Fixed a very rare issue causing system fault notification after wake from sleep.",
-      "type": "improvement",
-      "description": "Fixed a very rare issue causing system fault notification after wake from sleep.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "Service / Support"
-      ],
-      "primaryCategory": "Service / Support",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2025.46",
-      "releaseDate": "Jan 8, 2026",
-      "releaseUrl": "https://riviantrackr.com/2025-46-30/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
       "id": "2025.46-driver-display-now-customizable",
       "title": "Driver Display Now Customizable",
       "type": "official",
@@ -27619,128 +26517,6 @@
       "version": "2025.46",
       "releaseDate": "Dec 18, 2025",
       "releaseUrl": "https://riviantrackr.com/2025-46/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
-      "id": "2025.38-improvement-0",
-      "title": "Fixed a rare issue that caused the 12 V battery to drain when the vehicle woke from sleep.",
-      "type": "improvement",
-      "description": "Fixed a rare issue that caused the 12 V battery to drain when the vehicle woke from sleep.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "Charging",
-        "Service / Support"
-      ],
-      "primaryCategory": "Charging",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2025.38",
-      "releaseDate": "Nov 20, 2025",
-      "releaseUrl": "https://riviantrackr.com/2025-38-30/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
-      "id": "2025.38-improvement-1",
-      "title": "Fixed an issue that disabled phone proximity features in rare conditions.",
-      "type": "improvement",
-      "description": "Fixed an issue that disabled phone proximity features in rare conditions.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "Vehicle OS"
-      ],
-      "primaryCategory": "Vehicle OS",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2025.38",
-      "releaseDate": "Nov 20, 2025",
-      "releaseUrl": "https://riviantrackr.com/2025-38-30/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
-      "id": "2025.38-improvement-2",
-      "title": "Fixed an issue that prevented the Rivian mobile app from updating the current drive mode.",
-      "type": "improvement",
-      "description": "Fixed an issue that prevented the Rivian mobile app from updating the current drive mode.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "Mobile & Watch App",
-        "Drive Modes"
-      ],
-      "primaryCategory": "Mobile & Watch App",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2025.38",
-      "releaseDate": "Nov 20, 2025",
-      "releaseUrl": "https://riviantrackr.com/2025-38-30/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
-      "id": "2025.38-improvement-3",
-      "title": "Fixed some rare issues that caused fast-charging failures.",
-      "type": "improvement",
-      "description": "Fixed some rare issues that caused fast-charging failures.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "Charging"
-      ],
-      "primaryCategory": "Charging",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2025.38",
-      "releaseDate": "Nov 20, 2025",
-      "releaseUrl": "https://riviantrackr.com/2025-38-30/",
-      "sources": [
-        "riviantrackr"
-      ],
-      "waveUrl": null
-    },
-    {
-      "id": "2025.38-improvement-4",
-      "title": "Fixed an issue that impacted the charge port indicator and the in-vehicle charge status display.",
-      "type": "improvement",
-      "description": "Fixed an issue that impacted the charge port indicator and the in-vehicle charge status display.",
-      "image": null,
-      "imageDark": null,
-      "links": [],
-      "categories": [
-        "Charging"
-      ],
-      "primaryCategory": "Charging",
-      "models": [
-        "R1T",
-        "R1S"
-      ],
-      "version": "2025.38",
-      "releaseDate": "Nov 20, 2025",
-      "releaseUrl": "https://riviantrackr.com/2025-38-30/",
       "sources": [
         "riviantrackr"
       ],
